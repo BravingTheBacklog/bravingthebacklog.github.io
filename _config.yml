@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: https://bravingthebacklog.github.io
+url: https://bravingthebacklog.com
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -25,8 +25,9 @@ menu:
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: 'Backlog'
-    url: 'https://howlongtobeat.com/user.php?n=bsinky&s=games&backlog=1'
+  - title: 'About'
+    url: '/about'
+    type: 'about'
 #  - title: 'Favorites'
 #    url: '#'
 #    submenu:
@@ -43,13 +44,14 @@ owner:
   bio:            ""
   email:          
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: # if no twitter in this config, the twitter follow button will be removed
+  twitter: bravingbacklog 
   # GitHub nick for use in follow button in author block.
   github: 
+  # patreon: bravingthebacklog
 
 authors:
   bsinky:
-    name: Benjamin Sinkula
+    name: Ben
     display_name: bsinky
     avatar: images/bsinky.png
     site: /about
@@ -64,7 +66,7 @@ authors:
       - title: "list" # really "howlongtobeat" but no FontAwesome icon for that
         url: "https://howlongtobeat.com/user.php?n=bsinky"
   patronuslight:
-    name: Shannon Sinkula
+    name: Shannon
     display_name: PatronusLight
     avatar: images/patronuslight.png
     site: /about
@@ -73,7 +75,7 @@ authors:
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
-twitter:
+twitter: bravingbacklog
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
@@ -90,7 +92,7 @@ social:
 background: bg.jpg
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-101240207-2
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -126,7 +128,7 @@ titlecase: true
 
 include: [".htaccess"]
 exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate,jekyll-redirect-from]
 # theme: neo-hpstr-jekyll-theme
 
 defaults:
