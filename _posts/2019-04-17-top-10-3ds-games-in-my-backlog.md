@@ -4,7 +4,7 @@ title: Top 10 3DS Games in my Backlog
 author: bsinky
 description: My personal list of the top 10 3DS games in my backlog
 date: 2019-04-17
-modified: 2019-06-01
+modified: 2019-07-20
 categories: [List]
 tags: [Top 10,3DS]
 image:
@@ -231,7 +231,7 @@ for the first time.
 Supposedly, the development team has made gameplay improvements and difficulty
 balances, so maybe I will enjoy Persona Q2's gameplay as well as its characters.
 
-## 2. Fire Emblem Echoes: Shadows of Valentia
+## 2. Fire Emblem Echoes: Shadows of Valentia <i class="fa fa-check" aria-hidden="true"></i>
 
 <figure class="half center">
     <a href="https://i.imgur.com/J0CobZI.jpg"><img src="https://i.imgur.com/J0CobZIm.jpg"/></a>
@@ -240,6 +240,9 @@ balances, so maybe I will enjoy Persona Q2's gameplay as well as its characters.
         <li>Release: May 19, 2017</li>
     </ul>
 </figure>
+
+**Edit:** I've finished Shadows of Valentia!
+[Here's my review!]({% post_url 2019-07-20-fire-emblem-echoes-shadows-of-valentia-review %})
 
 Fire Emblem Echoes: Shadows of Valentia is actually a remake of the 2nd Fire
 Emblem game, Fire Emblem Gaiden. While Gaiden was exclusive to Japan, Shadows of
