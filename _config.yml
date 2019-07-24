@@ -2,7 +2,7 @@ title:            Braving the Backlog
 description:      Defeating the Backlog Beast, one game at a time
 
 # put your disqus here
-disqus_shortname: braving-the-backlog
+disqus_shortname: # braving-the-backlog
 reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
 logo:             images/logo.png # logo visible in the topbar
