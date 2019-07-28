@@ -4,7 +4,7 @@ title: Top 10 3DS Games in my Backlog
 author: bsinky
 description: My personal list of the top 10 3DS games in my backlog
 date: 2019-04-17
-modified: 2019-07-20
+modified: 2019-07-27
 categories: [List]
 tags: [Top 10,3DS]
 image:
@@ -211,7 +211,7 @@ the mechanical Mechon race from Mechonis. The protagonist, Shulk, is one of
 those from Bionis, and the game follows his quest for revenge against the Mechon
 for attacking his colony.
 
-## 3. Persona Q2: New Cinema Labyrinth
+## 3. Persona Q2: New Cinema Labyrinth <i class="fa fa-check" aria-hidden="true"></i>
 
 <figure class="half center">
     <a href="https://i.imgur.com/CpRizhq.jpg"><img src="https://i.imgur.com/CpRizhqm.jpg"/></a>
@@ -220,6 +220,8 @@ for attacking his colony.
         <li>Release: June 4, 2019</li>
     </ul>
 </figure>
+
+**Edit:** I've finished Persona Q2! [Read the review here!]({% post_url 2019-07-27-persona-q2-review %})
 
 Persona Q2 is dungeon crawler RPG in which the casts of Persona 3, 4, and 5 all
 meet up. As of this writing, this is a future 3DS release! I've pre-ordered it,
