@@ -1,0 +1,17 @@
+{% if include.game %}{% assign game = site.data.games[include.game] %}{{ game.title }} {% if include.checkmark %}<i class="fa fa-check" aria-hidden="true"></i>{% endif %}
+
+{% if game.video and include.video %}
+<iframe width="853" height="480" src="{{ game.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% else %}
+<figure class="half center">
+  <a href="{{ game.image }}">
+    <img src="{{ game.thumb }}"/>
+  </a>
+{% if game.developer or game.release %}  <ul>
+{% if game.developer %}    <li>Developer: {{ game.developer }}</li>{% endif %}
+{% if game.release %}   <li>Release: {{ game.release }}</li>{% endif %}
+{% if include.platform %}    <li>Platform: {{ game.platform }}</li>li>{% endif %}
+  </ul>{% endif %}
+</figure>
+{% endif %}
+{% endif %}

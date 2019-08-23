@@ -1,0 +1,886 @@
+Paper Mario:
+  title: "Paper Mario"
+  developer: "Intelligent Systems"
+  release: "February 5, 2001"
+  platform: "Nintendo 64"
+  image: "https://i.imgur.com/WSkh4P2.jpg"
+  thumb: "https://i.imgur.com/WSkh4P2m.jpg"
+
+The Legend of Zelda Ocarina of Time:
+  title: "The Legend of Zelda: Ocarina of Time"
+  developer: "Nintendo EAD"
+  release: "November 23, 1998"
+  platform: "Nintendo 64"
+  image: "https://i.imgur.com/f8Uqqx3.jpg"
+  thumb: "https://i.imgur.com/f8Uqqx3m.jpg"
+
+Persona Dancing Endless Night Collection:
+  title: "Persona Dancing: Endless Night Collection"
+  developer: "P-Studio"
+  release: "December 4, 2018"
+  platform: "PlayStation 4"
+  image: "https://i.imgur.com/KrBYaJc.jpg"
+  thumb: "https://i.imgur.com/KrBYaJcm.jpg"
+
+Doshin the Giant:
+  title: "Doshin the Giant"
+  platform: "Nintendo GameCube"
+  image: "https://i.imgur.com/ohSSGV6.jpg"
+  thumb: "https://i.imgur.com/ohSSGV6m.jpg"
+
+Scooby Doo Night of 100 Frights:
+  title: "Scooby-Doo! Night of 100 Frights"
+  platform: "Nintendo GameCube"
+  image: "https://i.imgur.com/kFvYTT8.png"
+  thumb: "https://i.imgur.com/kFvYTT8t.png"
+
+Baldur's Gate Dark Alliace:
+  title: "Baldur's Gate Dark Alliance"
+  platform: "Nintendo GameCube"
+  image: "https://i.imgur.com/YKiWvVO.jpg"
+  thumb: "https://i.imgur.com/YKiWvVOm.jpg"
+
+Battalion Wars:
+  title: "Battalion Wars"
+  platform: "Nintendo GameCube"
+  image: "https://i.imgur.com/WaNYGUg.jpg"
+  thumb: "https://i.imgur.com/WaNYGUgm.jpg"
+
+Phantasy Star Online episode I & II Plus:
+  title: "Phantasy Star Online Episode I & II Plus"
+  platform: "Nintendo GameCube"
+  image: "https://i.imgur.com/wlkzBBb.png"
+  thumb: "https://i.imgur.com/wlkzBBbt.png"
+
+Evolution Worlds:
+  title: "Evolution Worlds"
+  platform: "Nintendo GameCube"
+  image: "https://i.imgur.com/V19RLMH.jpg"
+  thumb: "https://i.imgur.com/V19RLMHm.jpg"
+
+Second Sight:
+  title: "Second Sight"
+  platform: "Nintendo GameCube"
+  image: "https://i.imgur.com/OezsgSV.png"
+  thumb: "https://i.imgur.com/OezsgSVt.png"
+
+Viewtiful Joe:
+  title: "Viewtiful Joe"
+  platform: "Nintendo GameCube"
+  image: "https://i.imgur.com/3TaPAl0.png"
+  thumb: "https://i.imgur.com/3TaPAl0t.png"
+
+Baten Kaitos:
+  title: "Baten Kaitos: Eternal Wings and the Lost Ocean"
+  platform: "Nintendo GameCube"
+  image: "https://i.imgur.com/QRPrVMC.png"
+  thumb: "https://i.imgur.com/QRPrVMCt.png"
+
+Skies of Arcadia Legends:
+  title: "Skies of Arcadia Legends"
+  platform: "Nintendo GameCube"
+  image: "https://i.imgur.com/hd1zLbM.jpg"
+  thumb: "https://i.imgur.com/hd1zLbMm.jpg"
+
+ActRaiser:
+  title: "ActRaiser"
+  image: "https://i.imgur.com/UzZ1HJv.jpg"
+  thumb: "https://i.imgur.com/UzZ1HJvm.jpg"
+  developer: "Quintet"
+  release: "November 1991"
+
+Fire Emblem Genealogy of the Holy War:
+  title: "Fire Emblem: Genealogy of the Holy War"
+  image: "https://i.imgur.com/agKVvNl.jpg"
+  thumb: "https://i.imgur.com/agKVvNlm.jpg"
+  developer: "Intelligent Systems"
+  release: "May 14, 1996 (Japan)"
+
+Breath of Fire:
+  title: "Breath of Fire"
+  image: "https://i.imgur.com/6yD7KBF.jpg"
+  thumb: "https://i.imgur.com/6yD7KBFm.jpg"
+  developer: "Capcom"
+  release: "August 10, 1994"
+
+Shin Megami Tensei if...:
+  title: "Shin Megami Tensei if..."
+  image: "https://i.imgur.com/V77AjPx.png"
+  thumb: "https://i.imgur.com/V77AjPxm.png"
+  developer: "Atlus"
+  release: "October 28, 1994 (Japan)"
+
+Terranigma:
+  title: "Terranigma"
+  image: "https://i.imgur.com/WsOU73h.jpg"
+  thumb: "https://i.imgur.com/WsOU73hm.jpg"
+  developer: "Quintet"
+  release: "December 19, 1996 (PAL)"
+
+Secret of Mana:
+  title: "Secret of Mana"
+  image: "https://i.imgur.com/Glwb0qj.jpg"
+  thumb: "https://i.imgur.com/Glwb0qjm.jpg"
+  developer: "Square"
+  release: "October 3, 1993"
+
+Shin Megami Tensei:
+  title: "Shin Megami Tensei"
+  image: "https://i.imgur.com/iu41Zcz.jpg"
+  thumb: "https://i.imgur.com/iu41Zczm.jpg"
+  developer: "Atlus"
+  release: "October 30, 1992 (Japan)"
+
+Final Fantasy VI:
+  title: "Final Fantasy VI"
+  image: "https://i.imgur.com/hI53hbP.jpg"
+  thumb: "https://i.imgur.com/hI53hbPm.jpg"
+  developer: "Square"
+  release: "October 11, 1994"
+
+Lufia II Rise of the Sinistrals:
+  title: "Lufia II: Rise of the Sinistrals"
+  image: "https://i.imgur.com/15xan2A.png"
+  thumb: "https://i.imgur.com/15xan2Am.png"
+  developer: "Neverland"
+  release: "May 1996"
+
+Earthbound:
+  title: "Earthbound"
+  image: "https://i.imgur.com/Zv9rKmM.jpg"
+  thumb: "https://i.imgur.com/Zv9rKmMm.jpg"
+  developer: "Ape / HAL Laboratory"
+  release: "June 5, 1995"
+
+Super Mario Sunshine:
+  title: "Super Mario Sunshine"
+  thumb: "https://i.imgur.com/Mzb6wzrm.jpg"
+  image: "https://i.imgur.com/Mzb6wzr.jpg"
+  platform: "Nintendo GameCube"
+
+Pokemon Colosseum:
+  title: "Pokémon Colosseum"
+  thumb: "https://i.imgur.com/wscRyDom.png"
+  image: "https://i.imgur.com/wscRyDo.png"
+  platform: "Nintendo GameCube"
+
+Luigi's Mansion:
+  title: "Luigi's Mansion"
+  thumb: "https://i.imgur.com/Q6zAD2Sm.jpg"
+  image: "https://i.imgur.com/Q6zAD2S.jpg"
+  platform: "Nintendo GameCube"
+
+Future Tactics The Uprising:
+  title: "Future Tactics: The Uprising"
+  thumb: "https://i.imgur.com/2Xbf7Xlm.jpg"
+  image: "https://i.imgur.com/2Xbf7Xl.jpg"
+  platform: "Nintendo GameCube"
+
+Pikmin 2:
+  title: "Pikmin 2"
+  thumb: "https://i.imgur.com/oVNfW7Am.png"
+  image: "https://i.imgur.com/oVNfW7A.png"
+  platform: "Nintendo GameCube"
+
+Custom Robo:
+  title: "Custom Robo"
+  thumb: "https://i.imgur.com/TChQ2Eam.png"
+  image: "https://i.imgur.com/TChQ2Ea.png"
+  platform: "Nintendo GameCube"
+
+Tales of Symphonia:
+  title: "Tales of Symphonia"
+  thumb: "https://i.imgur.com/vZgOXU1m.jpg"
+  image: "https://i.imgur.com/vZgOXU1.jpg"
+  platform: "Nintendo GameCube"
+
+Paper Mario The Thousand Year Door:
+  title: "Paper Mario: The Thousand Year Door"
+  thumb: "https://i.imgur.com/w8G9cRHm.jpg"
+  image: "https://i.imgur.com/w8G9cRH.jpg"
+  platform: "Nintendo GameCube"
+
+Fire Emblem Path of Radiance:
+  title: "Fire Emblem: Path of Radiance"
+  thumb: "https://i.imgur.com/hOrrgmMm.jpg"
+  image: "https://i.imgur.com/hOrrgmM.jpg"
+  platform: "Nintendo GameCube"
+
+The Legend of Zelda The Wind Waker:
+  title: "The Legend of Zelda: The Wind Waker"
+  thumb: "https://i.imgur.com/95h1bGtm.jpg"
+  image: "https://i.imgur.com/95h1bGt.jpg"
+  platform: "Nintendo GameCube"
+
+Valkyrie Profile:
+  title: "Valkyrie Profile"
+  image: "https://i.imgur.com/fPvcyX8.jpg"
+  thumb: "https://i.imgur.com/fPvcyX8m.jpg"
+  developer: "tri-Ace"
+  release: "August 29, 2000"
+
+Grandia:
+  title: "Grandia"
+  image: "https://i.imgur.com/U6CDJt9.jpg"
+  thumb: "https://i.imgur.com/U6CDJt9m.jpg"
+  developer: "Game Arts"
+  release: "October 26, 1999"
+
+Xenogears:
+  title: "Xenogears"
+  image: "https://i.imgur.com/bPDCwQk.jpg"
+  thumb: "https://i.imgur.com/bPDCwQkm.jpg"
+  developer: "Square"
+  release: "October 20, 1998"
+
+Jade Cocoon:
+  title: "Jade Cocoon"
+  image: "https://i.imgur.com/VOYQFue.jpg"
+  thumb: "https://i.imgur.com/VOYQFuem.jpg"
+  developer: "Genki"
+  release: "July 29, 1999"
+
+Vagrant Story:
+  title: "Vagrant Story"
+  image: "https://i.imgur.com/q9wyjBu.jpg"
+  thumb: "https://i.imgur.com/q9wyjBum.jpg"
+  developer: "Square"
+  release: "May 15, 2000"
+
+Tales of Destiny:
+  title: "Tales of Destiny "
+  image: "https://i.imgur.com/RyiEikk.jpg"
+  thumb: "https://i.imgur.com/RyiEikkm.jpg"
+  developer: "Wolf Team"
+  release: "September 30, 1998"
+
+Wild Arms:
+  title: "Wild Arms"
+  image: "https://i.imgur.com/EujvQzH.jpg"
+  thumb: "https://i.imgur.com/EujvQzHm.jpg"
+  developer: "Media.Vision"
+  release: "April 30, 1997"
+
+Suikoden:
+  title: "Suikoden"
+  image: "https://i.imgur.com/6h2wQ8W.jpg"
+  thumb: "https://i.imgur.com/6h2wQ8Wm.jpg"
+  developer: "Konami"
+
+Suikoden II:
+  title: "Suikoden II"
+  image: "https://i.imgur.com/syH2iek.jpg"
+  thumb: "https://i.imgur.com/syH2iekm.jpg"
+  developer: "Konami"
+
+Castlevania Symphony of the Night:
+  title: "Castlevania: Symphony of the Night"
+  image: "https://i.imgur.com/9DWFBlc.jpg"
+  thumb: "https://i.imgur.com/9DWFBlcm.jpg"
+  developer: "Konami"
+  release: "October 2, 1997"
+
+Parasite Eve:
+  title: "Parasite Eve"
+  image: "https://i.imgur.com/paZPWww.jpg"
+  thumb: "https://i.imgur.com/paZPWwwm.jpg"
+  developer: "Square"
+  release: "September 9, 1998"
+
+Magical Starsign:
+  title: "Magical Starsign"
+  image: "https://i.imgur.com/t0xY85y.jpg"
+  thumb: "https://i.imgur.com/t0xY85ym.jpg"
+
+Pokémon Mystery Dungeon Explorers of Sky:
+  title: "Pokémon Mystery Dungeon: Explorers of Sky"
+  image: "https://i.imgur.com/KXnaI2T.jpg"
+  thumb: "https://i.imgur.com/KXnaI2Tm.jpg"
+
+Fullmetal Alchemist Dual Sympathy:
+  title: "Fullmetal Alchemist: Dual Sympathy"
+  image: "https://i.imgur.com/yUbbb2G.jpg"
+  thumb: "https://i.imgur.com/yUbbb2Gm.jpg"
+
+Advance Wars Days of Ruin:
+  title: "Advance Wars: Days of Ruin"
+  image: "https://i.imgur.com/nofHxwO.jpg"
+  thumb: "https://i.imgur.com/nofHxwOm.jpg"
+
+Professor Layton and the Curious Village:
+  title: "Professor Layton and the Curious Village"
+  image: "https://i.imgur.com/wiNW9zK.jpg"
+  thumb: "https://i.imgur.com/wiNW9zKm.jpg"
+
+Dragon Quest V:
+  title: "Dragon Quest V"
+  image: "https://i.imgur.com/ACVVpNl.jpg"
+  thumb: "https://i.imgur.com/ACVVpNlm.jpg"
+
+Fire Emblem New Mystery of the Emblem:
+  title: "Fire Emblem: New Mystery of the Emblem"
+  image: "https://i.imgur.com/mdMSE71.jpg"
+  thumb: "https://i.imgur.com/mdMSE71m.jpg"
+
+Luminous Arc:
+  title: "Luminous Arc"
+  image: "https://i.imgur.com/PCf8zjr.jpg"
+  thumb: "https://i.imgur.com/PCf8zjrm.jpg"
+
+Chrono Trigger:
+  title: "Chrono Trigger"
+  image: "https://i.imgur.com/CcFx2D0.jpg"
+  thumb: "https://i.imgur.com/CcFx2D0m.jpg"
+
+The World Ends with You:
+  title: "The World Ends with You"
+  image: "https://i.imgur.com/VUD4Ztf.jpg"
+  thumb: "https://i.imgur.com/VUD4Ztfm.jpg"
+  platform: "Nintendo DS"
+
+Alan Wake:
+  title: "Alan Wake"
+  image: "https://i.imgur.com/wyF2jDe.jpg"
+  thumb: "https://i.imgur.com/wyF2jDem.jpg"
+  developer: "Remedy Entertainment"
+  release: "February 16, 2012"
+  platform: "PC"
+
+Phantasy Star:
+  title: "Phantasy Star"
+  image: "https://i.imgur.com/SndhLMR.jpg"
+  thumb: "https://i.imgur.com/SndhLMRm.jpg"
+  developer: "SEGA"
+  release: "November, 1988"
+  platform: "SEGA Master System"
+
+LEGO Jurassic World:
+  title: "LEGO Jurassic World"
+  image: "https://i.imgur.com/frkUHeb.png"
+  thumb: "https://i.imgur.com/frkUHebm.png"
+  developer: "TT Fusion"
+  release: "June 10, 2015"
+  platform: "Xbox 360"
+
+The Guided Fate Paradox:
+  title: "The Guided Fate Paradox"
+  image: "https://i.imgur.com/xAeOOQd.jpg"
+  thumb: "https://i.imgur.com/xAeOOQdm.jpg"
+  developer: "Nippon Ichi Software"
+  release: "November 5, 2013"
+  platform: "PlayStation 3"
+
+Age of Wonders Shadow Magic:
+  title: "Age of Wonders: Shadow Magic"
+  image: "https://i.imgur.com/wkumOY8.jpg"
+  thumb: "https://i.imgur.com/wkumOY8m.jpg"
+  developer: "Triumph Studios"
+  release: "July 25, 2003"
+  platform: "PC"
+
+The Legend of Zelda Spirit Tracks:
+  title: "The Legend of Zelda: Spirit Tracks"
+  image: "https://i.imgur.com/5jvlUwt.jpg"
+  thumb: "https://i.imgur.com/5jvlUwtm.jpg"
+  developer: "Nintendo EAD"
+  release: "December 7, 2009"
+  platform: "Nintendo DS"
+
+Donkey Kong Country 2 Diddy Kong's Quest:
+  title: "Donkey Kong Country 2: Diddy Kong's Quest"
+  image: "https://i.imgur.com/vrjX2N0.jpg"
+  thumb: "https://i.imgur.com/vrjX2N0m.jpg"
+  developer: "Rare"
+  release: "November 20, 1995"
+  platform: "SNES"
+
+Dragon's Dogma Dark Arisen:
+  title: "Dragon's Dogma: Dark Arisen"
+  image: "https://i.imgur.com/Lpyweet.jpg"
+  thumb: "https://i.imgur.com/Lpyweetm.jpg"
+  developer: "Capcom"
+  release: "January 15, 2016"
+  platform: "PC"
+
+How To Survive:
+  title: "How To Survive"
+  image: "https://i.imgur.com/NRrnrYP.jpg"
+  thumb: "https://i.imgur.com/NRrnrYPm.jpg"
+  developer: "Eko Software"
+  release: "October 23, 2013"
+  platform: "PC"
+
+Super Mario RPG The Legend of the Seven Stars:
+  title: "Super Mario RPG The Legend of the Seven Stars"
+  image: "https://i.imgur.com/M0GzjTF.jpg"
+  thumb: "https://i.imgur.com/M0GzjTFm.jpg"
+  developer: "Square"
+  release: "May 13, 1996"
+  platform: "Super Nintendo"
+
+Dishonored Death of the Outsider:
+  title: "Dishonored: Death of the Outsider"
+  image: "https://i.imgur.com/ALkmusL.jpg"
+  thumb: "https://i.imgur.com/ALkmusLm.jpg"
+  developer: "Arkane Studios"
+  release: "September 14, 2017"
+
+Final Fantasy IX:
+  title: "Final Fantasy IX"
+  image: "https://i.imgur.com/2BqRLsW.jpg"
+  thumb: "https://i.imgur.com/2BqRLsWm.jpg"
+  developer: "Square Enix"
+  release: "April 14, 2016"
+
+Undertale:
+  title: "Undertale"
+  image: "https://i.imgur.com/9yRM9Le.jpg"
+  thumb: "https://i.imgur.com/9yRM9Lem.jpg"
+  developer: "tobyfox"
+  release: "September 15, 2015"
+
+The Legend of Heroes Trails of Cold Steel II:
+  title: "The Legend of Heroes: Trails of Cold Steel II"
+  image: "https://i.imgur.com/DXzmvRS.jpg"
+  thumb: "https://i.imgur.com/DXzmvRSm.jpg"
+  developer: "Nihon Falcom"
+  release: "February 14, 2018"
+
+Tokyo Dark:
+  title: "Tokyo Dark"
+  image: "https://i.imgur.com/k7OHNwm.jpg"
+  thumb: "https://i.imgur.com/k7OHNwmm.jpg"
+  developer: "Cherrymochi"
+  release: "September 7, 2017"
+
+Danganronpa Trigger Happy Havoc:
+  title: "Danganronpa: Trigger Happy Havoc"
+  image: "https://i.imgur.com/l1xY2HF.jpg"
+  thumb: "https://i.imgur.com/l1xY2HFm.jpg"
+  developer: "Spike Chunsoft / Abstraction Games"
+  release: "February 18, 2016"
+
+Bayonetta:
+  title: "Bayonetta"
+  image: "https://i.imgur.com/wY0BgEK.jpg"
+  thumb: "https://i.imgur.com/wY0BgEKm.jpg"
+  developer: "PlatinumGames"
+  release: "April 11, 2017"
+
+the-banner-saga-3:
+  title: "The Banner Saga 3"
+  image: "https://i.imgur.com/17Xb81F.jpg"
+  thumb: "https://i.imgur.com/17Xb81Fm.jpg"
+  developer: "Stoic"
+  release: "July 26, 2018"
+
+Hollow Knight:
+  title: "Hollow Knight"
+  image: "https://i.imgur.com/FuPBoWB.jpg"
+  thumb: "https://i.imgur.com/FuPBoWBm.jpg"
+  developer: "Team Cherry"
+  release: "February 24, 2017"
+
+Valkyria Chronicles:
+  title: "Valkyria Chronicles"
+  image: "https://i.imgur.com/FcOj5j3.jpg"
+  thumb: "https://i.imgur.com/FcOj5j3m.jpg"
+  developer: "SEGA"
+  release: "November 11, 2014"
+
+Harry Potter and the Sorcerer's Stone:
+  title: "Harry Potter and the Sorcerer's Stone"
+  thumb: "https://i.imgur.com/DyRI1dNm.jpg"
+  image: "https://i.imgur.com/DyRI1dN.jpg"
+
+Yu-Gi-Oh! The Eternal Duelist Soul:
+  title: "Yu-Gi-Oh! The Eternal Duelist Soul"
+  thumb: "https://i.imgur.com/SEWXQcdm.jpg"
+  image: "https://i.imgur.com/SEWXQcd.jpg"
+
+Kirby Nightmare in Dreamland:
+  title: "Kirby: Nightmare in Dreamland"
+  thumb: "https://i.imgur.com/3KpeeObm.jpg"
+  image: "https://i.imgur.com/3KpeeOb.jpg"
+
+Final Fantasy I & II Dawn of Souls:
+  title: "Final Fantasy I & II: Dawn of Souls"
+  thumb: "https://i.imgur.com/X8DpNJNm.jpg"
+  image: "https://i.imgur.com/X8DpNJN.jpg"
+
+Super Mario World Super Mario Advance 2:
+  title: "Super Mario World: Super Mario Advance 2"
+  thumb: "https://i.imgur.com/z5JmUldm.jpg"
+  image: "https://i.imgur.com/z5JmUld.jpg"
+
+Pokémon Ruby Version:
+  title: "Pokémon Ruby Version"
+  thumb: "https://i.imgur.com/e26xzxIm.jpg"
+  image: "https://i.imgur.com/e26xzxI.jpg"
+
+Pokémon LeafGreen Version:
+  title: "Pokémon LeafGreen Version"
+  thumb: "https://i.imgur.com/ieEnXm8m.jpg"
+  image: "https://i.imgur.com/ieEnXm8.jpg"
+
+Metroid Fusion:
+  title: "Metroid Fusion"
+  thumb: "https://i.imgur.com/taGT5Wom.jpg"
+  image: "https://i.imgur.com/taGT5Wo.jpg"
+
+Fire Emblem The Sacred Stones:
+  title: "Fire Emblem: The Sacred Stones"
+  thumb: "https://i.imgur.com/MjhtYjUm.jpg"
+  image: "https://i.imgur.com/MjhtYjU.jpg"
+
+Final Fantasy Tactics Advance:
+  title: "Final Fantasy Tactics Advance"
+  thumb: "https://i.imgur.com/fU2JCorm.jpg"
+  image: "https://i.imgur.com/fU2JCor.jpg"
+
+The Legend of Zelda A Link Between Worlds:
+  title: "The Legend of Zelda: A Link Between Worlds"
+  image: "https://i.imgur.com/2ORSfaH.jpg"
+  thumb: "https://i.imgur.com/2ORSfaHm.jpg"
+  developer: "Nintendo EAD"
+  release: "November 22, 2013"
+
+Luigi's Mansion Dark Moon:
+  title: "Luigi's Mansion: Dark Moon"
+  image: "https://i.imgur.com/NSnyBeY.jpg"
+  thumb: "https://i.imgur.com/NSnyBeYm.jpg"
+
+  developer: "Next Level Games & Nintendo SPD"
+  release: "March 24, 2013"
+
+Shin Megami Tensei IV:
+  title: "Shin Megami Tensei IV"
+  image: "https://i.imgur.com/Zsf3Jjo.jpg"
+  thumb: "https://i.imgur.com/Zsf3Jjom.jpg"
+  developer: "Atlus"
+  release: "July 16, 2013"
+
+Bravely Default:
+  title: "Bravely Default"
+  image: "https://i.imgur.com/xnfrFg8.jpg"
+  thumb: "https://i.imgur.com/xnfrFg8m.jpg"
+  developer: "Silicon Studio"
+  release: "February 7, 2014"
+
+Dragon Quest VIII:
+  title: "Dragon Quest VIII"
+  image: "https://i.imgur.com/72JZffQ.jpg"
+  thumb: "https://i.imgur.com/72JZffQm.jpg"
+  developer: "Square Enix"
+  release: "January 20, 2017"
+
+Radiant Historia Perfect Chronology:
+  title: "Radiant Historia: Perfect Chronology"
+  image: "https://i.imgur.com/RTmXTRk.jpg"
+  thumb: "https://i.imgur.com/RTmXTRkm.jpg"
+  developer: "Atlus"
+  release: "February 13, 2018"
+
+Xenoblade Chronicles 3D:
+  title: "Xenoblade Chronicles 3D"
+  image: "https://i.imgur.com/O51Sgq4.jpg"
+  thumb: "https://i.imgur.com/O51Sgq4m.jpg"
+  developer: "Monolith Soft & Monster Games"
+  release: "April 10, 2015"
+
+Persona Q2 New Cinema Labyrinth:
+  title: "Persona Q2: New Cinema Labyrinth"
+  image: "https://i.imgur.com/CpRizhq.jpg"
+  thumb: "https://i.imgur.com/CpRizhqm.jpg"
+  developer: "Atlus"
+  release: "June 4, 2019"
+
+Fire Emblem Echoes Shadows of Valentia:
+  title: "Fire Emblem Echoes: Shadows of Valentia"
+  image: "https://i.imgur.com/J0CobZI.jpg"
+  thumb: "https://i.imgur.com/J0CobZIm.jpg"
+  developer: "Intelligent Systems"
+  release: "May 19, 2017"
+
+Fire Emblem Fates Conquest:
+  title: "Fire Emblem Fates: Conquest"
+  image: "https://i.imgur.com/1PplUJN.jpg"
+  thumb: "https://i.imgur.com/1PplUJNm.jpg"
+  developer: "Intelligent Systems & Nintendo SPD"
+  release: "February 19, 2016"
+
+Pokémon Sword & Pokémon Shield:
+  title: "Pokémon Sword & Pokémon Shield"
+  developer: "Game Freak"
+  release: "November 15, 2019"
+
+Astral Chain:
+  title: "Astral Chain"
+  developer: "PlatinumGames"
+  release: "August 30, 2019"
+  video: "https://www.youtube.com/embed/ckAZepoche4"
+
+Luigi's Mansion 3:
+  title: "Luigi's Mansion 3"
+  developer: "Next Level Games"
+  release: "2019"
+  video: "https://www.youtube.com/embed/RSGgCfbYrg0"
+
+Rune Factory 4 Special:
+  title: "Rune Factory 4 Special"
+  developer: "Marvelous Entertainment"
+  release: "2019"
+  video: "https://www.youtube.com/embed/PwI0mzf2flY"
+
+The Legend of Zelda Link's Awakening:
+  title: "The Legend of Zelda: Link's Awakening"
+  developer: "Nintendo"
+  release: "September 20, 2019"
+  video: "https://www.youtube.com/embed/PtC6U8hOZTk"
+
+Dragon Quest XI S Echoes of an Elusive Age Definitive Edition:
+  title: "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition"
+  developer: "Square Enix"
+  release: "September 27, 2019"
+  video: "https://www.youtube.com/embed/O0K942h4BDE"
+
+Animal Crossing New Horizons:
+  title: "Animal Crossing: New Horizons"
+  developer: "Nintendo"
+  release: "March 20, 2020"
+  video: "https://www.youtube.com/embed/_3YNL0OWio0"
+
+Fire Emblem Three Houses:
+  title: "Fire Emblem: Three Houses"
+  developer: "Intelligent Systems"
+  release: "July 26th, 2019"
+  video: "https://www.youtube.com/embed/ADaRsEhTB70"
+
+PoPoLoCrois:
+  title: "PoPoLoCrois"
+  thumb: "https://i.imgur.com/ptjCshtt.jpg"
+  image: "https://i.imgur.com/ptjCsht.jpg"
+
+Metal Gear Acid:
+  title: "Metal Gear Acid"
+  thumb: "https://i.imgur.com/0G1ypsAm.jpg"
+  image: "https://i.imgur.com/0G1ypsA.jpg"
+
+Yggdra Union We'll Never Fight Alone:
+  title: "Yggdra Union: We'll Never Fight Alone"
+  thumb: "https://i.imgur.com/GHG8SAlm.jpg"
+  image: "https://i.imgur.com/GHG8SAl.jpg"
+
+Star Ocean First Departure:
+  title: "Star Ocean: First Departure"
+  thumb: "https://i.imgur.com/E0pWsCKm.jpg"
+  image: "https://i.imgur.com/E0pWsCK.jpg"
+
+Class of Heroes 2:
+  title: "Class of Heroes 2"
+  thumb: "https://i.imgur.com/lobl6I0m.png"
+  image: "https://i.imgur.com/lobl6I0.png"
+
+persona-2-innocent-sin:
+  title: "Persona 2: Innocent Sin"
+  thumb: "https://i.imgur.com/kd1XsBIm.jpg"
+  image: "https://i.imgur.com/kd1XsBI.jpg"
+  platform: "PlayStation Portable"
+
+Brave Story New Traveler:
+  title: "Brave Story: New Traveler"
+  thumb: "https://i.imgur.com/dIc6cHYm.png"
+  image: "https://i.imgur.com/dIc6cHY.png"
+
+Final Fantasy Tactics The War of the Lions:
+  title: "Final Fantasy Tactics: The War of the Lions"
+  thumb: "https://i.imgur.com/ExiuzMrm.jpg"
+  image: "https://i.imgur.com/ExiuzMr.jpg"
+
+Grand Knights History:
+  developer: "Vanillaware"
+  title: "Grand Knights History"
+  thumb: "https://i.imgur.com/KQOXApYm.png"
+  image: "https://i.imgur.com/KQOXApY.png"
+
+jeanne-darc:
+  title: "Jeanne d'Arc"
+  thumb: "https://i.imgur.com/P9o5K0nm.jpg"
+  image: "https://i.imgur.com/P9o5K0n.jpg"
+
+Star Fox 64:
+  title: "Star Fox 64"
+  image: "https://i.imgur.com/wn7vyiU.jpg"
+  thumb: "https://i.imgur.com/wn7vyiUm.jpg"
+  developer: "Nintendo EAD"
+  release: "June 30, 1997"
+
+Pokémon Snap:
+  title: "Pokémon Snap"
+  image: "https://i.imgur.com/RnXCcsP.jpg"
+  thumb: "https://i.imgur.com/RnXCcsPm.jpg"
+  developer: "HAL Laboratory"
+  release: "June 30, 1999"
+
+Donkey Kong 64:
+  title: "Donkey Kong 64"
+  image: "https://i.imgur.com/7imvBK1.jpg"
+  thumb: "https://i.imgur.com/7imvBK1m.jpg"
+  developer: "Rare"
+  release: "November 22, 1999"
+
+Mario Kart 64:
+  title: "Mario Kart 64"
+  image: "https://i.imgur.com/TS14W7G.jpg"
+  thumb: "https://i.imgur.com/TS14W7Gm.jpg"
+  developer: "Nintendo EAD"
+  release: "February 10, 1997"
+
+Super Smash Bros.:
+  title: "Super Smash Bros."
+  image: "https://i.imgur.com/GJvXd67.jpg"
+  thumb: "https://i.imgur.com/GJvXd67m.jpg"
+  developer: "HAL Laboratory"
+  release: "April 26, 1999"
+
+Pokémon Puzzle League:
+  title: "Pokémon Puzzle League"
+  image: "https://i.imgur.com/JgYWPRZ.jpg"
+  thumb: "https://i.imgur.com/JgYWPRZm.jpg"
+  developer: "Nintendo Software Technology"
+  release: "September 25, 2000"
+
+Kirby 64 The Crystal Shards:
+  title: "Kirby 64: The Crystal Shards"
+  image: "https://i.imgur.com/3YSlZeA.jpg"
+  thumb: "https://i.imgur.com/3YSlZeAm.jpg"
+  developer: "HAL Laboratory"
+  release: "June 26, 2000"
+
+Mischief Makers:
+  title: "Mischief Makers"
+  image: "https://i.imgur.com/oNChHvi.jpg"
+  thumb: "https://i.imgur.com/oNChHvim.jpg"
+  developer: "Treasure"
+  release: "October 1, 1997"
+
+The Legend of Zelda The Minish Cap:
+  title: "The Legend of Zelda: The Minish Cap"
+  image: "https://i.imgur.com/uAUCmyr.jpg"
+  thumb: "https://i.imgur.com/uAUCmyrm.jpg"
+  developer: "Capcom / Flagship"
+  release: "January 10, 2005"
+
+Summon Night Swordcraft Story:
+  title: "Summon Night: Swordcraft Story"
+  image: "https://i.imgur.com/Xd2Ede9.jpg"
+  thumb: "https://i.imgur.com/Xd2Ede9m.jpg"
+  developer: "Flight-Plan"
+  release: "July 26, 2006"
+
+Mother 3:
+  title: "Mother 3"
+  image: "https://i.imgur.com/cirgOMc.jpg"
+  thumb: "https://i.imgur.com/cirgOMcm.jpg"
+  developer: "Brownie Brown / HAL Laboratory"
+  release: "April 20, 2006 (Japan)"
+
+DemiKids Dark Version:
+  title: "DemiKids: Dark Version"
+  image: "https://i.imgur.com/6mEEjby.jpg"
+  thumb: "https://i.imgur.com/6mEEjbym.jpg"
+  developer: "Multimedia Intelligence Transfer"
+  release: "October 7, 2003"
+
+Fire Emblem The Binding Blade:
+  title: "Fire Emblem: The Binding Blade"
+  image: "https://i.imgur.com/saiN3Vp.jpg"
+  thumb: "https://i.imgur.com/saiN3Vpm.jpg"
+  developer: "Intelligent Systems"
+  release: "March 29, 2002 (Japan)"
+
+Advance Wars:
+  title: "Advance Wars"
+  image: "https://i.imgur.com/jzAD4mX.jpg"
+  thumb: "https://i.imgur.com/jzAD4mXm.jpg"
+  developer: "Intelligent Systems"
+  release: "September 10, 2001"
+
+Mega Man Battle Network:
+  title: "Mega Man Battle Network"
+  image: "https://i.imgur.com/KATRNuv.jpg"
+  thumb: "https://i.imgur.com/KATRNuvm.jpg"
+  developer: "Capcom"
+  release: "October 31, 2001"
+
+Castlevania Aria of Sorrow:
+  title: "Castlevania: Aria of Sorrow"
+  image: "https://i.imgur.com/7PbPWnR.jpg"
+  thumb: "https://i.imgur.com/7PbPWnRm.jpg"
+  developer: "Konami"
+  release: "May 6, 2003"
+
+Kirby & the Amazing Mirror:
+  title: "Kirby & the Amazing Mirror"
+  image: "https://i.imgur.com/1Ds7SRI.jpg"
+  thumb: "https://i.imgur.com/1Ds7SRIm.jpg"
+  developer: "HAL Laboratory / Flagship / Dimps"
+  release: "October 18, 2004"
+
+Golden Sun:
+  title: "Golden Sun"
+  image: "https://i.imgur.com/v5d56I4.jpg"
+  thumb: "https://i.imgur.com/v5d56I4m.jpg"
+  release: "November 11, 2001"
+  developer: "Camelot Software Planning"
+  platform: "Game Boy Advance"
+
+Xenosaga Episode I Der Wille zur Macht:
+  title: "Xenosaga Episode I: Der Wille zur Macht"
+  thumb: "https://i.imgur.com/BnPGkIum.jpg"
+  image: "https://i.imgur.com/BnPGkIu.jpg"
+
+Stella Deus The Gate of Eternity:
+  title: "Stella Deus: The Gate of Eternity"
+  thumb: "https://i.imgur.com/PGFyGG0m.jpg"
+  image: "https://i.imgur.com/PGFyGG0.jpg"
+
+Shin Megami Tensei III Nocturne:
+  title: "Shin Megami Tensei III: Nocturne"
+  thumb: "https://i.imgur.com/5In2Yhem.jpg"
+  image: "https://i.imgur.com/5In2Yhe.jpg"
+
+Shin Megami Tensei Digital Devil Saga:
+  title: "Shin Megami Tensei: Digital Devil Saga"
+  thumb: "https://i.imgur.com/IKeZhlJm.jpg"
+  image: "https://i.imgur.com/IKeZhlJ.jpg"
+
+Steambot Chronicles:
+  title: "Steambot Chronicles"
+  thumb: "https://i.imgur.com/Q4bD8wGm.jpg"
+  image: "https://i.imgur.com/Q4bD8wG.jpg"
+
+Shadow Hearts:
+  title: "Shadow Hearts"
+  thumb: "https://i.imgur.com/QycxUyTm.jpg"
+  image: "https://i.imgur.com/QycxUyT.jpg"
+
+Dark Cloud 2:
+  title: "Dark Cloud 2"
+  thumb: "https://i.imgur.com/hLd1OfXm.jpg"
+  image: "https://i.imgur.com/hLd1OfX.jpg"
+
+Tales of Legendia:
+  title: "Tales of Legendia"
+  thumb: "https://i.imgur.com/7kBhmTwm.jpg"
+  image: "https://i.imgur.com/7kBhmTw.jpg"
+
+Rogue Galaxy:
+  title: "Rogue Galaxy"
+  thumb: "https://i.imgur.com/ctKMusFm.jpg"
+  image: "https://i.imgur.com/ctKMusF.jpg"
+
+Radiata Stories:
+  title: "Radiata Stories"
+  thumb: "https://i.imgur.com/J4pLt8qm.jpg"
+  image: "https://i.imgur.com/J4pLt8q.jpg"
