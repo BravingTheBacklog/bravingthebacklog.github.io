@@ -163,18 +163,26 @@ Pokemon Colosseum:
   thumb: "https://i.imgur.com/wscRyDom.png"
   image: "https://i.imgur.com/wscRyDo.png"
   platform: "Nintendo GameCube"
+  imagesize: "third"
+  developer: "Genius Sonority"
+  release: "March 22, 2004"
 
 Luigi's Mansion:
   title: "Luigi's Mansion"
   thumb: "https://i.imgur.com/Q6zAD2Sm.jpg"
   image: "https://i.imgur.com/Q6zAD2S.jpg"
   platform: "Nintendo GameCube"
+  developer: "Nintendo EAD"
+  release: "November 18, 2001"
+  imagesize: "third"
 
 Future Tactics The Uprising:
   title: "Future Tactics: The Uprising"
   thumb: "https://i.imgur.com/2Xbf7Xlm.jpg"
   image: "https://i.imgur.com/2Xbf7Xl.jpg"
   platform: "Nintendo GameCube"
+  developer: "Zed Two"
+  release: "May 10, 2004"
 
 Pikmin 2:
   title: "Pikmin 2"
@@ -195,10 +203,13 @@ Tales of Symphonia:
   platform: "Nintendo GameCube"
 
 Paper Mario The Thousand Year Door:
-  title: "Paper Mario: The Thousand Year Door"
+  title: "Paper Mario: The Thousand-Year Door"
   thumb: "https://i.imgur.com/w8G9cRHm.jpg"
   image: "https://i.imgur.com/w8G9cRH.jpg"
+  imagesize: "third"
   platform: "Nintendo GameCube"
+  developer: "Intelligent Systems"
+  release: "October 11, 2004"
 
 Fire Emblem Path of Radiance:
   title: "Fire Emblem: Path of Radiance"
@@ -594,6 +605,7 @@ Persona Q2 New Cinema Labyrinth:
   thumb: "https://i.imgur.com/CpRizhqm.jpg"
   developer: "Atlus"
   release: "June 4, 2019"
+  platform: "Nintendo 3DS"
 
 Fire Emblem Echoes Shadows of Valentia:
   title: "Fire Emblem Echoes: Shadows of Valentia"
@@ -655,6 +667,10 @@ Fire Emblem Three Houses:
   developer: "Intelligent Systems"
   release: "July 26th, 2019"
   video: "https://www.youtube.com/embed/ADaRsEhTB70"
+  image: "https://i.imgur.com/ErRuOox.jpg"
+  thumb: "https://i.imgur.com/ErRuOoxm.jpg"
+  imagesize: "third"
+  platform: "Nintendo Switch"
 
 PoPoLoCrois:
   title: "PoPoLoCrois"
@@ -884,3 +900,37 @@ Radiata Stories:
   title: "Radiata Stories"
   thumb: "https://i.imgur.com/J4pLt8qm.jpg"
   image: "https://i.imgur.com/J4pLt8q.jpg"
+
+Fire Emblem Shadow Dragon:
+  title: "Fire Emblem: Shadow Dragon"
+  image: "https://i.imgur.com/ZdxbWpe.jpg"
+  thumb: "https://i.imgur.com/ZdxbWpem.jpg"
+  developer: "Intelligent Systems"
+  release: "February 16, 2009"
+  platform: "Nintendo DS"
+
+Super Smash Bros. Ultimate:
+  title: "Super Smash Bros. Ultimate"
+  image: "https://i.imgur.com/d2bkAgr.png"
+  thumb: "https://i.imgur.com/d2bkAgrm.png"
+  developer: "Bandai Namco Studios / Sora Ltd."
+  release: "December 7, 2018"
+  platform: "Nintendo Switch"
+  imagesize: "third"
+
+The Elder Scrolls V Skyrim Switch:
+  title: "The Elder Scrolls V: Skyrim"
+  image: "https://i.imgur.com/oQGhWcN.jpg"
+  thumb: "https://i.imgur.com/oQGhWcNm.jpg"
+  developer: "Bethesda"
+  release: "November 16, 2017"
+  platform: "Nintendo Switch"
+  imagesize: "third"
+
+The Legend of Zelda Spirit Tracks:
+  title: "The Legend of Zelda: Spirit Tracks"
+  image: "https://i.imgur.com/lXepXT1.jpg"
+  thumb: "https://i.imgur.com/lXepXT1m.jpg"
+  developer: "Nintendo EAD"
+  release: "December 7, 2009"
+  platform: "Nintendo DS"
