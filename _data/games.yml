@@ -46,11 +46,14 @@ Battalion Wars:
   image: "https://i.imgur.com/WaNYGUg.jpg"
   thumb: "https://i.imgur.com/WaNYGUgm.jpg"
 
-Phantasy Star Online episode I & II Plus:
+Phantasy Star Online Episode I II Plus:
   title: "Phantasy Star Online Episode I & II Plus"
   platform: "Nintendo GameCube"
   image: "https://i.imgur.com/wlkzBBb.png"
-  thumb: "https://i.imgur.com/wlkzBBbt.png"
+  imagesize: "third"
+  thumb: "https://i.imgur.com/wlkzBBbm.png"
+  release: "September 15, 2004"
+  developer: "Sonic Team"
 
 Evolution Worlds:
   title: "Evolution Worlds"
@@ -88,6 +91,7 @@ ActRaiser:
   thumb: "https://i.imgur.com/UzZ1HJvm.jpg"
   developer: "Quintet"
   release: "November 1991"
+  platform: "Super Nintendo"
 
 Fire Emblem Genealogy of the Holy War:
   title: "Fire Emblem: Genealogy of the Holy War"
@@ -95,6 +99,7 @@ Fire Emblem Genealogy of the Holy War:
   thumb: "https://i.imgur.com/agKVvNlm.jpg"
   developer: "Intelligent Systems"
   release: "May 14, 1996 (Japan)"
+  platform: "Super Famicom"
 
 Breath of Fire:
   title: "Breath of Fire"
@@ -102,6 +107,7 @@ Breath of Fire:
   thumb: "https://i.imgur.com/6yD7KBFm.jpg"
   developer: "Capcom"
   release: "August 10, 1994"
+  platform: "Super Nintendo"
 
 Shin Megami Tensei if...:
   title: "Shin Megami Tensei if..."
@@ -109,6 +115,7 @@ Shin Megami Tensei if...:
   thumb: "https://i.imgur.com/V77AjPxm.png"
   developer: "Atlus"
   release: "October 28, 1994 (Japan)"
+  platform: "Super Famicom"
 
 Terranigma:
   title: "Terranigma"
@@ -116,6 +123,7 @@ Terranigma:
   thumb: "https://i.imgur.com/WsOU73hm.jpg"
   developer: "Quintet"
   release: "December 19, 1996 (PAL)"
+  platform: "Super Nintendo"
 
 Secret of Mana:
   title: "Secret of Mana"
@@ -123,6 +131,7 @@ Secret of Mana:
   thumb: "https://i.imgur.com/Glwb0qjm.jpg"
   developer: "Square"
   release: "October 3, 1993"
+  platform: "Super Nintendo"
 
 Shin Megami Tensei:
   title: "Shin Megami Tensei"
@@ -130,6 +139,7 @@ Shin Megami Tensei:
   thumb: "https://i.imgur.com/iu41Zczm.jpg"
   developer: "Atlus"
   release: "October 30, 1992 (Japan)"
+  platform: "Super Nintendo"
 
 Final Fantasy VI:
   title: "Final Fantasy VI"
@@ -137,6 +147,7 @@ Final Fantasy VI:
   thumb: "https://i.imgur.com/hI53hbPm.jpg"
   developer: "Square"
   release: "October 11, 1994"
+  platform: "Super Nintendo"
 
 Lufia II Rise of the Sinistrals:
   title: "Lufia II: Rise of the Sinistrals"
@@ -144,6 +155,7 @@ Lufia II Rise of the Sinistrals:
   thumb: "https://i.imgur.com/15xan2Am.png"
   developer: "Neverland"
   release: "May 1996"
+  platform: "Super Nintendo"
 
 Earthbound:
   title: "Earthbound"
@@ -151,6 +163,7 @@ Earthbound:
   thumb: "https://i.imgur.com/Zv9rKmMm.jpg"
   developer: "Ape / HAL Laboratory"
   release: "June 5, 1995"
+  platform: "Super Nintendo"
 
 Super Mario Sunshine:
   title: "Super Mario Sunshine"
@@ -283,6 +296,15 @@ Suikoden II:
   image: "https://i.imgur.com/syH2iek.jpg"
   thumb: "https://i.imgur.com/syH2iekm.jpg"
   developer: "Konami"
+
+Suikoden III:
+  title: "Suikoden III"
+  image: "https://i.imgur.com/hVNVlcr.jpg"
+  thumb: "https://i.imgur.com/hVNVlcrm.jpg"
+  developer: "Konami"
+  release: "October 24, 2002"
+  platform: "PlayStation 2"
+  imagesize: "third"
 
 Castlevania Symphony of the Night:
   title: "Castlevania: Symphony of the Night"
@@ -579,11 +601,20 @@ Bravely Default:
   release: "February 7, 2014"
 
 Dragon Quest VIII:
-  title: "Dragon Quest VIII"
+  title: "Dragon Quest VIII: Journey of the Cursed King"
   image: "https://i.imgur.com/72JZffQ.jpg"
   thumb: "https://i.imgur.com/72JZffQm.jpg"
   developer: "Square Enix"
   release: "January 20, 2017"
+  platform: "Nintendo 3DS"
+
+Dragon Quest VII:
+  title: "Dragon Quest VII: Fragments of the Forgotten Past"
+  image: "https://i.imgur.com/Uxrn8wH.jpg"
+  thumb: "https://i.imgur.com/Uxrn8wHm.jpg"
+  developer: "ArtePiazza & Square Enix"
+  release: "September 15, 2016"
+  platform: "Nintendo 3DS"
 
 Radiant Historia Perfect Chronology:
   title: "Radiant Historia: Perfect Chronology"
@@ -598,6 +629,16 @@ Xenoblade Chronicles 3D:
   thumb: "https://i.imgur.com/O51Sgq4m.jpg"
   developer: "Monolith Soft & Monster Games"
   release: "April 10, 2015"
+  platform: "Nintendo 3DS"
+
+Xenoblade Chronicles 2:
+  title: "Xenoblade Chronicles 2"
+  image: "https://i.imgur.com/ASIiyzF.jpg"
+  thumb: "https://i.imgur.com/ASIiyzFm.jpg"
+  developer: "Monolith Soft"
+  release: "December 1, 2017"
+  platform: "Nintendo Switch"
+  imagesize: "third"
 
 Persona Q2 New Cinema Labyrinth:
   title: "Persona Q2: New Cinema Labyrinth"
@@ -934,3 +975,39 @@ The Legend of Zelda Spirit Tracks:
   developer: "Nintendo EAD"
   release: "December 7, 2009"
   platform: "Nintendo DS"
+
+The Last Remnant:
+  title: "The Last Remnant"
+  image: "https://i.imgur.com/2GJMMEc.jpg"
+  thumb: "https://i.imgur.com/2GJMMEcm.jpg"
+  developer: "Square Enix"
+  release: "April 9, 2009"
+  platform: "PC"
+  imagesize: "third"
+
+God Eater 2 Rage Burst:
+  title: "God Eater 2: Rage Burst"
+  image: "https://i.imgur.com/sT8xY0H.jpg"
+  thumb: "https://i.imgur.com/sT8xY0Hm.jpg"
+  imagesize: "third"
+  developer: "SHIFT / QLOC"
+  release: "August 29, 2016"
+  platform: "PC"
+
+Octopath Traveler:
+  title: "Octopath Traveler"
+  image: "https://i.imgur.com/KdJmurJ.jpg"
+  thumb: "https://i.imgur.com/KdJmurJm.jpg"
+  imagesize: "third"
+  developer: "Square Enix & Acquire"
+  release: "July 13, 2018"
+  platform: "Nintendo Switch"
+
+Valkyria Chronicles 3 Unrecorded Chronicles:
+  title: "Valkyria Chronicles 3: Unrecorded Chronicles"
+  image: "https://i.imgur.com/uczVfqQ.jpg"
+  thumb: "https://i.imgur.com/uczVfqQm.jpg"
+  imagesize: "third"
+  developer: "Media Vision"
+  release: "January 27, 2011 (Japan)"
+  platform: "PlayStation Portable"
