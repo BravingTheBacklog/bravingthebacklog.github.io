@@ -640,6 +640,16 @@ Xenoblade Chronicles 2:
   platform: "Nintendo Switch"
   imagesize: "third"
 
+Xenoblade Chronicles Definitive Edition:
+  title: "Xenoblade Chronicles: Definitive Edition"
+  image: ""
+  thumb: ""
+  developer: "Monolith Soft"
+  release: "2020"
+  platform: "Nintendo Switch"
+  imagesize: "third"
+  video: "https://www.youtube.com/embed/nLEkwIvfOO4"
+
 Persona Q2 New Cinema Labyrinth:
   title: "Persona Q2: New Cinema Labyrinth"
   image: "https://i.imgur.com/CpRizhq.jpg"
@@ -676,8 +686,12 @@ Astral Chain:
 Luigi's Mansion 3:
   title: "Luigi's Mansion 3"
   developer: "Next Level Games"
-  release: "2019"
+  release: "October 31, 2019"
   video: "https://www.youtube.com/embed/RSGgCfbYrg0"
+  platform: "Nintendo Switch"
+  image: "https://i.imgur.com/ZPChLQv.png"
+  thumb: "https://i.imgur.com/ZPChLQvm.png"
+  imagesize: "third"
 
 Rune Factory 4 Special:
   title: "Rune Factory 4 Special"
@@ -1011,3 +1025,13 @@ Valkyria Chronicles 3 Unrecorded Chronicles:
   developer: "Media Vision"
   release: "January 27, 2011 (Japan)"
   platform: "PlayStation Portable"
+
+Tokyo Mirage Sessions FE Encore:
+  title: "Tokyo Mirage Sessions ♯FE Encore"
+  image: ""
+  thumb: ""
+  imagesize: "third"
+  developer: "Atlus"
+  release: "January 17, 2020"
+  platform: "Nintendo Switch"
+  video: "https://www.youtube.com/embed/Pfq1yFegQ0s"
