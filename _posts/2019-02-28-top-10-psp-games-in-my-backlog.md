@@ -4,7 +4,7 @@ title: Top 10 PSP Games in my Backlog
 author: bsinky
 description: My personal list of the Top 10 PSP Games in my Backlog.
 date: 2019-02-28
-modified: 2019-04-27
+modified: 2019-09-09
 categories: [List]
 tags: [Top 10,PSP]
 image:
@@ -27,10 +27,7 @@ Enough rambling though, let's get into the Top 10 PSP Games in my Backlog!
 
 <!--more-->
 
-## 10. PoPoLoCrois
-
-[![](https://i.imgur.com/ptjCshtt.jpg)](https://i.imgur.com/ptjCsht.jpg)
-{: .image-right }
+## 10. {% include game.html game="PoPoLoCrois" %}
 
 I really am a *sucker* for games with an isometric art style. PoPoLoCrois is
 described as having a combat system similar to Final Fantasy Tactics. That alone
@@ -39,10 +36,7 @@ PoPoLoCrois! Its review scores are pretty average, with a 66 on Metacritic. So
 it might not be a masterpiece by any stretch of the imagination, but I'd still
 like to give it a shot.
 
-## 9. Metal Gear Acid
-
-[![](https://i.imgur.com/0G1ypsAm.jpg)](https://i.imgur.com/0G1ypsA.jpg)
-{: .image-right }
+## 9. {% include game.html game="Metal Gear Acid" %}
 
 Apparently, you're supposed to type the title for this one as METAL GEAR AC!D.
 Metal Gear Acid is a turn-based collectible card tactical RPG according to its
@@ -63,10 +57,7 @@ so many years later.
 Metal Gear Acid is definitely on my radar, I may give it a try even if I
 have no hope of understanding the plot!
 
-## 8. Yggdra Union: We'll Never Fight Alone
-
-[![](https://i.imgur.com/GHG8SAlm.jpg)](https://i.imgur.com/GHG8SAl.jpg)
-{: .image-right }
+## 8. {% include game.html game="Yggdra Union We'll Never Fight Alone" %}
 
 Yggdra Union: We'll Never Fight Alone was released originally on the Game Boy
 Advance, and later on the PSP. I believe I read somewhere that the PSP version
@@ -83,10 +74,7 @@ game.
 It sounds like there's a lot going on in Yggdra Union, so I can't help but be
 curious to try it all out.
 
-## 7. Star Ocean: First Departure
-
-[![](https://i.imgur.com/E0pWsCKm.jpg)](https://i.imgur.com/E0pWsCK.jpg)
-{: .image-right }
+## 7. {% include game.html game="Star Ocean First Departure" %}
 
 I really enjoy the Tales Of series, but I've never gotten into Star Ocean, a
 series that shares roots with Tales Of. Developers who had worked on the first
@@ -99,10 +87,7 @@ includes a number of enhancements, and unlike the original game, it actually saw
 an official English release! If it feels anything like a Tales Of game, I'm sure
 I'll feel right at home when I play this one.
 
-## 6. Class of Heroes 2
-
-[![](https://i.imgur.com/lobl6I0m.png)](https://i.imgur.com/lobl6I0.png)
-{: .image-right }
+## 6. {% include game.html game="Class of Heroes 2" %}
 
 This game is a dungeon-crawler RPG, and as such it has the player explore
 dungeons with their party members, fighting monsters in turn-based battles along
@@ -116,10 +101,7 @@ if it's just not for me. That said, I'm hoping that Class of Heroes 2 is the one
 to really get me into the genre! I think being able to play it casually on my
 phone and grind a bit here and there could help.
 
-## 5. Persona 2: Innocent Sin
-
-[![](https://i.imgur.com/kd1XsBIm.jpg)](https://i.imgur.com/kd1XsBI.jpg)
-{: .image-right }
+## 5. {% include game.html game="Persona 2 Innocent Sin" %}
 
 Persona 2: Innocent Sin was originally released in Japan on the PlayStation in
 1999 . However, the PlayStation version of Innocent Sin never received an
@@ -144,10 +126,7 @@ PlayStation but confusingly *did* see an English localization right away. It
 gets weirder though because there's also a PSP remake of Eternal Punishment, but
 *that* version only came out in Japan...!
 
-## 4. Brave Story: New Traveler
-
-[![](https://i.imgur.com/dIc6cHYm.png)](https://i.imgur.com/dIc6cHY.png)
-{: .image-right }
+## 4. {% include game.html game="Brave Story New Traveler" %}
 
 Apparently, this game is *loosely* based on the world present in the novel
 "Brave Story," which later spawned a related manga simply called "Brave Story"
@@ -160,10 +139,7 @@ have a camera angle over the 3D world that makes it feel isometric, it reminds
 me a bit of what I've seen of some of the earlier games in the Tales Of series,
 except in 3D.
 
-## 3. Final Fantasy Tactics: The War of the Lions
-
-[![](https://i.imgur.com/ExiuzMrm.jpg)](https://i.imgur.com/ExiuzMr.jpg)
-{: .image-right }
+## 3. {% include game.html game="Final Fantasy Tactics The War of the Lions" %}
 
 I've heard nothing but praise for Final Fantasy Tactics. Final Fantasy Tactics
 Advance is one of my favorite games, but I've never experienced the original
@@ -184,10 +160,7 @@ Honestly, I debated whether this game should be higher on my backlog, possibly
 in the number 1 spot, but seeing the next two games just left me feeling more
 excited to play them so I had to push Final Fantasy Tactics down to here.
 
-## 2. Grand Knights History
-
-[![](https://i.imgur.com/KQOXApYm.png)](https://i.imgur.com/KQOXApY.png)
-{: .image-right }
+## 2. {% include game.html game="Grand Knights History" %}
 
 A Vanillaware-developed game, Grand Knights History sports the recognizable art
 style and character designs that Vanillaware is known for. Though it never
@@ -205,12 +178,10 @@ turn-based system.
 The fantasy theme, presentation, and turn-based battle system all look very
 appealing to me.
 
-## 1. Jeanne d'Arc <i class="fa fa-check" aria-hidden="true"></i>
+## 1. {% include game.html game="Jeanne d'Arc" checkmark="" %}
 
-[![](https://i.imgur.com/P9o5K0nm.jpg)](https://i.imgur.com/P9o5K0n.jpg)
-{: .image-right }
-
-**Edit**: Finished! You can [read my review of it here]({% post_url 2019-04-27-jeanne-d-arc-review %}).
+**Edit**: Finished! You
+can [read my review of it here]({% post_url 2019-04-27-jeanne-d-arc-review %}).
 
 The art of this game intrigues me. I'm also a sucker for isometric games, and
 Jeanne d'Arc delivers that while also giving me heavy Final Fantasy Tactics

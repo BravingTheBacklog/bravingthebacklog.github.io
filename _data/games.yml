@@ -416,7 +416,7 @@ Chrono Trigger:
   image: "https://i.imgur.com/CcFx2D0.jpg"
   thumb: "https://i.imgur.com/CcFx2D0m.jpg"
   platform: "Nintendo DS"
-  developer: "Square / TOSE"
+  developer: "Square / Tose"
   release: "November 25, 2008"
 
 The World Ends with You:
@@ -789,55 +789,93 @@ Fire Emblem Three Houses:
 
 PoPoLoCrois:
   title: "PoPoLoCrois"
-  thumb: "https://i.imgur.com/ptjCshtt.jpg"
+  thumb: "https://i.imgur.com/ptjCshtm.jpg"
   image: "https://i.imgur.com/ptjCsht.jpg"
+  imagesize: "third"
+  platform: "PlayStation Portable"
+  developer: "epics"
+  release: "December 6, 2005"
 
 Metal Gear Acid:
   title: "Metal Gear Acid"
   thumb: "https://i.imgur.com/0G1ypsAm.jpg"
   image: "https://i.imgur.com/0G1ypsA.jpg"
+  imagesize: "third"
+  platform: "PlayStation Portable"
+  developer: "Konami"
+  release: "March 22, 2005"
 
 Yggdra Union We'll Never Fight Alone:
   title: "Yggdra Union: We'll Never Fight Alone"
   thumb: "https://i.imgur.com/GHG8SAlm.jpg"
   image: "https://i.imgur.com/GHG8SAl.jpg"
+  imagesize: "third"
+  platform: "PlayStation Portable"
+  developer: "Sting Entertainment"
+  release: "September 16, 2008"
 
 Star Ocean First Departure:
   title: "Star Ocean: First Departure"
   thumb: "https://i.imgur.com/E0pWsCKm.jpg"
   image: "https://i.imgur.com/E0pWsCK.jpg"
+  imagesize: "third"
+  platform: "PlayStation Portable"
+  developer: "tri-Ace / Tose"
+  release: "October 21, 2008"
 
 Class of Heroes 2:
   title: "Class of Heroes 2"
   thumb: "https://i.imgur.com/lobl6I0m.png"
   image: "https://i.imgur.com/lobl6I0.png"
+  imagesize: "third"
+  platform: "PlayStation Portable"
+  developer: "Acquire"
+  release: "June 4, 2013"
 
-persona-2-innocent-sin:
+Persona 2 Innocent Sin:
   title: "Persona 2: Innocent Sin"
   thumb: "https://i.imgur.com/kd1XsBIm.jpg"
   image: "https://i.imgur.com/kd1XsBI.jpg"
+  imagesize: "third"
   platform: "PlayStation Portable"
+  developer: "Atlus"
+  release: "September 20, 2011"
 
 Brave Story New Traveler:
   title: "Brave Story: New Traveler"
   thumb: "https://i.imgur.com/dIc6cHYm.png"
   image: "https://i.imgur.com/dIc6cHY.png"
+  imagesize: "third"
+  platform: "PlayStation Portable"
+  developer: "Game Republic"
+  release: "July 31, 2007"
 
 Final Fantasy Tactics The War of the Lions:
   title: "Final Fantasy Tactics: The War of the Lions"
   thumb: "https://i.imgur.com/ExiuzMrm.jpg"
   image: "https://i.imgur.com/ExiuzMr.jpg"
+  imagesize: "third"
+  platform: "PlayStation Portable"
+  developer: "Square Enix / Tose"
+  release: "October 9, 2007"
 
 Grand Knights History:
-  developer: "Vanillaware"
   title: "Grand Knights History"
   thumb: "https://i.imgur.com/KQOXApYm.png"
   image: "https://i.imgur.com/KQOXApY.png"
+  imagesize: "third"
+  platform: "PlayStation Portable"
+  developer: "Vanillaware"
+  release: "September 1, 2011 (Japan)"
 
-jeanne-darc:
+Jeanne d'Arc:
   title: "Jeanne d'Arc"
   thumb: "https://i.imgur.com/P9o5K0nm.jpg"
   image: "https://i.imgur.com/P9o5K0n.jpg"
+  imagesize: "third"
+  platform: "PlayStation Portable"
+  developer: "Level-5"
+  release: "August 21, 2007"
 
 Star Fox 64:
   title: "Star Fox 64"
