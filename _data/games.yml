@@ -324,52 +324,81 @@ Magical Starsign:
   title: "Magical Starsign"
   image: "https://i.imgur.com/t0xY85y.jpg"
   thumb: "https://i.imgur.com/t0xY85ym.jpg"
+  platform: "Nintendo DS"
+  developer: "Brownie Brown"
+  release: "October 23, 2006"
 
 Pokémon Mystery Dungeon Explorers of Sky:
   title: "Pokémon Mystery Dungeon: Explorers of Sky"
   image: "https://i.imgur.com/KXnaI2T.jpg"
   thumb: "https://i.imgur.com/KXnaI2Tm.jpg"
+  platform: "Nintendo DS"
+  developer: "Chunsoft"
+  release: "October 12, 2009"
 
 Fullmetal Alchemist Dual Sympathy:
   title: "Fullmetal Alchemist: Dual Sympathy"
   image: "https://i.imgur.com/yUbbb2G.jpg"
   thumb: "https://i.imgur.com/yUbbb2Gm.jpg"
+  platform: "Nintendo DS"
+  developer: "Natsume"
+  release: "December 12, 2006"
 
 Advance Wars Days of Ruin:
   title: "Advance Wars: Days of Ruin"
   image: "https://i.imgur.com/nofHxwO.jpg"
   thumb: "https://i.imgur.com/nofHxwOm.jpg"
+  platform: "Nintendo DS"
+  developer: "Intelligent Systems"
+  release: "January 21, 2008"
 
 Professor Layton and the Curious Village:
   title: "Professor Layton and the Curious Village"
   image: "https://i.imgur.com/wiNW9zK.jpg"
   thumb: "https://i.imgur.com/wiNW9zKm.jpg"
+  platform: "Nintendo DS"
+  developer: "Level-5"
+  release: "February 10, 2008"
 
 Dragon Quest V:
   title: "Dragon Quest V"
   image: "https://i.imgur.com/ACVVpNl.jpg"
   thumb: "https://i.imgur.com/ACVVpNlm.jpg"
+  platform: "Nintendo DS"
+  developer: "ArtePiazza"
+  release: "February 17, 2009"
 
 Fire Emblem New Mystery of the Emblem:
   title: "Fire Emblem: New Mystery of the Emblem"
   image: "https://i.imgur.com/mdMSE71.jpg"
   thumb: "https://i.imgur.com/mdMSE71m.jpg"
+  platform: "Nintendo DS"
+  developer: "Intelligent Systems"
+  release: "July 15, 2010 (Japan)"
 
 Luminous Arc:
   title: "Luminous Arc"
   image: "https://i.imgur.com/PCf8zjr.jpg"
   thumb: "https://i.imgur.com/PCf8zjrm.jpg"
+  developer: "Imageepoch"
+  release: "August 14, 2007"
+  platform: "Nintendo DS"
 
 Chrono Trigger:
   title: "Chrono Trigger"
   image: "https://i.imgur.com/CcFx2D0.jpg"
   thumb: "https://i.imgur.com/CcFx2D0m.jpg"
+  platform: "Nintendo DS"
+  developer: "Square / TOSE"
+  release: "November 25, 2008"
 
 The World Ends with You:
   title: "The World Ends with You"
   image: "https://i.imgur.com/VUD4Ztf.jpg"
   thumb: "https://i.imgur.com/VUD4Ztfm.jpg"
   platform: "Nintendo DS"
+  developer: "Square Enix & Jupiter"
+  release: "April 22, 2008"
 
 Alan Wake:
   title: "Alan Wake"
@@ -577,12 +606,13 @@ The Legend of Zelda A Link Between Worlds:
   thumb: "https://i.imgur.com/2ORSfaHm.jpg"
   developer: "Nintendo EAD"
   release: "November 22, 2013"
+  platform: "Nintendo 3DS"
 
 Luigi's Mansion Dark Moon:
   title: "Luigi's Mansion: Dark Moon"
   image: "https://i.imgur.com/NSnyBeY.jpg"
   thumb: "https://i.imgur.com/NSnyBeYm.jpg"
-
+  platform: "Nintendo 3DS"
   developer: "Next Level Games & Nintendo SPD"
   release: "March 24, 2013"
 
@@ -592,6 +622,7 @@ Shin Megami Tensei IV:
   thumb: "https://i.imgur.com/Zsf3Jjom.jpg"
   developer: "Atlus"
   release: "July 16, 2013"
+  platform: "Nintendo 3DS"
 
 Bravely Default:
   title: "Bravely Default"
@@ -599,6 +630,7 @@ Bravely Default:
   thumb: "https://i.imgur.com/xnfrFg8m.jpg"
   developer: "Silicon Studio"
   release: "February 7, 2014"
+  platform: "Nintendo 3DS"
 
 Dragon Quest VIII:
   title: "Dragon Quest VIII: Journey of the Cursed King"
@@ -622,6 +654,7 @@ Radiant Historia Perfect Chronology:
   thumb: "https://i.imgur.com/RTmXTRkm.jpg"
   developer: "Atlus"
   release: "February 13, 2018"
+  platform: "Nintendo 3DS"
 
 Xenoblade Chronicles 3D:
   title: "Xenoblade Chronicles 3D"

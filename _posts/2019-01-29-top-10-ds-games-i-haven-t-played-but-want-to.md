@@ -4,7 +4,7 @@ title: Top 10 DS Games I Want To Play
 author: bsinky
 description: My personal top 10 DS Games I haven't played but would like to.
 date: 2019-01-30
-modified: 2019-01-30
+modified: 2019-09-09
 categories: [List]
 tags: [Top 10,DS,Backlog]
 image:
@@ -28,11 +28,7 @@ first time around! Here are my **Top 10 DS Games I Want To Play**!
 
 <!--more-->
 
-## 10. Magical Starsign
-
-<figure class="half center">
-    <a href="https://i.imgur.com/t0xY85y.jpg"><img src="https://i.imgur.com/t0xY85ym.jpg"/></a>
-</figure>
+## 10. {% include game.html game="Magical Starsign" %}
 
 I remember seeing an ad for this game somewhere, maybe in Nintendo Power, a long
 time ago. Of course I forgot about it after a while, but I really wanted to try
@@ -49,11 +45,7 @@ myself, "that seems kind of neat."
 The one thing I've heard about this game is that it's pretty easy, but that
 doesn't sound like something I would mind.
 
-## 9. Pokémon Mystery Dungeon: Explorers of Sky
-
-<figure class="half center">
-    <a href="https://i.imgur.com/KXnaI2T.jpg"><img src="https://i.imgur.com/KXnaI2Tm.jpg"/></a>
-</figure>
+## 9. {% include game.html game="Pokémon Mystery Dungeon Explorers of Sky" %}
 
 Sometimes I like the idea of playing a rogue-like. My understanding of the
 Pokémon Mystery Dungeon series is that they're rogue-likes, and since I also
@@ -62,22 +54,14 @@ like Pokémon, this is a good game to fill that craving, right?
 I've never played a game in the Pokémon Mystery Dungeon series before, if that
 wasn't clear. I'm hoping this one is a good introduction to it!
 
-## 8. Fullmetal Alchemist: Dual Sympathy
-
-<figure class="half center">
-    <a href="https://i.imgur.com/yUbbb2G.jpg"><img src="https://i.imgur.com/yUbbb2Gm.jpg"/></a>
-</figure>
+## 8. {% include game.html game="Fullmetal Alchemist Dual Sympathy" %}
 
 This game might be bad. The review scores aren't great, sitting at 58 on
 Metacritic as of this writing. But I *really* enjoyed Fullmetal Alchemist's 2009
 anime, and the Brotherhood anime, so I'm willing to give this game a shot based
 on that. I may end up dropping it, but I want to at least give it a try!
 
-## 7. Advance Wars: Days of Ruin
-
-<figure class="half center">
-    <a href="https://i.imgur.com/nofHxwO.jpg"><img src="https://i.imgur.com/nofHxwOm.jpg"/></a>
-</figure>
+## 7. {% include game.html game="Advance Wars Days of Ruin" %}
 
 I loved Advance Wars Dual Strike, so naturally when I had my original DS I also
 got this game. However, I never finished it! The changed art style, tone, and
@@ -85,11 +69,7 @@ mechanics threw me for a loop the first time, but I think if I approach this
 game as a standalone title, and don't expect it to be like the previous Advance
 Wars game, I'll be able to enjoy it more.
 
-## 6. Professor Layton and the Curious Village
-
-<figure class="half center">
-    <a href="https://i.imgur.com/wiNW9zK.jpg"><img src="https://i.imgur.com/wiNW9zKm.jpg"/></a>
-</figure>
+## 6. {% include game.html game="Professor Layton and the Curious Village" %}
 
 I recently got this game as a gift for a friend, and they loved it! So, now I'm
 pretty curious about the series as well.
@@ -99,11 +79,7 @@ presentation, clever puzzles...all of that just sounds really exciting! I
 haven't played any of the game in the Professor Layton series, but I'm looking
 forward to my first foray into the series!
 
-## 5. Dragon Quest V
-
-<figure class="half center">
-    <a href="https://i.imgur.com/ACVVpNl.jpg"><img src="https://i.imgur.com/ACVVpNlm.jpg"/></a>
-</figure>
+## 5. {% include game.html game="Dragon Quest V" %}
 
 Okay, this one's a bit flexible. I want to try one of the Dragon Quest DS
 remakes, IV, V, or VI...but I have no idea which one I should start with.
@@ -120,11 +96,7 @@ Dragon Quest V might not necessarily be my first main Dragon Quest game though.
 By the time I get around to playing it, I may have played a different main
 series title...the 3DS remake of VIII is pretty high up on my list!
 
-## 4. Fire Emblem: New Mystery of the Emblem
-
-<figure class="half center">
-    <a href="https://i.imgur.com/mdMSE71.jpg"><img src="https://i.imgur.com/mdMSE71m.jpg"/></a>
-</figure>
+## 4. {% include game.html game="Fire Emblem New Mystery of the Emblem" %}
 
 I remember thinking Fire Emblem Shadow Dragon was okay on the DS. After recently
 learning that New Mystery of the Emblem also existed as a Japanese exclusive,
@@ -134,33 +106,21 @@ number of improvements over Shadow Dragon!
 Side note, a *huge* thanks to all the dedicated fans around the world who've
 worked to translate region exclusives like this one!
 
-## 3. Luminous Arc
-
-<figure class="half center">
-    <a href="https://i.imgur.com/PCf8zjr.jpg"><img src="https://i.imgur.com/PCf8zjrm.jpg"/></a>
-</figure>
+## 3. {% include game.html game="Luminous Arc" %}
 
 Back when the DS was in full swing, I heard of this game. I was interested in it
 because it seemed like it might be similar to Final Fantasy Tactics Advance in
 some ways, a game I loved. But, I never got a chance to try it. Hoping to remedy
 that in the near-ish future!
 
-## 2. Chrono Trigger
-
-<figure class="half center">
-    <a href="https://i.imgur.com/CcFx2D0.jpg"><img src="https://i.imgur.com/CcFx2D0m.jpg"/></a>
-</figure>
+## 2. {% include game.html game="Chrono Trigger" %}
 
 Chrono Trigger, originally released in 1995 on the SNES, is a classic JRPG in
 the eyes of so many. I've heard it praised so many times online. Despite all
 that, I've never played Chrono Trigger. But, I've decided the DS version is how
 I'd like to do so!
 
-## 1. The World Ends with You
-
-<figure class="half center">
-    <a href="https://i.imgur.com/VUD4Ztf.jpg"><img src="https://i.imgur.com/VUD4Ztfm.jpg"/></a>
-</figure>
+## 1. {% include game.html game="The World Ends with You" %}
 
 The World Ends with You has me *so* curious. I've heard it's pretty unique. I've
 listened to the song in the OP before, Twister, and that alone has me wanting to

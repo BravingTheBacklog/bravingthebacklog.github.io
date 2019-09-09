@@ -4,7 +4,7 @@ title: Top 10 3DS Games in my Backlog
 author: bsinky
 description: My personal list of the top 10 3DS games in my backlog
 date: 2019-04-17
-modified: 2019-07-27
+modified: 2019-09-09
 categories: [List]
 tags: [Top 10,3DS]
 image:
@@ -32,15 +32,7 @@ Picking just 10 games for this list was *tough*. Honorable mentions include the
 Yo-Kai Watch games, Ever Oasis, Kid Icarus: Uprising, the Mario & Luigi games,
 and many, many more!
 
-## 10. The Legend of Zelda: A Link Between Worlds
-
-<figure class="half center">
-    <a href="https://i.imgur.com/2ORSfaH.jpg"><img src="https://i.imgur.com/2ORSfaHm.jpg"/></a>
-    <ul>
-        <li>Developer: Nintendo EAD</li>
-        <li>Release: November 22, 2013</li>
-    </ul>
-</figure>
+## 10. {% include game.html game="The Legend of Zelda A Link Between Worlds" %}
 
 The Legend of Zelda is a franchise I always enjoy, and I've yet to play one of
 the 3DS's only original entries in the series - The Legend of Zelda: A Link
@@ -60,15 +52,7 @@ Interestingly, although it was developed in Japan, A Link Between Worlds
 actually came out *last* there, with the Japanese launch happening a month after
 the North American, European, and Australian releases.
 
-## 9. Luigi's Mansion: Dark Moon
-
-<figure class="half center">
-    <a href="https://i.imgur.com/NSnyBeY.jpg"><img src="https://i.imgur.com/NSnyBeYm.jpg"/></a>
-    <ul>
-        <li>Developer: Next Level Games & Nintendo SPD</li>
-        <li>Release: March 24, 2013</li>
-    </ul>
-</figure>
+## 9. {% include game.html game="Luigi's Mansion Dark Moon" %}
 
 Known simply as Luigi's Mansion 2 everywhere but North America, I can't for the
 life of me figure out why the North American region had to rename it "Luigi's
@@ -79,15 +63,7 @@ long time coming, and though I didn't have a 3DS when it released in 2013, I do
 now, and it's only a matter of time before I partake in more ghost-hunting as
 the most green Mario brother!
 
-## 8. Shin Megami Tensei IV
-
-<figure class="half center">
-    <a href="https://i.imgur.com/Zsf3Jjo.jpg"><img src="https://i.imgur.com/Zsf3Jjom.jpg"/></a>
-    <ul>
-        <li>Developer: Atlus</li>
-        <li>Release: July 16, 2013</li>
-    </ul>
-</figure>
+## 8. {% include game.html game="Shin Megami Tensei IV" %}
 
 Shin Megami Tensei (SMT) is known for its turn-based combat, and later games
 have added some spice to this by introducing the Press Turn combat system.
@@ -109,15 +85,7 @@ very enticing because it's on a handheld! Of course, if I wait long enough Shin
 Megami Tensei V will come out on the Switch, which is both portable and playable
 on the big screen...that sounds enticing as well!
 
-## 7. Bravely Default
-
-<figure class="half center">
-    <a href="https://i.imgur.com/xnfrFg8.jpg"><img src="https://i.imgur.com/xnfrFg8m.jpg"/></a>
-    <ul>
-        <li>Developer: Silicon Studio</li>
-        <li>Release: February 7, 2014</li>
-    </ul>
-</figure>
+## 7. {% include game.html game="Bravely Default" %}
 
 Bravely Default seems like a nice JRPG very reminiscent of early Final Fantasy
 titles, but with modern graphics and niceties. 
@@ -139,15 +107,7 @@ All of this reminds me of Final Fantasy III when I played a bit of that on the
 DS. The job system is like Final Fantasy Tactics Advance in some ways, which
 sounds great. I'm looking forward to giving Bravely Default a try someday!
 
-## 6. Dragon Quest VIII
-
-<figure class="half center">
-    <a href="https://i.imgur.com/72JZffQ.jpg"><img src="https://i.imgur.com/72JZffQm.jpg"/></a>
-    <ul>
-        <li>Developer: Square Enix</li>
-        <li>Release: January 20, 2017</li>
-    </ul>
-</figure>
+## 6. {% include game.html game="Dragon Quest VIII" %}
 
 I never played the PS2 original, and though there are some drawbacks to the 3DS
 port mostly due to the reduced resolution, the selling point for me is this: the
@@ -164,15 +124,7 @@ Dragon Quest Monsters spin-off titles though, Dragon Warrior Monsters 2: Tara's
 Adventure on the Game Boy Color. There's a good chance VIII will be my entry
 point in the main series!
 
-## 5. Radiant Historia: Perfect Chronology
-
-<figure class="half center">
-    <a href="https://i.imgur.com/RTmXTRk.jpg"><img src="https://i.imgur.com/RTmXTRkm.jpg"/></a>
-    <ul>
-        <li>Developer: Atlus</li>
-        <li>Release: February 13, 2018</li>
-    </ul>
-</figure>
+## 5. {% include game.html game="Radiant Historia Perfect Chronology" %}
 
 Radiant Historia: Perfect Chronology is an enhanced port of the DS original,
 Radiant Historia. In both, you follow the adventures of Stocke. The continent
@@ -189,15 +141,7 @@ at the story, and the turn-based battle system. Battles take place on a grid as
 well, adding an extra level of strategy to fights. Given all the praise I've
 heard of it, I just *have* to try it out.
 
-## 4. Xenoblade Chronicles 3D
-
-<figure class="half center">
-    <a href="https://i.imgur.com/O51Sgq4.jpg"><img src="https://i.imgur.com/O51Sgq4m.jpg"/></a>
-    <ul>
-        <li>Developer: Monolith Soft & Monster Games</li>
-        <li>Release: April 10, 2015</li>
-    </ul>
-</figure>
+## 4. {% include game.html game="Xenoblade Chronicles 3D" %}
 
 Xenoblade Chronicles originally released on the Wii in 2012. It's an open world
 action RPG. Xenoblade Chronicles 3D is a port of the game to the New 3DS, and
@@ -211,15 +155,7 @@ the mechanical Mechon race from Mechonis. The protagonist, Shulk, is one of
 those from Bionis, and the game follows his quest for revenge against the Mechon
 for attacking his colony.
 
-## 3. Persona Q2: New Cinema Labyrinth <i class="fa fa-check" aria-hidden="true"></i>
-
-<figure class="half center">
-    <a href="https://i.imgur.com/CpRizhq.jpg"><img src="https://i.imgur.com/CpRizhqm.jpg"/></a>
-    <ul>
-        <li>Developer: Atlus</li>
-        <li>Release: June 4, 2019</li>
-    </ul>
-</figure>
+## 3. {% include game.html game="Persona Q2 New Cinema Labyrinth" checkmark="" %}
 
 **Edit:** I've finished Persona Q2! [Read the review here!]({% post_url 2019-07-27-persona-q2-review %})
 
@@ -233,15 +169,7 @@ for the first time.
 Supposedly, the development team has made gameplay improvements and difficulty
 balances, so maybe I will enjoy Persona Q2's gameplay as well as its characters.
 
-## 2. Fire Emblem Echoes: Shadows of Valentia <i class="fa fa-check" aria-hidden="true"></i>
-
-<figure class="half center">
-    <a href="https://i.imgur.com/J0CobZI.jpg"><img src="https://i.imgur.com/J0CobZIm.jpg"/></a>
-    <ul>
-        <li>Developer: Intelligent Systems</li>
-        <li>Release: May 19, 2017</li>
-    </ul>
-</figure>
+## 2. {% include game.html game="Fire Emblem Echoes Shadows of Valentia" checkmark="" %}
 
 **Edit:** I've finished Shadows of Valentia!
 [Here's my review!]({% post_url 2019-07-20-fire-emblem-echoes-shadows-of-valentia-review %})
@@ -259,15 +187,7 @@ game officially released in English! I'm hoping to do this before Fire Emblem:
 Three Houses comes out on the Switch, so that I'm ready to tackle that game as
 well.
 
-## 1. Fire Emblem Fates: Conquest <i class="fa fa-check" aria-hidden="true"></i>
-
-<figure class="half center">
-    <a href="https://i.imgur.com/1PplUJN.jpg"><img src="https://i.imgur.com/1PplUJNm.jpg"/></a>
-    <ul>
-        <li>Developer: Intelligent Systems & Nintendo SPD</li>
-        <li>Release: February 19, 2016</li>
-    </ul>
-</figure>
+## 1. {% include game.html game="Fire Emblem Fates Conquest" checkmark="" %}
 
 **Edit:** I've finished not only Conquest, but all 3 versions of Fire Emblem
 Fates!
