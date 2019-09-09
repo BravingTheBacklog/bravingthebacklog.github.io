@@ -4,7 +4,7 @@ title: Top 10 GameCube Games In My Backlog
 author: bsinky
 description: My personal list of the Top 10 GameCube games in my backlog
 date: 2019-02-20
-modified: 2019-02-20
+modified: 2019-09-09
 categories: [List]
 tags: [Top 10,GameCube]
 image:
@@ -20,10 +20,7 @@ play on Nintendo's iconic cube-esque console? Well, read on to discover the Top
 
 <!--more-->
 
-## 10. Doshin the Giant
-
-[![](https://i.imgur.com/ohSSGV6t.jpg)](https://i.imgur.com/ohSSGV6.jpg)
-{: .image-right }
+## 10. {% include game.html game="Doshin the Giant" %}
 
 My earliest memory of learning this game existed comes from Super Smash Bros.
 Melee, where there's a trophy of the Giant. I thought the giant looked kind of
@@ -37,10 +34,7 @@ region, I never was able to play it!
 It remains a GameCube game I am interested in trying, due to my inability to
 play it when it originally came out.
 
-## 9. Scooby-Doo! Night of 100 Frights
-
-[![](https://i.imgur.com/kFvYTT8t.png)](https://i.imgur.com/kFvYTT8.png)
-{: .image-right }
+## 9. {% include game.html game="Scooby-Doo! Night of 100 Frights" %}
 
 I think I saw an ad for this as a kid. At the time I thought it was so cool
 because I liked Scooby-Doo, and seeing the characters in 3D in a video game was
@@ -52,10 +46,7 @@ It might be a passable game, *maybe* even a *good* game, but I don't think
 "Scooby-Doo! Night of 100 Frights" is liable to be anyone's Game of the Year or
 anything like that.
 
-## 8. Baldur's Gate Dark Alliance
-
-[![](https://i.imgur.com/YKiWvVOt.jpg)](https://i.imgur.com/YKiWvVO.jpg)
-{: .image-right }
+## 8. {% include game.html game="Baldur's Gate Dark Alliance" %}
 
 Honestly my reasons for wanting to play this game seem pretty flimsy. I
 recognize the Baldur's Gate series, having heard great things about the PC
@@ -65,10 +56,7 @@ including this one. The co-op mode also sounds like it'd be fun, but I've yet to
 lure someone in to play this one with me. Maybe PatronusLight and I can play
 through Dark Alliance together someday!
 
-## 7. Battalion Wars
-
-[![](https://i.imgur.com/WaNYGUgt.jpg)](https://i.imgur.com/WaNYGUg.jpg)
-{: .image-right }
+## 7. {% include game.html game="Battalion Wars" %}
 
 For some reason, I never had this game. But, I'm almost positive I had the
 sequel on the Wii, either that or I borrowed it from a friend for an extended
@@ -80,10 +68,7 @@ if that was due to a childhood lack of skill or legitimate difficulty.
 
 Either way, the first Battalion Wars has always piqued my interest.
 
-## 6. Phantasy Star Online Episode I & II Plus
-
-[![](https://i.imgur.com/wlkzBBbt.png)](https://i.imgur.com/wlkzBBb.png)
-{: .image-right }
+## 6. {% include game.html game="Phantasy Star Online Episode I II Plus" %}
 
 Phantasy Star Online was originally a Dreamcast game, before being ported to the
 GameCube as "Phantasy Star Online Episode I & II," and featured additional
@@ -104,10 +89,7 @@ a lot of overhead and lags/stutters would hurt the experience. So that may never
 happen, but maybe PatronusLight and I can try this in local split-screen
 someday.
 
-## 5. Evolution Worlds
-
-[![](https://i.imgur.com/V19RLMHt.jpg)](https://i.imgur.com/V19RLMH.jpg)
-{: .image-right }
+## 5. {% include game.html game="Evolution Worlds" %}
 
 This is the second game on this list that was originally a Dreamcast game. Or
 rather, it was originally *two* Dreamcast games. After the death of the
@@ -124,10 +106,7 @@ Evolution Worlds to be more like the 8.0 User Score than the 63 aggregate critic
 score.
 
 
-## 4. Second Sight
-
-[![](https://i.imgur.com/OezsgSVt.png)](https://i.imgur.com/OezsgSV.png)
-{: .image-right }
+## 4. {% include game.html game="Second Sight" %}
 
 Second sight seems like another game I must have heard about in Nintendo Power,
 or Game Informer, or some similar gaming magazine. I remember thinking the
@@ -143,10 +122,7 @@ Hopefully I'll remedy that someday and get my fix of psychic-power-infused
 stealth action! I mean, who doesn't want psychic powers, right? ...It's not just
 me, right?
 
-## 3. Viewtiful Joe
-
-[![](https://i.imgur.com/3TaPAl0t.png)](https://i.imgur.com/3TaPAl0.png)
-{: .image-right }
+## 3. {% include game.html game="Viewtiful Joe" %}
 
 This side-scrolling beat 'em up released in 2003 to critical acclaim, and was
 commercially successful enough to spawn a few sequels and even manga and anime
@@ -162,10 +138,7 @@ director yelling "Cut, cut, cut!" when you lose all your health and have to
 restart. That happened to me a lot in the demo. I was not good at this game!
 Maybe when I start playing the full version of the game, I can redeem myself!
 
-## 2. Baten Kaitos: Eternal Wings and the Lost Ocean
-
-[![](https://i.imgur.com/QRPrVMCt.png)](https://i.imgur.com/QRPrVMC.png)
-{: .image-right }
+## 2. {% include game.html game="Baten Kaitos Eternal Wings and the Lost Ocean" %}
 
 Card-based battles. There's a system you don't see every day. That's exactly
 what Baten Kaitos: Eternal Wings and the Lost Ocean brings to the table. I've
@@ -180,10 +153,7 @@ I've actually briefly played Baten Kaitos before a few years ago, I wanted to
 see what the card mechanics were like. What I played, I enjoyed, and I'm looking
 forward to picking up this game for real sometime!
 
-## 1. Skies of Arcadia Legends
-
-[![](https://i.imgur.com/hd1zLbMt.jpg)](https://i.imgur.com/hd1zLbM.jpg)
-{: .image-right }
+## 1. {% include game.html game="Skies of Arcadia Legends" %}
 
 I know Skies of Arcadia was originally a Sega Dreamcast game, released in 2000.
 Skies of Arcadia Legends is mostly a straight-up port to the GameCube, with a

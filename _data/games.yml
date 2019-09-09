@@ -27,24 +27,36 @@ Doshin the Giant:
   platform: "Nintendo GameCube"
   image: "https://i.imgur.com/ohSSGV6.jpg"
   thumb: "https://i.imgur.com/ohSSGV6m.jpg"
+  developer: "Param & Nintendo"
+  release: "September 20, 2002 (Europe)"
+  imagesize: "third"
 
-Scooby Doo Night of 100 Frights:
+Scooby-Doo! Night of 100 Frights:
   title: "Scooby-Doo! Night of 100 Frights"
   platform: "Nintendo GameCube"
   image: "https://i.imgur.com/kFvYTT8.png"
-  thumb: "https://i.imgur.com/kFvYTT8t.png"
+  thumb: "https://i.imgur.com/kFvYTT8m.png"
+  developer: "Heavy Iron Studios"
+  release: "September 16, 2002"
+  imagesize: "third"
 
-Baldur's Gate Dark Alliace:
+Baldur's Gate Dark Alliance:
   title: "Baldur's Gate Dark Alliance"
   platform: "Nintendo GameCube"
   image: "https://i.imgur.com/YKiWvVO.jpg"
   thumb: "https://i.imgur.com/YKiWvVOm.jpg"
+  developer: "Snowblind Studios"
+  release: "November 20, 2002"
+  imagesize: "third"
 
 Battalion Wars:
   title: "Battalion Wars"
   platform: "Nintendo GameCube"
   image: "https://i.imgur.com/WaNYGUg.jpg"
   thumb: "https://i.imgur.com/WaNYGUgm.jpg"
+  developer: "Kuju Entertainment"
+  release: "September 19, 2005"
+  imagesize: "third"
 
 Phantasy Star Online Episode I II Plus:
   title: "Phantasy Star Online Episode I & II Plus"
@@ -60,30 +72,45 @@ Evolution Worlds:
   platform: "Nintendo GameCube"
   image: "https://i.imgur.com/V19RLMH.jpg"
   thumb: "https://i.imgur.com/V19RLMHm.jpg"
+  developer: "Sting Entertainment"
+  release: "December 2, 2002"
+  imagesize: "third"
 
 Second Sight:
   title: "Second Sight"
   platform: "Nintendo GameCube"
   image: "https://i.imgur.com/OezsgSV.png"
-  thumb: "https://i.imgur.com/OezsgSVt.png"
+  thumb: "https://i.imgur.com/OezsgSVm.png"
+  developer: "Free Radical Design"
+  release: "September 21, 2004"
+  imagesize: "third"
 
 Viewtiful Joe:
   title: "Viewtiful Joe"
   platform: "Nintendo GameCube"
   image: "https://i.imgur.com/3TaPAl0.png"
-  thumb: "https://i.imgur.com/3TaPAl0t.png"
+  thumb: "https://i.imgur.com/3TaPAl0m.png"
+  developer: "Capcom"
+  release: "October 7, 2003"
+  imagesize: "third"
 
-Baten Kaitos:
+Baten Kaitos Eternal Wings and the Lost Ocean:
   title: "Baten Kaitos: Eternal Wings and the Lost Ocean"
   platform: "Nintendo GameCube"
   image: "https://i.imgur.com/QRPrVMC.png"
-  thumb: "https://i.imgur.com/QRPrVMCt.png"
+  thumb: "https://i.imgur.com/QRPrVMCm.png"
+  developer: "Monolith Soft & tri-Crescendo"
+  release: "November 16, 2004"
+  imagesize: "third"
 
 Skies of Arcadia Legends:
   title: "Skies of Arcadia Legends"
   platform: "Nintendo GameCube"
   image: "https://i.imgur.com/hd1zLbM.jpg"
   thumb: "https://i.imgur.com/hd1zLbMm.jpg"
+  developer: "Overworks & Point of View Software"
+  release: "January 27, 2003"
+  imagesize: "third"
 
 ActRaiser:
   title: "ActRaiser"
