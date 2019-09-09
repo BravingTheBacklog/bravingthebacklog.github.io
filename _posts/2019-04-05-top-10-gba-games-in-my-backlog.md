@@ -4,7 +4,7 @@ title: Top 10 GBA Games in my Backlog
 author: bsinky
 description: A list of the top 10 Game Boy Advance games in my backlog, that I am most interested to play
 date: 2019-04-05
-modified: 2019-04-05
+modified: 2019-09-09
 categories: [List]
 tags: [Top 10,Game Boy Advance]
 image:
@@ -23,15 +23,7 @@ Japan, never having seen an official English release. We'll see some of both
 types in this list!
 
 <!--more-->
-## 10. The Legend of Zelda: The Minish Cap
-
-<figure class="half center">
-    <a href="https://i.imgur.com/uAUCmyr.jpg"><img src="https://i.imgur.com/uAUCmyrm.jpg"/></a>
-    <ul>
-      <li>Developer: Capcom / Flagship</li>
-      <li>Release: January 10, 2005</li>
-    </ul>
-</figure>
+## 10. {% include game.html game="The Legend of Zelda The Minish Cap" %}
 
 I've partially played through The Legend of Zelda: The Minish Cap before, but
 didn't end up finishing it for whatever reason. I remember enjoying it, at a
@@ -44,15 +36,7 @@ environments, and enemies look quite charming, but because I've played some of
 it before I'm not *quite* as excited to play The Minish Cap compared to the
 other games in this list, since it's not wholly new to me.
 
-## 9. Summon Night: Swordcraft Story
-
-<figure class="half center">
-    <a href="https://i.imgur.com/Xd2Ede9.jpg"><img src="https://i.imgur.com/Xd2Ede9m.jpg"/></a>
-    <ul>
-      <li>Developer: Flight-Plan</li>
-      <li>Release: July 26, 2006</li>
-    </ul>
-</figure>
+## 9. {% include game.html game="Summon Night Swordcraft Story" %}
 
 Our first title available only on the GBA, never having seen a Virtual Console
 release, is Summon Night: Swordcraft Story. This is a part of the Summon Night
@@ -69,15 +53,7 @@ materials.
 clocking in at 14 hours for the Main Story. That sounds kind of nice actually,
 as I could probably play through this over a few weeks easily!
 
-## 8. Mother 3
-
-<figure class="half center">
-    <a href="https://i.imgur.com/cirgOMc.jpg"><img src="https://i.imgur.com/cirgOMcm.jpg"/></a>
-    <ul>
-      <li>Developer: Brownie Brown / HAL Laboratory</li>
-      <li>Release: April 20, 2006 (Japan)</li>
-    </ul>
-</figure>
+## 8. {% include game.html game="Mother 3" %}
 
 This one comes with the caveat that I don't want to play it before I've played
 Earthbound (another classic game which I tragically haven't finished), but
@@ -97,15 +73,7 @@ English release! Thanks to a dedicated group of fans, it did receive a full
 English translation in 2008. Mother 3 was released on the Wii U Virtual Console
 in Japan.
 
-## 7. DemiKids: Dark Version
-
-<figure class="half center">
-    <a href="https://i.imgur.com/6mEEjby.jpg"><img src="https://i.imgur.com/6mEEjbym.jpg"/></a>
-    <ul>
-      <li>Developer: Multimedia Intelligence Transfer</li>
-      <li>Release: October 7, 2003</li>
-    </ul>
-</figure>
+## 7. {% include game.html game="DemiKids Dark Version" %}
 
 DemiKids: Dark Version and DemiKids: Light Version are more titles only released
 on the GBA itself.
@@ -130,15 +98,7 @@ demon fusion, and conversing with demons to get them to join your party. I've
 enjoyed these aspects in Persona quite a bit, so if DemiKids is at all similar
 to that I should be a happy camper.
 
-## 6. Fire Emblem: The Binding Blade
-
-<figure class="half center">
-    <a href="https://i.imgur.com/saiN3Vp.jpg"><img src="https://i.imgur.com/saiN3Vpm.jpg"/></a>
-    <ul>
-      <li>Developer: Intelligent Systems</li>
-      <li>Release: March 29, 2002 (Japan)</li>
-    </ul>
-</figure>
+## 6. {% include game.html game="Fire Emblem The Binding Blade" %}
 
 Fire Emblem: Fūin no Tsurugi, translated as either Fire Emblem: The Sword of
 Seals or Fire Emblem: The Binding Blade, was the first Fire Emblem game released
@@ -155,15 +115,7 @@ characters have changed between the two titles! Also, I'll finally get to see
 what Roy is like in his game, after having been introduced to him years ago when
 I played Super Smash Bros. Melee on the GameCube.
 
-## 5. Advance Wars
-
-<figure class="half center">
-    <a href="https://i.imgur.com/jzAD4mX.jpg"><img src="https://i.imgur.com/jzAD4mXm.jpg"/></a>
-    <ul>
-      <li>Developer: Intelligent Systems</li>
-      <li>Release: September 10, 2001</li>
-    </ul>
-</figure>
+## 5. {% include game.html game="Advance Wars" %}
 
 Despite my deep love of Advance Wars Dual Strike on the DS, I never went back to
 the game that introduced the series to the western world. Which is strange,
@@ -177,15 +129,7 @@ usage of the 2 screens. Having just one screen on the GBA was just too jarring
 for the young bsinky, so I never really gave the original games a chance. Well,
 I'd like to rectify that someday!
 
-## 4. Mega Man Battle Network
-
-<figure class="half center">
-    <a href="https://i.imgur.com/KATRNuv.jpg"><img src="https://i.imgur.com/KATRNuvm.jpg"/></a>
-    <ul>
-      <li>Developer: Capcom</li>
-      <li>Release: October 31, 2001</li>
-    </ul>
-</figure>
+## 4. {% include game.html game="Mega Man Battle Network" %}
 
 Mega Man Battle Network takes place in modern times, in an interconnected world
 driven by the Internet. In that regard, it's a lot like the modern world.
@@ -201,15 +145,7 @@ always looked intriguing, both the character designs and the gameplay, but I
 honestly don't know much about it. I do know there are a *ton* of sequels to it
 though, so if it clicks with me I definitely know where to turn for more.
 
-## 3. Castlevania: Aria of Sorrow
-
-<figure class="half center">
-    <a href="https://i.imgur.com/7PbPWnR.jpg"><img src="https://i.imgur.com/7PbPWnRm.jpg"/></a>
-    <ul>
-      <li>Developer: Konami</li>
-      <li>Release: May 6, 2003</li>
-    </ul>
-</figure>
+## 3. {% include game.html game="Castlevania Aria of Sorrow" %}
 
 I've heard good things about this entry in the Castlevania series. While I may
 not see it praised as often as Symphony of the Night, from what I've heard Aria
@@ -219,15 +155,7 @@ After watching a video review of it on YouTube, I'm more intrigued by this entry
 in the series than ever, particularly the mechanic where you absorb the souls of
 your enemies to gain new abilities and passive skills.
 
-## 2. Kirby & the Amazing Mirror
-
-<figure class="half center">
-    <a href="https://i.imgur.com/1Ds7SRI.jpg"><img src="https://i.imgur.com/1Ds7SRIm.jpg"/></a>
-    <ul>
-      <li>Developer: HAL Laboratory / Flagship / Dimps</li>
-      <li>Release: October 18, 2004</li>
-    </ul>
-</figure>
+## 2. {% include game.html game="Kirby & the Amazing Mirror" %}
 
 Kirby games and always packed to the brim with charm and fun! I imagine The
 Amazing Mirror will prove to be no different. One thing that always strikes me
@@ -241,15 +169,7 @@ I'll likely play through this game during a lazy weekend or something. That's
 something that's pretty nice about Kirby games, they never take too long to
 beat. Short games are a nice refresher, from time to time.
 
-## 1. Golden Sun
-
-<figure class="half center">
-    <a href="https://i.imgur.com/v5d56I4.jpg"><img src="https://i.imgur.com/v5d56I4m.jpg"/></a>
-    <ul>
-      <li>Developer: Camelot Software Planning</li>
-      <li>Release: November 11, 2001</li>
-    </ul>
-</figure>
+## 1. {% include game.html game="Golden Sun" %}
 
 In the fantasy world of Weyard, everything is made up of some combination of the
 four elements: earth, fire, water, and wind. There are some in the world who

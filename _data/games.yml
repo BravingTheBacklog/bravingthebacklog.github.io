@@ -874,6 +874,7 @@ The Legend of Zelda The Minish Cap:
   thumb: "https://i.imgur.com/uAUCmyrm.jpg"
   developer: "Capcom / Flagship"
   release: "January 10, 2005"
+  platform: "Game Boy Advance"
 
 Summon Night Swordcraft Story:
   title: "Summon Night: Swordcraft Story"
@@ -881,6 +882,7 @@ Summon Night Swordcraft Story:
   thumb: "https://i.imgur.com/Xd2Ede9m.jpg"
   developer: "Flight-Plan"
   release: "July 26, 2006"
+  platform: "Game Boy Advance"
 
 Mother 3:
   title: "Mother 3"
@@ -888,6 +890,7 @@ Mother 3:
   thumb: "https://i.imgur.com/cirgOMcm.jpg"
   developer: "Brownie Brown / HAL Laboratory"
   release: "April 20, 2006 (Japan)"
+  platform: "Game Boy Advance"
 
 DemiKids Dark Version:
   title: "DemiKids: Dark Version"
@@ -895,6 +898,7 @@ DemiKids Dark Version:
   thumb: "https://i.imgur.com/6mEEjbym.jpg"
   developer: "Multimedia Intelligence Transfer"
   release: "October 7, 2003"
+  platform: "Game Boy Advance"
 
 Fire Emblem The Binding Blade:
   title: "Fire Emblem: The Binding Blade"
@@ -902,6 +906,7 @@ Fire Emblem The Binding Blade:
   thumb: "https://i.imgur.com/saiN3Vpm.jpg"
   developer: "Intelligent Systems"
   release: "March 29, 2002 (Japan)"
+  platform: "Game Boy Advance"
 
 Advance Wars:
   title: "Advance Wars"
@@ -909,6 +914,7 @@ Advance Wars:
   thumb: "https://i.imgur.com/jzAD4mXm.jpg"
   developer: "Intelligent Systems"
   release: "September 10, 2001"
+  platform: "Game Boy Advance"
 
 Mega Man Battle Network:
   title: "Mega Man Battle Network"
@@ -916,6 +922,7 @@ Mega Man Battle Network:
   thumb: "https://i.imgur.com/KATRNuvm.jpg"
   developer: "Capcom"
   release: "October 31, 2001"
+  platform: "Game Boy Advance"
 
 Castlevania Aria of Sorrow:
   title: "Castlevania: Aria of Sorrow"
@@ -923,6 +930,7 @@ Castlevania Aria of Sorrow:
   thumb: "https://i.imgur.com/7PbPWnRm.jpg"
   developer: "Konami"
   release: "May 6, 2003"
+  platform: "Game Boy Advance"
 
 Kirby & the Amazing Mirror:
   title: "Kirby & the Amazing Mirror"
@@ -930,6 +938,7 @@ Kirby & the Amazing Mirror:
   thumb: "https://i.imgur.com/1Ds7SRIm.jpg"
   developer: "HAL Laboratory / Flagship / Dimps"
   release: "October 18, 2004"
+  platform: "Game Boy Advance"
 
 Golden Sun:
   title: "Golden Sun"
