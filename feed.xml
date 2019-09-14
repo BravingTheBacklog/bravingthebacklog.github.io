@@ -14,6 +14,10 @@ layout: null
   <uri>{{ site.url }}/</uri>
   {% if site.owner.email %}<email>{{ site.owner.email }}</email>{% endif %}
 </author>
+<icon>/favicon.png</icon>
+<logo>/rsslogo.jpg</logo>
+<category term="video game"/>
+<category term="entertainment"/>
 {% for post in site.posts limit:20 %}
 
 <entry>
@@ -32,6 +36,7 @@ layout: null
     {{ post.content | xml_escape }}
     {% include feed-footer.html %}
   </content>
+  {% if post.description %}<summary>{{ post.description | xml_escape }}</summary>{% endif %}
 </entry>
 {% endfor %}
 </feed>
