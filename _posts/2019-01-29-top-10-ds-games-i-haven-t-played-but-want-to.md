@@ -4,7 +4,7 @@ title: Top 10 DS Games I Want To Play
 author: bsinky
 description: My personal top 10 DS Games I haven't played but would like to.
 date: 2019-01-30
-modified: 2019-09-09
+modified: 2019-09-13
 categories: [List]
 tags: [Top 10,DS,Backlog]
 image:
@@ -120,7 +120,9 @@ the eyes of so many. I've heard it praised so many times online. Despite all
 that, I've never played Chrono Trigger. But, I've decided the DS version is how
 I'd like to do so!
 
-## 1. {% include game.html game="The World Ends with You" %}
+## 1. {% include game.html game="The World Ends with You" checkmark="" %}
+
+**Edit:** Another one down! Read my [spoiler-free review on it here]({% post_url 2019-09-13-the-world-ends-with-you-review %})!
 
 The World Ends with You has me *so* curious. I've heard it's pretty unique. I've
 listened to the song in the OP before, Twister, and that alone has me wanting to
