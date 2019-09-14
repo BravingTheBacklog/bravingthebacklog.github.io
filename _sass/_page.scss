@@ -653,6 +653,10 @@ ul.social-buttons li a:active {
 	border-left-color: $header-margin;
 }
 
+.button-rss {
+  padding: 5px;
+}
+
 .button-twitter, .button-patreon {
 	color: $white;
 	position: fixed;
