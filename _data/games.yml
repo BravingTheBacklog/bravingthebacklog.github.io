@@ -883,6 +883,7 @@ Star Fox 64:
   thumb: "https://i.imgur.com/wn7vyiUm.jpg"
   developer: "Nintendo EAD"
   release: "June 30, 1997"
+  platform: "Nintendo 64"
 
 Pokémon Snap:
   title: "Pokémon Snap"
@@ -890,6 +891,7 @@ Pokémon Snap:
   thumb: "https://i.imgur.com/RnXCcsPm.jpg"
   developer: "HAL Laboratory"
   release: "June 30, 1999"
+  platform: "Nintendo 64"
 
 Donkey Kong 64:
   title: "Donkey Kong 64"
@@ -897,6 +899,7 @@ Donkey Kong 64:
   thumb: "https://i.imgur.com/7imvBK1m.jpg"
   developer: "Rare"
   release: "November 22, 1999"
+  platform: "Nintendo 64"
 
 Mario Kart 64:
   title: "Mario Kart 64"
@@ -904,6 +907,7 @@ Mario Kart 64:
   thumb: "https://i.imgur.com/TS14W7Gm.jpg"
   developer: "Nintendo EAD"
   release: "February 10, 1997"
+  platform: "Nintendo 64"
 
 Super Smash Bros.:
   title: "Super Smash Bros."
@@ -911,6 +915,7 @@ Super Smash Bros.:
   thumb: "https://i.imgur.com/GJvXd67m.jpg"
   developer: "HAL Laboratory"
   release: "April 26, 1999"
+  platform: "Nintendo 64"
 
 Pokémon Puzzle League:
   title: "Pokémon Puzzle League"
@@ -918,6 +923,7 @@ Pokémon Puzzle League:
   thumb: "https://i.imgur.com/JgYWPRZm.jpg"
   developer: "Nintendo Software Technology"
   release: "September 25, 2000"
+  platform: "Nintendo 64"
 
 Kirby 64 The Crystal Shards:
   title: "Kirby 64: The Crystal Shards"
@@ -925,6 +931,7 @@ Kirby 64 The Crystal Shards:
   thumb: "https://i.imgur.com/3YSlZeAm.jpg"
   developer: "HAL Laboratory"
   release: "June 26, 2000"
+  platform: "Nintendo 64"
 
 Mischief Makers:
   title: "Mischief Makers"
@@ -932,6 +939,7 @@ Mischief Makers:
   thumb: "https://i.imgur.com/oNChHvim.jpg"
   developer: "Treasure"
   release: "October 1, 1997"
+  platform: "Nintendo 64"
 
 The Legend of Zelda The Minish Cap:
   title: "The Legend of Zelda: The Minish Cap"

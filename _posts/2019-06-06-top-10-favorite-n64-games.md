@@ -4,14 +4,14 @@ title: Top 10 Favorite N64 Games
 author: bsinky
 description: I still have some great memories of the games the N64 has to offer!
 date: 2019-06-06
-modified: 2019-06-06
+modified: 2019-09-21
 categories: [List]
 tags: [Top 10,N64]
 image:
   feature: feature-n64.jpg
   creditlink: https://www.pexels.com/photo/abstract-painting-1690351/
   credit: Steve Johnson
-  thumb:
+  thumb: feature-n64-thumb.jpg
 ---
 
 The Nintendo 64 was the first console I played to have full 3D graphics. I was
@@ -32,17 +32,7 @@ experience of Super Mario 64 when it initially released, and now it's probably
 too late for me to go back to it now that I've played more recent Mario games,
 like Sunshine and Galaxy.
 
-## 10. Star Fox 64
-
-<figure class="half center">
-  <a href="https://i.imgur.com/wn7vyiU.jpg">
-    <img src="https://i.imgur.com/wn7vyiUm.jpg" />
-  </a>
-  <ul>
-    <li>Developer: Nintendo EAD</li>
-    <li>Release: June 30, 1997</li>
-  </ul>
-</figure>
+## 10.  {% include game.html game="Star Fox 64" %}
 
 We never owned Star Fox 64, but we rented it from the video store a few times.
 It was basically the perfect game to rent. A single playthrough is meant to take
@@ -54,17 +44,7 @@ shooting down evil robots and henchmen of the evil Andross is a great time! And
 of course, Star Fox 64 is legendary for giving such memorable quotes as "Do a
 barrel roll!"
 
-## 9. Pokémon Snap
-
-<figure class="half center">
-  <a href="https://i.imgur.com/RnXCcsP.jpg">
-    <img src="https://i.imgur.com/RnXCcsPm.jpg" />
-  </a>
-  <ul>
-    <li>Developer: HAL Laboratory</li>
-    <li>Release: June 30, 1999</li>
-  </ul>
-</figure>
+## 9.  {% include game.html game="Pokémon Snap" %}
 
 Pokémon Snap is an interesting game. You play through on-rails levels in
 first-person as your auto-piloted vehicles takes you through scenic vistas where
@@ -77,17 +57,7 @@ or just luring out an elusive species!
 This game is fun, if not all that re-playable. Once you know what to do to get
 photos of all the species, it probably doesn't take long to beat.
 
-## 8. Donkey Kong 64
-
-<figure class="half center">
-  <a href="https://i.imgur.com/7imvBK1.jpg">
-    <img src="https://i.imgur.com/7imvBK1m.jpg" />
-  </a>
-  <ul>
-    <li>Developer: Rare</li>
-    <li>Release: November 22, 1999</li>
-  </ul>
-</figure>
+## 8.  {% include game.html game="Donkey Kong 64" %}
 
 As a kid, I enjoyed Donkey Kong 64 a lot. I played this before I ever played
 Rare's Banjo Kazooie titles, but they all share the same formula. You navigate
@@ -100,17 +70,7 @@ Banjo Kazooie games. Personally, since I haven't played through Banjo Kazooie or
 its sequel Banjo Tooie, Donkey Kong 64 reigns supreme among Rare's
 collect-a-thons.
 
-## 7. Mario Kart 64
-
-<figure class="half center">
-  <a href="https://i.imgur.com/TS14W7G.jpg">
-    <img src="https://i.imgur.com/TS14W7Gm.jpg" />
-  </a>
-  <ul>
-    <li>Developer: Nintendo EAD</li>
-    <li>Release: February 10, 1997</li>
-  </ul>
-</figure>
+## 7.  {% include game.html game="Mario Kart 64" %}
 
 Battle mode in Mario Kart 64 was the best of the series, at least of those that
 I've played. Compared to Super Mario Kart, it innovated a *ton*, and kickstarted
@@ -119,17 +79,7 @@ the Mario Kart series, in my opinion.
 That's all I really have to say about this one. You control Mario and other
 Mushroom Kingdom inhabitants and drive around in karts. It's fun!
 
-## 6. Super Smash Bros.
-
-<figure class="half center">
-  <a href="https://i.imgur.com/GJvXd67.jpg">
-    <img src="https://i.imgur.com/GJvXd67m.jpg" />
-  </a>
-  <ul>
-    <li>Developer: HAL Laboratory</li>
-    <li>Release: April 26, 1999</li>
-  </ul>
-</figure>
+## 6.  {% include game.html game="Super Smash Bros." %}
 
 The game that launched an incredibly successful fighting game series: Super
 Smash Bros. on the Nintendo 64. When my family got this game, I don't think any
@@ -143,17 +93,7 @@ never heard of Ness or Captain Falcon before playing this game. When I unlocked
 Ness for the first time, I thought he was the coolest character ever. A kid with
 PSI abilities and a baseball bat? Awesome!
 
-## 5. Pokémon Puzzle League
-
-<figure class="half center">
-  <a href="https://i.imgur.com/JgYWPRZ.jpg">
-    <img src="https://i.imgur.com/JgYWPRZm.jpg" />
-  </a>
-  <ul>
-    <li>Developer: Nintendo Software Technology</li>
-    <li>Release: September 25, 2000</li>
-  </ul>
-</figure>
+## 5.  {% include game.html game="Pokémon Puzzle League" %}
 
 In a rare twist, this is a Pokémon spin-off game that never released in Japan. It
 only came out in North American and Europe! It's part of the Puzzle League, or
@@ -166,17 +106,7 @@ more obstructions you add to your opponent's play area in versus modes like the
 campaign. I always wanted to beat the campaign mode on the hardest difficulty,
 but the final battle against Mewtwo was way too hard for me!
 
-## 4. Kirby 64: The Crystal Shards
-
-<figure class="half center">
-  <a href="https://i.imgur.com/3YSlZeA.jpg">
-    <img src="https://i.imgur.com/3YSlZeAm.jpg" />
-  </a>
-  <ul>
-    <li>Developer: HAL Laboratory</li>
-    <li>Release: June 26, 2000</li>
-  </ul>
-</figure>
+## 4.  {% include game.html game="Kirby 64 The Crystal Shards" %}
 
 Kirby games are always fun, and Kirby 64 is no exception. With its early 3D
 graphics, it's not as visually charming as Kirby's other adventures, but it
@@ -193,17 +123,7 @@ these is usually a random Enemy Card. Once you collect them, they show up in the
 Enemy Book, and I always wanted to collect them all. I don't think I ever did
 though.
 
-## 3. Mischief Makers
-
-<figure class="half center">
-  <a href="https://i.imgur.com/oNChHvi.jpg">
-    <img src="https://i.imgur.com/oNChHvim.jpg" />
-  </a>
-  <ul>
-    <li>Developer: Treasure</li>
-    <li>Release: October 1, 1997</li>
-  </ul>
-</figure>
+## 3.  {% include game.html game="Mischief Makers" %}
 
 Mischief Makers is a 2D side-scrolling platformer starring Marina, the
 Ultra-InterGalactic-Cybot G. Marina's long-winded, over the top title gives you
@@ -216,17 +136,7 @@ my parents to buy it for me. It's criminal that Mischief Makers has never had a
 re-release. There's a really charming story here too! I'd definitely recommend
 Mischief Makers to anyone looking for a new N64 game to try.
 
-## 2. The Legend of Zelda: Ocarina of Time
-
-<figure class="half center">
-  <a href="https://i.imgur.com/f8Uqqx3.jpg">
-    <img src="https://i.imgur.com/f8Uqqx3m.jpg" />
-  </a>
-  <ul>
-    <li>Developer: Nintendo EAD</li>
-    <li>Release: November 23, 1998</li>
-  </ul>
-</figure>
+## 2.  {% include game.html game="The Legend of Zelda Ocarina of Time" %}
 The Legend of Zelda: Ocarina of Time is often heralded as a classic.
 One of the greatest games of all time. Critics will say that this is
 nostalgia, and I can't rule that out since Ocarina of Time was a big
@@ -238,17 +148,7 @@ Hyrule. This was only the beginning the adventure, and it was a great
 beginning to what would be an incredible adventure. It remains near
 and dear to my heart to this day.
 
-## 1. Paper Mario
-
-<figure class="half center">
-  <a href="https://i.imgur.com/WSkh4P2.jpg">
-    <img src="https://i.imgur.com/WSkh4P2m.jpg" />
-  </a>
-  <ul>
-    <li>Developer: Intelligent Systems</li>
-    <li>Release: February 5, 2001</li>
-  </ul>
-</figure>
+## 1.  {% include game.html game="Paper Mario" %}
 
 Like the title of the game indicates, Mario is made of paper this time! In fact,
 everyone in Mushroom Kingdom is. It's not some curse of anything, it's just the
