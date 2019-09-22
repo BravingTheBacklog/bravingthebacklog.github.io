@@ -4,7 +4,7 @@ title: Top 10 Game Boy Advance Games of my Childhood
 author: bsinky
 description: My personal list of the Top 10 Game Boy Advance Games of my Childhood
 date: 2019-02-06
-modified: 2019-02-06
+modified: 2019-09-22
 categories: [List]
 tags: [Top 10,Game Boy Advance,nostalgia]
 image:
@@ -24,10 +24,7 @@ Advance Games of my Childhood!
 
 <!--more-->
 
-## 10. Harry Potter and the Sorcerer's Stone
-
-[![](https://i.imgur.com/DyRI1dNm.jpg)](https://i.imgur.com/DyRI1dN.jpg)
-{: .image-right}
+## 10. {% include game.html game="Harry Potter and the Sorcerer's Stone" %}
 
 A fun little adventure game based on the book and movie of the same name, Harry
 Potter and the Sorcerer's Stone was a game I enjoyed on my GBA as a kid. If I
@@ -42,10 +39,7 @@ that you could lose the House Cup at the end of the game if you lost enough
 House Points over the course of the game. That was an interesting twist to Harry
 Potter story I knew and loved.
 
-## 9. Yu-Gi-Oh! The Eternal Duelist Soul
-
-[![](https://i.imgur.com/SEWXQcdm.jpg)](https://i.imgur.com/SEWXQcd.jpg)
-{: .image-right}
+## 9. {% include game.html game="Yu-Gi-Oh! The Eternal Duelist Soul" %}
 
 This was a GBA game I never bought, instead a friend simply gave it to me. I
 don't remember the circumstances, I guess they were just bored with Yu-Gi-Oh!
@@ -59,10 +53,7 @@ I loved collecting new cards in game, and constructing new decks. It gave me
 some insight into why so many of my classmates were hooked on the Yu-Gi-Oh! card
 game...it was just fun!
 
-## 8. Kirby: Nightmare in Dreamland
-
-[![](https://i.imgur.com/3KpeeObm.jpg)](https://i.imgur.com/3KpeeOb.jpg)
-{: .image-right}
+## 8. {% include game.html game="Kirby Nightmare in Dreamland" %}
 
 Kirby: Nightmare in Dreamland blew my mind with how good it looked on the GBA.
 Seriously, the graphics in the game look excellent, even to this day I think
@@ -83,10 +74,7 @@ means that a single playthrough can be done quickly. It's something I could
 easily accomplish during a free evening. Sometimes it's nice to have a game that
 isn't a huge time commitment.
 
-## 7. Final Fantasy I & II: Dawn of Souls
-
-[![](https://i.imgur.com/X8DpNJNm.jpg)](https://i.imgur.com/X8DpNJN.jpg)
-{: .image-right}
+## 7. {% include game.html game="Final Fantasy I & II Dawn of Souls" %}
 
 This was my first look at the main, numbered Final Fantasy series. Before this,
 I'd only played spin-off games in the Final Fantasy series, but we'll cover
@@ -99,10 +87,7 @@ Mario RPG on the SNES prior, and Paper Mario on the N64. Despite having played
 some JRPGs before, Final Fantasy was still a nice treat. The classic turn-based
 combat, fantasy setting, and exploration, was all pretty magical!
 
-## 6. Super Mario World: Super Mario Advance 2
-
-[![](https://i.imgur.com/z5JmUldm.jpg)](https://i.imgur.com/z5JmUld.jpg)
-{: .image-right}
+## 6. {% include game.html game="Super Mario World Super Mario Advance 2" %}
 
 Man, the title of this game is something! It's Super Mario World...but also has
 the subtitle of Super Mario Advance 2. Most games would switch those parts
@@ -120,10 +105,7 @@ some entire levels, once the player masters the flying mechanics! I think few
 people would dispute that Super Mario World is a masterpiece of a game. For me,
 it was definitely one of my favorite GBA games!
 
-## 5. Pokémon Ruby Version
-
-[![](https://i.imgur.com/e26xzxIm.jpg)](https://i.imgur.com/e26xzxI.jpg)
-{: .image-right}
+## 5. {% include game.html game="Pokémon Ruby Version" %}
 
 Honestly, who doesn't know what Pokémon is these days? The franchise is so
 prolific, I bet even my grandmother, who hasn't played Pokémon (or any video
@@ -144,10 +126,7 @@ games had been capable of.
 I played a ton of Ruby, and yet...there's a Pokémon game I played on the GBA even
 more...
 
-## 4. Pokémon LeafGreen Version
-
-[![](https://i.imgur.com/ieEnXm8m.jpg)](https://i.imgur.com/ieEnXm8.jpg)
-{: .image-right}
+## 4. {% include game.html game="Pokémon LeafGreen Version" %}
 
 Pokémon LeafGreen version. With its companion, FireRed version, the two
 re-imagined the original Pokémon games, Red and Blue, on the GBA, and they
@@ -165,10 +144,7 @@ LeafGreen and FireRed were awesome games, and I don't think it's entirely from
 the nostalgia I feel for Red and Blue! Although honestly I'm sure that's a
 contributing factor.
 
-## 3. Metroid Fusion
-
-[![](https://i.imgur.com/taGT5Wom.jpg)](https://i.imgur.com/taGT5Wo.jpg)
-{: .image-right}
+## 3. {% include game.html game="Metroid Fusion" %}
 
 This was the first ever 2D Metroid game I played. Ironically, I think I may have
 played some Metroid Prime prior to getting this game, but I don't think I
@@ -189,10 +165,7 @@ game too, but I never played it on the GBA.
 Man, even remembering my time playing Metroid Fusion has me nostalgic for it...I
 might have to re-play it sometime soon!
 
-## 2. Fire Emblem: The Sacred Stones
-
-[![](https://i.imgur.com/MjhtYjUm.jpg)](https://i.imgur.com/MjhtYjU.jpg)
-{: .image-right}
+## 2. {% include game.html game="Fire Emblem The Sacred Stones" %}
 
 This was the only Fire Emblem game I owned on GBA. The "original" Fire Emblem is
 a game I never had, though I have played it via emulation since. I say
@@ -228,10 +201,7 @@ I think I knew Sacred Stones was an earlier game, so seeing how the series had
 changed from Sacred Stones to Path of Radiance was the icing on the delicious
 cake that is Fire Emblem: The Sacred Stones.
 
-## 1. Final Fantasy Tactics Advance
-
-[![](https://i.imgur.com/fU2JCorm.jpg)](https://i.imgur.com/fU2JCor.jpg)
-{: .image-right}
+## 1. {% include game.html game="Final Fantasy Tactics Advance" %}
 
 I loved this game. My love for it cannot be understated. I LOVED this game. In
 fact, I still do! Whatever flaws fans of the Final Fantasy Tactics spin-off
