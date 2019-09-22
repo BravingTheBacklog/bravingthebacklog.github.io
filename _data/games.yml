@@ -269,6 +269,7 @@ Valkyrie Profile:
   thumb: "https://i.imgur.com/fPvcyX8m.jpg"
   developer: "tri-Ace"
   release: "August 29, 2000"
+  platform: "PlayStation"
 
 Grandia:
   title: "Grandia"
@@ -276,6 +277,7 @@ Grandia:
   thumb: "https://i.imgur.com/U6CDJt9m.jpg"
   developer: "Game Arts"
   release: "October 26, 1999"
+  platform: "PlayStation"
 
 Xenogears:
   title: "Xenogears"
@@ -283,6 +285,7 @@ Xenogears:
   thumb: "https://i.imgur.com/bPDCwQkm.jpg"
   developer: "Square"
   release: "October 20, 1998"
+  platform: "PlayStation"
 
 Jade Cocoon:
   title: "Jade Cocoon"
@@ -290,6 +293,7 @@ Jade Cocoon:
   thumb: "https://i.imgur.com/VOYQFuem.jpg"
   developer: "Genki"
   release: "July 29, 1999"
+  platform: "PlayStation"
 
 Vagrant Story:
   title: "Vagrant Story"
@@ -297,6 +301,7 @@ Vagrant Story:
   thumb: "https://i.imgur.com/q9wyjBum.jpg"
   developer: "Square"
   release: "May 15, 2000"
+  platform: "PlayStation"
 
 Tales of Destiny:
   title: "Tales of Destiny "
@@ -304,6 +309,7 @@ Tales of Destiny:
   thumb: "https://i.imgur.com/RyiEikkm.jpg"
   developer: "Wolf Team"
   release: "September 30, 1998"
+  platform: "PlayStation"
 
 Wild Arms:
   title: "Wild Arms"
@@ -311,18 +317,23 @@ Wild Arms:
   thumb: "https://i.imgur.com/EujvQzHm.jpg"
   developer: "Media.Vision"
   release: "April 30, 1997"
+  platform: "PlayStation"
 
 Suikoden:
   title: "Suikoden"
   image: "https://i.imgur.com/6h2wQ8W.jpg"
   thumb: "https://i.imgur.com/6h2wQ8Wm.jpg"
   developer: "Konami"
+  release: "December 1996"
+  platform: "PlayStation"
 
 Suikoden II:
   title: "Suikoden II"
   image: "https://i.imgur.com/syH2iek.jpg"
   thumb: "https://i.imgur.com/syH2iekm.jpg"
   developer: "Konami"
+  release: "August 31, 1999"
+  platform: "PlayStation"
 
 Suikoden III:
   title: "Suikoden III"
@@ -339,6 +350,7 @@ Castlevania Symphony of the Night:
   thumb: "https://i.imgur.com/9DWFBlcm.jpg"
   developer: "Konami"
   release: "October 2, 1997"
+  platform: "PlayStation"
 
 Parasite Eve:
   title: "Parasite Eve"
@@ -346,6 +358,7 @@ Parasite Eve:
   thumb: "https://i.imgur.com/paZPWwwm.jpg"
   developer: "Square"
   release: "September 9, 1998"
+  platform: "PlayStation"
 
 Magical Starsign:
   title: "Magical Starsign"

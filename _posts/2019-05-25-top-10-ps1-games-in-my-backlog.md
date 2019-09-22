@@ -4,7 +4,7 @@ title: Top 10 PS1 Games in My Backlog
 author: bsinky
 description: I never owned a PS1 as a kid, so I missed out on a lot of classic games from that era. Here's 10 that I'm most excited to try someday!
 date: 2019-05-25
-modified: 2019-06-13
+modified: 2019-09-22
 categories: [List]
 tags: [Top 10,Backlog,PSX,PS1]
 image:
@@ -36,17 +36,7 @@ Fantasy 7 Remake comes out, if that ever happens!
 As in the past, the listed release dates are for the original North American
 release of each game.
 
-## 10. Valkyrie Profile
-
-<figure class="half center">
-  <a href="https://i.imgur.com/fPvcyX8.jpg">
-    <img src="https://i.imgur.com/fPvcyX8m.jpg">
-  </a>
-  <ul>
-    <li>Developer: tri-Ace</li>
-    <li>Release: August 29, 2000</li>
-  </ul>
-</figure>
+## 10. {% include game.html game="Valkyrie Profile" %}
 
 Based on Norse mythology, Valkyrie Profile follows the Valkyrie, Lenneth, servant
 of Odin. I don't understand all the intricacies of the plot I've read on
@@ -62,17 +52,7 @@ turn and can attack simultaneously. I'm not sure how that plays out in practice,
 but the premise sounds very cool! There's even *more* to the gameplay than these
 systems, but I haven't read too much about all of them.
 
-## 9. Grandia
-
-<figure class="half center">
-  <a href="https://i.imgur.com/U6CDJt9.jpg">
-    <img src="https://i.imgur.com/U6CDJt9m.jpg">
-  </a>
-  <ul>
-    <li>Developer: Game Arts</li>
-    <li>Release: October 26, 1999</li>
-  </ul>
-</figure>
+## 9. {% include game.html game="Grandia" %}
 
 Grandia was originally released for the SEGA Saturn in 1997. In 1999 it made its
 way to the PlayStation, probably to take advantage of its larger install base
@@ -84,17 +64,7 @@ remaster of both Grandia and its sequel is set to release in 2019 for the Switch
 and PC. If this version is well received, it will probably be the definitive
 version of Grandia. I'd play that version instead.
 
-## 8. Xenogears
-
-<figure class="half center">
-  <a href="https://i.imgur.com/bPDCwQk.jpg">
-    <img src="https://i.imgur.com/bPDCwQkm.jpg"/>
-  </a>
-  <ul>
-    <li>Developer: Square</li>
-    <li>Release: October 20, 1998</li>
-  </ul>
-</figure>
+## 8. {% include game.html game="Xenogears" %}
 
 Xenogears is the ancestor to both the Xenosaga and Xenoblade series. It's set in
 a science fiction world full of war and large robotic suits known as "gears."
@@ -109,17 +79,7 @@ directed at its second disc, which makes up roughly the second half of the plot,
 because apparently this disc is nearly entirely cutscenes, and contains little
 gameplay.
 
-## 7. Jade Cocoon
-
-<figure class="half center">
-  <a href="https://i.imgur.com/VOYQFue.jpg">
-    <img src="https://i.imgur.com/VOYQFuem.jpg">
-  </a>
-  <ul>
-    <li>Developer: Genki</li>
-    <li>Release: July 29, 1999</li>
-  </ul>
-</figure>
+## 7. {% include game.html game="Jade Cocoon" %}
 
 Jade Cocoon takes place in a heavily forested world filled with bug-like
 monsters known as Minions. These Minions are can be captured and "purified" by
@@ -133,17 +93,7 @@ Since it's a monster-collection RPG, I'm automatically interested in Jade
 Cocoon. Other than Pokémon, there don't seem to be many games that fall into
 this sub-genre.
 
-## 6. Vagrant Story
-
-<figure class="half center">
-  <a href="https://i.imgur.com/q9wyjBu.jpg">
-    <img src="https://i.imgur.com/q9wyjBum.jpg">
-  </a>
-  <ul>
-    <li>Developer: Square</li>
-    <li>Release: May 15, 2000</li>
-  </ul>
-</figure>
+## 6. {% include game.html game="Vagrant Story" %}
 
 The cool looking cover art draws me to Vagrant Story. Also, I recently watched a
 YouTube video that praised not only this game's visuals and cinematography, but
@@ -152,17 +102,7 @@ likened to Parasite Eve. The Wikipedia page also notes that the game features no
 shops, and no player interaction with other characters. That seems like it
 should make for a very unique game!
 
-## 5. Tales of Destiny 
-
-<figure class="half center">
-  <a href="https://i.imgur.com/RyiEikk.jpg">
-    <img src="https://i.imgur.com/RyiEikkm.jpg">
-  </a>
-  <ul>
-    <li>Developer: Wolf Team</li>
-    <li>Release: September 30, 1998</li>
-  </ul>
-</figure>
+## 5. {% include game.html game="Tales of Destiny" %}
 
 As a fan of the Tales series, Tales of Destiny is an obvious choice for me. This
 is the second game released in the series, and the first to receive and English
@@ -177,17 +117,7 @@ Side note, there's another Tales game released in English as Tales of Destiny
 unusual, except Tales of Destiny *does* have a direct sequel, but it was only
 released in Asia!
 
-## 4. Wild Arms
-
-<figure class="half center">
-  <a href="https://i.imgur.com/EujvQzH.jpg">
-    <img src="https://i.imgur.com/EujvQzHm.jpg">
-  </a>
-  <ul>
-    <li>Developer: Media.Vision</li>
-    <li>Release: April 30, 1997</li>
-  </ul>
-</figure>
+## 4. {% include game.html game="Wild Arms" %}
 
 A "wild west" sort of JRPG sounds intriguing indeed. That's exactly what awaits
 in Wild Arms. Set in a "wild west" inspired fantasy world called Filgaia. The
@@ -222,17 +152,7 @@ members you can recruit if you are so inclined, and I'm quite interested in
 that. Suikoden II takes place a few years after its predecessor, and I've heard
 it's even better than the first one!
 
-## 2. Castlevania: Symphony of the Night
-
-<figure class="half center">
-  <a href="https://i.imgur.com/9DWFBlc.jpg">
-    <img src="https://i.imgur.com/9DWFBlcm.jpg">
-  </a>
-  <ul>
-    <li>Developer: Konami</li>
-    <li>Release: October 2, 1997</li>
-  </ul>
-</figure>
+## 2. {% include game.html game="Castlevania Symphony of the Night" %}
 
 I've enjoyed the Metroid games I've played, which these days are often described
 as belonging to the "Metroidvania" genre. Metroidvania is a combination of
@@ -249,17 +169,7 @@ like managing your equipped weapons and armor, characters stats, and leveling
 up. As of this writing I still haven't played a Castlevania game, but Symphony
 of the Night would no doubt be an excellent starting point.
 
-## 1. Parasite Eve <i class="fa fa-check" aria-hidden="true"></i>
-
-<figure class="half center">
-  <a href="https://i.imgur.com/paZPWww.jpg">
-    <img src="https://i.imgur.com/paZPWwwm.jpg">
-  </a>
-  <ul>
-    <li>Developer: Square</li>
-    <li>Release: September 9, 1998</li>
-  </ul>
-</figure>
+## 1. {% include game.html game="Parasite Eve" checkmark="" %}
 
 **Edit:** Finished! [Check out my review here]({% post_url 2019-06-12-parasite-eve-review %})!
 
@@ -272,8 +182,9 @@ Bar refills, and can move around freely to dodge enemy attacks. Like most RPGs,
 you gain experience points and level up through battle.
 
 In addition to its Sci-Fi story and interesting battle system, it's also the
-game's length that puts it at number 1 for me. [HowLongToBeat.com puts the main
-story at just 9 and a half hours](https://howlongtobeat.com/game.php?id=6924), which is quite short compared to most RPGs! It
-should make for an excellent game to play over the course of a week or weekend.
-There's some New Game+ features here that lengthen the experience considerably,
-but I don't plan to touch those.
+game's length that puts it at number 1 for
+me.
+[HowLongToBeat.com puts the main story at just 9 and a half hours](https://howlongtobeat.com/game.php?id=6924),
+which is quite short compared to most RPGs! It should make for an excellent game
+to play over the course of a week or weekend. There's some New Game+ features
+here that lengthen the experience considerably, but I don't plan to touch those.
