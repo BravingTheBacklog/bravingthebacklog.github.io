@@ -4,14 +4,14 @@ title: Top 10 SNES Games in my Backlog
 author: bsinky
 description: "My personal list of the top 10 Super Nintendo games in my backlog!"
 date: 2019-08-11
-modified: 2019-08-11
+modified: 2019-09-21
 categories: [List]
 tags: [Top 10,SNES]
 image:
-    feature: feature-super-nintendo.jpg
-    credit: Tabitha Mort
-    creditlink: https://www.pexels.com/photo/photo-of-blue-pink-and-green-led-light-775907/
-    thumb: feature-super-nintendo-thumb.jpg
+  feature: feature-super-nintendo.jpg
+  credit: Tabitha Mort
+  creditlink: https://www.pexels.com/photo/photo-of-blue-pink-and-green-led-light-775907/
+  thumb: feature-super-nintendo-thumb.jpg
 ---
 
 The Super Nintendo is one of the earliest consoles I can remember playing. I was
@@ -30,17 +30,7 @@ mind, here's my list of the Top 10 SNES Games in my Backlog!
 
 <!--more-->
 
-## 10. ActRaiser
-
-<figure class="half center">
-  <a href="https://i.imgur.com/UzZ1HJv.jpg">
-    <img src="https://i.imgur.com/UzZ1HJvm.jpg"/>
-  </a>
-  <ul>
-    <li>Developer: Quintet</li>
-    <li>Release: November 1991</li>
-  </ul>
-</figure>
+## 10. {% include game.html game="ActRaiser" %}
 
 ActRaiser is described as a city-building simulation and platforming game. That
 is a very intriguing combination of genres! It sounds like this is accomplished
@@ -48,17 +38,7 @@ by having different gameplay segments for each genre, rather than somehow
 blending them into a single gameplay phase. Still, it sounds interesting enough
 to warrant a try someday!
 
-## 9. Fire Emblem: Genealogy of the Holy War
-
-<figure class="third center">
-  <a href="https://i.imgur.com/agKVvNl.jpg">
-    <img src="https://i.imgur.com/agKVvNlm.jpg"/>
-  </a>
-  <ul>
-    <li>Developer: Intelligent Systems</li>
-    <li>Release: May 14, 1996 (Japan)</li>
-  </ul>
-</figure>
+## 9. {% include game.html game="Fire Emblem Genealogy of the Holy War" %}
 
 The 4th game in the Fire Emblem series, Fire Emblem: Genealogy of the Holy War
 was released for the Super Famicom, and also came to Nintendo's Virtual Console
@@ -75,17 +55,7 @@ part in making me a bit hesitant to start it. Still though, it's a game
 I'd like to try someday, and maybe by the time I do there will be a
 remake of it on Switch or something!
 
-## 8. Breath of Fire
-
-<figure class="half center">
-  <a href="https://i.imgur.com/6yD7KBF.jpg">
-    <img src="https://i.imgur.com/6yD7KBFm.jpg"/>
-  </a>
-  <ul>
-    <li>Developer: Capcom</li>
-    <li>Release: August 10, 1994</li>
-  </ul>
-</figure>
+## 8. {% include game.html game="Breath of Fire" %}
 
 I've heard good things about the Breath of Fire series, at least the first few
 entries. Fans of the series would probably prefer to pretend the free-to-play,
@@ -98,17 +68,7 @@ reach new areas for example. Your party members are also all anthropomorphic in
 some way, or can transform into an animal form. It sounds like a varied cast of
 characters, which is always intriguing.
 
-## 7. Shin Megami Tensei if...
-
-<figure class="third center">
-  <a href="https://i.imgur.com/V77AjPx.png">
-    <img src="https://i.imgur.com/V77AjPxm.png"/>
-  </a>
-  <ul>
-    <li>Developer: Atlus</li>
-    <li>Release: October 28, 1994 (Japan)</li>
-  </ul>
-</figure>
+## 7. {% include game.html game="Shin Megami Tensei if..." %}
 
 An early spinoff of Atlus's Shin Megami Tensei series, "if..." takes the
 gameplay of Shin Megami Tensei, but reduces the scope to a single high school
@@ -125,17 +85,7 @@ received several ports to other platforms over the years, but all of these were
 available only in Japanese. It wasn't until 2018 that it received an English fan
 translation by Aeon Genesis.
 
-## 6. Terranigma
-
-<figure class="half center">
-  <a href="https://i.imgur.com/WsOU73h.jpg">
-    <img src="https://i.imgur.com/WsOU73hm.jpg"/>
-  </a>
-  <ul>
-    <li>Developer: Quintet</li>
-    <li>Release: December 19, 1996 (PAL)</li>
-  </ul>
-</figure>
+## 6. {% include game.html game="Terranigma" %}
 
 Terranigma is an action RPG for the SNES that follows Ark on his journey to
 resurrect the Earth. The game never received an official North American release,
@@ -148,17 +98,7 @@ I'm very curious to try out Terranigma. It's definitely an interesting case due
 to its PAL and Japan exclusivity! The action RPG gameplay also sounds pretty
 fun!
 
-## 5. Secret of Mana
-
-<figure class="half center">
-  <a href="https://i.imgur.com/Glwb0qj.jpg">
-    <img src="https://i.imgur.com/Glwb0qjm.jpg"/>
-  </a>
-  <ul>
-    <li>Developer: Square</li>
-    <li>Release: October 3, 1993</li>
-  </ul>
-</figure>
+## 5. {% include game.html game="Secret of Mana" %}
 
 The first game in the Mana series to be labeled as such in the West, Secret of
 Mana is actually the 2nd game in the series. The first game, for the original
@@ -175,17 +115,7 @@ the Switch. It's a compilation that includes the aforementioned "Final Fantasy
 Adventure," Secret of Mana, and the third game in the series (which had never
 before been released in English!), Trials of Mana.
 
-## 4. Shin Megami Tensei
-
-<figure class="third center">
-  <a href="https://i.imgur.com/iu41Zcz.jpg">
-    <img src="https://i.imgur.com/iu41Zczm.jpg"/>
-  </a>
-  <ul>
-    <li>Developer: Atlus</li>
-    <li>Release: October 30, 1992 (Japan)</li>
-  </ul>
-</figure>
+## 4. {% include game.html game="Shin Megami Tensei" %}
 
 This game sort of put Atlus on the map. It featured gameplay elements that would
 become staples of the Shin Megami Tensei series, such as demon conversation,
@@ -211,17 +141,7 @@ patches to remove some irritating aspects of the original release, such as
 adding a hotkey to open the map. It's most likely that I'll be emulating the
 Super Famicom release with those patches.
 
-## 3. Final Fantasy VI
-
-<figure class="half center">
-  <a href="https://i.imgur.com/hI53hbP.jpg">
-    <img src="https://i.imgur.com/hI53hbPm.jpg"/>
-  </a>
-  <ul>
-    <li>Developer: Square</li>
-    <li>Release: October 11, 1994</li>
-  </ul>
-</figure>
+## 3. {% include game.html game="Final Fantasy VI" %}
 
 Final Fantasy VI was actually called Final Fantasy III when it first released in
 North America, because it was only the third Final Fantasy to be localized. It's
@@ -238,17 +158,7 @@ series. As of this writing, I've only played Final Fantasy I & II: Dawn of
 Souls, so I don't have much of an opinion on the series myself. Given its
 reputation though, I'm certainly looking to experience this one myself!
 
-## 2. Lufia II: Rise of the Sinistrals
-
-<figure class="half center">
-  <a href="https://i.imgur.com/15xan2A.png">
-    <img src="https://i.imgur.com/15xan2Am.png"/>
-  </a>
-  <ul>
-    <li>Developer: Neverland</li>
-    <li>Release: May 1996</li>
-  </ul>
-</figure>
+## 2. {% include game.html game="Lufia II Rise of the Sinistrals" %}
 
 Lufia II: Rise of the Sinistrals features classic JRPG staples like turn-based
 battles and exploration, but also mixes things up by having dungeons with
@@ -266,17 +176,7 @@ understand it, but maybe doing to adds to the experience in some way. Either
 way, Lufia 2 seems basically universally regarded as the better game between the
 two by a wide margin.
 
-## 1. Earthbound
-  
-<figure class="half center">
-  <a href="https://i.imgur.com/Zv9rKmM.jpg">
-    <img src="https://i.imgur.com/Zv9rKmMm.jpg"/>
-  </a>
-  <ul>
-    <li>Developer: Ape / HAL Laboratory</li>
-    <li>Release: June 5, 1995</li>
-  </ul>
-</figure>
+## 1. {% include game.html game="Earthbound" %}
 
 An evil alien force has quietly begun to take over the world. People, animals,
 and even inanimate objects are suddenly becoming malicious and violent. Only one
