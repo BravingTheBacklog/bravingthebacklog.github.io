@@ -4,7 +4,7 @@ title: Top 10 Games in my Steam Backlog
 author: bsinky
 description: bsinky's Top 10 games in his Steam backlog as of May 2019
 date: 2019-05-04
-modified: 2019-05-04
+modified: 2019-09-21
 categories: [List]
 tags: [Top 10,Steam,Backlog]
 image:
@@ -34,17 +34,7 @@ Also, note that the release dates listed are for the Steam versions of these
 games. Whatever the Steam store page lists for release date and developer,
 that's what I've put here!
 
-## 10. Dishonored: Death of the Outsider
-
-<figure class="half center">
-    <a href="https://i.imgur.com/ALkmusL.jpg">
-        <img src="https://i.imgur.com/ALkmusLm.jpg"/>
-    </a>
-    <ul>
-        <li>Developer: Arkane Studios</li>
-        <li>Release: September 14, 2017</li>
-    </ul>
-</figure>
+## 10. {% include game.html game="Dishonored Death of the Outsider" %}
 
 Dishonored and its sequel blew me away with their steampunk, black magic-infused
 world and their play-your-way but remember the consequences approach to
@@ -55,17 +45,7 @@ I'm hoping that statement remains true with Dishonored: Death of the Outsider.
 It contains new supernatural powers, as each new Dishonored title has, which
 should be fun to play around with!
 
-## 9. Final Fantasy IX
-
-<figure class="half center">
-    <a href="https://i.imgur.com/2BqRLsW.jpg">
-        <img src="https://i.imgur.com/2BqRLsWm.jpg"/>
-    </a>
-    <ul>
-        <li>Developer: Square Enix</li>
-        <li>Release: April 14, 2016</li>
-    </ul>
-</figure>
+## 9. {% include game.html game="Final Fantasy IX" %}
 
 Originally released on the PlayStation in 2000, Final Fantasy IX has received
 rave reviews from both critics and fans alike. Its now available on many
@@ -75,17 +55,7 @@ Final Fantasy is a legendary series, but I've played basically none of the main
 numbered games. After hearing this entry hyped up a lot by one of my co-workers,
 I picked up Final Fantasy IX on a sale to try it for myself.
 
-## 8. Undertale
-
-<figure class="half center">
-    <a href="https://i.imgur.com/9yRM9Le.jpg">
-        <img src="https://i.imgur.com/9yRM9Lem.jpg"/>
-    </a>
-    <ul>
-        <li>Developer: tobyfox</li>
-        <li>Release: September 15, 2015</li>
-    </ul>
-</figure>
+## 8. {% include game.html game="Undertale" %}
 
 Undertale is an RPG with a unique combat system that's turn-based with what's
 described as a mini-bullet hell system. You can choose to spare the lives of the
@@ -96,17 +66,7 @@ what an incredible experience it is. I'm trying not to let that cloud but my
 judgment, but seeing so many people write good things about it, my hopes are
 pretty high for Undertale!
 
-## 7. The Legend of Heroes: Trails of Cold Steel II
-
-<figure class="half center">
-    <a href="https://i.imgur.com/DXzmvRS.jpg">
-        <img src="https://i.imgur.com/DXzmvRSm.jpg"/>
-    </a>
-    <ul>
-        <li>Developer: Nihon Falcom</li>
-        <li>Release: February 14, 2018</li>
-    </ul>
-</figure>
+## 7. {% include game.html game="The Legend of Heroes Trails of Cold Steel II" %}
 
 Originally a PS Vita and PS3 title, The Legend of Heroes: Trails of Cold Steel
 II got a very well received PC port in February of 2018, and as of this writing
@@ -123,17 +83,7 @@ Cold Steel II, and I am excited to join main character Rean Schwarzer again!
 There's also Trails of Cold Steel III and IV, both of which have yet to see
 English releases, but III is scheduled to receive one in late 2019!
 
-## 6. Tokyo Dark
-
-<figure class="half center">
-    <a href="https://i.imgur.com/k7OHNwm.jpg">
-        <img src="https://i.imgur.com/k7OHNwmm.jpg"/>
-    </a>
-    <ul>
-        <li>Developer: Cherrymochi</li>
-        <li>Release: September 7, 2017</li>
-    </ul>
-</figure>
+## 6. {% include game.html game="Tokyo Dark" %}
 
 Part Point and Click, part Visual Novel, Tokyo Dark combines the two to present
 a story about a detective in Tokyo investigating the disappearance of her
@@ -146,17 +96,7 @@ it to my wishlist. Even though I don't know a lot about this game, when I saw it
 was part of a Humble Bundle recently, I took a chance and picked it up. Let's
 hope this gamble pays off!
 
-## 5. Danganronpa: Trigger Happy Havoc
-
-<figure class="half center">
-    <a href="https://i.imgur.com/l1xY2HF.jpg">
-        <img src="https://i.imgur.com/l1xY2HFm.jpg"/>
-    </a>
-    <ul>
-        <li>Developer: Spike Chunsoft / Abstraction Games</li>
-        <li>Release: February 18, 2016</li>
-    </ul>
-</figure>
+## 5. {% include game.html game="Danganronpa Trigger Happy Havoc" %}
 
 Makoto Naegi and his classmates at Hope's Peak Academy are exceptional Japanese
 high school students, living ordinary lives. All that changes when they suddenly
@@ -174,17 +114,7 @@ especially the story mode in Persona 4: Dancing All Night, which is presented as
 a Visual Novel. I've heard so much praise directed at the Danganronpa series as
 a whole from YouTuber Austin Eruption that I've been convinced to try it myself!
 
-## 4. Bayonetta
-
-<figure class="half center">
-    <a href="https://i.imgur.com/wY0BgEK.jpg">
-        <img src="https://i.imgur.com/wY0BgEKm.jpg"/>
-    </a>
-    <ul>
-        <li>Developer: PlatinumGames</li>
-        <li>Release: April 11, 2017</li>
-    </ul>
-</figure>
+## 4. {% include game.html game="Bayonetta" %}
 
 Bayonetta is a hack 'n' slash game where you play as the character of the same
 name. Originally a PS3 and Xbox 360 game, the PC port is regarded very well,
@@ -195,36 +125,16 @@ shine in all its glory.
 I only know Bayonetta from her appearances in Super Smash Bros., but she clearly
 has a lot of style. I'm assuming the same is true of her eponymous debut!
 
-## 3. The Banner Saga 3
-
-<figure class="half center">
-    <a href="https://i.imgur.com/17Xb81F.jpg">
-        <img src="https://i.imgur.com/17Xb81Fm.jpg"/>
-    </a>
-    <ul>
-        <li>Developer: Stoic</li>
-        <li>Release: July 26, 2018</li>
-    </ul>
-</figure>
+## 3. {% include game.html game="The Banner Saga 3" %}
 
 I *loved* the story Stoic presented through the first two Banner Saga games. The
-art and animation was also beautiful. Gameplay is fantastic as well, allowing
+art and animation were also beautiful. Gameplay is fantastic as well, allowing
 plenty of room for strategy. Your choices impact what happens at certain
 junctions, and I love how this works in this world. It's a bleak tale more often
 than not, but that's a large part of its charm. In The Banner Saga 3, I'll get
 to see the conclusion, and find out what everything has led up to. I'm excited!
 
-## 2. Hollow Knight
-
-<figure class="half center">
-    <a href="https://i.imgur.com/FuPBoWB.jpg">
-        <img src="https://i.imgur.com/FuPBoWBm.jpg"/>
-    </a>
-    <ul>
-        <li>Developer: Team Cherry</li>
-        <li>Release: February 24, 2017</li>
-    </ul>
-</figure>
+## 2. {% include game.html game="Hollow Knight" %}
 
 Hollow Knight is a Metroidvania, which means the gameplay involves some
 combination of common Metroid and Castlevania elements. For Hollow Knight, that
@@ -235,19 +145,9 @@ to life.
 
 Since its original PC release, its been ported to all the major current
 generation consoles, and has received near universal acclaim. I'd love to see
-what its all about!
+what it's all about!
 
-## 1. Valkyria Chronicles
-
-<figure class="half center">
-    <a href="https://i.imgur.com/FcOj5j3.jpg">
-        <img src="https://i.imgur.com/FcOj5j3m.jpg"/>
-    </a>
-    <ul>
-        <li>Developer: SEGA</li>
-        <li>Release: November 11, 2014</li>
-    </ul>
-</figure>
+## 1. {% include game.html game="Valkyria Chronicles" %}
 
 Valkyria Chronicles sounds it'll be exactly my cup of tea. The way combat works
 seems vaguely reminiscent of one of my favorite overlooked games from the early
