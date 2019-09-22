@@ -4,7 +4,7 @@ title: Top 10 PS2 Games in my Backlog
 author: bsinky
 description: The top 10 PS2 games in my Backlog
 date: 2019-03-08
-modified: 2019-03-08
+modified: 2019-09-21
 categories: [List]
 tags: [Top 10,PS2]
 image:
@@ -32,9 +32,7 @@ missed out on!
 
 <!--more-->
 
-## 10. Xenosaga Episode I: Der Wille zur Macht
-
-[![](https://i.imgur.com/BnPGkIum.jpg)](https://i.imgur.com/BnPGkIu.jpg){: .image-right }
+## 10. {% include game.html game="Xenosaga Episode I Der Wille zur Macht" %}
 
 Xenosaga is part of a JRPG trilogy on the PS2. The setting is pretty sci-fi, the
 game takes place very far in the future during a time when humanity has left
@@ -49,9 +47,7 @@ since they generally can't be avoided.
 
 All those things combined together should make for a pretty great game, I hope!
 
-## 9. Stella Deus: The Gate of Eternity
-
-[![](https://i.imgur.com/PGFyGG0m.jpg)](https://i.imgur.com/PGFyGG0.jpg){: .image-right }
+## 9. {% include game.html game="Stella Deus The Gate of Eternity" %}
 
 Stella Deus: The Gate of Eternity is a strategy RPG set in a fantasy world that
 is being overrun by a deadly mist called the "Miasma."
@@ -65,9 +61,7 @@ aesthetic.
 As a Fire Emblem fan, I'm hoping Stella Deus: The Gate of Eternity proves to be
 an enjoyable experience!
 
-## 8. Shin Megami Tensei III: Nocturne
-
-[![](https://i.imgur.com/5In2Yhem.jpg)](https://i.imgur.com/5In2Yhe.jpg){: .image-right }
+## 8. {% include game.html game="Shin Megami Tensei III Nocturne" %}
 
 Shin Megami Tensei III: Nocturne puts you into the shoes of a Japanese high
 school student who is turned into a half-demon when the apocalypse begins and
@@ -86,9 +80,7 @@ Nocturne is even rougher...yikes! Nocturne is also not as character-focused as
 Persona I believe, it's more skewed toward dungeon exploration than character
 development or plot I believe.
 
-## 7. Shin Megami Tensei: Digital Devil Saga
-
-[![](https://i.imgur.com/IKeZhlJm.jpg)](https://i.imgur.com/IKeZhlJ.jpg){: .image-right }
+## 7. {% include game.html game="Shin Megami Tensei Digital Devil Saga" %}
 
 Like Persona, Shin Megami Tensei: Digital Devil Saga is another spin-off of the
 main Shin Megami Tensei series. My understanding of Digital Devil Saga is that
@@ -105,9 +97,7 @@ The premise definitely sounds interesting. Additionally, there's a direct sequel
 as well, so if I finish Digital Devil Saga and am hungry for more, Digital Devil
 Saga 2 is available!
 
-## 6. Steambot Chronicles
-
-[![](https://i.imgur.com/Q4bD8wGm.jpg)](https://i.imgur.com/Q4bD8wG.jpg){: .image-right }
+## 6. {% include game.html game="Steambot Chronicles" %}
 
 Steambot Chronicles takes place in a world where machines called Trotmobiles are
 used heavily, for transportation and battling. I'm not sure what you battle in
@@ -121,9 +111,7 @@ a band eventually and gain more fame, I think.
 
 The whole package sounds super unique to me, I have to try it someday!
 
-## 5. Shadow Hearts
-
-[![](https://i.imgur.com/QycxUyTm.jpg)](https://i.imgur.com/QycxUyT.jpg){: .image-right }
+## 5. {% include game.html game="Shadow Hearts" %}
 
 The setting of Shadow Hearts sounds very interesting. Set in an alternate
 reality in 1913, it brings monsters and shapeshifters into the mix in a
@@ -144,9 +132,7 @@ Shadow Hearts games that follow this one, but I've heard mixed things about the
 third. The second one though, Shadow Hearts: Covenant should be solid if I play
 Shadow Hearts and find myself wanting more.
 
-## 4. Dark Cloud 2
-
-[![](https://i.imgur.com/hLd1OfXm.jpg)](https://i.imgur.com/hLd1OfX.jpg){: .image-right }
+## 4. {% include game.html game="Dark Cloud 2" %}
 
 Dark Cloud 2, known as Dark Chronicle outside of North America, is a hack 'n'
 slash RPG adventure. It also features some city-building in that you can build
@@ -159,9 +145,7 @@ PlayStation Network. The PS4 version has trophy support as well, which is
 something I always enjoy seeing brought to games that didn't originally have
 trophies or achievements. I'll probably try to grab the PS4 version on a sale!
 
-## 3. Tales of Legendia
-
-[![](https://i.imgur.com/7kBhmTwm.jpg)](https://i.imgur.com/7kBhmTw.jpg){: .image-right }
+## 3. {% include game.html game="Tales of Legendia" %}
 
 Tales is one of my favorite JRPG series. I've played quite a number of the
 entries that received an English localization, but Legendia is one I've not yet
@@ -179,9 +163,7 @@ Having played only 3D Tales games, Legendia's 2D battles might be jarring for
 me. However, I've heard enough praise for it that it's definitely secured a
 place in my backlog.
 
-## 2. Rogue Galaxy
-
-[![](https://i.imgur.com/ctKMusFm.jpg)](https://i.imgur.com/ctKMusF.jpg){: .image-right }
+## 2. {% include game.html game="Rogue Galaxy" %}
 
 The concept here seems really cool. Basically, it's a JRPG with a real-time
 battle system where you play as a space pirate and travel between different
@@ -203,9 +185,7 @@ space pirate and sailing through space is too good to pass up! Plus, it's
 available on PlayStation Network for the PS4, and that version includes trophy
 support!
 
-## 1. Radiata Stories
-
-[![](https://i.imgur.com/J4pLt8qm.jpg)](https://i.imgur.com/J4pLt8q.jpg){: .image-right }
+## 1. {% include game.html game="Radiata Stories" %}
 
 The art style of this game seems cool, I'm not really sure how to describe it.
 Even the cover art makes me want to play this game, I just love the look.

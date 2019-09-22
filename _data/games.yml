@@ -1025,51 +1025,91 @@ Xenosaga Episode I Der Wille zur Macht:
   title: "Xenosaga Episode I: Der Wille zur Macht"
   thumb: "https://i.imgur.com/BnPGkIum.jpg"
   image: "https://i.imgur.com/BnPGkIu.jpg"
+  imagesize: "third"
+  platform: "PlayStation 2"
+  developer: "Monolith Soft"
+  release: "February 25, 2003"
 
 Stella Deus The Gate of Eternity:
   title: "Stella Deus: The Gate of Eternity"
   thumb: "https://i.imgur.com/PGFyGG0m.jpg"
   image: "https://i.imgur.com/PGFyGG0.jpg"
+  imagesize: "third"
+  platform: "PlayStation 2"
+  developer: "Atlus & Pinegrow"
+  release: "April 26, 2005"
 
 Shin Megami Tensei III Nocturne:
   title: "Shin Megami Tensei III: Nocturne"
   thumb: "https://i.imgur.com/5In2Yhem.jpg"
   image: "https://i.imgur.com/5In2Yhe.jpg"
+  imagesize: "third"
+  platform: "PlayStation 2"
+  developer: "Atlus"
+  release: "October 12, 2004"
 
 Shin Megami Tensei Digital Devil Saga:
   title: "Shin Megami Tensei: Digital Devil Saga"
   thumb: "https://i.imgur.com/IKeZhlJm.jpg"
   image: "https://i.imgur.com/IKeZhlJ.jpg"
+  imagesize: "third"
+  platform: "PlayStation 2"
+  developer: "Atlus"
+  release: "April 5, 2005"
 
 Steambot Chronicles:
   title: "Steambot Chronicles"
   thumb: "https://i.imgur.com/Q4bD8wGm.jpg"
   image: "https://i.imgur.com/Q4bD8wG.jpg"
+  imagesize: "third"
+  platform: "PlayStation 2"
+  developer: "Irem"
+  release: "May 23, 2006"
 
 Shadow Hearts:
   title: "Shadow Hearts"
   thumb: "https://i.imgur.com/QycxUyTm.jpg"
   image: "https://i.imgur.com/QycxUyT.jpg"
+  imagesize: "third"
+  platform: "PlayStation 2"
+  developer: "Sacnoth"
+  release: "December 12, 2001"
 
 Dark Cloud 2:
   title: "Dark Cloud 2"
   thumb: "https://i.imgur.com/hLd1OfXm.jpg"
   image: "https://i.imgur.com/hLd1OfX.jpg"
+  imagesize: "third"
+  platform: "PlayStation 2"
+  developer: "Level-5"
+  release: "February 17, 2003"
 
 Tales of Legendia:
   title: "Tales of Legendia"
   thumb: "https://i.imgur.com/7kBhmTwm.jpg"
   image: "https://i.imgur.com/7kBhmTw.jpg"
+  imagesize: "third"
+  platform: "PlayStation 2"
+  developer: "Namco"
+  release: "February 7, 2006"
 
 Rogue Galaxy:
   title: "Rogue Galaxy"
   thumb: "https://i.imgur.com/ctKMusFm.jpg"
   image: "https://i.imgur.com/ctKMusF.jpg"
+  imagesize: "third"
+  platform: "PlayStation 2"
+  developer: "Level-5"
+  release: "January 30, 2007"
 
 Radiata Stories:
   title: "Radiata Stories"
   thumb: "https://i.imgur.com/J4pLt8qm.jpg"
   image: "https://i.imgur.com/J4pLt8q.jpg"
+  imagesize: "third"
+  platform: "PlayStation 2"
+  release: "September 6, 2005"
+  developer: "tri-Ace"
 
 Fire Emblem Shadow Dragon:
   title: "Fire Emblem: Shadow Dragon"
