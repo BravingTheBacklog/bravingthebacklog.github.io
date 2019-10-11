@@ -1233,3 +1233,84 @@ Tokyo Mirage Sessions FE Encore:
   release: "January 17, 2020"
   platform: "Nintendo Switch"
   video: "https://www.youtube.com/embed/Pfq1yFegQ0s"
+
+God of War III:
+  title: "God of War III"
+  image: "https://i.imgur.com/I3kgPhS.jpg"
+  thumb: "https://i.imgur.com/I3kgPhSm.jpg"
+  imagesize: "third"
+  developer: "SCE Santa Monica Studio"
+  release: "March 16, 2010"
+  platform: "PlayStation 3"
+
+Fable III:
+  title: "Fable III"
+  image: "https://i.imgur.com/8utk2Fj.jpg"
+  thumb: "https://i.imgur.com/8utk2Fjm.jpg"
+  imagesize: "third"
+  developer: "Lionhead Studios"
+  release: "October 26, 2010"
+  platform: "Xbox 360"
+
+Borderlands The Pre-Sequel:
+  title: "Borderlands: The Pre-Sequel"
+  image: "https://i.imgur.com/rAuH78x.jpg"
+  thumb: "https://i.imgur.com/rAuH78xm.jpg"
+  imagesize: "third"
+  developer: "2K Australia & Gearbox Software"
+  release: "October 14, 2014"
+  platform: "PlayStation 3"
+
+Gears of War 3:
+  title: "Gears of War 3"
+  image: "https://i.imgur.com/AQDtw0c.jpg"
+  thumb: "https://i.imgur.com/AQDtw0cm.jpg"
+  imagesize: "third"
+  developer: "Epic Games"
+  release: "September 20, 2011"
+  platform: "Xbox 360"
+
+Infamous 2:
+  title: "Infamous 2"
+  image: "https://i.imgur.com/tA7acJ0.jpg"
+  thumb: "https://i.imgur.com/tA7acJ0m.jpg"
+  imagesize: "third"
+  developer: "Sucker Punch Productions"
+  release: "June 7, 2011"
+  platform: "PlayStation 3"
+
+The Elder Scrolls V Skyrim Xbox 360:
+  title: "The Elder Scrolls V: Skyrim"
+  image: "https://i.imgur.com/OnQGzMd.jpg"
+  thumb: "https://i.imgur.com/OnQGzMdm.jpg"
+  imagesize: "third"
+  developer: "Bethesda"
+  release: "November 11, 2011"
+  platform: "Xbox 360"
+
+Halo 4:
+  title: "Halo 4"
+  image: "https://i.imgur.com/tR0nsNE.jpg"
+  thumb: "https://i.imgur.com/tR0nsNEm.jpg"
+  imagesize: "third"
+  developer: "343 Industries"
+  release: "November 6, 2012"
+  platform: "Xbox 360"
+
+Infamous:
+  title: "Infamous"
+  image: "https://i.imgur.com/7SBng2X.png"
+  thumb: "https://i.imgur.com/7SBng2Xm.png"
+  imagesize: "third"
+  developer: "Sucker Punch Productions"
+  release: "May 26, 2009"
+  platform: "PlayStation 3"
+
+Dance Central 2:
+  title: "Dance Central 2"
+  image: "https://i.imgur.com/MwLwQU3.jpg"
+  thumb: "https://i.imgur.com/MwLwQU3m.jpg"
+  imagesize: "third"
+  developer: "Harmonix"
+  release: "October 25, 2011"
+  platform: "Xbox 360"
