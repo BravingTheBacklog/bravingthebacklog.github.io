@@ -2,7 +2,7 @@
 layout: post
 title: Top 10 Least Valuable Games in my Collection
 author: bsinky
-description: A new blog post
+description: "The top 10 least valuable games in my esteemed collection!"
 date: 2019-10-10
 modified: 2019-10-10
 categories: [List]
