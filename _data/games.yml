@@ -589,6 +589,7 @@ Valkyria Chronicles:
   thumb: "https://i.imgur.com/FcOj5j3m.jpg"
   developer: "SEGA"
   release: "November 11, 2014"
+  platform: "PC"
 
 Harry Potter and the Sorcerer's Stone:
   title: "Harry Potter and the Sorcerer's Stone"
@@ -774,6 +775,18 @@ Fire Emblem Fates Conquest:
   thumb: "https://i.imgur.com/1PplUJNm.jpg"
   developer: "Intelligent Systems & Nintendo SPD"
   release: "February 19, 2016"
+  platform: "Nintendo 3DS"
+
+Fire Emblem Fates Birthright:
+  title: "Fire Emblem Fates: Birthright"
+  developer: "Intelligent Systems & Nintendo SPD"
+  release: "February 19, 2016"
+  platform: "Nintendo 3DS"
+
+Fire Emblem Fates Revelation:
+  title: "Fire Emblem Fates: Revelation"
+  developer: "Intelligent Systems & Nintendo SPD"
+  platform: "Nintendo 3DS"
 
 Pokémon Sword & Pokémon Shield:
   title: "Pokémon Sword & Pokémon Shield"
@@ -1314,3 +1327,100 @@ Dance Central 2:
   developer: "Harmonix"
   release: "October 25, 2011"
   platform: "Xbox 360"
+
+Pokémon Ultra Moon:
+  title: "Pokémon Ultra Moon"
+  platform: "Nintendo 3DS"
+
+Spider-Man:
+  title: "Spider-Man"
+  platform: "PlayStation 4"
+
+Persona 5:
+  title: "Persona 5"
+  platform: "PlayStation 4"
+
+Animal Crossing New Leaf:
+  title: "Animal Crossing: New Leaf"
+  platform: "Nintendo 3DS"
+
+Fire Emblem Awakening:
+  title: "Fire Emblem: Awakening"
+  platform: "Nintendo 3DS"
+
+Planet of the Apes:
+  title: "Planet of the Apes"
+  platform: "PSX"
+
+The Walking Dead The Final Season:
+  title: "The Walking Dead: The Final Season"
+  platform: "PC"
+
+Jurassic Park Operation Genesis:
+  title: "Jurassic Park: Operation Genesis"
+  platform: "PC"
+
+Jurassic World Evolution:
+  title: "Jurassic World: Evolution"
+  platform: "PC"
+
+Persona 3 Portable:
+  title: "Persona 3 Portable"
+  platform: "PlayStation Portable"
+
+Barbershop Simulator:
+  title: "Barbershop Simulator"
+  platform: "PC"
+
+Dream Daddy A Dad Dating Simulator - Dadrector's Cut:
+  title: "Dream Daddy: A Dad Dating Simulator - Dadrector's Cut"
+  platform: "PC"
+
+The Sims 4:
+  title: "The Sims 4"
+  platform: "PC"
+
+The Sims 4 Island Living:
+  title: "The Sims 4: Island Living"
+  platform: "PC"
+  parent: "The Sims 4"
+
+Metroid Samus Returns:
+  title: "Metroid Samus Returns"
+  platform: "Nintendo 3DS"
+
+Outward:
+  title: "Outward"
+  platform: "PC"
+
+LEGO Harry Potter Collection:
+  title: "LEGO Harry Potter Collection"
+  platform: "Nintendo Switch"
+
+Pathway:
+  title: "Pathway"
+  platform: "PC"
+
+Pokémon Let's Go, Eevee:
+  title: "Pokémon: Let's Go, Eevee!"
+  platform: "Nintendo Switch"
+
+Persona 4 Dancing All Night:
+  title: "Persona 4 Dancing All Night"
+  platform: "PlayStation 4"
+
+Cadence of Hyrule:
+  title: "Cadence of Hyrule - Crypt of the NecroDancer Featuring The Legend of Zelda"
+  platform: "Nintendo Switch"
+
+Two Point Hospital:
+  title: "Two Point Hospital"
+  platform: "PC"
+
+Mario+Rabbids Kingdom Battle:
+  title: "Mario+Rabbids Kingdom Battle"
+  platform: "Nintendo Switch"
+
+The Last of Us Remastered:
+  title: "The Last of Us Remastered"
+  platform: "PlayStation 4"
