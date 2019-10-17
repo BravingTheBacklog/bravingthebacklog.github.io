@@ -4,7 +4,7 @@ title: What I'm Playing - No. 41
 author: bsinky
 description: "I finished Earthbound and started Valkyria Chronicles!"
 date: 2019-10-14
-modified: 2019-10-14
+modified: 2019-10-17
 categories: [Weekly]
 tags: [what i'm playing,weekly,casual]
 image:
@@ -77,10 +77,10 @@ Kraken along the way. After the voyage, we reached the desert town, Scaraba.
     <a href="https://i.imgur.com/5Cw4aCS.png"><img src="https://i.imgur.com/5Cw4aCSm.png" alt="Scaraba"/></a>
 </figure>
 
-From there, the adventure took so many wild turns. We [explored a pyramid](.
+From there, the adventure took so many wild turns. We explored a pyramid.
 Then we explored the inside of Dungeon Man. Then we got into a submarine,
 travelled in it to the swampy Deep Darkness, and made contact with the shy Tenda
-tribe. After helping them overcome their shyness, we were able to reach the 6th
+tribe. After helping them overcome their shyness, we were able to reach the 7th
 Your Sanctuary. Afterward, we travelled to the Underworld, which is filled with
 dinosaurs. Next to them, Ness and company are *tiny*. The 8th and final Your
 Sanctuary awaited there.
