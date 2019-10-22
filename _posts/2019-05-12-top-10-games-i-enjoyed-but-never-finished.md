@@ -1,17 +1,30 @@
 ---
-layout: post
-title: Top 10 Games I Enjoyed but Never Finished
 author: bsinky
-description: 10 games I started, liked, but never finished!
+categories:
+- List
 date: 2019-05-12
-modified: 2019-05-12
-categories: [List]
-tags: [Top 10]
+description: 10 games I started, liked, but never finished!
+games:
+- Alan Wake
+- Phantasy Star
+- LEGO Jurassic World
+- The Guided Fate Paradox
+- Age of Wonders Shadow Magic
+- The Legend of Zelda Spirit Tracks
+- Donkey Kong Country 2 Diddy Kong's Quest
+- Dragon's Dogma Dark Arisen
+- How To Survive
+- Super Mario RPG The Legend of the Seven Stars
 image:
-    feature: feature-space.jpg
-    credit: Suzy Hazelwood
-    creditlink: https://www.pexels.com/photo/blue-and-red-galaxy-artwork-1629236/
-    thumb: feature-space-thumb.jpg
+  credit: Suzy Hazelwood
+  creditlink: https://www.pexels.com/photo/blue-and-red-galaxy-artwork-1629236/
+  feature: feature-space.jpg
+  thumb: feature-space-thumb.jpg
+layout: post
+modified: 2019-05-12
+tags:
+- Top 10
+title: Top 10 Games I Enjoyed but Never Finished
 ---
 
 Sometimes you're playing a game and you just need to drop your playthrough

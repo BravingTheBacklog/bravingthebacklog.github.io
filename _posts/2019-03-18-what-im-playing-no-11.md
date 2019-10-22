@@ -1,16 +1,24 @@
 ---
-layout: post
-title: What I'm Playing - No. 11
 author: bsinky
-description: What I've been playing for the past week (2019-03-18)
+categories:
+- Weekly
 date: 2019-03-18
-modified: 2019-03-18
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-03-18)
+games:
+- Pokemon Ultra Moon
+- Spider-Man
+- The Sims 4
 image:
-    feature: feature-weekly-playing-pc.jpg
-    credit: XXSS IS BACK
-    creditlink: https://www.pexels.com/photo/two-computer-flat-screen-monitors-turned-on-777001/
+  credit: XXSS IS BACK
+  creditlink: https://www.pexels.com/photo/two-computer-flat-screen-monitors-turned-on-777001/
+  feature: feature-weekly-playing-pc.jpg
+layout: post
+modified: 2019-03-18
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 11
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -292,4 +300,4 @@ all born within a few days of each other.
     <a href="https://i.imgur.com/bd1oBJV.png"><img src="https://i.imgur.com/bd1oBJVm.png" alt="Case"/></a>
 </figure>
 
-Thus was the seed of Demario's family tree sown. 
+Thus was the seed of Demario's family tree sown.

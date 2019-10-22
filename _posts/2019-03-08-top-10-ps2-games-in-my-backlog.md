@@ -1,15 +1,29 @@
 ---
-layout: post
-title: Top 10 PS2 Games in my Backlog
 author: bsinky
-description: The top 10 PS2 games in my Backlog
+categories:
+- List
 date: 2019-03-08
-modified: 2019-09-21
-categories: [List]
-tags: [Top 10,PS2]
+description: The top 10 PS2 games in my Backlog
+games:
+- Xenosaga Episode I Der Wille zur Macht
+- Stella Deus The Gate of Eternity
+- Shin Megami Tensei III Nocturne
+- Shin Megami Tensei Digital Devil Saga
+- Steambot Chronicles
+- Shadow Hearts
+- Dark Cloud 2
+- Tales of Legendia
+- Rogue Galaxy
+- Radiata Stories
 image:
-    feature: feature-ps2.jpg
+  feature: feature-ps2.jpg
+layout: post
+modified: 2019-09-21
 redirect_from: /top%2010/top-10-ps2-games-in-my-backlog/
+tags:
+- Top 10
+- PS2
+title: Top 10 PS2 Games in my Backlog
 ---
 
 Sony's PlayStation 2 is a system I completely missed out on growing up. I played

@@ -1,17 +1,31 @@
 ---
-layout: post
-title: Top 10 SNES Games in my Backlog
 author: bsinky
-description: "My personal list of the top 10 Super Nintendo games in my backlog!"
+categories:
+- List
 date: 2019-08-11
-modified: 2019-09-21
-categories: [List]
-tags: [Top 10,SNES]
+description: My personal list of the top 10 Super Nintendo games in my backlog!
+games:
+- ActRaiser
+- Fire Emblem Genealogy of the Holy War
+- Breath of Fire
+- Shin Megami Tensei if...
+- Terranigma
+- Secret of Mana
+- Shin Megami Tensei
+- Final Fantasy VI
+- Lufia II Rise of the Sinistrals
+- Earthbound
 image:
-  feature: feature-super-nintendo.jpg
   credit: Tabitha Mort
   creditlink: https://www.pexels.com/photo/photo-of-blue-pink-and-green-led-light-775907/
+  feature: feature-super-nintendo.jpg
   thumb: feature-super-nintendo-thumb.jpg
+layout: post
+modified: 2019-09-21
+tags:
+- Top 10
+- SNES
+title: Top 10 SNES Games in my Backlog
 ---
 
 The Super Nintendo is one of the earliest consoles I can remember playing. I was

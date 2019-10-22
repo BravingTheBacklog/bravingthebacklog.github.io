@@ -1,17 +1,26 @@
 ---
-layout: post
-title: What I'm Playing - No. 22
 author: bsinky
-description: I focused mostly on finishing up the games I'd been playing lately, in preparation for the English release of Persona Q2 on the 3DS!
+categories:
+- Weekly
 date: 2019-06-03
-modified: 2019-06-03
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: I focused mostly on finishing up the games I'd been playing lately, in
+  preparation for the English release of Persona Q2 on the 3DS!
+games:
+- Fire Emblem Fates Revelation
+- Pokemon Let's Go, Eevee!
+- Parasite Eve
 image:
-    feature: feature-ps1-3ds-switch.jpg
-    credit: Tom Swinnen
-    creditlink: https://www.pexels.com/photo/apple-magic-keyboard-1309766/
-    thumb: feature-ps1-3ds-switch-thumb.jpg
+  credit: Tom Swinnen
+  creditlink: https://www.pexels.com/photo/apple-magic-keyboard-1309766/
+  feature: feature-ps1-3ds-switch.jpg
+  thumb: feature-ps1-3ds-switch-thumb.jpg
+layout: post
+modified: 2019-06-03
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 22
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -421,4 +430,3 @@ My plan is to finish Parasite Eve early this week, because Persona Q2 comes out
 little silly of me to start a brand new game right before PQ2 came out, but I
 think I'll be able to finish Parasite Eve pretty quickly now. It is a pretty
 short game!
-

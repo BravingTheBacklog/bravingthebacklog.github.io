@@ -1,17 +1,24 @@
 ---
-layout: post
-title: What I'm Playing - No. 29
 author: bsinky
-description: "I finished Persona Q2: New Cinema Labyrinth this week!"
+categories:
+- Weekly
 date: 2019-07-22
-modified: 2019-07-22
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: 'I finished Persona Q2: New Cinema Labyrinth this week!'
+games:
+- Animal Crossing New Leaf
+- Persona Q2 New Cinema Labyrinth
 image:
-    feature: feature-3ds-2.jpg
-    credit: Luck Galindo
-    creditlink: https://www.pexels.com/photo/amazing-astronomy-background-bright-544268/
-    thumb: feature-3ds-2-thumb.jpg
+  credit: Luck Galindo
+  creditlink: https://www.pexels.com/photo/amazing-astronomy-background-bright-544268/
+  feature: feature-3ds-2.jpg
+  thumb: feature-3ds-2-thumb.jpg
+layout: post
+modified: 2019-07-22
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 29
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -130,4 +137,3 @@ not get to it for a while!
     <a href="https://i.imgur.com/Qpoodn1.png"><img src="https://i.imgur.com/Qpoodn1m.png" alt="this one"/></a>
     <a href="https://i.imgur.com/cro7cH3.png"><img src="https://i.imgur.com/cro7cH3m.png" alt="this week"/></a>
 </figure>
-

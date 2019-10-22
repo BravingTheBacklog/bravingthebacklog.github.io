@@ -1,17 +1,32 @@
 ---
-layout: post
-title: Top 10 Games in my Steam Backlog
 author: bsinky
-description: bsinky's Top 10 games in his Steam backlog as of May 2019
+categories:
+- List
 date: 2019-05-04
-modified: 2019-09-21
-categories: [List]
-tags: [Top 10,Steam,Backlog]
+description: bsinky's Top 10 games in his Steam backlog as of May 2019
+games:
+- Dishonored Death of the Outsider
+- Final Fantasy IX
+- Undertale
+- The Legend of Heroes Trails of Cold Steel II
+- Tokyo Dark
+- Danganronpa Trigger Happy Havoc
+- Bayonetta
+- The Banner Saga 3
+- Hollow Knight
+- Valkyria Chronicles
 image:
-    feature: feature-steam-pc.jpg
-    credit: John Petalcurin
-    creditlink: https://www.pexels.com/photo/close-up-photo-of-gaming-keyboard-2115257/
-    thumb: feature-steam-pc-thumb.jpg
+  credit: John Petalcurin
+  creditlink: https://www.pexels.com/photo/close-up-photo-of-gaming-keyboard-2115257/
+  feature: feature-steam-pc.jpg
+  thumb: feature-steam-pc-thumb.jpg
+layout: post
+modified: 2019-09-21
+tags:
+- Top 10
+- Steam
+- Backlog
+title: Top 10 Games in my Steam Backlog
 ---
 
 My Steam backlog is *super* long, as of this writing there are 762 games under

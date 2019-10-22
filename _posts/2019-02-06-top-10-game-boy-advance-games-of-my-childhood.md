@@ -1,15 +1,30 @@
 ---
-layout: post
-title: Top 10 Game Boy Advance Games of my Childhood
 author: bsinky
-description: My personal list of the Top 10 Game Boy Advance Games of my Childhood
+categories:
+- List
 date: 2019-02-06
-modified: 2019-09-22
-categories: [List]
-tags: [Top 10,Game Boy Advance,nostalgia]
+description: My personal list of the Top 10 Game Boy Advance Games of my Childhood
+games:
+- Harry Potter and the Sorcerer's Stone
+- Yu-Gi-Oh! The Eternal Duelist Soul
+- Kirby Nightmare in Dreamland
+- Final Fantasy I & II Dawn of Souls
+- Super Mario World Super Mario Advance 2
+- Pokemon Ruby Version
+- Pokemon LeafGreen Version
+- Metroid Fusion
+- Fire Emblem The Sacred Stones
+- Final Fantasy Tactics Advance
 image:
-    feature: feature-gameboyadvance.jpg
+  feature: feature-gameboyadvance.jpg
+layout: post
+modified: 2019-09-22
 redirect_from: /top%2010/top-10-game-boy-advance-games-of-my-childhood/
+tags:
+- Top 10
+- Game Boy Advance
+- nostalgia
+title: Top 10 Game Boy Advance Games of my Childhood
 ---
 
 Nintendo's Game Boy Advance, or simply GBA for short. In my mind, the GBA was

@@ -1,17 +1,26 @@
 ---
-layout: post
-title: What I'm Playing - No. 25
 author: bsinky
-description: What I've been playing for the past week (2019-06-24)
+categories:
+- Weekly
 date: 2019-06-24
-modified: 2019-06-24
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-06-24)
+games:
+- Persona Q2 New Cinema Labyrinth
+- Fire Emblem Echoes Shadows of Valentia
+- Animal Crossing New Leaf
+- The Sims 4 Island Living
 image:
-    feature: feature-3ds.jpg
-    credit: Emre Can
-    creditlink: https://www.pexels.com/photo/blue-and-white-abstract-painting-2110951/
-    thumb: feature-3ds-thumb.jpg
+  credit: Emre Can
+  creditlink: https://www.pexels.com/photo/blue-and-white-abstract-painting-2110951/
+  feature: feature-3ds.jpg
+  thumb: feature-3ds-thumb.jpg
+layout: post
+modified: 2019-06-24
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 25
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the

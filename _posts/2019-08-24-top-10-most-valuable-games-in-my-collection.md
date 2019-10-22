@@ -1,17 +1,32 @@
 ---
-layout: post
-title: Top 10 Most Valuable Games in my Collection
 author: bsinky
-description: "The top 10 most valuable games in my collection, according to PriceCharting.com, as of August 2019!"
+categories:
+- List
 date: 2019-08-24
-modified: 2019-08-24
-categories: [List]
-tags: [Collecting,Top 10]
+description: The top 10 most valuable games in my collection, according to PriceCharting.com,
+  as of August 2019!
+games:
+- The Legend of Zelda Spirit Tracks
+- The Elder Scrolls V Skyrim Switch
+- Pokemon Colosseum
+- Super Smash Bros. Ultimate
+- Paper Mario
+- Fire Emblem Three Houses
+- Paper Mario The Thousand Year Door
+- Fire Emblem Shadow Dragon
+- Persona Q2 New Cinema Labyrinth
+- Persona Dancing Endless Night Collection
 image:
-    feature: feature-most-valuable.jpg
-    credit: Bruno Thethe
-    creditlink: https://www.pexels.com/photo/abstract-art-artistic-blur-1910231/
-    thumb: feature-most-valuable-thumb.jpg
+  credit: Bruno Thethe
+  creditlink: https://www.pexels.com/photo/abstract-art-artistic-blur-1910231/
+  feature: feature-most-valuable.jpg
+  thumb: feature-most-valuable-thumb.jpg
+layout: post
+modified: 2019-08-24
+tags:
+- Collecting
+- Top 10
+title: Top 10 Most Valuable Games in my Collection
 ---
 
 Recently I was looking through the N64, GameCube, and DS games I own, and I

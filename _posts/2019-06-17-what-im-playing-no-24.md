@@ -1,17 +1,25 @@
 ---
-layout: post
-title: What I'm Playing - No. 24
 author: bsinky
-description: What I've been playing for the past week (2019-06-17)
+categories:
+- Weekly
 date: 2019-06-17
-modified: 2019-06-17
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-06-17)
+games:
+- Persona Q2 New Cinema Labyrinth
+- Persona 4 Dancing All Night
+- Cadence of Hyrule - Crypt of the NecroDancer Featuring The Legend of Zelda
 image:
-    feature: feature-ps4-3ds-switch.jpg
-    credit: Sean Whang
-    creditlink: https://www.pexels.com/photo/white-and-blue-surface-illustration-804269/
-    thumb: feature-ps4-3ds-switch-thumb.jpg
+  credit: Sean Whang
+  creditlink: https://www.pexels.com/photo/white-and-blue-surface-illustration-804269/
+  feature: feature-ps4-3ds-switch.jpg
+  thumb: feature-ps4-3ds-switch-thumb.jpg
+layout: post
+modified: 2019-06-17
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 24
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the

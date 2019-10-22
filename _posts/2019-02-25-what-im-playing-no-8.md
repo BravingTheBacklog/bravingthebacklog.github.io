@@ -1,17 +1,24 @@
 ---
-layout: post
-title: What I'm Playing - No. 8
 author: bsinky
-description: What I've been playing for the past week (2019-02-25)
+categories:
+- Weekly
 date: 2019-02-25
-modified: 2019-02-25
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual,persona]
+description: What I've been playing for the past week (2019-02-25)
+games:
+- Persona 3 Portable
 image:
-    feature: feature-weekly-playing-psp.jpg
-    credit: Tom Swinnen
-    creditlink: https://www.pexels.com/photo/apple-magic-keyboard-1309766/
+  credit: Tom Swinnen
+  creditlink: https://www.pexels.com/photo/apple-magic-keyboard-1309766/
+  feature: feature-weekly-playing-psp.jpg
+layout: post
+modified: 2019-02-25
 redirect_from: /what%20i'm%20playing/what-im-playing-no-8/
+tags:
+- what i'm playing
+- weekly
+- casual
+- persona
+title: What I'm Playing - No. 8
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -200,4 +207,3 @@ for the first time all over again. In any case, the events cause dramatic
 changes for several characters, leading to them awakening to new Personas! These
 "second awakenings" were something I hadn't anticipated the first time I played,
 and they're still very cool to see.
-

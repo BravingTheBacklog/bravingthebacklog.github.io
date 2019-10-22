@@ -1,16 +1,24 @@
 ---
-layout: post
-title: What I'm Playing - No. 12
 author: bsinky
-description: What I've been playing for the past week (2019-03-25)
+categories:
+- Weekly
 date: 2019-03-25
-modified: 2019-03-25
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-03-25)
+games:
+- Pokemon Ultra Moon
+- The Sims 4
+- Jeanne d'Arc
 image:
-    feature: feature-weekly-playing-psp.jpg
-    credit: Tom Swinnen
-    creditlink: https://www.pexels.com/photo/apple-magic-keyboard-1309766/
+  credit: Tom Swinnen
+  creditlink: https://www.pexels.com/photo/apple-magic-keyboard-1309766/
+  feature: feature-weekly-playing-psp.jpg
+layout: post
+modified: 2019-03-25
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 12
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the

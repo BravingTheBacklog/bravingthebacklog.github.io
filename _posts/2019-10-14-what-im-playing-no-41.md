@@ -1,17 +1,24 @@
 ---
-layout: post
-title: What I'm Playing - No. 41
 author: bsinky
-description: "I finished Earthbound and started Valkyria Chronicles!"
+categories:
+- Weekly
 date: 2019-10-14
-modified: 2019-10-17
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: I finished Earthbound and started Valkyria Chronicles!
+games:
+- Earthbound
+- Valkyria Chronicles
 image:
-    feature: feature-snes-pc.jpg
-    credit: XXSS IS BACK
-    creditlink: https://www.pexels.com/photo/two-computer-flat-screen-monitors-turned-on-777001/
-    thumb: feature-snes-pc-thumb.jpg
+  credit: XXSS IS BACK
+  creditlink: https://www.pexels.com/photo/two-computer-flat-screen-monitors-turned-on-777001/
+  feature: feature-snes-pc.jpg
+  thumb: feature-snes-pc-thumb.jpg
+layout: post
+modified: 2019-10-17
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 41
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -265,4 +272,3 @@ get into it!
     <a href="https://i.imgur.com/FwraQFf.jpg"><img src="https://i.imgur.com/FwraQFfm.jpg" alt="Valkyria Chronicles"/></a>
     <a href="https://i.imgur.com/cSP1t7B.jpg"><img src="https://i.imgur.com/cSP1t7Bm.jpg" alt="excited"/></a>
 </figure>
-

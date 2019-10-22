@@ -1,17 +1,31 @@
 ---
-layout: post
-title: Top 10 Longest RPGs in my Backlog
 author: bsinky
-description: "The top 10 longest RPGs in my backlog as of September 2019!"
+categories:
+- List
 date: 2019-09-01
-modified: 2019-09-01
-categories: [List]
-tags: [Top 10,RPG]
+description: The top 10 longest RPGs in my backlog as of September 2019!
+games:
+- Valkyria Chronicles 3 Unrecorded Chronicles
+- Octopath Traveler
+- God Eater 2 Rage Burst
+- Suikoden III
+- Phantasy Star Online Episode I II Plus
+- The Last Remnant
+- Xenoblade Chronicles 3D
+- Dragon Quest VIII
+- Xenoblade Chronicles 2
+- Dragon Quest VII
 image:
-    feature: feature-longest-rpgs.jpg
-    credit: Anni Roenkae
-    creditlink: https://www.pexels.com/photo/photo-of-multicolored-illustration-2832382/
-    thumb: feature-longest-rpgs-thumb.jpg
+  credit: Anni Roenkae
+  creditlink: https://www.pexels.com/photo/photo-of-multicolored-illustration-2832382/
+  feature: feature-longest-rpgs.jpg
+  thumb: feature-longest-rpgs-thumb.jpg
+layout: post
+modified: 2019-09-01
+tags:
+- Top 10
+- RPG
+title: Top 10 Longest RPGs in my Backlog
 ---
 
 How long are the longest games that I want to play someday?

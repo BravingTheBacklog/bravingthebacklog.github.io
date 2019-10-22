@@ -1,15 +1,30 @@
 ---
-layout: post
-title: Top 10 DS Games I Want To Play
 author: bsinky
-description: My personal top 10 DS Games I haven't played but would like to.
+categories:
+- List
 date: 2019-01-30
-modified: 2019-09-13
-categories: [List]
-tags: [Top 10,DS,Backlog]
+description: My personal top 10 DS Games I haven't played but would like to.
+games:
+- Magical Starsign
+- Pokemon Mystery Dungeon Explorers of Sky
+- Fullmetal Alchemist Dual Sympathy
+- Advance Wars Days of Ruin
+- Professor Layton and the Curious Village
+- Dragon Quest V
+- Fire Emblem New Mystery of the Emblem
+- Luminous Arc
+- Chrono Trigger
+- The World Ends with You
 image:
-    feature: feature-ds.jpg
+  feature: feature-ds.jpg
+layout: post
+modified: 2019-09-13
 redirect_from: /top%2010/top-10-ds-games-i-haven-t-played-but-want-to/
+tags:
+- Top 10
+- DS
+- Backlog
+title: Top 10 DS Games I Want To Play
 ---
 
 The time in which I had an original DS seems quite short, looking back at it. I
@@ -132,4 +147,3 @@ one of my favorite DS games.
 
 I'm not sure when I'll pick this one up but it's definitely at the top of my DS
 backlog!
-

@@ -1,17 +1,23 @@
 ---
-layout: post
-title: What I'm Playing - No. 40
 author: bsinky
-description: What I've been playing for the past week (2019-10-07)
+categories:
+- Weekly
 date: 2019-10-07
-modified: 2019-10-07
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-10-07)
+games:
+- Earthbound
 image:
-    feature: feature-super-nintendo.jpg
-    credit: Tabitha Mort
-    creditlink: https://www.pexels.com/photo/photo-of-blue-pink-and-green-led-light-775907/
-    thumb: feature-super-nintendo-thumb.jpg
+  credit: Tabitha Mort
+  creditlink: https://www.pexels.com/photo/photo-of-blue-pink-and-green-led-light-775907/
+  feature: feature-super-nintendo.jpg
+  thumb: feature-super-nintendo-thumb.jpg
+layout: post
+modified: 2019-10-07
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 40
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the

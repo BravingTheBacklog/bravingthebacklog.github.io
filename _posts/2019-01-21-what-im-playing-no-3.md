@@ -1,17 +1,28 @@
 ---
-layout: post
-title: What I'm Playing - No. 3
 author: bsinky
-description: What I've been playing for the past week (2019-01-21)
+categories:
+- Weekly
 date: 2019-01-21
-modified: 2019-01-21
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-01-21)
+games:
+- Fire Emblem Awakening
+- Animal Crossing New Leaf
+- Spider-Man
+- Pokemon Ultra Moon
+- The Walking Dead The Final Season
+- Jurassic Park Operation Genesis
 image:
-    feature: feature-weekly-playing.jpg
-    credit: Tomasz Filipek
-    creditlink: https://www.pexels.com/photo/nintendo-nes-game-console-set-1637438/
+  credit: Tomasz Filipek
+  creditlink: https://www.pexels.com/photo/nintendo-nes-game-console-set-1637438/
+  feature: feature-weekly-playing.jpg
+layout: post
+modified: 2019-01-21
 redirect_from: /what%20i'm%20playing/what-im-playing-no-3/
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 3
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the past week!

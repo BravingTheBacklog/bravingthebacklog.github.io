@@ -1,17 +1,26 @@
 ---
-layout: post
-title: What I'm Playing - No. 7
 author: bsinky
-description: What I've been playing for the past week (2019-02-18)
+categories:
+- Weekly
 date: 2019-02-18
-modified: 2019-02-18
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual,psp,persona]
+description: What I've been playing for the past week (2019-02-18)
+games:
+- Persona 3 Portable
+- Dream Daddy A Dad Dating Simulator - Dadrector's Cut
 image:
-    feature: feature-weekly-playing-psp.jpg
-    credit: Tom Swinnen
-    creditlink: https://www.pexels.com/photo/apple-magic-keyboard-1309766/
+  credit: Tom Swinnen
+  creditlink: https://www.pexels.com/photo/apple-magic-keyboard-1309766/
+  feature: feature-weekly-playing-psp.jpg
+layout: post
+modified: 2019-02-18
 redirect_from: /what%20i'm%20playing/what-im-playing-no-7/
+tags:
+- what i'm playing
+- weekly
+- casual
+- psp
+- persona
+title: What I'm Playing - No. 7
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -133,4 +142,3 @@ it'd be good but the game might just throwing huge numbers out there for laughs.
 
 We'll have to compare it to the score we get when we play more and go on another
 Dad Date.
-

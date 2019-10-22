@@ -1,15 +1,21 @@
 ---
-layout: post
-title: What I'm Playing - No. 33
 author: bsinky
-description: "My Fire Emblem: Three Houses obsession continued this week!"
+categories:
+- Weekly
 date: 2019-08-19
-modified: 2019-08-19
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: 'My Fire Emblem: Three Houses obsession continued this week!'
+games:
+- Fire Emblem Three Houses
 image:
-    feature: feature-switch-fe3h.jpg
-    thumb: feature-switch-fe3h-thumb.jpg
+  feature: feature-switch-fe3h.jpg
+  thumb: feature-switch-fe3h-thumb.jpg
+layout: post
+modified: 2019-08-19
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 33
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -190,4 +196,3 @@ looks pretty sweet!
         <iframe src='https://gfycat.com/ifr/electricmintybandicoot' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
     </div>
 </figure>
-

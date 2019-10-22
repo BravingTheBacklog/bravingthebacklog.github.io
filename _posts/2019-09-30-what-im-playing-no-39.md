@@ -1,17 +1,25 @@
 ---
-layout: post
-title: What I'm Playing - No. 39
 author: bsinky
-description: "I started playing the SNES classic, Earthbound, and played a bit of The Last of Us Remastered on PS4!"
+categories:
+- Weekly
 date: 2019-09-30
-modified: 2019-09-30
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: I started playing the SNES classic, Earthbound, and played a bit of The
+  Last of Us Remastered on PS4!
+games:
+- Earthbound
+- The Last of Us Remastered
 image:
-    feature: feature-snes-ps4.jpg
-    credit: Jonny Lew
-    creditlink: https://www.pexels.com/photo/closeup-photo-of-purple-gemstones-1121123/
-    thumb: feature-snes-ps4-thumb.jpg
+  credit: Jonny Lew
+  creditlink: https://www.pexels.com/photo/closeup-photo-of-purple-gemstones-1121123/
+  feature: feature-snes-ps4.jpg
+  thumb: feature-snes-ps4-thumb.jpg
+layout: post
+modified: 2019-09-30
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 39
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -171,4 +179,3 @@ have to shoot at them while Ellie, your companion, works on freeing you from the
 trap. It's a cool sequence, and I don't think the "hanging upside down" mechanic
 is used anywhere else in the game. It's always pretty cool to see unique
 elements like that in a game.
-

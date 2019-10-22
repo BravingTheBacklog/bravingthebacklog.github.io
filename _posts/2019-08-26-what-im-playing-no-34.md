@@ -1,17 +1,25 @@
 ---
-layout: post
-title: What I'm Playing - No. 34
 author: bsinky
-description: "This week I played a little Super Smash Bros. Ultimate, but mostly continued on with my New Game+ Fire Emblem: Three Houses playthrough!"
+categories:
+- Weekly
 date: 2019-08-26
-modified: 2019-08-26
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: 'This week I played a little Super Smash Bros. Ultimate, but mostly continued
+  on with my New Game+ Fire Emblem: Three Houses playthrough!'
+games:
+- Super Smash Bros. Ultimate
+- Fire Emblem Three Houses
 image:
-    feature: feature-switch.jpg
-    credit: Azim Islam
-    creditlink: https://www.pexels.com/photo/bokeh-of-lights-photography-1210276/
-    thumb: feature-switch-thumb.jpg
+  credit: Azim Islam
+  creditlink: https://www.pexels.com/photo/bokeh-of-lights-photography-1210276/
+  feature: feature-switch.jpg
+  thumb: feature-switch-thumb.jpg
+layout: post
+modified: 2019-08-26
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 34
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -119,4 +127,3 @@ paths like this it usually means a lot of re-use of writing, plot structure,
 levels, etc.. Entirely separate paths would basically be like developing 3
 different games at once, so it's not really a surprise that the plot mirrors the
 other path here.
-

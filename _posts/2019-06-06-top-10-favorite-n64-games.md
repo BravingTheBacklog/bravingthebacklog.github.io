@@ -1,17 +1,31 @@
 ---
-layout: post
-title: Top 10 Favorite N64 Games
 author: bsinky
-description: I still have some great memories of the games the N64 has to offer!
+categories:
+- List
 date: 2019-06-06
-modified: 2019-09-21
-categories: [List]
-tags: [Top 10,N64]
+description: I still have some great memories of the games the N64 has to offer!
+games:
+- Star Fox 64
+- Pokemon Snap
+- Donkey Kong 64
+- Mario Kart 64
+- Super Smash Bros.
+- Pokemon Puzzle League
+- Kirby 64 The Crystal Shards
+- Mischief Makers
+- The Legend of Zelda Ocarina of Time
+- Paper Mario
 image:
-  feature: feature-n64.jpg
-  creditlink: https://www.pexels.com/photo/abstract-painting-1690351/
   credit: Steve Johnson
+  creditlink: https://www.pexels.com/photo/abstract-painting-1690351/
+  feature: feature-n64.jpg
   thumb: feature-n64-thumb.jpg
+layout: post
+modified: 2019-09-21
+tags:
+- Top 10
+- N64
+title: Top 10 Favorite N64 Games
 ---
 
 The Nintendo 64 was the first console I played to have full 3D graphics. I was

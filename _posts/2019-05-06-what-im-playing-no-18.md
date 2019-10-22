@@ -1,17 +1,26 @@
 ---
-layout: post
-title: What I'm Playing - No. 18
 author: bsinky
-description: What I've been playing for the past week (2019-05-06)
+categories:
+- Weekly
 date: 2019-05-06
-modified: 2019-05-06
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-05-06)
+games:
+- Fire Emblem Fates Conquest
+- Fire Emblem Fates Birthright
+- Super Smash Bros. Ultimate
+- Pokemon Let's Go, Eevee!
 image:
-    feature: feature-3ds-and-switch-1.jpg
-    credit: Steve Johnson
-    creditlink: https://www.pexels.com/photo/crystal-glass-on-a-colorful-background-2179374/
-    thumb: feature-3ds-and-switch-1-thumb.jpg
+  credit: Steve Johnson
+  creditlink: https://www.pexels.com/photo/crystal-glass-on-a-colorful-background-2179374/
+  feature: feature-3ds-and-switch-1.jpg
+  thumb: feature-3ds-and-switch-1-thumb.jpg
+layout: post
+modified: 2019-05-06
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 18
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -254,4 +263,3 @@ forward to playing it some more!
         <figcaption>Three badges in!</figcaption>
     </a>
 </figure>
-

@@ -1,17 +1,25 @@
 ---
-layout: post
-title: What I'm Playing - No. 32
 author: bsinky
-description: "Finished my first playthrough of Fire Emblem: Three Houses, and also played a little LEGO Harry Potter on the side!"
+categories:
+- Weekly
 date: 2019-08-12
-modified: 2019-08-12
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: 'Finished my first playthrough of Fire Emblem: Three Houses, and also
+  played a little LEGO Harry Potter on the side!'
+games:
+- LEGO Harry Potter Collection
+- Fire Emblem Three Houses
 image:
-    feature: feature-switch-3.jpg
-    credit: Zaksheuskaya
-    creditlink: https://www.pexels.com/photo/pink-and-purple-wallpaper-1616403/
-    thumb: feature-switch-3-thumb.jpg
+  credit: Zaksheuskaya
+  creditlink: https://www.pexels.com/photo/pink-and-purple-wallpaper-1616403/
+  feature: feature-switch-3.jpg
+  thumb: feature-switch-3-thumb.jpg
+layout: post
+modified: 2019-08-12
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 32
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the

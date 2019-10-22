@@ -1,15 +1,29 @@
 ---
-layout: post
-title: Top 10 PSP Games in my Backlog
 author: bsinky
-description: My personal list of the Top 10 PSP Games in my Backlog.
+categories:
+- List
 date: 2019-02-28
-modified: 2019-09-09
-categories: [List]
-tags: [Top 10,PSP]
+description: My personal list of the Top 10 PSP Games in my Backlog.
+games:
+- PoPoLoCrois
+- Metal Gear Acid
+- Yggdra Union We'll Never Fight Alone
+- Star Ocean First Departure
+- Class of Heroes 2
+- Persona 2 Innocent Sin
+- Brave Story New Traveler
+- Final Fantasy Tactics The War of the Lions
+- Grand Knights History
+- Jeanne d'Arc
 image:
-    feature: feature-psp.jpg
+  feature: feature-psp.jpg
+layout: post
+modified: 2019-09-09
 redirect_from: /top%2010/top-10-psp-games-in-my-backlog/
+tags:
+- Top 10
+- PSP
+title: Top 10 PSP Games in my Backlog
 ---
 
 Having been playing a lot of Persona 3 Portable lately, Sony's PlayStation

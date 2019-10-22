@@ -1,15 +1,29 @@
 ---
-layout: post
-title: Top 10 GameCube Games In My Backlog
 author: bsinky
-description: My personal list of the Top 10 GameCube games in my backlog
+categories:
+- List
 date: 2019-02-20
-modified: 2019-09-09
-categories: [List]
-tags: [Top 10,GameCube]
+description: My personal list of the Top 10 GameCube games in my backlog
+games:
+- Doshin the Giant
+- Scooby-Doo! Night of 100 Frights
+- Baldur's Gate Dark Alliance
+- Battalion Wars
+- Phantasy Star Online Episode I II Plus
+- Evolution Worlds
+- Second Sight
+- Viewtiful Joe
+- Baten Kaitos Eternal Wings and the Lost Ocean
+- Skies of Arcadia Legends
 image:
-    feature: feature-gamecube.jpg
+  feature: feature-gamecube.jpg
+layout: post
+modified: 2019-09-09
 redirect_from: /top%2010/top-10-gamecube-games-in-my-backlog/
+tags:
+- Top 10
+- GameCube
+title: Top 10 GameCube Games In My Backlog
 ---
 
 I've covered my Top 10 Favorite GameCube games here on the blog before. The

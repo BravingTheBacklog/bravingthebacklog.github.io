@@ -1,15 +1,29 @@
 ---
-layout: post
-title: Top 10 Favorite GameCube Games
 author: bsinky
-description: My personal Top 10 Favorite GameCube games
+categories:
+- List
 date: 2019-01-23
-modified: 2019-01-23
-categories: [List]
-tags: [Top 10,GameCube]
+description: My personal Top 10 Favorite GameCube games
+games:
+- Super Mario Sunshine
+- Pokemon Colosseum
+- Luigi's Mansion
+- Future Tactics The Uprising
+- Pikmin 2
+- Custom Robo
+- Tales of Symphonia
+- Paper Mario The Thousand Year Door
+- Fire Emblem Path of Radiance
+- The Legend of Zelda The Wind Waker
 image:
-    feature: feature-gamecube.jpg
+  feature: feature-gamecube.jpg
+layout: post
+modified: 2019-01-23
 redirect_from: /top%2010/top-10-favorite-gamecube-games/
+tags:
+- Top 10
+- GameCube
+title: Top 10 Favorite GameCube Games
 ---
 
 The Nintendo GameCube is a console I held very dear to my heart throughout my

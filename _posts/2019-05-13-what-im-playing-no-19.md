@@ -1,17 +1,24 @@
 ---
-layout: post
-title: What I'm Playing - No. 19
 author: bsinky
-description: What I've been playing for the past week (2019-05-13)
+categories:
+- Weekly
 date: 2019-05-13
-modified: 2019-05-13
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-05-13)
+games:
+- Fire Emblem Fates Birthright
+- Pokemon Let's Go, Eevee!
 image:
-    feature: feature-3ds-and-switch-1.jpg
-    credit: Steve Johnson
-    creditlink: https://www.pexels.com/photo/crystal-glass-on-a-colorful-background-2179374/
-    thumb: feature-3ds-and-switch-1-thumb.jpg
+  credit: Steve Johnson
+  creditlink: https://www.pexels.com/photo/crystal-glass-on-a-colorful-background-2179374/
+  feature: feature-3ds-and-switch-1.jpg
+  thumb: feature-3ds-and-switch-1-thumb.jpg
+layout: post
+modified: 2019-05-13
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 19
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -203,4 +210,3 @@ still enjoying Let's Go Eevee quite a bit, the nostalgia for Gen 1 still runs
 very strong in my heart. I still don't have any level 45 Pokémon, but if I
 explore some more routes, fighting trainers and catching wild Pokémon, my
 Pokémon should reach level 45 in no time.
-

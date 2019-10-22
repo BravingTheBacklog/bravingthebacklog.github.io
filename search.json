@@ -6,6 +6,7 @@
       "title"    : "{{ post.title | escape }}",
       "category" : "{{ post.category }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
+      "games"    : "{{ post.games | join: ', ' }}",
       "url"      : "{{ site.url }}{{ post.url }}",
       "date"     : "{{ post.date }}"
     } {% unless forloop.last %},{% endunless %}

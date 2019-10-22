@@ -1,17 +1,26 @@
 ---
-layout: post
-title: What I'm Playing - No. 2
 author: bsinky
-description: What I've been playing for the past week (2019-01-14)
+categories:
+- Weekly
 date: 2019-01-14
-modified: 2019-01-14
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-01-14)
+games:
+- Pokemon Ultra Moon
+- Fire Emblem Awakening
+- Planet of the Apes
+- Spider-Man
 image:
-    feature: feature-weekly-playing.jpg
-    credit: Tomasz Filipek
-    creditlink: https://www.pexels.com/photo/nintendo-nes-game-console-set-1637438/
+  credit: Tomasz Filipek
+  creditlink: https://www.pexels.com/photo/nintendo-nes-game-console-set-1637438/
+  feature: feature-weekly-playing.jpg
+layout: post
+modified: 2019-01-14
 redirect_from: /what%20i'm%20playing/what-im-playing-no-2/
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 2
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the past week!
@@ -92,4 +101,3 @@ But it's also another element of changing game design, in my opinion. Games of t
 ### Spider-Man *(PS4)*
 
 I played a *small* amount as the old webslinger this week. Got through a few more main story missions. I have to admit, some of the missions have some less than stellar points. The start of one recent mission had me wandering around a secret hideout kind of thing, just looking at stuff. It was pretty cool in that it developed the story, but it didn't feel particularly engaging. Maybe that part could have just been a cutscene? It's a minor gripe though, overall the game is still very enjoyable. Swinging around the city is *the best*.
-

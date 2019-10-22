@@ -1,17 +1,23 @@
 ---
-layout: post
-title: What I'm Playing - No. 42
 author: bsinky
-description: "Valkyria Chronicles continues this week!"
+categories:
+- Weekly
 date: 2019-10-21
-modified: 2019-10-21
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: Valkyria Chronicles continues this week!
+games:
+- Valkyria Chronicles
 image:
-    feature: feature-steam-pc.jpg
-    credit: John Petalcurin
-    creditlink: https://www.pexels.com/photo/close-up-photo-of-gaming-keyboard-2115257/
-    thumb: feature-steam-pc-thumb.png
+  credit: John Petalcurin
+  creditlink: https://www.pexels.com/photo/close-up-photo-of-gaming-keyboard-2115257/
+  feature: feature-steam-pc.jpg
+  thumb: feature-steam-pc-thumb.png
+layout: post
+modified: 2019-10-21
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 42
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the

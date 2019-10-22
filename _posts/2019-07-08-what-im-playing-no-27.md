@@ -1,17 +1,26 @@
 ---
-layout: post
-title: What I'm Playing - No. 27
 author: bsinky
-description: A bit of Animal Crossing, Persona Q2, and Fire Emblem Echoes Shadows of Valentia this week!
+categories:
+- Weekly
 date: 2019-07-08
-modified: 2019-07-08
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: A bit of Animal Crossing, Persona Q2, and Fire Emblem Echoes Shadows
+  of Valentia this week!
+games:
+- Animal Crossing New Leaf
+- Fire Emblem Echoes Shadows of Valentia
+- Persona Q2 New Cinema Labyrinth
 image:
-    feature: feature-3ds-2.jpg
-    credit: Luck Galindo
-    creditlink: https://www.pexels.com/photo/amazing-astronomy-background-bright-544268/
-    thumb: feature-3ds-2-thumb.jpg
+  credit: Luck Galindo
+  creditlink: https://www.pexels.com/photo/amazing-astronomy-background-bright-544268/
+  feature: feature-3ds-2.jpg
+  thumb: feature-3ds-2-thumb.jpg
+layout: post
+modified: 2019-07-08
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 27
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -142,4 +151,3 @@ the source material.
     <a href="https://i.imgur.com/QaawrUD.png"><img src="https://i.imgur.com/QaawrUDm.png" alt="Genie persona from Disney's Aladdin"/>
     </a>
 </figure>
-

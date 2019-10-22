@@ -1,17 +1,25 @@
 ---
-layout: post
-title: What I'm Playing - No. 6
 author: bsinky
-description: What I've been playing for the past week (2019-02-11)
+categories:
+- Weekly
 date: 2019-02-11
-modified: 2019-02-11
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-02-11)
+games:
+- Persona 3 Portable
+- Barbershop Simulator
+- Jurassic World Evolution
 image:
-    feature: feature-weekly-playing-pc.jpg
-    credit: Tomasz Filipek
-    creditlink: https://www.pexels.com/photo/nintendo-nes-game-console-set-1637438/
+  credit: Tomasz Filipek
+  creditlink: https://www.pexels.com/photo/nintendo-nes-game-console-set-1637438/
+  feature: feature-weekly-playing-pc.jpg
+layout: post
+modified: 2019-02-11
 redirect_from: /what%20i'm%20playing/what-im-playing-no-6/
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 6
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the past week!
@@ -221,4 +229,3 @@ but...I don't know.
 That said, I've still had a great time with Jurassic World Evolution, it just
 feels like I might be nearing the end of my time with it. We'll see. Maybe
 revisiting the sandbox mode on Isla Nublar will revitalize my experience.
-

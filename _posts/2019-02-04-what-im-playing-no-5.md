@@ -1,17 +1,24 @@
 ---
-layout: post
-title: What I'm Playing - No. 5
 author: bsinky
-description: What I've been playing for the past week (2019-02-04)
+categories:
+- Weekly
 date: 2019-02-04
-modified: 2019-02-04
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-02-04)
+games:
+- Fire Emblem Awakening
+- Jurassic World Evolution
 image:
-    feature: feature-weekly-playing-pc.jpg
-    credit: XXSS IS BACK
-    creditlink: https://www.pexels.com/photo/two-computer-flat-screen-monitors-turned-on-777001/
+  credit: XXSS IS BACK
+  creditlink: https://www.pexels.com/photo/two-computer-flat-screen-monitors-turned-on-777001/
+  feature: feature-weekly-playing-pc.jpg
+layout: post
+modified: 2019-02-04
 redirect_from: /what%20i'm%20playing/what-im-playing-no-5/
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 5
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the

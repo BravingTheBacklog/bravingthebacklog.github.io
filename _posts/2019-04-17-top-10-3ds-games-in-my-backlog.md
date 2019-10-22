@@ -1,17 +1,31 @@
 ---
-layout: post
-title: Top 10 3DS Games in my Backlog
 author: bsinky
-description: My personal list of the top 10 3DS games in my backlog
+categories:
+- List
 date: 2019-04-17
-modified: 2019-09-09
-categories: [List]
-tags: [Top 10,3DS]
+description: My personal list of the top 10 3DS games in my backlog
+games:
+- The Legend of Zelda A Link Between Worlds
+- Luigi's Mansion Dark Moon
+- Shin Megami Tensei IV
+- Bravely Default
+- Dragon Quest VIII
+- Radiant Historia Perfect Chronology
+- Xenoblade Chronicles 3D
+- Persona Q2 New Cinema Labyrinth
+- Fire Emblem Echoes Shadows of Valentia
+- Fire Emblem Fates Conquest
 image:
-    feature: feature-3ds.jpg
-    credit: Emre Can
-    creditlink: https://www.pexels.com/photo/blue-and-white-abstract-painting-2110951/
-    thumb: feature-3ds-thumb.jpg
+  credit: Emre Can
+  creditlink: https://www.pexels.com/photo/blue-and-white-abstract-painting-2110951/
+  feature: feature-3ds.jpg
+  thumb: feature-3ds-thumb.jpg
+layout: post
+modified: 2019-09-09
+tags:
+- Top 10
+- 3DS
+title: Top 10 3DS Games in my Backlog
 ---
 
 I haven't had my New Nintendo 2DS XL for very long. The Nintendo 3DS launched 7

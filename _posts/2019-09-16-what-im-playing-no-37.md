@@ -1,17 +1,25 @@
 ---
-layout: post
-title: What I'm Playing - No. 37
 author: bsinky
-description: "I started Mario+Rabbids Kingdom Battle this week, and tried out the latest Sims 4 Game Pack, Realm of Magic!"
+categories:
+- Weekly
 date: 2019-09-16
-modified: 2019-09-16
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: I started Mario+Rabbids Kingdom Battle this week, and tried out the latest
+  Sims 4 Game Pack, Realm of Magic!
+games:
+- Mario+Rabbids Kingdom Battle
+- The Sims 4
 image:
-    feature: feature-switch-pc.jpg
-    credit: John Petalcurin
-    creditlink: https://www.pexels.com/photo/close-up-photo-of-gaming-keyboard-2115257/
-    thumb: feature-switch-pc-thumb.jpg
+  credit: John Petalcurin
+  creditlink: https://www.pexels.com/photo/close-up-photo-of-gaming-keyboard-2115257/
+  feature: feature-switch-pc.jpg
+  thumb: feature-switch-pc-thumb.jpg
+layout: post
+modified: 2019-09-16
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 37
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the

@@ -1,17 +1,25 @@
 ---
-layout: post
-title: What I'm Playing - No. 23
 author: bsinky
-description: I finished Parasite Eve this week, and began playing Persona Q2 New Cinema Labyrinth!
+categories:
+- Weekly
 date: 2019-06-10
-modified: 2019-06-10
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: I finished Parasite Eve this week, and began playing Persona Q2 New Cinema
+  Labyrinth!
+games:
+- Parasite Eve
+- Persona Q2 New Cinema Labyrinth
 image:
-    feature: feature-3ds.jpg
-    credit: Emre Can
-    creditlink: https://www.pexels.com/photo/blue-and-white-abstract-painting-2110951/
-    thumb: feature-3ds-thumb.jpg
+  credit: Emre Can
+  creditlink: https://www.pexels.com/photo/blue-and-white-abstract-painting-2110951/
+  feature: feature-3ds.jpg
+  thumb: feature-3ds-thumb.jpg
+layout: post
+modified: 2019-06-10
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 23
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the

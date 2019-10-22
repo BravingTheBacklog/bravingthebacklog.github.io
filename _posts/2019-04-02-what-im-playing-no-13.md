@@ -1,16 +1,23 @@
 ---
-layout: post
-title: What I'm Playing - No. 13
 author: bsinky
-description: What I've been playing for the past week (2019-04-02)
+categories:
+- Weekly
 date: 2019-04-02
-modified: 2019-04-02
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-04-02)
+games:
+- Jeanne d'Arc
+- The Sims 4
 image:
-    feature: feature-weekly-playing-pc.jpg
-    credit: XXSS IS BACK
-    creditlink: https://www.pexels.com/photo/two-computer-flat-screen-monitors-turned-on-777001/
+  credit: XXSS IS BACK
+  creditlink: https://www.pexels.com/photo/two-computer-flat-screen-monitors-turned-on-777001/
+  feature: feature-weekly-playing-pc.jpg
+layout: post
+modified: 2019-04-02
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 13
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the

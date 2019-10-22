@@ -1,17 +1,31 @@
 ---
-layout: post
-title: Top 10 Least Valuable Games in my Collection
 author: bsinky
-description: "The top 10 least valuable games in my esteemed collection!"
+categories:
+- List
 date: 2019-10-10
-modified: 2019-10-10
-categories: [List]
-tags: [Top 10,Collecting]
+description: The top 10 least valuable games in my esteemed collection!
+games:
+- God of War III
+- Fable III
+- Borderlands The Pre-Sequel
+- Gears of War 3
+- Infamous 2
+- The Elder Scrolls V Skyrim Xbox 360
+- Yu-Gi-Oh! The Eternal Duelist Soul
+- Halo 4
+- Infamous
+- Dance Central 2
 image:
-  feature: feature-least-valuable.jpg
-  thumb: feature-least-valuable-thumb.jpg
   credit: Blaque X
   creditlink: https://www.pexels.com/photo/blue-blur-color-dark-932638/
+  feature: feature-least-valuable.jpg
+  thumb: feature-least-valuable-thumb.jpg
+layout: post
+modified: 2019-10-10
+tags:
+- Top 10
+- Collecting
+title: Top 10 Least Valuable Games in my Collection
 ---
 
 After writing
@@ -122,4 +136,3 @@ had those sorts of issues with Dance Central 2 or not...
 
 Maybe we'll have to set up the Kinect again sometime and give this one another
 try!
-

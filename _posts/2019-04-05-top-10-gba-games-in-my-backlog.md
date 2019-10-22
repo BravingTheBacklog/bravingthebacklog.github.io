@@ -1,14 +1,29 @@
 ---
-layout: post
-title: Top 10 GBA Games in my Backlog
 author: bsinky
-description: A list of the top 10 Game Boy Advance games in my backlog, that I am most interested to play
+categories:
+- List
 date: 2019-04-05
-modified: 2019-09-09
-categories: [List]
-tags: [Top 10,Game Boy Advance]
+description: A list of the top 10 Game Boy Advance games in my backlog, that I am
+  most interested to play
+games:
+- The Legend of Zelda The Minish Cap
+- Summon Night Swordcraft Story
+- Mother 3
+- DemiKids Dark Version
+- Fire Emblem The Binding Blade
+- Advance Wars
+- Mega Man Battle Network
+- Castlevania Aria of Sorrow
+- Kirby & the Amazing Mirror
+- Golden Sun
 image:
-    feature: feature-gameboyadvance.jpg
+  feature: feature-gameboyadvance.jpg
+layout: post
+modified: 2019-09-09
+tags:
+- Top 10
+- Game Boy Advance
+title: Top 10 GBA Games in my Backlog
 ---
 
 The GBA was a heck of a portable gaming device. By the end of its life, it had a

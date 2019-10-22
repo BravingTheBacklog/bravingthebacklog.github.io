@@ -1,17 +1,25 @@
 ---
-layout: post
-title: What I'm Playing - No. 9
 author: bsinky
-description: What I've been playing for the past week (2019-03-04)
+categories:
+- Weekly
 date: 2019-03-04
-modified: 2019-03-04
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-03-04)
+games:
+- Pokemon Ultra Moon
+- The Sims 4
+- Persona 3 Portable
 image:
-    feature: feature-weekly-playing-psp.jpg
-    credit: Tom Swinnen
-    creditlink: https://www.pexels.com/photo/apple-magic-keyboard-1309766/
+  credit: Tom Swinnen
+  creditlink: https://www.pexels.com/photo/apple-magic-keyboard-1309766/
+  feature: feature-weekly-playing-psp.jpg
+layout: post
+modified: 2019-03-04
 redirect_from: /what%20i'm%20playing/what-im-playing-no-9/
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 9
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -378,4 +386,3 @@ when you're playing as the female character.
 
 There's *so* much more I could say about Persona 3 Portable, but like I said at
 the beginning, I'm saving that for a post all its own!
-

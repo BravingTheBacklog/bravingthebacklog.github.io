@@ -1,16 +1,25 @@
 ---
-layout: post
-title: What I'm Playing - No. 15
 author: bsinky
-description: What I've been playing for the past week (2019-04-15)
+categories:
+- Weekly
 date: 2019-04-15
-modified: 2019-04-15
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-04-15)
+games:
+- Jeanne d'Arc
+- Pathway
+- Pokemon Ultra Moon
+- Super Smash Bros. Ultimate
 image:
-    feature: feature-switch.jpg
-    credit: Azim Islam
-    creditlink: https://www.pexels.com/photo/bokeh-of-lights-photography-1210276/
+  credit: Azim Islam
+  creditlink: https://www.pexels.com/photo/bokeh-of-lights-photography-1210276/
+  feature: feature-switch.jpg
+layout: post
+modified: 2019-04-15
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 15
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the

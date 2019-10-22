@@ -1,17 +1,26 @@
 ---
-layout: post
-title: What I'm Playing - No. 21
 author: bsinky
-description: I spent the past week mostly playing Fire Emblem Fates Revelation on the 3DS, but I also found some time for Pokémon Let's Go, Eevee! on the Switch, and had a lot of fun playing both!
+categories:
+- Weekly
 date: 2019-05-27
-modified: 2019-05-27
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: I spent the past week mostly playing Fire Emblem Fates Revelation on
+  the 3DS, but I also found some time for Pokémon Let's Go, Eevee! on the Switch,
+  and had a lot of fun playing both!
+games:
+- Fire Emblem Fates Revelation
+- Pokemon Let's Go, Eevee!
 image:
-    feature: feature-3ds-and-switch-1.jpg
-    credit: Steve Johnson
-    creditlink: https://www.pexels.com/photo/crystal-glass-on-a-colorful-background-2179374/
-    thumb: feature-3ds-and-switch-1-thumb.jpg
+  credit: Steve Johnson
+  creditlink: https://www.pexels.com/photo/crystal-glass-on-a-colorful-background-2179374/
+  feature: feature-3ds-and-switch-1.jpg
+  thumb: feature-3ds-and-switch-1-thumb.jpg
+layout: post
+modified: 2019-05-27
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 21
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the

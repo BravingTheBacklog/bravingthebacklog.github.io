@@ -1,17 +1,24 @@
 ---
-layout: post
-title: What I'm Playing - No. 4
 author: bsinky
-description: What I've been playing for the past week (2019-01-28)
+categories:
+- Weekly
 date: 2019-01-28
-modified: 2019-01-28
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-01-28)
+games:
+- Fire Emblem Awakening
+- Jurassic World Evolution
 image:
-    feature: feature-weekly-playing.jpg
-    credit: Tomasz Filipek
-    creditlink: https://www.pexels.com/photo/nintendo-nes-game-console-set-1637438/
+  credit: Tomasz Filipek
+  creditlink: https://www.pexels.com/photo/nintendo-nes-game-console-set-1637438/
+  feature: feature-weekly-playing.jpg
+layout: post
+modified: 2019-01-28
 redirect_from: /what%20i'm%20playing/what-im-playing-no-4/
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 4
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the past week!
@@ -87,4 +94,3 @@ anyway.
 </figure>
 
 The interface of the game looks great too, in my opinion. I've been playing with a controller, and it looks and works great. Anyway, the whole package is pretty awesome. There are quite a few game systems, none of them *too* deep, but they all seem to work pretty well together. Lots of dinosaurs too, it seems like there's way more in Jurassic World Evolution than there were in Jurassic Park: Operation Genesis!
-

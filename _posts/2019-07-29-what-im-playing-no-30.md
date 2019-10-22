@@ -1,17 +1,25 @@
 ---
-layout: post
-title: What I'm Playing - No. 30
 author: bsinky
-description: "Fire Emblem: Three Houses came out this week, and it's been great so far!"
+categories:
+- Weekly
 date: 2019-07-29
-modified: 2019-07-29
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: 'Fire Emblem: Three Houses came out this week, and it''s been great so
+  far!'
+games:
+- Animal Crossing New Leaf
+- Fire Emblem Three Houses
 image:
-    feature: feature-3ds-and-switch-1.jpg
-    credit: Steve Johnson
-    creditlink: https://www.pexels.com/photo/crystal-glass-on-a-colorful-background-2179374/
-    thumb: feature-3ds-and-switch-1-thumb.jpg
+  credit: Steve Johnson
+  creditlink: https://www.pexels.com/photo/crystal-glass-on-a-colorful-background-2179374/
+  feature: feature-3ds-and-switch-1.jpg
+  thumb: feature-3ds-and-switch-1-thumb.jpg
+layout: post
+modified: 2019-07-29
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 30
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -195,4 +203,3 @@ playing a *lot* more of it in the coming weeks!
     <a href="https://i.imgur.com/bmMfiWF.jpg"><img src="https://i.imgur.com/bmMfiWFm.jpg" alt="so much to do"/></a>
     <a href="https://i.imgur.com/3badlTt.jpg"><img src="https://i.imgur.com/3badlTtm.jpg" alt="fantastic experience"/></a>
 </figure>
-

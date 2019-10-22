@@ -1,17 +1,34 @@
 ---
-layout: post
-title: Top 10 PS1 Games in My Backlog
 author: bsinky
-description: I never owned a PS1 as a kid, so I missed out on a lot of classic games from that era. Here's 10 that I'm most excited to try someday!
+categories:
+- List
 date: 2019-05-25
-modified: 2019-09-22
-categories: [List]
-tags: [Top 10,Backlog,PSX,PS1]
+description: I never owned a PS1 as a kid, so I missed out on a lot of classic games
+  from that era. Here's 10 that I'm most excited to try someday!
+games:
+- Valkyrie Profile
+- Grandia
+- Xenogears
+- Jade Cocoon
+- Vagrant Story
+- Tales of Destiny
+- Wild Arms
+- Suikoden & Suikoden II
+- Castlevania Symphony of the Night
+- Parasite Eve
 image:
-    feature: feature-ps1.jpg
-    creditlink: https://www.pexels.com/photo/black-and-white-carbon-close-up-close-up-2092075/
-    credit: Engin Akyurt
-    thumb: feature-ps1-thumb.jpg
+  credit: Engin Akyurt
+  creditlink: https://www.pexels.com/photo/black-and-white-carbon-close-up-close-up-2092075/
+  feature: feature-ps1.jpg
+  thumb: feature-ps1-thumb.jpg
+layout: post
+modified: 2019-09-22
+tags:
+- Top 10
+- Backlog
+- PSX
+- PS1
+title: Top 10 PS1 Games in My Backlog
 ---
 
 Sony's entry into the home video game console market came about with the release

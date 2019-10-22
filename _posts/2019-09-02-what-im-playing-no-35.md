@@ -1,17 +1,25 @@
 ---
-layout: post
-title: What I'm Playing - No. 35
 author: bsinky
-description: "Another Fire Emblem: Three Houses playthrough in the books, and I enjoyed Two Point Hospital's free weekend on Steam!"
+categories:
+- Weekly
 date: 2019-09-02
-modified: 2019-09-02
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: 'Another Fire Emblem: Three Houses playthrough in the books, and I enjoyed
+  Two Point Hospital''s free weekend on Steam!'
+games:
+- Fire Emblem Three Houses
+- Two Point Hospital
 image:
-    feature: feature-switch-pc.jpg
-    credit: John Petalcurin
-    creditlink: https://www.pexels.com/photo/close-up-photo-of-gaming-keyboard-2115257/
-    thumb: feature-switch-pc-thumb.jpg
+  credit: John Petalcurin
+  creditlink: https://www.pexels.com/photo/close-up-photo-of-gaming-keyboard-2115257/
+  feature: feature-switch-pc.jpg
+  thumb: feature-switch-pc-thumb.jpg
+layout: post
+modified: 2019-09-02
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 35
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the

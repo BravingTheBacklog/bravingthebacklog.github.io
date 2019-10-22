@@ -1,17 +1,25 @@
 ---
-layout: post
-title: What I'm Playing - No. 28
 author: bsinky
-description: I finished Fire Emblem Echoes Shadows of Valentia and made more PQ2 progress!
+categories:
+- Weekly
 date: 2019-07-15
-modified: 2019-07-15
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: I finished Fire Emblem Echoes Shadows of Valentia and made more PQ2 progress!
+games:
+- Animal Crossing New Leaf
+- Fire Emblem Echoes Shadows of Valentia
+- Persona Q2 New Cinema Labyrinth
 image:
-    feature: feature-3ds.jpg
-    credit: Emre Can
-    creditlink: https://www.pexels.com/photo/blue-and-white-abstract-painting-2110951/
-    thumb: feature-3ds-thumb.jpg
+  credit: Emre Can
+  creditlink: https://www.pexels.com/photo/blue-and-white-abstract-painting-2110951/
+  feature: feature-3ds.jpg
+  thumb: feature-3ds-thumb.jpg
+layout: post
+modified: 2019-07-15
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 28
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -259,4 +267,3 @@ of where the wind is and where it will take my party if I step into it!
     <a href="https://i.imgur.com/ctOXOTu.png"><img src="https://i.imgur.com/ctOXOTum.png" alt="one last dungeon"/></a>
     <a href="https://i.imgur.com/4kMX6rN.png"><img src="https://i.imgur.com/4kMX6rNm.png" alt="heavy winds"/></a>
 </figure>
-

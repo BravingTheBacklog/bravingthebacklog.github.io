@@ -1,17 +1,25 @@
 ---
-layout: post
-title: What I'm Playing - No. 20
 author: bsinky
-description: What I've been playing for the past week (2019-05-20)
+categories:
+- Weekly
 date: 2019-05-20
-modified: 2019-05-20
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week (2019-05-20)
+games:
+- Fire Emblem Fates Birthright
+- Fire Emblem Fates Revelation
+- Pokemon Let's Go, Eevee!
 image:
-    feature: feature-3ds.jpg
-    credit: Emre Can
-    creditlink: https://www.pexels.com/photo/blue-and-white-abstract-painting-2110951/
-    thumb: feature-3ds-thumb.jpg
+  credit: Emre Can
+  creditlink: https://www.pexels.com/photo/blue-and-white-abstract-painting-2110951/
+  feature: feature-3ds.jpg
+  thumb: feature-3ds-thumb.jpg
+layout: post
+modified: 2019-05-20
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 20
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -204,4 +212,3 @@ Sabrina's Psychic focus did prove difficult, but I like it!
     <a href="https://i.imgur.com/Z8Xvm9X.jpg"><img src="https://i.imgur.com/Z8Xvm9Xm.jpg" alt="6 out of 8 badges collected"/></a>
     <a href="https://i.imgur.com/yC0596S.jpg"><img src="https://i.imgur.com/yC0596Sm.jpg" alt="Look at my current party"/></a>
 </figure>
-

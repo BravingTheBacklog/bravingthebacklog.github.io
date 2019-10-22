@@ -1,17 +1,25 @@
 ---
-layout: post
-title: What I'm Playing - No. 31
 author: bsinky
-description: "In this post: mostly Fire Emblem: Three Houses, but a bit of Super Smash Bros. Ultimate too!"
+categories:
+- Weekly
 date: 2019-08-05
-modified: 2019-08-05
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: 'In this post: mostly Fire Emblem: Three Houses, but a bit of Super Smash
+  Bros. Ultimate too!'
+games:
+- Super Smash Bros. Ultimate
+- Fire Emblem Three Houses
 image:
-    feature: feature-switch.jpg
-    credit: Azim Islam
-    creditlink: https://www.pexels.com/photo/bokeh-of-lights-photography-1210276/
-    thumb: feature-switch-thumb.jpg
+  credit: Azim Islam
+  creditlink: https://www.pexels.com/photo/bokeh-of-lights-photography-1210276/
+  feature: feature-switch.jpg
+  thumb: feature-switch-thumb.jpg
+layout: post
+modified: 2019-08-05
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 31
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the

@@ -1,17 +1,26 @@
 ---
-layout: post
-title: What I'm Playing - No. 26
 author: bsinky
-description: I continued my obsession with Animal Crossing, and made some good progress in Persona Q2 and Fire Emblem Echoes this week!
+categories:
+- Weekly
 date: 2019-07-01
-modified: 2019-07-01
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: I continued my obsession with Animal Crossing, and made some good progress
+  in Persona Q2 and Fire Emblem Echoes this week!
+games:
+- Persona Q2 New Cinema Labyrinth
+- Fire Emblem Echoes Shadows of Valentia
+- Animal Crossing New Leaf
 image:
-    feature: feature-3ds.jpg
-    credit: Emre Can
-    creditlink: https://www.pexels.com/photo/blue-and-white-abstract-painting-2110951/
-    thumb: feature-3ds-thumb.jpg
+  credit: Emre Can
+  creditlink: https://www.pexels.com/photo/blue-and-white-abstract-painting-2110951/
+  feature: feature-3ds.jpg
+  thumb: feature-3ds-thumb.jpg
+layout: post
+modified: 2019-07-01
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 26
 ---
 
 I continued my re-obsession with Animal Crossing, and made some good progress in

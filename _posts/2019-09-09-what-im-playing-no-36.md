@@ -1,15 +1,23 @@
 ---
-layout: post
-title: What I'm Playing - No. 36
 author: bsinky
-description: "I started and finished The World Ends With You this week, and also played a little Super Smash Bros. Ultimate!"
+categories:
+- Weekly
 date: 2019-09-09
-modified: 2019-09-09
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: I started and finished The World Ends With You this week, and also played
+  a little Super Smash Bros. Ultimate!
+games:
+- The World Ends With You
+- Super Smash Bros. Ultimate
 image:
-    feature: feature-ds.jpg
-    thumb: feature-ds-thumb.jpg
+  feature: feature-ds.jpg
+  thumb: feature-ds-thumb.jpg
+layout: post
+modified: 2019-09-09
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 36
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
@@ -210,4 +218,3 @@ kind of fun.
         <iframe src='https://gfycat.com/ifr/acidicperfecthyrax' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
     </div>
 </figure>
-

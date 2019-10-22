@@ -1,17 +1,26 @@
 ---
-layout: post
-title: What I'm Playing - No. 1
 author: bsinky
-description: What I've been playing for the past week. First article!
+categories:
+- Weekly
 date: 2019-1-8
-modified: 2019-1-8
-categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+description: What I've been playing for the past week. First article!
+games:
+- Pokemon Ultra Moon
+- Spider-Man
+- Persona 5
+- Animal Crossing New Leaf
 image:
-    feature: feature-weekly-playing.jpg
-    credit: Tomasz Filipek
-    creditlink: https://www.pexels.com/photo/nintendo-nes-game-console-set-1637438/
+  credit: Tomasz Filipek
+  creditlink: https://www.pexels.com/photo/nintendo-nes-game-console-set-1637438/
+  feature: feature-weekly-playing.jpg
+layout: post
+modified: 2019-1-8
 redirect_from: /what%20i'm%20playing/what-im-playing-no-1/
+tags:
+- what i'm playing
+- weekly
+- casual
+title: What I'm Playing - No. 1
 ---
 
 Welcome to a laid-back wrap up of the games I've been playing over the past week! Hopefully this will turn into a regular staple, where I provide brief summaries of what I've experienced recently in video games.
@@ -85,4 +94,3 @@ Admittedly, I'm probably going to go another long stretch without really checkin
     <a href="https://i.imgur.com/ktOTEuA.png"><img src="https://i.imgur.com/ktOTEuAm.png" alt="He even has bed head"/>
     <figcaption>He even has bed head</figcaption></a>
 </figure>
-
