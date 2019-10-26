@@ -144,7 +144,7 @@ in Empire City that leaves him with electricity-based super powers. It's an open
 world action-adventure game that allows you to direct Cole to use his new powers
 for either good or evil, with two different endings depending on your choice.
 
-As I mentioned in [my least valuable games post]({% post_url 2019-08-24-top-10-most-valuable-games-in-my-collection %}), I picked up Infamous
+As I mentioned in [my least valuable games post]({% post_url 2019-10-10-top-10-least-valuable-games-in-my-collection %}), I picked up Infamous
 and its sequel for cheap. I haven't touched them yet though! If I enjoy the
 first game enough, I might continue right on with Infamous 2 afterward.
 
