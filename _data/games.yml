@@ -471,6 +471,7 @@ The Guided Fate Paradox:
   developer: "Nippon Ichi Software"
   release: "November 5, 2013"
   platform: "PlayStation 3"
+  imagesize: "third"
 
 Age of Wonders Shadow Magic:
   title: "Age of Wonders: Shadow Magic"
@@ -1424,3 +1425,66 @@ Mario+Rabbids Kingdom Battle:
 The Last of Us Remastered:
   title: "The Last of Us Remastered"
   platform: "PlayStation 4"
+
+The Sly Collection:
+  title: "The Sly Collection"
+  platform: "PlayStation 3"
+  image: "https://i.imgur.com/RFq0WPp.jpg"
+  thumb: "https://i.imgur.com/RFq0WPpm.jpg"
+  developer: "Sucker Punch Productions & Sanzaru Games"
+  release: "November 9, 2010 "
+  imagesize: "third"
+
+Ratchet & Clank Collection:
+  title: "Ratchet & Clank Collection"
+  platform: "PlayStation 3"
+  image: "https://i.imgur.com/V7uOliZ.jpg"
+  thumb: "https://i.imgur.com/V7uOliZm.jpg"
+  developer: "Insomniac Games & Idol Minds"
+  release: "June 28, 2012"
+  imagesize: "third"
+
+Tales of Graces f:
+  title: "Tales of Graces ƒ"
+  platform: "PlayStation 3"
+  image: "https://i.imgur.com/xehX2Ji.jpg"
+  thumb: "https://i.imgur.com/xehX2Jim.jpg"
+  developer: "Namco Tales Studio"
+  release: "March 13, 2012"
+  imagesize: "third"
+
+The Disgaea Triple Play Collection:
+  title: "The Disgaea Triple Play Collection"
+  platform: "PlayStation 3"
+  image: "https://i.imgur.com/DSmia5R.jpg"
+  thumb: "https://i.imgur.com/DSmia5Rm.jpg"
+  developer: "Nippon Ichi Software"
+  release: "September 15, 2015"
+  imagesize: "third"
+
+Final Fantasy X/X-2 HD Remaster:
+  title: "Final Fantasy X/X-2 HD Remaster"
+  platform: "PlayStation 3"
+  image: "https://i.imgur.com/2tmOrij.jpg"
+  thumb: "https://i.imgur.com/2tmOrijm.jpg"
+  developer: "Square Enix & Virtuos"
+  release: "March 18, 2014"
+  imagesize: "third"
+
+Star Ocean The Last Hope:
+  title: "Star Ocean: The Last Hope"
+  platform: "PlayStation 3"
+  image: "https://i.imgur.com/B0k7vHY.png"
+  thumb: "https://i.imgur.com/B0k7vHYm.png"
+  developer: "tri-Ace"
+  release: "February 9, 2010"
+  imagesize: "third"
+
+Resonance of Fate:
+  title: "Resonance of Fate"
+  platform: "PlayStation 3"
+  image: "https://i.imgur.com/G7VObXt.jpg"
+  thumb: "https://i.imgur.com/G7VObXtm.jpg"
+  developer: "tri-Ace"
+  release: "March 16, 2010"
+  imagesize: "third"
