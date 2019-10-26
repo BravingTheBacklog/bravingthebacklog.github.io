@@ -1,17 +1,31 @@
 ---
-layout: post
-title: Top 10 PS3 Games in my Backlog
 author: bsinky
-description: "The top 10 PS3 games in my backlog!"
+categories:
+- List
 date: 2019-10-25
-modified: 2019-10-25
-categories: [List]
-tags: [Top 10,PS3]
+description: The top 10 PS3 games in my backlog!
+games:
+- The Sly Collection
+- Ratchet & Clank Collection
+- Tales of Graces f
+- The Guided Fate Paradox
+- The Disgaea Triple Play Collection
+- Final Fantasy X/X-2 HD Remaster
+- God of War III
+- Star Ocean The Last Hope
+- Infamous
+- Resonance of Fate
 image:
-  feature: feature-ps3.jpg
-  thumb: feature-ps3-thumb.jpg
   credit: Anni Roenkae
   creditlink: https://www.pexels.com/photo/purple-abstract-illustration-3109850/
+  feature: feature-ps3.jpg
+  thumb: feature-ps3-thumb.jpg
+layout: post
+modified: 2019-10-25
+tags:
+- Top 10
+- PS3
+title: Top 10 PS3 Games in my Backlog
 ---
 
 Maybe it's the fact that I'm currently playing Valkyria Chronicles, which was
