@@ -21,7 +21,7 @@ image:
   feature: feature-super-nintendo.jpg
   thumb: feature-super-nintendo-thumb.jpg
 layout: post
-modified: 2019-09-21
+modified: 2019-10-31
 tags:
 - Top 10
 - SNES
@@ -190,7 +190,10 @@ understand it, but maybe doing to adds to the experience in some way. Either
 way, Lufia 2 seems basically universally regarded as the better game between the
 two by a wide margin.
 
-## 1. {% include game.html game="Earthbound" %}
+## 1. {% include game.html game="Earthbound" checkmark="" %}
+
+**Edit:** Finished, and I loved it! [Check out my spoiler-free review here]({%
+post_url 2019-10-19-earthbound-review %})!
 
 An evil alien force has quietly begun to take over the world. People, animals,
 and even inanimate objects are suddenly becoming malicious and violent. Only one
