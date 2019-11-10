@@ -21,7 +21,7 @@ image:
   feature: feature-steam-pc.jpg
   thumb: feature-steam-pc-thumb.jpg
 layout: post
-modified: 2019-09-21
+modified: 2019-11-09
 tags:
 - Top 10
 - Steam
@@ -162,7 +162,9 @@ Since its original PC release, its been ported to all the major current
 generation consoles, and has received near universal acclaim. I'd love to see
 what it's all about!
 
-## 1. {% include game.html game="Valkyria Chronicles" %}
+## 1. {% include game.html game="Valkyria Chronicles" checkmark="" %}
+
+**Edit:** Finished, and what a game it was! [Read my full review here]({% post_url 2019-11-08-valkyria-chronicles-review %}).
 
 Valkyria Chronicles sounds it'll be exactly my cup of tea. The way combat works
 seems vaguely reminiscent of one of my favorite overlooked games from the early
