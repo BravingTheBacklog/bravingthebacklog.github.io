@@ -33,9 +33,9 @@ section!
 
 Click a title to skip to that section. Games contained within this post:
 
- - [Valkyria Chronicles *(PC)*](#ValkyriaChronicles)
- - [Disney Classic Games: Aladdin and The Lion King *(Switch)*](#DisneyClassicGames:AladdinandTheLionKing)
- - [Ring Fit Adventure *(Switch)*](#RingFitAdventure)
+ - [Valkyria Chronicles *(PC)*]({{page.url}}#ValkyriaChronicles)
+ - [Disney Classic Games: Aladdin and The Lion King *(Switch)*]({{page.url}}#DisneyClassicGames:AladdinandTheLionKing)
+ - [Ring Fit Adventure *(Switch)*]({{page.url}}#RingFitAdventure)
 
 <!--more-->
 

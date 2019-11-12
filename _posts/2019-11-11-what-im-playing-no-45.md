@@ -34,8 +34,8 @@ shouldn't continue reading!
 
 Click a title to skip to that section. Games contained within this post:
 
- - [Castlevania: Symphony of the Night *(PSX)*]({% post_url 2019-11-11-what-im-playing-no-45 %}#Castlevania:SymphonyoftheNight)
- - [Super Smash Bros. Ultimate *(Switch)*]({% post_url 2019-11-11-what-im-playing-no-45 %}#SuperSmashBrosUltimate)
+ - [Castlevania: Symphony of the Night *(PSX)*]({{ page.url }}#Castlevania:SymphonyoftheNight)
+ - [Super Smash Bros. Ultimate *(Switch)*]({{ page.url }}#SuperSmashBrosUltimate)
 
 <!--more-->
 
