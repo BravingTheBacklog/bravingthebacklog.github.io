@@ -169,7 +169,9 @@ members you can recruit if you are so inclined, and I'm quite interested in
 that. Suikoden II takes place a few years after its predecessor, and I've heard
 it's even better than the first one!
 
-## 2. {% include game.html game="Castlevania Symphony of the Night" %}
+## 2. {% include game.html game="Castlevania Symphony of the Night" checkmark="" %}
+
+**Edit:** I have since played Symphony of the Night as my first Castlevania game, and it left a great impression! [Check out my review here]({% post_url 2019-11-16-castlevania-symphony-of-the-night-review %})!
 
 I've enjoyed the Metroid games I've played, which these days are often described
 as belonging to the "Metroidvania" genre. Metroidvania is a combination of
