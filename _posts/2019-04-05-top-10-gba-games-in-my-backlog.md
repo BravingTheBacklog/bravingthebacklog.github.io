@@ -172,6 +172,11 @@ your enemies to gain new abilities and passive skills.
 
 ## 2. {% include game.html game="Kirby & the Amazing Mirror" %}
 
+**Edit:** Unfortunately, Kirby & the Amazing Mirror just wasn't what I was
+looking for in a Kirby game. It seems like a good game, it's just not for me, so
+I won't be finishing my playthrough. [Read more about my experience with it
+here]({% post_url 2019-11-18-what-im-playing-no-46 %}) if you're curious.
+
 Kirby games and always packed to the brim with charm and fun! I imagine The
 Amazing Mirror will prove to be no different. One thing that always strikes me
 as a little funny is how angry Kirby always looks on the North American box art.
