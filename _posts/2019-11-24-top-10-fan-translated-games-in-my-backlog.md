@@ -1,17 +1,31 @@
 ---
-layout: post
-title: Top 10 Fan Translated Games in my Backlog
 author: bsinky
-description: "The top 10 Japanese games with English fan translations in my backlog!"
+categories:
+- List
 date: 2019-11-24
-modified: 2019-11-24
-categories: [List]
-tags: [Top 10,Translation]
+description: The top 10 Japanese games with English fan translations in my backlog!
+games:
+- The Legend of Heroes Zero no Kiseki
+- Policenauts
+- Valkyria Chronicles 3 Unrecorded Chronicles
+- Shin Megami Tensei
+- Tales of Innocence
+- Sol Trigger
+- Mother 3
+- Fire Emblem The Binding Blade
+- Grand Knights History
+- Custom Robo
 image:
+  credit: Steve Johnson
+  creditlink: https://www.pexels.com/photo/black-portable-speaker-1044989/
   feature: feature-top-10-fan-translations-backlog.jpg
   thumb: feature-top-10-fan-translations-backlog-thumb.jpg
-  creditlink: https://www.pexels.com/photo/black-portable-speaker-1044989/
-  credit: Steve Johnson
+layout: post
+modified: 2019-11-24
+tags:
+- Top 10
+- Translation
+title: Top 10 Fan Translated Games in my Backlog
 ---
 
 Many of series I enjoy come from Japanese developers, and while localization
