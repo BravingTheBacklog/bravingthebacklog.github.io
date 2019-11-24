@@ -167,6 +167,7 @@ Shin Megami Tensei:
   developer: "Atlus"
   release: "October 30, 1992 (Japan)"
   platform: "Super Nintendo"
+  imagesize: "third"
 
 Final Fantasy VI:
   title: "Final Fantasy VI"
@@ -229,6 +230,15 @@ Pikmin 2:
   thumb: "https://i.imgur.com/oVNfW7Am.png"
   image: "https://i.imgur.com/oVNfW7A.png"
   platform: "Nintendo GameCube"
+
+Custom Robo 1:
+  title: "Custom Robo"
+  platform: "Nintendo 64"
+  image: "https://i.imgur.com/P0ECX19.jpg"
+  thumb: "https://i.imgur.com/P0ECX19m.jpg"
+  developer: "Noise"
+  release: "December 8, 1999 (Japan)"
+  imagesize: "third"
 
 Custom Robo:
   title: "Custom Robo"
@@ -541,6 +551,15 @@ Undertale:
   thumb: "https://i.imgur.com/9yRM9Lem.jpg"
   developer: "tobyfox"
   release: "September 15, 2015"
+
+The Legend of Heroes Zero no Kiseki:
+  title: "The Legend of Heroes: Zero no Kiseki"
+  image: "https://i.imgur.com/y6uLlho.jpg"
+  thumb: "https://i.imgur.com/y6uLlhom.jpg"
+  platform: "PlayStation Portable"
+  developer: "Nihon Falcom"
+  release: "September 30, 2010 (Japan)"
+  imagesize: "third"
 
 The Legend of Heroes Trails of Cold Steel II:
   title: "The Legend of Heroes: Trails of Cold Steel II"
@@ -1453,6 +1472,14 @@ Tales of Graces f:
   release: "March 13, 2012"
   imagesize: "third"
 
+Tales of Innocence:
+  title: "Tales of Innocence"
+  platform: "Nintendo DS"
+  image: "https://i.imgur.com/hIzbXt6.jpg"
+  thumb: "https://i.imgur.com/hIzbXt6m.jpg"
+  developer: "Alfa System"
+  release: "December 6, 2007 (Japan)"
+
 The Disgaea Triple Play Collection:
   title: "The Disgaea Triple Play Collection"
   platform: "PlayStation 3"
@@ -1487,4 +1514,21 @@ Resonance of Fate:
   thumb: "https://i.imgur.com/G7VObXtm.jpg"
   developer: "tri-Ace"
   release: "March 16, 2010"
+  imagesize: "third"
+
+Policenauts:
+  title: "Policenauts"
+  platform: "Sega Saturn"
+  image: "https://i.imgur.com/GTyIodY.jpg"
+  thumb: "https://i.imgur.com/GTyIodYm.jpg"
+  developer: "Konami"
+  release: "September 13, 1996 (Japan)"
+
+Sol Trigger:
+  title: "Sol Trigger"
+  platform: "PlayStation Portable"
+  image: "https://i.imgur.com/bfRyXd6.jpg"
+  thumb: "https://i.imgur.com/bfRyXd6m.jpg"
+  developer: "Imageepoch"
+  release: "October 4, 2012 (Japan)"
   imagesize: "third"
