@@ -21,7 +21,7 @@ image:
   feature: feature-steam-pc.jpg
   thumb: feature-steam-pc-thumb.jpg
 layout: post
-modified: 2019-11-09
+modified: 2019-11-25
 tags:
 - Top 10
 - Steam
@@ -140,7 +140,9 @@ shine in all its glory.
 I only know Bayonetta from her appearances in Super Smash Bros., but she clearly
 has a lot of style. I'm assuming the same is true of her eponymous debut!
 
-## 3. {% include game.html game="The Banner Saga 3" %}
+## 3. {% include game.html game="The Banner Saga 3" checkmark="" %}
+
+**Edit:** Finished! And with this, my Banner Saga trilogy experiences comes to an end. This was a great conclusion! I didn't review it, but you can read about my playthrough of it [in What I'm Playing No. 46]({% post_url 2019-11-18-what-im-playing-no-46 %}) and [What I'm Playing No. 47]({% post_url 2019-11-25-what-im-playing-no-47 %}).
 
 I *loved* the story Stoic presented through the first two Banner Saga games. The
 art and animation were also beautiful. Gameplay is fantastic as well, allowing
