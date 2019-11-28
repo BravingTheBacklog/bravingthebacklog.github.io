@@ -19,7 +19,7 @@ games:
 image:
   feature: feature-gameboyadvance.jpg
 layout: post
-modified: 2019-09-09
+modified: 2019-11-28
 tags:
 - Top 10
 - Game Boy Advance
@@ -170,7 +170,7 @@ After watching a video review of it on YouTube, I'm more intrigued by this entry
 in the series than ever, particularly the mechanic where you absorb the souls of
 your enemies to gain new abilities and passive skills.
 
-## 2. {% include game.html game="Kirby & the Amazing Mirror" %}
+## 2. {% include game.html game="Kirby & the Amazing Mirror" x="" %}
 
 **Edit:** Unfortunately, Kirby & the Amazing Mirror just wasn't what I was
 looking for in a Kirby game. It seems like a good game, it's just not for me, so

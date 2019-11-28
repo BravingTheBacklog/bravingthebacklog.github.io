@@ -1,4 +1,4 @@
-{% if include.game %}{% assign game = site.data.games[include.game] %}{% if include.title %}{% assign title = include.title %}{% else %}{% assign title = game.title %}{% endif %}{{ title }}{% if include.postfix %} {{ include.postfix }}{% endif %}{% if include.checkmark %} <i class="fa fa-check" aria-hidden="true"></i>{% endif %}
+{% if include.game %}{% assign game = site.data.games[include.game] %}{% if include.title %}{% assign title = include.title %}{% else %}{% assign title = game.title %}{% endif %}{{ title }}{% if include.postfix %} {{ include.postfix }}{% endif %}{% if include.checkmark %} <i class="fa fa-check" aria-hidden="true"></i>{% endif %}{% if include.x %} <i class="fa fa-times" aria-hidden="true"></i>{% endif %}
 
 {% if include.video %}
 <figure class="center">
