@@ -19,7 +19,7 @@ games:
 image:
   feature: feature-gameboyadvance.jpg
 layout: post
-modified: 2019-11-28
+modified: 2019-11-30
 tags:
 - Top 10
 - Game Boy Advance
@@ -160,7 +160,10 @@ always looked intriguing, both the character designs and the gameplay, but I
 honestly don't know much about it. I do know there are a *ton* of sequels to it
 though, so if it clicks with me I definitely know where to turn for more.
 
-## 3. {% include game.html game="Castlevania Aria of Sorrow" %}
+## 3. {% include game.html game="Castlevania Aria of Sorrow" checkmark="" %}
+
+**Edit:** Finished! Check out [my spoiler-free review here]({% post_url
+2019-11-30-castlevania-aria-of-sorrow-review %})!
 
 I've heard good things about this entry in the Castlevania series. While I may
 not see it praised as often as Symphony of the Night, from what I've heard Aria
