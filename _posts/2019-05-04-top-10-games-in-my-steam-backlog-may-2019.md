@@ -21,7 +21,7 @@ image:
   feature: feature-steam-pc.jpg
   thumb: feature-steam-pc-thumb.jpg
 layout: post
-modified: 2019-11-25
+modified: 2019-12-01
 tags:
 - Top 10
 - Steam
@@ -90,7 +90,7 @@ II is a JRPG with a fun turn-based battle system, charming characters, and a lot
 of lore.
 
 Playing the first Trails of Cold Steel game on Steam was a lot of fun. It was
-excellent in its own right. *But*, from everything I've heard about this series,
+excellent in its own right. *But**, from everything I've heard about this series,
 it only gets better the more into the lore you get, as the world building Nihon
 Falcom has done over several video game arcs is sometimes said to be second to
 none. The next step in getting deeper into this series for me will be Trails of
@@ -129,7 +129,9 @@ especially the story mode in Persona 4: Dancing All Night, which is presented as
 a Visual Novel. I've heard so much praise directed at the Danganronpa series as
 a whole from YouTuber Austin Eruption that I've been convinced to try it myself!
 
-## 4. {% include game.html game="Bayonetta" %}
+## 4. {% include game.html game="Bayonetta" checkmark="" %}
+
+**Edit:** Finished! Bayonetta was a lot of fun, and very memorable! You can [read my thoughts on it here]({% post_url 2019-12-01-what-im-playing-no-48 %}#Bayonetta)!
 
 Bayonetta is a hack 'n' slash game where you play as the character of the same
 name. Originally a PS3 and Xbox 360 game, the PC port is regarded very well,
