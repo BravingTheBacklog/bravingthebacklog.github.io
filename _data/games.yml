@@ -1532,3 +1532,57 @@ Sol Trigger:
   developer: "Imageepoch"
   release: "October 4, 2012 (Japan)"
   imagesize: "third"
+
+Dungeon Travelers 2:
+  title: "Dungeon Travelers 2: The Royal Library & the Monster Seal"
+  platform: "PlayStation Vita"
+  image: "https://i.imgur.com/aEy9q2a.jpg"
+  thumb: "https://i.imgur.com/aEy9q2am.jpg"
+  developer: "Sting Entertainment"
+  release: "August 18, 2015"
+  imagesize: "third"
+
+Soul Sacrifice Delta:
+  title: "Soul Sacrifice Delta"
+  platform: "PlayStation Vita"
+  image: "https://i.imgur.com/LsgJzG5.jpg"
+  thumb: "https://i.imgur.com/LsgJzG5m.jpg"
+  developer: "Marvelous / SCE Japan Studio"
+  release: "May 13, 2014"
+  imagesize: "third"
+
+Demon Gaze:
+  title: "Demon Gaze"
+  platform: "PlayStation Vita"
+  image: "https://i.imgur.com/zqR9cg7.jpg"
+  thumb: "https://i.imgur.com/zqR9cg7m.jpg"
+  developer: "Kadokawa Games & Experience Inc."
+  release: "April 22, 2014"
+  imagesize: "third"
+
+Oreshika Tainted Bloodlines:
+  title: "Oreshika: Tainted Bloodlines"
+  platform: "PlayStation Vita"
+  image: "https://i.imgur.com/7pw6ZiU.jpg"
+  thumb: "https://i.imgur.com/7pw6ZiUm.jpg"
+  developer: "Alfa System "
+  release: "March 3, 2015"
+  imagesize: "third"
+
+Muramasa Rebirth:
+  title: "Muramasa Rebirth"
+  platform: "PlayStation Vita"
+  image: "https://i.imgur.com/KNxbF4W.jpg"
+  thumb: "https://i.imgur.com/KNxbF4Wm.jpg"
+  developer: "Vanillaware"
+  release: "June 25, 2013"
+  imagesize: "third"
+
+Tales of Hearts R:
+  title: "Tales of Hearts R"
+  platform: "PlayStation Vita"
+  image: "https://i.imgur.com/sDF9RFH.jpg"
+  thumb: "https://i.imgur.com/sDF9RFHm.jpg"
+  developer: "7th Chord / Namco Bandai"
+  release: "November 11, 2014"
+  imagesize: "third"
