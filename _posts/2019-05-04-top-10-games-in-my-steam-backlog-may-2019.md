@@ -111,7 +111,9 @@ it to my wishlist. Even though I don't know a lot about this game, when I saw it
 was part of a Humble Bundle recently, I took a chance and picked it up. Let's
 hope this gamble pays off!
 
-## 5. {% include game.html game="Danganronpa Trigger Happy Havoc" %}
+## 5. {% include game.html game="Danganronpa Trigger Happy Havoc"  checkmark="" %}
+
+**Edit**: Finished, and what a fantastic story it was! Read my spoiler-free thoughts on the main story [here]({% post_url 2019-12-09-what-im-playing-no-49 %}#Danganronpa:TriggerHappyHavoc), and my thoughts on the post-game School Mode [here]({%post_url 2019-12-16-what-im-playing-no-50 %}#Danganronpa:TriggerHappyHavoc).
 
 Makoto Naegi and his classmates at Hope's Peak Academy are exceptional Japanese
 high school students, living ordinary lives. All that changes when they suddenly
