@@ -12,6 +12,13 @@ image:
   thumb: feature-vita-thumb.jpg
   credit: Adrien Olichon
   creditlink: https://www.pexels.com/photo/monochrome-photo-of-triangle-shape-digital-wallpaper-3137064/
+games:
+- Dungeon Travelers 2
+- Soul Sacrifice Delta
+- Demon Gaze
+- Oreshika Tainted Bloodlines
+- Muramasa Rebirth
+- Tales of Hearts R
 ---
 
 I own a PSTV, so my Vita experience is lacking what is a selling point for many
