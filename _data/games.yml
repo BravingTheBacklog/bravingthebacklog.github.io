@@ -1381,8 +1381,12 @@ Jurassic Park Operation Genesis:
   platform: "PC"
 
 Jurassic World Evolution:
-  title: "Jurassic World: Evolution"
+  title: "Jurassic World Evolution"
   platform: "PC"
+  developer: "Frontier Developments"
+  release: "June 12, 2018"
+  image: "https://i.imgur.com/dHal93T.jpg"
+  thumb: "https://i.imgur.com/dHal93Tm.jpg"
 
 Persona 3 Portable:
   title: "Persona 3 Portable"
@@ -1399,6 +1403,11 @@ Dream Daddy A Dad Dating Simulator - Dadrector's Cut:
 The Sims 4:
   title: "The Sims 4"
   platform: "PC"
+  developer: "Maxis"
+  release: "September 2, 2014"
+  image: "https://i.imgur.com/dd30ff0.png"
+  thumb: "https://i.imgur.com/dd30ff0m.png"
+  imagesize: "third"
 
 The Sims 4 Island Living:
   title: "The Sims 4: Island Living"
@@ -1586,3 +1595,68 @@ Tales of Hearts R:
   developer: "7th Chord / Namco Bandai"
   release: "November 11, 2014"
   imagesize: "third"
+
+Minecraft:
+  title: "Minecraft"
+  platform: "PC"
+  image: "https://i.imgur.com/QZT6YBM.jpg"
+  thumb: "https://i.imgur.com/QZT6YBMm.jpg"
+  developer: "Mojang"
+  release: "November 18, 2011"
+
+Stardew Valley:
+  title: "Stardew Valley"
+  platform: "PC"
+  image: "https://i.imgur.com/7lXq7Qq.jpg"
+  thumb: "https://i.imgur.com/7lXq7Qqm.jpg"
+  developer: "ConcernedApe"
+  release: "February 26, 2016"
+
+Prison Architect:
+  title: "Prison Architect"
+  platform: "PC"
+  image: "https://i.imgur.com/Np9L9j4.jpg"
+  thumb: "https://i.imgur.com/Np9L9j4m.jpg"
+  developer: "Introversion Software"
+  release: "October 6, 2015"
+
+Euro Truck Simulator 2:
+  title: "Euro Truck Simulator 2"
+  platform: "PC"
+  image: "https://i.imgur.com/bQTLIUD.jpg"
+  thumb: "https://i.imgur.com/bQTLIUDm.jpg"
+  developer: "SCS Software"
+  release: "October 12, 2012"
+
+Oxygen Not Included:
+  title: "Oxygen Not Included"
+  platform: "PC"
+  image: "https://i.imgur.com/IoYBTIq.png"
+  thumb: "https://i.imgur.com/IoYBTIqm.png"
+  developer: "Klei Entertainment"
+  release: "July 30, 2019"
+
+Project Highrise:
+  title: "Project Highrise"
+  platform: "PC"
+  image: "https://i.imgur.com/sqhth5l.jpg"
+  thumb: "https://i.imgur.com/sqhth5lm.jpg"
+  developer: "SomaSim"
+  release: "September 8, 2016"
+
+Cities Skylines:
+  title: "Cities: Skylines"
+  platform: "PC"
+  image: "https://i.imgur.com/ZTvQ87P.jpg"
+  thumb: "https://i.imgur.com/ZTvQ87Pm.jpg"
+  developer: "Colossal Order"
+  release: "March 10, 2015"
+
+Kingdoms and Castles:
+  title: "Kingdoms and Castles"
+  platform: "PC"
+  image: "https://i.imgur.com/Vij7kfh.png"
+  thumb: "https://i.imgur.com/Vij7kfhm.png"
+  developer: "Lion Shield"
+  release: "July 20, 2017"
+
