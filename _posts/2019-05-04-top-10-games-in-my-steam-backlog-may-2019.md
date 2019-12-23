@@ -21,7 +21,7 @@ image:
   feature: feature-steam-pc.jpg
   thumb: feature-steam-pc-thumb.jpg
 layout: post
-modified: 2019-12-01
+modified: 2019-12-23
 tags:
 - Top 10
 - Steam
@@ -98,7 +98,9 @@ Cold Steel II, and I am excited to join main character Rean Schwarzer again!
 There's also Trails of Cold Steel III and IV, both of which have yet to see
 English releases, but III is scheduled to receive one in late 2019!
 
-## 6. {% include game.html game="Tokyo Dark" %}
+## 6. {% include game.html game="Tokyo Dark" checkmark="" %}
+
+**Edit:** Finished! Tokyo Dark wasn't perfect, and seems like it didn't quite reach its full potential, but it was still a good experience. [Read more about my thoughts on it here]({% post_url 2019-12-23-what-im-playing-no-51 %}#TokyoDark).
 
 Part Point and Click, part Visual Novel, Tokyo Dark combines the two to present
 a story about a detective in Tokyo investigating the disappearance of her
