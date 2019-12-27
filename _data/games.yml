@@ -199,6 +199,15 @@ Super Mario Sunshine:
   image: "https://i.imgur.com/Mzb6wzr.jpg"
   platform: "Nintendo GameCube"
 
+Super Mario Odyssey:
+  title: "Super Mario Odyssey"
+  platform: "Nintendo Switch"
+  developer: "Nintendo EPD"
+  release: "October 27, 2017"
+  image: "https://i.imgur.com/gllqEut.jpg"
+  thumb: "https://i.imgur.com/gllqEutm.jpg"
+  imagesize: "third"
+
 Pokemon Colosseum:
   title: "Pokémon Colosseum"
   thumb: "https://i.imgur.com/wscRyDom.png"
@@ -581,6 +590,7 @@ Danganronpa Trigger Happy Havoc:
   thumb: "https://i.imgur.com/l1xY2HFm.jpg"
   developer: "Spike Chunsoft / Abstraction Games"
   release: "February 18, 2016"
+  platform: "PC"
 
 Bayonetta:
   title: "Bayonetta"
@@ -588,6 +598,7 @@ Bayonetta:
   thumb: "https://i.imgur.com/wY0BgEKm.jpg"
   developer: "PlatinumGames"
   release: "April 11, 2017"
+  platform: "PC"
 
 The Banner Saga 3:
   title: "The Banner Saga 3"
@@ -1391,6 +1402,11 @@ Jurassic World Evolution:
 Persona 3 Portable:
   title: "Persona 3 Portable"
   platform: "PlayStation Portable"
+  developer: "Atlus"
+  release: "July 6, 2010"
+  image: "https://i.imgur.com/EZeXwHf.jpg"
+  thumb: "https://i.imgur.com/EZeXwHfm.jpg"
+  imagesize: "third"
 
 Barbershop Simulator:
   title: "Barbershop Simulator"
