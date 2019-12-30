@@ -21,7 +21,7 @@ image:
   feature: feature-3ds.jpg
   thumb: feature-3ds-thumb.jpg
 layout: post
-modified: 2019-09-09
+modified: 2019-12-30
 tags:
 - Top 10
 - 3DS
@@ -66,7 +66,9 @@ Interestingly, although it was developed in Japan, A Link Between Worlds
 actually came out *last* there, with the Japanese launch happening a month after
 the North American, European, and Australian releases.
 
-## 9. {% include game.html game="Luigi's Mansion Dark Moon" %}
+## 9. {% include game.html game="Luigi's Mansion Dark Moon" checkmark="" %}
+
+**Edit:** Finished! It was a fun handheld experience, and has me looking forward to playing Luigi's Mansion 3 on the Switch eventually! [Read more of my thoughts on it here]({% post_url 2019-12-30-what-im-playing-no-52 %}#LuigisMansionDarkMoon).
 
 Known simply as Luigi's Mansion 2 everywhere but North America, I can't for the
 life of me figure out why the North American region had to rename it "Luigi's
@@ -155,7 +157,11 @@ at the story, and the turn-based battle system. Battles take place on a grid as
 well, adding an extra level of strategy to fights. Given all the praise I've
 heard of it, I just *have* to try it out.
 
-## 4. {% include game.html game="Xenoblade Chronicles 3D" %}
+## 4. {% include game.html game="Xenoblade Chronicles 3D" x="" %}
+
+**Edit:** With the announcement of Xenoblade Chronicles Definitive Edition
+coming to the Switch, I've decided that I'll just wait and play that version
+instead.
 
 Xenoblade Chronicles originally released on the Wii in 2012. It's an open world
 action RPG. Xenoblade Chronicles 3D is a port of the game to the New 3DS, and
