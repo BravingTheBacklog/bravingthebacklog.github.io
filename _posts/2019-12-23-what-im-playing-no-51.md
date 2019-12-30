@@ -12,6 +12,10 @@ image:
     credit: Zaksheuskaya
     creditlink: https://www.pexels.com/photo/pink-and-purple-wallpaper-1616403/
     thumb: feature-switch-3-thumb.jpg
+games:
+- Super Mario Odyssey
+- Tokyo Dark
+- Cadence of Hyrule - Crypt of the NecroDancer Featuring The Legend of Zelda
 ---
 
 Welcome back to another weekly wrap-up of the games I've been playing over the
