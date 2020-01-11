@@ -1676,3 +1676,92 @@ Kingdoms and Castles:
   developer: "Lion Shield"
   release: "July 20, 2017"
 
+Uncharted The Nathan Drake Collection:
+  title: "Uncharted: The Nathan Drake Collection"
+  platform: "PlayStation 4"
+  image: "https://i.imgur.com/eIY4n0Q.jpg"
+  thumb: "https://i.imgur.com/eIY4n0Qm.jpg"
+  developer: "Naughty Dog & Bluepoint Games"
+  release: "October 7, 2015"
+  imagesize: "third"
+
+Persona 5 Royal:
+  title: "Persona 5 Royal"
+  platform: "PlayStation 4"
+  image: "https://i.imgur.com/nQwXJAV.jpg"
+  thumb: "https://i.imgur.com/nQwXJAVm.jpg"
+  developer: "P-Studio"
+  release: "March 31, 2020"
+  imagesize: "third"
+
+Persona 5 Scramble The Phantom Strikers:
+  title: "Persona 5 Scramble: The Phantom Strikers"
+  platform: "PlayStation 4"
+  image: "https://i.imgur.com/MeppJ9M.jpg"
+  thumb: "https://i.imgur.com/MeppJ9Mm.jpg"
+  developer: "Omega Force & P-Studio"
+  release: "TBA"
+  imagesize: "third"
+
+Gravity Rush Remastered:
+  title: "Gravity Rush: Remastered"
+  platform: "PlayStation 4"
+  image: "https://i.imgur.com/jcn64ZS.jpg"
+  thumb: "https://i.imgur.com/jcn64ZSm.jpg"
+  developer: "Team Gravity & Bluepoint Games"
+  release: "February 2, 2016"
+  imagesize: "third"
+
+Destiny Connect Tick-Tock Travelers:
+  title: "Destiny Connect: Tick-Tock Travelers"
+  platform: "PlayStation 4"
+  image: "https://i.imgur.com/pDKLFaw.jpg"
+  thumb: "https://i.imgur.com/pDKLFawm.jpg"
+  developer: "Nippon Ichi Software"
+  release: "October 22, 2019"
+  imagesize: "third"
+
+The Order 1886:
+  title: "The Order: 1886"
+  platform: "PlayStation 4"
+  image: "https://i.imgur.com/SZIyMuv.jpg"
+  thumb: "https://i.imgur.com/SZIyMuvm.jpg"
+  developer: "Ready at Dawn"
+  release: "February 20, 2015"
+  imagesize: "third"
+
+Grand Kingdom:
+  title: "Grand Kingdom"
+  platform: "PlayStation 4"
+  image: "https://i.imgur.com/ma4O22i.jpg"
+  thumb: "https://i.imgur.com/ma4O22im.jpg"
+  developer: "Monochrome Corporation"
+  release: "June 28, 2016"
+  imagesize: "third"
+
+God of War 2018:
+  title: "God of War"
+  platform: "PlayStation 4"
+  image: "https://i.imgur.com/3dwsLUW.jpg"
+  thumb: "https://i.imgur.com/3dwsLUWm.jpg"
+  developer: "SIE Santa Monica Studio"
+  release: "April 20, 2018"
+  imagesize: "third"
+
+Shadow of the Colossus 2018:
+  title: "Shadow of the Colossus"
+  platform: "PlayStation 4"
+  image: "https://i.imgur.com/J3RVgRX.jpg"
+  thumb: "https://i.imgur.com/J3RVgRXm.jpg"
+  developer: "Bluepoint Games"
+  release: "February 6, 2018"
+  imagesize: "third"
+
+Horizon Zero Dawn:
+  title: "Horizon Zero Dawn"
+  platform: "PlayStation 4"
+  image: "https://i.imgur.com/YoO5IJ5.jpg"
+  thumb: "https://i.imgur.com/YoO5IJ5.jpg"
+  developer: "Guerrilla Games"
+  release: "February 28, 2017"
+  imagesize: "third"
