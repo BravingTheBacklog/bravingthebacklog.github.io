@@ -1765,3 +1765,76 @@ Horizon Zero Dawn:
   developer: "Guerrilla Games"
   release: "February 28, 2017"
   imagesize: "third"
+
+Aidyn Chronicles The First Mage:
+  title: "Aidyn Chronicles: The First Mage"
+  platform: "Nintendo 64"
+  image: "https://i.imgur.com/4Tyvver.jpg"
+  thumb: "https://i.imgur.com/4Tyvverm.jpg"
+  developer: "H2O Interactive"
+  release: "March 14, 2001"
+
+Hybrid Heaven:
+  title: "Hybrid Heaven"
+  platform: "Nintendo 64"
+  image: "https://i.imgur.com/2zbjbIT.jpg"
+  thumb: "https://i.imgur.com/2zbjbITm.jpg"
+  developer: "Konami"
+  release: "August 31, 1999"
+
+Star Wars Shadows of the Empire:
+  title: "Star Wars: Shadows of the Empire"
+  platform: "Nintendo 64"
+  image: "https://i.imgur.com/37MALWI.jpg"
+  thumb: "https://i.imgur.com/37MALWIm.jpg"
+  developer: "LucasArts"
+  release: "December 3, 1996"
+
+Wonder Project J2 Corlo no Mori no Josette:
+  title: "Wonder Project J2: Corlo no Mori no Josette"
+  platform: "Nintendo 64"
+  image: "https://i.imgur.com/m9t1UoL.jpg"
+  thumb: "https://i.imgur.com/m9t1UoLm.jpg"
+  developer: "Givro"
+  release: "November 22, 1996 (Japan)"
+  imagesize: "third"
+
+Jet Force Gemini:
+  title: "Jet Force Gemini"
+  platform: "Nintendo 64"
+  image: "https://i.imgur.com/ZOA9QzJ.jpg"
+  thumb: "https://i.imgur.com/ZOA9QzJm.jpg"
+  developer: "Rare"
+  release: "October 11, 1999"
+
+Goemon's Great Adventure:
+  title: "Goemon's Great Adventure"
+  platform: "Nintendo 64"
+  image: "https://i.imgur.com/efqNuLX.jpg"
+  thumb: "https://i.imgur.com/efqNuLXm.jpg"
+  developer: "Konami"
+  release: "September 15, 1999"
+
+Mystical Ninja Starring Goemon:
+  title: "Mystical Ninja Starring Goemon"
+  platform: "Nintendo 64"
+  image: "https://i.imgur.com/SJi4R68.jpg"
+  thumb: "https://i.imgur.com/SJi4R68m.jpg"
+  developer: "Konami"
+  release: "April 16, 1998"
+
+Ogre Battle 64 Person of Lordly Calibur:
+  title: "Ogre Battle 64: Person of Lordly Calibur"
+  platform: "Nintendo 64"
+  image: "https://i.imgur.com/Ii167kl.png"
+  thumb: "https://i.imgur.com/Ii167klm.png"
+  developer: "Quest Corporation"
+  release: "October 7, 2000"
+
+Banjo-Kazooie:
+  title: "Banjo-Kazooie"
+  platform: "Nintendo 64"
+  image: "https://i.imgur.com/WkrXoov.jpg"
+  thumb: "https://i.imgur.com/WkrXoovm.jpg"
+  developer: "Rare"
+  release: "June 29, 1998"
