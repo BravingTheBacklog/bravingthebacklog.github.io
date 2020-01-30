@@ -22,7 +22,7 @@ layout: post
 modified: 2019-11-30
 tags:
 - Top 10
-- Game Boy Advance
+- GBA
 title: Top 10 GBA Games in my Backlog
 ---
 
@@ -192,7 +192,9 @@ I'll likely play through this game during a lazy weekend or something. That's
 something that's pretty nice about Kirby games, they never take too long to
 beat. Short games are a nice refresher, from time to time.
 
-## 1. {% include game.html game="Golden Sun" %}
+## 1. {% include game.html game="Golden Sun" checkmark="" %}
+
+**Edit**: I finished both Golden Sun and the sequel, Golden Sun: The Lost Age! [Read my spoiler-free review of both here]({% post_url 2020-01-29-golden-sun-review %}).
 
 In the fantasy world of Weyard, everything is made up of some combination of the
 four elements: earth, fire, water, and wind. There are some in the world who
