@@ -19,7 +19,7 @@ games:
 image:
   feature: feature-gameboyadvance.jpg
 layout: post
-modified: 2019-11-30
+modified: 2020-02-15
 tags:
 - Top 10
 - GBA
@@ -130,7 +130,9 @@ characters have changed between the two titles! Also, I'll finally get to see
 what Roy is like in his game, after having been introduced to him years ago when
 I played Super Smash Bros. Melee on the GameCube.
 
-## 5. {% include game.html game="Advance Wars" %}
+## 5. {% include game.html game="Advance Wars" checkmark="" %}
+
+**Edit**: Finished! [Read my spoiler-free review here]({% post_url 2020-02-15-advance-wars-review %}).
 
 Despite my deep love of Advance Wars Dual Strike on the DS, I never went back to
 the game that introduced the series to the western world. Which is strange,
