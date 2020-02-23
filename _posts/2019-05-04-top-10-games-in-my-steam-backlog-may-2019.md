@@ -157,7 +157,9 @@ junctions, and I love how this works in this world. It's a bleak tale more often
 than not, but that's a large part of its charm. In The Banner Saga 3, I'll get
 to see the conclusion, and find out what everything has led up to. I'm excited!
 
-## 2. {% include game.html game="Hollow Knight" %}
+## 2. {% include game.html game="Hollow Knight" checkmark="" %}
+
+**Edit:** Another one checked off the old backlog! I *really* enjoyed this one, you can check out [my spoiler-free review of it here]({% post_url 2020-02-23-hollow-knight-review %}).
 
 Hollow Knight is a Metroidvania, which means the gameplay involves some
 combination of common Metroid and Castlevania elements. For Hollow Knight, that
