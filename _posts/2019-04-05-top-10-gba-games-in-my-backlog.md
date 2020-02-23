@@ -23,6 +23,7 @@ modified: 2020-02-15
 tags:
 - Top 10
 - GBA
+- Backlog
 title: Top 10 GBA Games in my Backlog
 ---
 

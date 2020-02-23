@@ -25,6 +25,7 @@ modified: 2019-10-31
 tags:
 - Top 10
 - SNES
+- Backlog
 title: Top 10 SNES Games in my Backlog
 ---
 

@@ -25,6 +25,7 @@ modified: 2019-09-01
 tags:
 - Top 10
 - RPG
+- Backlog
 title: Top 10 Longest RPGs in my Backlog
 ---
 

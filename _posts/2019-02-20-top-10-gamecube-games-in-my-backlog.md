@@ -23,6 +23,7 @@ redirect_from: /top%2010/top-10-gamecube-games-in-my-backlog/
 tags:
 - Top 10
 - GameCube
+- Backlog
 title: Top 10 GameCube Games In My Backlog
 ---
 

@@ -25,6 +25,7 @@ modified: 2019-10-25
 tags:
 - Top 10
 - PS3
+- Backlog
 title: Top 10 PS3 Games in my Backlog
 ---
 

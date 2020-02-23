@@ -23,6 +23,7 @@ redirect_from: /top%2010/top-10-psp-games-in-my-backlog/
 tags:
 - Top 10
 - PSP
+- Backlog
 title: Top 10 PSP Games in my Backlog
 ---
 

@@ -25,6 +25,7 @@ modified: 2019-12-30
 tags:
 - Top 10
 - 3DS
+- Backlog
 title: Top 10 3DS Games in my Backlog
 ---
 
