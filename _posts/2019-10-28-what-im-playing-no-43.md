@@ -6,7 +6,7 @@ description: "I played Valkyria Chronicles all week!"
 date: 2019-10-28
 modified: 2019-10-28
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-weekly-playing-pc.jpg
     credit: XXSS IS BACK

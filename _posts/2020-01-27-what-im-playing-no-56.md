@@ -6,7 +6,7 @@ description: "I finished Golden Sun: The Lost Age, and progressed in Tokyo Mirag
 date: 2020-01-27
 modified: 2020-01-27
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-gba-pc-switch.jpg
     credit: Pixabay

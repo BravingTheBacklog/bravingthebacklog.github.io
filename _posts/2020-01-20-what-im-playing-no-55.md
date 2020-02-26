@@ -6,7 +6,7 @@ description: "More Golden Sun: The Lost Age and Hollow Knight, and I started Tok
 date: 2020-01-20
 modified: 2020-01-20
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-switch.jpg
     credit: Azim Islam

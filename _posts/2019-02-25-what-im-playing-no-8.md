@@ -14,10 +14,10 @@ layout: post
 modified: 2019-02-25
 redirect_from: /what%20i'm%20playing/what-im-playing-no-8/
 tags:
-- what i'm playing
-- weekly
-- casual
-- persona
+- What I'm Playing
+- Weekly
+- Casual
+- Persona
 title: What I'm Playing - No. 8
 ---
 

@@ -6,7 +6,7 @@ description: "Played a bit of Super Smash Bros. Ultimate and Tokyo Mirage Sessio
 date: 2020-02-03
 modified: 2020-02-03
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-switch-pc.jpg
     credit: John Petalcurin

@@ -6,7 +6,7 @@ description: "I played through Luigi's Mansion Dark Moon, and started The Legend
 date: 2019-12-30
 modified: 2019-12-30
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-3ds-and-switch-1.jpg
     credit: Steve Johnson

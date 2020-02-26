@@ -6,7 +6,7 @@ description: "I started Danganronpa and played a bunch this week, and also start
 date: 2019-12-09
 modified: 2019-12-09
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-switch-pc.jpg
     credit: John Petalcurin

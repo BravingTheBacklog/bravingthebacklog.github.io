@@ -6,7 +6,7 @@ description: "Continued my Breath of the Wild playthrough a bit, but I mostly wo
 date: 2020-01-13
 modified: 2020-01-13
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-gba-pc.jpg
     credit: Zaksheuskaya

@@ -6,7 +6,7 @@ description: What I've been playing for the past week (2020-02-10)
 date: 2020-02-10
 modified: 2020-02-10
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-gba.jpg
     credit: Suzy Hazelwood

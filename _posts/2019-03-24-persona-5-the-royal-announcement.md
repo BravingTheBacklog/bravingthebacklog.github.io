@@ -6,7 +6,7 @@ description: Reacting to and summarizing the Persona 5 The Royal announcement fr
 date: 2019-03-24
 modified: 2019-03-24
 categories: [News]
-tags: [news,persona,p5r]
+tags: [News,Persona]
 image:
     feature: feature-persona5theroyal.jpg
 ---

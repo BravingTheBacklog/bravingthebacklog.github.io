@@ -6,7 +6,7 @@ description: "I played 4 very different games this week, all the way from Hollow
 date: 2020-02-17
 modified: 2020-02-17
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-gba-pc-switch.jpg
     credit: Pixabay

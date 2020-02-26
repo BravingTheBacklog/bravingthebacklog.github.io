@@ -23,7 +23,7 @@ redirect_from: /top%2010/top-10-game-boy-advance-games-of-my-childhood/
 tags:
 - Top 10
 - GBA
-- nostalgia
+- Nostalgia
 title: Top 10 Game Boy Advance Games of my Childhood
 ---
 

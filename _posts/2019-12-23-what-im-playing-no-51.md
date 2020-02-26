@@ -6,7 +6,7 @@ description: "I played through Tokyo Dark, continued Super Mario Odyssey, and re
 date: 2019-12-23
 modified: 2019-12-23
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-switch-3.jpg
     credit: Zaksheuskaya

@@ -6,7 +6,7 @@ description: "I finished Castlevania: Aria of Sorrow and played through Bayonett
 date: 2019-12-01
 modified: 2019-12-01
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-gba-pc.jpg
     credit: Zaksheuskaya

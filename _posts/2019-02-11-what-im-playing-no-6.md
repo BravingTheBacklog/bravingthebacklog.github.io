@@ -16,9 +16,9 @@ layout: post
 modified: 2019-02-11
 redirect_from: /what%20i'm%20playing/what-im-playing-no-6/
 tags:
-- what i'm playing
-- weekly
-- casual
+- What I'm Playing
+- Weekly
+- Casual
 title: What I'm Playing - No. 6
 ---
 

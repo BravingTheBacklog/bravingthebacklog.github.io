@@ -15,9 +15,9 @@ image:
 layout: post
 modified: 2019-09-23
 tags:
-- what i'm playing
-- weekly
-- casual
+- What I'm Playing
+- Weekly
+- Casual
 title: What I'm Playing - No. 38
 ---
 

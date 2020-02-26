@@ -6,7 +6,7 @@ description: "I finished Danganronpa and Super Mario Odyssey this week!"
 date: 2019-12-16
 modified: 2019-12-16
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-switch-pc.jpg
     credit: John Petalcurin

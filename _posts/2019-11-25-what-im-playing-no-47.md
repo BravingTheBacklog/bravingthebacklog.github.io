@@ -6,7 +6,7 @@ description: What I've been playing for the past week (2019-11-25)
 date: 2019-11-25
 modified: 2019-11-25
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-bs3-caos.jpg
     thumb: feature-bs3-caos-thumb.jpg

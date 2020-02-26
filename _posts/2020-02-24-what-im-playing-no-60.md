@@ -6,7 +6,7 @@ description: "I played a lot of Tokyo Mirage Sessions ♯FE Encore this week!"
 date: 2020-02-24
 modified: 2020-02-24
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-switch.jpg
     credit: Azim Islam

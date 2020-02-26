@@ -6,7 +6,7 @@ description: "I played the classic GBA RPG Golden Sun this week!"
 date: 2020-01-06
 modified: 2020-01-06
 categories: [Weekly]
-tags: [what i'm playing,weekly,casual]
+tags: [What I'm Playing,Weekly,Casual]
 image:
     feature: feature-gba.jpg
     credit: Suzy Hazelwood

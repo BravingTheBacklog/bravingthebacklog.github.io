@@ -6,7 +6,7 @@ description: Pathway has just been released, from developer Robotality and publi
 date: 2019-04-11
 modified: 2019-04-11
 categories: [News]
-tags: [news,release,hype,indie]
+tags: [News,Release,Hype,Indie]
 image:
     feature: feature-pathway-release.jpg
 ---

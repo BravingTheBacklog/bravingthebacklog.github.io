@@ -15,11 +15,11 @@ layout: post
 modified: 2019-02-18
 redirect_from: /what%20i'm%20playing/what-im-playing-no-7/
 tags:
-- what i'm playing
-- weekly
-- casual
-- psp
-- persona
+- What I'm Playing
+- Weekly
+- Casual
+- PSP
+- Persona
 title: What I'm Playing - No. 7
 ---
 
