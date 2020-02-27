@@ -471,9 +471,18 @@ Phantasy Star:
   title: "Phantasy Star"
   image: "https://i.imgur.com/SndhLMR.jpg"
   thumb: "https://i.imgur.com/SndhLMRm.jpg"
-  developer: "SEGA"
+  developer: "Sega"
   release: "November, 1988"
-  platform: "SEGA Master System"
+  platform: "Sega Master System"
+
+Phantasy Star IV:
+  title: "Phantasy Star IV"
+  image: "https://i.imgur.com/atXsFtu.jpg"
+  thumb: "https://i.imgur.com/atXsFtum.jpg"
+  imagesize: "third"
+  developer: "Sega"
+  release: "February 1995"
+  platform: "Sega Genesis"
 
 LEGO Jurassic World:
   title: "LEGO Jurassic World"
@@ -618,7 +627,7 @@ Valkyria Chronicles:
   title: "Valkyria Chronicles"
   image: "https://i.imgur.com/FcOj5j3.jpg"
   thumb: "https://i.imgur.com/FcOj5j3m.jpg"
-  developer: "SEGA"
+  developer: "Sega"
   release: "November 11, 2014"
   platform: "PC"
 
@@ -1846,3 +1855,84 @@ Banjo-Kazooie:
   thumb: "https://i.imgur.com/WkrXoovm.jpg"
   developer: "Rare"
   release: "June 29, 1998"
+
+Beyond Oasis:
+  title: "Beyond Oasis"
+  platform: "Sega Genesis"
+  image: "https://i.imgur.com/cg2WGr8.jpg"
+  thumb: "https://i.imgur.com/cg2WGr8m.jpg"
+  imagesize: "third"
+  developer: "Ancient"
+  release: "March 15, 1995"
+
+Shining Force II:
+  title: "Shining Force II"
+  platform: "Sega Genesis"
+  image: "https://i.imgur.com/xJ88rsr.jpg"
+  thumb: "https://i.imgur.com/xJ88rsrm.jpg"
+  imagesize: "third"
+  developer: "Sonic! Software Planning"
+  release: "October 1994"
+
+Streets of Rage 2:
+  title: "Streets of Rage 2"
+  platform: "Sega Genesis"
+  image: "https://i.imgur.com/FT18TbW.jpg"
+  thumb: "https://i.imgur.com/FT18TbWm.jpg"
+  imagesize: "third"
+  developer: "Ancient / MNM Software Shout! / Designworks / H.I.C."
+  release: "December 20, 1992"
+
+Rocket Knight Adventures:
+  title: "Rocket Knight Adventures"
+  platform: "Sega Genesis"
+  image: "https://i.imgur.com/RAkP4Yi.jpg"
+  thumb: "https://i.imgur.com/RAkP4Yim.jpg"
+  imagesize: "third"
+  developer: "Konami"
+  release: "August 5, 1993"
+
+Comix Zone:
+  title: "Comix Zone"
+  platform: "Sega Genesis"
+  image: "https://i.imgur.com/TMvNUeA.jpg"
+  thumb: "https://i.imgur.com/TMvNUeAm.jpg"
+  imagesize: "third"
+  developer: "Sega Technical Institute"
+  release: "August 2, 1995"
+
+Gunstar Heroes:
+  title: "Gunstar Heroes"
+  platform: "Sega Genesis"
+  image: "https://i.imgur.com/hwcTz6U.jpg"
+  thumb: "https://i.imgur.com/hwcTz6Um.jpg"
+  imagesize: "third"
+  developer: "Treasure"
+  release: "September 1993"
+
+Landstalker The Treasures of King Nole:
+  title: "Landstalker: The Treasures of King Nole"
+  platform: "Sega Genesis"
+  image: "https://i.imgur.com/mEXmFsc.jpg"
+  thumb: "https://i.imgur.com/mEXmFscm.jpg"
+  imagesize: "third"
+  developer: "Climax Entertainment"
+  release: "1993"
+
+Battle Golfer Yui:
+  title: "Battle Golfer Yui"
+  platform: "Sega Genesis"
+  image: "https://i.imgur.com/aI9lORH.jpg"
+  thumb: "https://i.imgur.com/aI9lORHm.jpg"
+  imagesize: "third"
+  developer: "Santos"
+  release: "February 15, 1991 (Japan)"
+
+Shining in the Darkness:
+  title: "Shining in the Darkness"
+  platform: "Sega Genesis"
+  image: "https://i.imgur.com/v3Bv1vW.jpg"
+  thumb: "https://i.imgur.com/v3Bv1vWm.jpg"
+  imagesize: "third"
+  developer: "Climax Entertainment"
+  release: "August 6, 1991"
