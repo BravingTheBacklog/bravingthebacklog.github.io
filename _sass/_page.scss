@@ -463,6 +463,8 @@ ul.social-buttons li a:active {
 
 // Header
 // --------------------------------------------------
+$header-height: 300px;
+
 .entry-header {
 	width: 100%;
 	overflow: hidden;
@@ -473,7 +475,7 @@ ul.social-buttons li a:active {
 	height: 50px;
 	@media #{$medium} {
 		background-color: $header-color;
-		min-height: 300px;
+		min-height: $header-height;
 	}
 }
 .header-toggle{
@@ -495,7 +497,18 @@ ul.social-buttons li a:active {
 		vertical-align: middle;
 		margin: 0 auto;
 		text-align: center;
-	}
+
+    .banner-image {
+      height: $header-height - $menu-height;
+      position: relative;
+      top: $menu-height + 30;
+      padding: 0px;
+
+      img {
+        height: 100%;
+      }
+    }
+  }
 	h2 {
 		color: $white;
 	}

@@ -32,7 +32,7 @@
 {% if page.image.thumb %}<meta property="og:image" content="{{ site.url}}/images/{{ page.image.thumb }}" >
 {% elsif page.image.feature %}<meta property="og:image" content="{{ site.url }}/images/{{ page.image.feature }}">
 {% elsif author %}<meta property="og:image" content="{{ site.url }}/{{ author.avatar }}">
-{% else %}<meta property="og:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.logo }}{% endif %}">{% endif %}
+{% else %}<meta property="og:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/{{ site.logo }}{% endif %}">{% endif %}
 
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
 {% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
