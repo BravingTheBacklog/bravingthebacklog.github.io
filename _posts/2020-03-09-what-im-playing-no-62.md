@@ -36,7 +36,7 @@ section. Games contained within this post:
 I completed a major milestone in the main quest this week. The credits rolled at
 this point, so I thought it was the end of the story...but according to the
 wiki, it was just the prologue/first arc! A second and third story arc still
-wait me, so there's substantially more story content than I thought. What I
+await me, so there's substantially more story content than I thought. What I
 experienced so far was a simple but heartwarming story, and felt right at home
 in this fantasy farming sim!
 
