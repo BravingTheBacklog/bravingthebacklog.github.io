@@ -49,7 +49,9 @@ Also, note that the release dates listed are for the Steam versions of these
 games. Whatever the Steam store page lists for release date and developer,
 that's what I've put here!
 
-## 10. {% include game.html game="Dishonored Death of the Outsider" %}
+## 10. {% include game.html game="Dishonored Death of the Outsider" checkmark="" %}
+
+**Edit**: Finished! You can [read my thoughts in this post]({% post_url 2020-03-09-what-im-playing-no-62 %}#Dishonored:DeathoftheOutsider). It's spoiler-free, save for some screenshots revealing mission objectives but these are only spoilers if you want to go in without knowing what the missions are like.
 
 Dishonored and its sequel blew me away with their steampunk, black magic-infused
 world and their play-your-way but remember the consequences approach to
