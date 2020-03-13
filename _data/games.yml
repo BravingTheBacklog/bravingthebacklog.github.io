@@ -475,13 +475,22 @@ Phantasy Star:
   release: "November, 1988"
   platform: "Sega Master System"
 
+Phantasy Star II:
+  title: "Phantasy Star II"
+  platform: "Sega Genesis"
+  image: "https://i.imgur.com/eB4DvWH.png"
+  thumb: "https://i.imgur.com/eB4DvWHm.png"
+  imagesize: "third"
+  developer: "Sega"
+  release: "March, 1990"
+
 Phantasy Star IV:
   title: "Phantasy Star IV"
   image: "https://i.imgur.com/atXsFtu.jpg"
   thumb: "https://i.imgur.com/atXsFtum.jpg"
   imagesize: "third"
   developer: "Sega"
-  release: "February 1995"
+  release: "February, 1995"
   platform: "Sega Genesis"
 
 LEGO Jurassic World:
@@ -523,7 +532,7 @@ Donkey Kong Country 2 Diddy Kong's Quest:
   thumb: "https://i.imgur.com/vrjX2N0m.jpg"
   developer: "Rare"
   release: "November 20, 1995"
-  platform: "SNES"
+  platform: "Super Nintendo"
 
 Dragon's Dogma Dark Arisen:
   title: "Dragon's Dogma: Dark Arisen"
@@ -1101,6 +1110,23 @@ Castlevania Aria of Sorrow:
   release: "May 6, 2003"
   platform: "Game Boy Advance"
 
+Castlevania:
+  title: "Castlevania"
+  platform: "Nintendo Entertainment System"
+  image: "https://i.imgur.com/54JCW09.png"
+  thumb: "https://i.imgur.com/54JCW09m.png"
+  imagesize: "third"
+  developer: "Konami"
+  release: "May 1, 1987"
+
+Super Castlevania IV:
+  title: "Super Castlevania IV"
+  platform: "Super Nintendo"
+  image: "https://i.imgur.com/MuOcBrd.png"
+  thumb: "https://i.imgur.com/MuOcBrdm.png"
+  developer: "Konami"
+  release: "December 4, 1991"
+
 Kirby & the Amazing Mirror:
   title: "Kirby & the Amazing Mirror"
   image: "https://i.imgur.com/1Ds7SRI.jpg"
@@ -1142,6 +1168,15 @@ Stella Deus The Gate of Eternity:
   platform: "PlayStation 2"
   developer: "Atlus & Pinegrow"
   release: "April 26, 2005"
+
+Digital Devil Story Megami Tensei:
+  title: "Digital Devil Story: Megami Tensei"
+  thumb: "https://i.imgur.com/Lqxq5ztm.png"
+  image: "https://i.imgur.com/Lqxq5zt.png"
+  imagesize: "third"
+  platform: "Famicom"
+  developer: "Atlus"
+  release: "September 11, 1987 (Japan)"
 
 Shin Megami Tensei III Nocturne:
   title: "Shin Megami Tensei III: Nocturne"
@@ -1936,3 +1971,20 @@ Shining in the Darkness:
   imagesize: "third"
   developer: "Climax Entertainment"
   release: "August 6, 1991"
+
+Warsong:
+  title: "Warsong"
+  platform: "Sega Genesis"
+  image: "https://i.imgur.com/HMzBL7v.png"
+  thumb: "https://i.imgur.com/HMzBL7vm.png"
+  imagesize: "third"
+  developer: "Masaya Games"
+  release: "1991"
+
+Arcana:
+  title: "Arcana"
+  platform: "Super Nintendo"
+  image: "https://i.imgur.com/CjmXltV.png"
+  thumb: "https://i.imgur.com/CjmXltVm.png"
+  developer: "HAL Laboratory"
+  release: "May 1992"
