@@ -2079,3 +2079,92 @@ Shadowrun Returns:
   developer: "Harebrained Schemes"
   release: "July 25, 2013"
 
+LEGO Star Wars The Complete Saga:
+  title: "LEGO Star Wars: The Complete Saga"
+  platform: "Nintendo Wii"
+  image: "https://i.imgur.com/tNVAZ16.jpg"
+  thumb: "https://i.imgur.com/tNVAZ16m.jpg"
+  imagesize: "third"
+  developer: "Traveller's Tales"
+  release: "November 6, 2007"
+
+Tales of Symphonia Dawn of the New World:
+  title: "Tales of Symphonia: Dawn of the New World"
+  platform: "Nintendo Wii"
+  image: "https://i.imgur.com/zTLUiKw.jpg"
+  thumb: "https://i.imgur.com/zTLUiKwm.jpg"
+  imagesize: "third"
+  developer: "Namco Tales Studio"
+  release: "November 11, 2008"
+
+Mario Kart Wii:
+  title: "Mario Kart Wii"
+  platform: "Nintendo Wii"
+  image: "https://i.imgur.com/zKgWZ3B.jpg"
+  thumb: "https://i.imgur.com/zKgWZ3Bm.jpg"
+  imagesize: "third"
+  developer: "Nintendo EAD"
+  release: "April 27, 2008"
+
+Metroid Prime 3 Corruption:
+  title: "Metroid Prime 3: Corruption"
+  platform: "Nintendo Wii"
+  image: "https://i.imgur.com/aSiDA4a.jpg"
+  thumb: "https://i.imgur.com/aSiDA4am.jpg"
+  imagesize: "third"
+  developer: "Retro Studios"
+  release: "August 27, 2007"
+
+Rock Band 2:
+  title: "Rock Band 2"
+  platform: "Nintendo Wii"
+  image: "https://i.imgur.com/ZxNpCYT.jpg"
+  thumb: "https://i.imgur.com/ZxNpCYTm.jpg"
+  imagesize: "third"
+  developer: "Harmonix / Pi Studios"
+  release: "December 18, 2008"
+
+Super Smash Bros. Brawl:
+  title: "Super Smash Bros. Brawl"
+  platform: "Nintendo Wii"
+  image: "https://i.imgur.com/Wo2QGHT.jpg"
+  thumb: "https://i.imgur.com/Wo2QGHTm.jpg"
+  imagesize: "third"
+  developer: "Sora Ltd. & HAL Laboratory & Game Arts"
+  release: "March 9, 2008"
+
+The Legend of Zelda Twilight Princess:
+  title: "The Legend of Zelda: Twilight Princess"
+  platform: "Nintendo Wii"
+  image: "https://i.imgur.com/tutTaA0.jpg"
+  thumb: "https://i.imgur.com/tutTaA0m.jpg"
+  imagesize: "third"
+  developer: "Nintendo EAD"
+  release: "November 19, 2006"
+
+Super Mario Galaxy:
+  title: "Super Mario Galaxy"
+  platform: "Nintendo Wii"
+  image: "https://i.imgur.com/ng6zNLf.jpg"
+  thumb: "https://i.imgur.com/ng6zNLfm.jpg"
+  imagesize: "third"
+  developer: "Nintendo EAD"
+  release: "November 12, 2007"
+
+Super Paper Mario:
+  title: "Super Paper Mario"
+  platform: "Nintendo Wii"
+  image: "https://i.imgur.com/7uUOz78.jpg"
+  thumb: "https://i.imgur.com/7uUOz78m.jpg"
+  imagesize: "third"
+  developer: "Intelligent Systems"
+  release: "April 9, 2007"
+
+Fire Emblem Radiant Dawn:
+  title: "Fire Emblem: Radiant Dawn"
+  platform: "Nintendo Wii"
+  image: "https://i.imgur.com/qdL2ov4.jpg"
+  thumb: "https://i.imgur.com/qdL2ov4m.jpg"
+  imagesize: "third"
+  developer: "Intelligent Systems"
+  release: "November 5, 2007"
