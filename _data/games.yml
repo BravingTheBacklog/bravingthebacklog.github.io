@@ -230,6 +230,7 @@ Future Tactics The Uprising:
   title: "Future Tactics: The Uprising"
   thumb: "https://i.imgur.com/2Xbf7Xlm.jpg"
   image: "https://i.imgur.com/2Xbf7Xl.jpg"
+  imagesize: "third"
   platform: "Nintendo GameCube"
   developer: "Zed Two"
   release: "May 10, 2004"
@@ -253,7 +254,10 @@ Custom Robo:
   title: "Custom Robo"
   thumb: "https://i.imgur.com/TChQ2Eam.png"
   image: "https://i.imgur.com/TChQ2Ea.png"
+  imagesize: "third"
   platform: "Nintendo GameCube"
+  developer: "Noise"
+  release: "May 10, 2004"
 
 Tales of Symphonia:
   title: "Tales of Symphonia"
@@ -2168,3 +2172,57 @@ Fire Emblem Radiant Dawn:
   imagesize: "third"
   developer: "Intelligent Systems"
   release: "November 5, 2007"
+
+Owlboy:
+  title: "Owlboy"
+  platform: "PC"
+  image: "https://i.imgur.com/D0SBEUk.jpg"
+  thumb: "https://i.imgur.com/D0SBEUkm.jpg"
+  developer: "D-Pad Studio"
+  release: "November 1, 2016"
+
+Army of Two The 40th Day:
+  title: "Army of Two: The 40th Day"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/cVlv07B.jpg"
+  thumb: "https://i.imgur.com/cVlv07Bm.jpg"
+  imagesize: "third"
+  developer: "EA Montreal"
+  release: "January 12, 2010"
+
+Stranglehold:
+  title: "Stranglehold"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/pesTYSa.jpg"
+  thumb: "https://i.imgur.com/pesTYSam.jpg"
+  imagesize: "third"
+  developer: "Midway Chicago"
+  release: "September 7, 2007"
+
+Nox:
+  title: "Nox"
+  platform: "PC"
+  image: "https://i.imgur.com/ZsywlS9.jpg"
+  thumb: "https://i.imgur.com/ZsywlS9m.jpg"
+  imagesize: "third"
+  developer: "Westwood Pacific"
+  release: "January 31, 2000"
+
+Soulbringer:
+  title: "Soulbringer"
+  platform: "PC"
+  image: "https://i.imgur.com/Q7BEkTo.jpg"
+  thumb: "https://i.imgur.com/Q7BEkTom.jpg"
+  imagesize: "third"
+  developer: "Infogrames Studios"
+  release: "June 30, 2000"
+
+Majesty The Fantasy Kingdom Sim:
+  title: "Majesty: The Fantasy Kingdom Sim"
+  platform: "PC"
+  image: "https://i.imgur.com/M5bRivZ.jpg"
+  thumb: "https://i.imgur.com/M5bRivZm.jpg"
+  imagesize: "third"
+  developer: "Cyberlore Studios"
+  release: "March 21, 2000"
+
