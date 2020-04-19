@@ -21,7 +21,7 @@ image:
   feature: feature-steam-pc.jpg
   thumb: feature-steam-pc-thumb.jpg
 layout: post
-modified: 2020-03-09
+modified: 2020-04-18
 tags:
 - Top 10
 - Steam
@@ -65,7 +65,7 @@ should be fun to play around with!
 ## 9. {% include game.html game="Final Fantasy IX" %}
 
 Originally released on the PlayStation in 2000, Final Fantasy IX has received
-rave reviews from both critics and fans alike. Its now available on many
+rave reviews from both critics and fans alike. It's now available on many
 platforms, including Xbox One, PS4, Switch, and, of course, PC.
 
 Final Fantasy is a legendary series, but I've played basically none of the main
@@ -92,7 +92,7 @@ II is a JRPG with a fun turn-based battle system, charming characters, and a lot
 of lore.
 
 Playing the first Trails of Cold Steel game on Steam was a lot of fun. It was
-excellent in its own right. *But**, from everything I've heard about this series,
+excellent in its own right. *But*, from everything I've heard about this series,
 it only gets better the more into the lore you get, as the world building Nihon
 Falcom has done over several video game arcs is sometimes said to be second to
 none. The next step in getting deeper into this series for me will be Trails of
@@ -170,7 +170,7 @@ that involves dodging, dashing, and slashing your way to victory. Hand-drawn 2D
 art completes the experience to bring the insect-riddled world of Hollow Knight
 to life.
 
-Since its original PC release, its been ported to all the major current
+Since its original PC release, it has been ported to all the major current
 generation consoles, and has received near universal acclaim. I'd love to see
 what it's all about!
 
