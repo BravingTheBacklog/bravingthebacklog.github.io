@@ -159,7 +159,11 @@ before, but I'm excited to try this one when it comes out in the West. Playing
 as the members of the Phantom Thieves in a hack 'n' slash game sounds pretty
 awesome!
 
-## 1. {% include game.html game="Persona 5 Royal" %}
+## 1. {% include game.html game="Persona 5 Royal" checkmark="" %}
+
+**Edit**: Persona 5 Royal is out in the West now, PatronusLight and I have
+finished it, and it's wonderful! Here's [my post on many of the changes and new
+features]({% post_url 2020-04-25-persona-5-royal-changes-and-new-features %}).
 
 Persona 5 Royal is an enhanced version of Persona 5 with new characters,
 gameplay elements, and story additions. As of this writing, it's also not yet
