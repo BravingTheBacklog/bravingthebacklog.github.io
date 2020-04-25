@@ -4,7 +4,7 @@ title: Top 10 PS4 Games in my Backlog
 author: bsinky
 description: "A list of the top 10 PS4 games in my backlog"
 date: 2020-01-11
-modified: 2020-01-11
+modified: 2020-04-25
 categories: [List]
 tags: [Top 10,PS4,Backlog]
 games:
@@ -161,7 +161,7 @@ awesome!
 
 ## 1. {% include game.html game="Persona 5 Royal" %}
 
-Persona 5 Royal is an enhanced version of Persona 5, with new characters,
+Persona 5 Royal is an enhanced version of Persona 5 with new characters,
 gameplay elements, and story additions. As of this writing, it's also not yet
 released in English!
 
