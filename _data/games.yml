@@ -1522,6 +1522,15 @@ Mario+Rabbids Kingdom Battle:
   title: "Mario+Rabbids Kingdom Battle"
   platform: "Nintendo Switch"
 
+The Last of Us:
+  title: "The Last of Us"
+  platform: "PlayStation 3"
+  image: "https://i.imgur.com/diob16V.jpg"
+  thumb: "https://i.imgur.com/diob16Vm.jpg"
+  developer: "Naughty Dog"
+  release: "June 14, 2013"
+  imagesize: "third"
+
 The Last of Us Remastered:
   title: "The Last of Us Remastered"
   platform: "PlayStation 4"
@@ -2110,6 +2119,15 @@ Mario Kart Wii:
   developer: "Nintendo EAD"
   release: "April 27, 2008"
 
+Metroid Prime:
+  title: "Metroid Prime"
+  platform: "Nintendo GameCube"
+  image: "https://i.imgur.com/xQqxpCX.jpg"
+  thumb: "https://i.imgur.com/xQqxpCXm.jpg"
+  imagesize: "third"
+  developer: "Retro Studios"
+  release: "November 17, 2002"
+
 Metroid Prime 3 Corruption:
   title: "Metroid Prime 3: Corruption"
   platform: "Nintendo Wii"
@@ -2154,6 +2172,15 @@ Super Mario Galaxy:
   imagesize: "third"
   developer: "Nintendo EAD"
   release: "November 12, 2007"
+
+Super Mario Galaxy 2:
+  title: "Super Mario Galaxy 2"
+  platform: "Nintendo Wii"
+  image: "https://i.imgur.com/SPRUK1p.jpg"
+  thumb: "https://i.imgur.com/SPRUK1pm.jpg"
+  imagesize: "third"
+  developer: "Nintendo EAD"
+  release: "May 23, 2010"
 
 Super Paper Mario:
   title: "Super Paper Mario"
@@ -2226,3 +2253,47 @@ Majesty The Fantasy Kingdom Sim:
   developer: "Cyberlore Studios"
   release: "March 21, 2000"
 
+Portal 2:
+  title: "Portal 2"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/JzuBGzX.jpg"
+  thumb: "https://i.imgur.com/JzuBGzXm.jpg"
+  imagesize: "third"
+  developer: "Valve"
+  release: "April 19, 2011"
+
+Red Dead Redemption:
+  title: "Red Dead Redemption"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/RVPqN5b.jpg"
+  thumb: "https://i.imgur.com/RVPqN5bm.jpg"
+  imagesize: "third"
+  developer: "Rockstar San Diego"
+  release: "May 18, 2010"
+
+Bioshock:
+  title: "Bioshock"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/SgAWJp7.jpg"
+  thumb: "https://i.imgur.com/SgAWJp7m.jpg"
+  imagesize: "third"
+  developer: "Irrational Games"
+  release: "August 21, 2007"
+
+Mass Effect 2:
+  title: "Mass Effect "
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/1ios9OO.jpg"
+  thumb: "https://i.imgur.com/1ios9OOm.jpg"
+  imagesize: "third"
+  developer: "BioWare"
+  release: "January 26, 2010"
+
+Grand Theft Auto V:
+  title: "Grand Theft Auto V"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/PyBAtiN.jpg"
+  thumb: "https://i.imgur.com/PyBAtiNm.jpg"
+  imagesize: "third"
+  developer: "Rockstar North"
+  release: "September 17, 2013"
