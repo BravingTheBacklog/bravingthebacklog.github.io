@@ -4,7 +4,7 @@ title: What I'm Playing - No. 69
 author: bsinky
 description: "Lots of Trails of Cold Steel II and a little bit of Animal Crossing: New Horizons!"
 date: 2020-04-27
-modified: 2020-04-27
+modified: 2020-05-04
 categories: [Weekly]
 tags: [What I'm Playing,Weekly,Casual]
 image:
@@ -123,7 +123,7 @@ feels great. There is still some linearity to the gameplay structure, as it
 still follows the same formula as the first game. Between main story missions,
 you'll have a few quests to pursue, some required and some optional, and can
 tackle them in any order. However, having the airship means that these quests
-are not spread out across several areas instead of all taking place in the same
+are spread out across several areas instead of all taking place in the same
 region, and this provides nice variety in my opinion.
 
 <figure class="third">

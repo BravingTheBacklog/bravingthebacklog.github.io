@@ -21,7 +21,7 @@ image:
   feature: feature-steam-pc.jpg
   thumb: feature-steam-pc-thumb.jpg
 layout: post
-modified: 2020-04-18
+modified: 2020-05-04
 tags:
 - Top 10
 - Steam
@@ -83,7 +83,12 @@ what an incredible experience it is. I'm trying not to let that cloud but my
 judgment, but seeing so many people write good things about it, my hopes are
 pretty high for Undertale!
 
-## 7. {% include game.html game="The Legend of Heroes Trails of Cold Steel II" %}
+## 7. {% include game.html game="The Legend of Heroes Trails of Cold Steel II" checkmark="" %}
+
+**Edit**: Finished! I didn't review this one since it feels odd to review the
+second game without also reviewing the first, and it's been so long now since I
+played it that I don't feel I'd be able to review the first game at all anymore.
+It was fun though, I'm definitely glad I got into this series!
 
 Originally a PS Vita and PS3 title, The Legend of Heroes: Trails of Cold Steel
 II got a very well received PC port in February of 2018, and as of this writing
