@@ -21,7 +21,7 @@ image:
   feature: feature-steam-pc.jpg
   thumb: feature-steam-pc-thumb.jpg
 layout: post
-modified: 2020-05-04
+modified: 2020-05-10
 tags:
 - Top 10
 - Steam
@@ -72,7 +72,9 @@ Final Fantasy is a legendary series, but I've played basically none of the main
 numbered games. After hearing this entry hyped up a lot by one of my co-workers,
 I picked up Final Fantasy IX on a sale to try it for myself.
 
-## 8. {% include game.html game="Undertale" %}
+## 8. {% include game.html game="Undertale" checkmark="" %}
+
+**Edit**: I have since played and enjoyed Undertale! It was a unique experience, and I'd definitely recommend it to anyone looking for a novel RPG. You can [read more of my thoughts on it in What I'm Playing No. 71]({% post_url 2020-05-11-what-im-playing-no-71 %}#Undertale).
 
 Undertale is an RPG with a unique combat system that's turn-based with what's
 described as a mini-bullet hell system. You can choose to spare the lives of the
