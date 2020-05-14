@@ -583,6 +583,15 @@ Undertale:
   developer: "tobyfox"
   release: "September 15, 2015"
 
+The Legend of Heroes Trails in the Sky:
+  title: "The Legend of Heroes: Trails in the Sky"
+  developer: "Nihon Falcom"
+  release: "July 29, 2014"
+  image: "https://i.imgur.com/moKU6tE.jpg"
+  thumb: "https://i.imgur.com/moKU6tEm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
 The Legend of Heroes Zero no Kiseki:
   title: "The Legend of Heroes: Zero no Kiseki"
   image: "https://i.imgur.com/y6uLlho.jpg"
@@ -612,6 +621,15 @@ Danganronpa Trigger Happy Havoc:
   thumb: "https://i.imgur.com/l1xY2HFm.jpg"
   developer: "Spike Chunsoft / Abstraction Games"
   release: "February 18, 2016"
+  platform: "PC"
+
+Danganronpa 2 Goodbye Despair:
+  title: "Danganronpa 2: Goodbye Despair"
+  developer: "Spike Chunsoft & Abstraction Games"
+  release: "April 18, 2016"
+  image: "https://i.imgur.com/sDrmp4O.jpg"
+  thumb: "https://i.imgur.com/sDrmp4Om.jpg"
+  imagesize: "third"
   platform: "PC"
 
 Bayonetta:
@@ -2297,3 +2315,75 @@ Grand Theft Auto V:
   imagesize: "third"
   developer: "Rockstar North"
   release: "September 17, 2013"
+
+Battle Chasers Nightwar:
+  title: "Battle Chasers: Nightwar"
+  developer: "Airship Syndicate"
+  release: "October 3, 2017"
+  image: "https://i.imgur.com/FUInX6V.jpg"
+  thumb: "https://i.imgur.com/FUInX6Vm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Yakuza 0:
+  title: "Yakuza 0"
+  developer: "Sega"
+  release: "August 1, 2018"
+  image: "https://i.imgur.com/ABOZkll.jpg"
+  thumb: "https://i.imgur.com/ABOZkllm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Blasphemous:
+  title: "Blasphemous"
+  developer: "The Game Kitchen"
+  release: "September 10, 2019"
+  image: "https://i.imgur.com/gFi569t.jpg"
+  thumb: "https://i.imgur.com/gFi569tm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Zero Escape The Nonary Games:
+  title: "Zero Escape: The Nonary Games"
+  developer: "Spike Chunsoft"
+  release: "March 24, 2017"
+  image: "https://i.imgur.com/M1rBxv9.jpg"
+  thumb: "https://i.imgur.com/M1rBxv9m.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+A Hat in Time:
+  title: "A Hat in Time"
+  developer: "Gears for Breakfast"
+  release: "October 5, 2017"
+  image: "https://i.imgur.com/olSzUeC.jpg"
+  thumb: "https://i.imgur.com/olSzUeCm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Forgotton Anne:
+  title: "Forgotton Anne"
+  developer: "ThroughLine Games"
+  release: "May 15, 2018"
+  image: "https://i.imgur.com/V4QFYaa.jpg"
+  thumb: "https://i.imgur.com/V4QFYaam.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Resident Evil 4:
+  title: "Resident Evil 4"
+  developer: "Capcom"
+  release: "February 28, 2014"
+  image: "https://i.imgur.com/zYq1pRT.jpg"
+  thumb: "https://i.imgur.com/zYq1pRTm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Beyond Good & Evil:
+  title: "Beyond Good & Evil"
+  developer: "Ubisoft"
+  release: "May 13, 2008"
+  image: "https://i.imgur.com/I9zyZ57.png"
+  thumb: "https://i.imgur.com/I9zyZ57m.png"
+  imagesize: "third"
+  platform: "PC"
