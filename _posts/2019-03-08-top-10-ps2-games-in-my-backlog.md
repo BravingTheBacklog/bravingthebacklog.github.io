@@ -23,6 +23,7 @@ redirect_from: /top%2010/top-10-ps2-games-in-my-backlog/
 tags:
 - Top 10
 - PS2
+- Backlog
 title: Top 10 PS2 Games in my Backlog
 ---
 
