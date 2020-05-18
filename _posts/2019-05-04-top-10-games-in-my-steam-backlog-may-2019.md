@@ -21,12 +21,12 @@ image:
   feature: feature-steam-pc.jpg
   thumb: feature-steam-pc-thumb.jpg
 layout: post
-modified: 2020-05-10
+modified: 2020-05-18
 tags:
 - Top 10
 - Steam
 - Backlog
-title: Top 10 Games in my Steam Backlog
+title: Top 10 Games in my Steam Backlog (DONE)
 ---
 
 My Steam backlog is *super* long, as of this writing there are 762 games under
@@ -39,6 +39,9 @@ some of the them, my Steam library will probably have grown, and maybe something
 else will have pushed its way to the top!
 
 <!--more-->
+
+**Edit**: I've since played through all the games on this list, and they all
+brought different great things to the table!
 
 You'll see a number of PC ports in this list. One of my favorite things about
 Steam are the steep sales games often see on the platform, so that leads me to
@@ -62,7 +65,9 @@ I'm hoping that statement remains true with Dishonored: Death of the Outsider.
 It contains new supernatural powers, as each new Dishonored title has, which
 should be fun to play around with!
 
-## 9. {% include game.html game="Final Fantasy IX" %}
+## 9. {% include game.html game="Final Fantasy IX" checkmark="" %}
+
+**Edit**: Finished! What a great adventure, I can't believe it took me so long to play it. It definitely lived up to the hype for me. I did a very brief mini-review of it in [What I'm Playing No. 72]({% post_url 2020-05-18-what-im-playing-no-72 %}#FinalFantasyIX), check it out if you want to hear more!
 
 Originally released on the PlayStation in 2000, Final Fantasy IX has received
 rave reviews from both critics and fans alike. It's now available on many
