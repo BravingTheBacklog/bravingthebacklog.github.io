@@ -4,7 +4,7 @@ title: Top 10 Games in my Steam Backlog (2020)
 author: bsinky
 description: "A list of the top 10 games in my Steam backlog as of May 2020!"
 date: 2020-05-14
-modified: 2020-05-14
+modified: 2020-05-25
 categories: [List]
 tags: [Top 10,Steam,Backlog]
 image:
@@ -160,7 +160,13 @@ live alongside humans in this intergalactic world. The combat received some
 criticism upon release, but the rest of the game was well received, and I'm
 curious to see how it holds up today.
 
-## 1. {% include game.html game="Danganronpa 2 Goodbye Despair" %}
+## 1. {% include game.html game="Danganronpa 2 Goodbye Despair" checkmark="" %}
+
+**Edit:** Finished! I enjoyed this game every bit as much as the first game. You
+can read about my thoughts on it in [What I'm Playing No. 72]({% post_url
+2020-05-18-what-im-playing-no-72 %}#Danganronpa2:GoodbyeDespair) and [What I'm
+Playing No. 73]({% post_url 2020-05-25-what-im-playing-no-73
+%}#Danganronpa2:GoodbyeDespair).
 
 I enjoyed the first Danganronpa game so much, I'm really looking forward to
 playing this next game in the series! The writing of the first game was just *so

@@ -134,7 +134,7 @@ whenever I get around to playing that!
 Beyond Good & Evil is one of those games I remember seeing ads for or maybe
 reading an article in a magazine about it back when it came out in 2003, but
 that was the extent of my knowledge of it. Some time ago, it was being given
-away for free on UPlay, and I finally added a copy to my library!
+away for free on Uplay, and I finally added a copy to my library!
 
 <figure class="half center">
     <a href="https://i.imgur.com/Kqj6ApL.jpg"><img src="https://i.imgur.com/Kqj6ApLm.jpg" alt="Beyond Good &amp; Evil title screen"/></a>
