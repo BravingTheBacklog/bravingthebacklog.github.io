@@ -123,6 +123,7 @@ ActRaiser:
 Fire Emblem Genealogy of the Holy War:
   title: "Fire Emblem: Genealogy of the Holy War"
   image: "https://i.imgur.com/agKVvNl.jpg"
+  imagesize: "third"
   thumb: "https://i.imgur.com/agKVvNlm.jpg"
   developer: "Intelligent Systems"
   release: "May 14, 1996 (Japan)"
@@ -139,6 +140,7 @@ Breath of Fire:
 Shin Megami Tensei if...:
   title: "Shin Megami Tensei if..."
   image: "https://i.imgur.com/V77AjPx.png"
+  imagesize: "third"
   thumb: "https://i.imgur.com/V77AjPxm.png"
   developer: "Atlus"
   release: "October 28, 1994 (Japan)"
@@ -1787,7 +1789,7 @@ Persona 5 Scramble The Phantom Strikers:
   imagesize: "third"
 
 Gravity Rush Remastered:
-  title: "Gravity Rush: Remastered"
+  title: "Gravity Rush Remastered"
   platform: "PlayStation 4"
   image: "https://i.imgur.com/jcn64ZS.jpg"
   thumb: "https://i.imgur.com/jcn64ZSm.jpg"

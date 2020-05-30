@@ -21,7 +21,7 @@ image:
   feature: feature-longest-rpgs.jpg
   thumb: feature-longest-rpgs-thumb.jpg
 layout: post
-modified: 2019-09-01
+modified: 2020-05-30
 tags:
 - Top 10
 - RPG
@@ -141,7 +141,11 @@ draw for me. I don't know much about it, but I'm willing to give it a shot and
 see if it's something I enjoy! Main + Extras is listed as 78 hours, while
 Completionist is 147 hours.
 
-### 4. {% include game.html game="Xenoblade Chronicles 3D" platform="" postfix="(63h 20m)" %}
+### 4. {% include game.html game="Xenoblade Chronicles 3D" platform="" postfix="(63h 20m)" x="" %}
+
+**Edit:** With the announcement of Xenoblade Chronicles Definitive Edition
+coming to the Switch, I've decided that I'll just wait and play that version
+instead.
 
 Coming in at 4th place, with a Main Story time just 6 minutes less than the 3rd
 game on this list, we have Xenoblade Chronicles 3D. As of this writing,

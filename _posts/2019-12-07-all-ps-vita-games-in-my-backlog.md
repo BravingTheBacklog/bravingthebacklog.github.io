@@ -4,7 +4,7 @@ title: All PS Vita Games in my Backlog
 author: bsinky
 description: "The complete list of PS Vita games in my backlog."
 date: 2019-12-07
-modified: 2019-12-07
+modified: 2020-05-30
 categories: [List]
 tags: [Backlog,PSVita]
 image:
@@ -48,7 +48,7 @@ Dungeon Travelers 2 is. However, I've somehow convinced myself that maybe I'll
 really enjoy a dungeon crawler someday if I find the right one and I'm in the
 right mindset. Maybe Dungeon Travelers 2 is that game for me, who knows?
 
-## 5 {% include game.html game="Soul Sacrifice Delta" %}
+## 5. {% include game.html game="Soul Sacrifice Delta" %}
 
 An action RPG, this is an enhanced re-release of the original Soul Sacrifice
 which was also exclusively on PS Vita. The interesting hook here is that
@@ -60,7 +60,7 @@ powerful spell with a varying effect depending on the body part sacrificed, but
 doing so also incurs a negative status effect that lasts until the body part is
 restored.
 
-## 4 {% include game.html game="Demon Gaze" %}
+## 4. {% include game.html game="Demon Gaze" %}
 
 Demon Gaze is another first-person dungeon crawler, with turn-based battles and
 the usual dungeon-crawler RPG elements. There sure are a lot of dungeon crawlers
@@ -69,7 +69,7 @@ exclusivity. Whether or not I end up playing all the way through is another
 story! If I do enjoy the game, it does have a sequel that is also exclusive to
 the Vita.
 
-## 3 {% include game.html game="Oreshika Tainted Bloodlines" %}
+## 3. {% include game.html game="Oreshika Tainted Bloodlines" %}
 
 Featuring a striking Japanese watercolor art style and turn-based RPG battles,
 Oreshika: Tainted Bloodlines has some interesting ideas to offer. You explore
@@ -80,7 +80,7 @@ lifespan, so your playthrough will span generations of characters. It sounds
 like an interesting enough premise, and the art style has really gotten my
 attention as well!
 
-## 2 {% include game.html game="Muramasa Rebirth" %}
+## 2. {% include game.html game="Muramasa Rebirth" %}
 
 A remake of the Wii original, Muramasa Rebirth is an action RPG from
 Vanillaware. I loved Odin Sphere Leifthrasir, another Vanillaware title on the
@@ -89,7 +89,7 @@ RPG mechanics like inventory management, and level-ups. Couple that with the
 beautiful, recognizeable Vanillaware art style, and Muramasa should be quite a
 treat!
 
-## 1 {% include game.html game="Tales of Hearts R" %}
+## 1. {% include game.html game="Tales of Hearts R" %}
 
 I've enjoyed most of the Tales games I've played. The only 2 that didn't
 wholeheartedly enjoy were Tales of Symphonia: Dawn of the New World on the Wii,
