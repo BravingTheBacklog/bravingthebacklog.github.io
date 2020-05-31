@@ -4,7 +4,7 @@ title: Top 10 N64 Games in my Backlog
 author: bsinky
 description: "The top 10 N64 games in my backlog"
 date: 2020-01-25
-modified: 2020-01-25
+modified: 2020-05-31
 categories: [List]
 tags: [Top 10,N64,Backlog]
 image:
@@ -90,7 +90,11 @@ stuck with this game through to the end before. Playing Super Mario Odyssey
 definitely got me more interested in 3D platformers again, so I'm looking
 forward to seeing what Banjo-Kazooie does to innovate in the genre!
 
-## 1. {% include game.html game="Custom Robo 1" %}
+## 1. {% include game.html game="Custom Robo 1" checkmark="" %}
+
+**Edit**: Finished! It was an absolute joy to dive into the world of Custom Robo
+again. You can [read more of my thoughts on it here]({% post_url
+2020-06-01-what-im-playing-no-74 %}#CustomRobo)
 
 The very first Custom Robo game. As a big fan of the GameCube game, "Custom
 Robo," which is actually the 4th game in the series, I'm really looking forward

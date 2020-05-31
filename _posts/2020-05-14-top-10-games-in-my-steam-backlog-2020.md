@@ -4,7 +4,7 @@ title: Top 10 Games in my Steam Backlog (2020)
 author: bsinky
 description: "A list of the top 10 games in my Steam backlog as of May 2020!"
 date: 2020-05-14
-modified: 2020-05-25
+modified: 2020-05-31
 categories: [List]
 tags: [Top 10,Steam,Backlog]
 image:
@@ -145,7 +145,12 @@ play the HD remasters of Resident Evil 1 and Resident Evil 0, since I already
 have both of them on Steam and I'm curious to experience *classic* Resident Evil
 gameplay, but Resident Evil 4 comes first!
 
-## 2. {% include game.html game="Beyond Good & Evil" %}
+## 2. {% include game.html game="Beyond Good & Evil" checkmark="" %}
+
+**Edit**: Finished! Beyond Good & Evil was great. It had some flaws, but I think
+it still held up well and the story was quite enjoyable! You can [read more of
+my thoughts on it here]({% post_url 2020-05-25-what-im-playing-no-73
+%}#BeyondGoodEvil)
 
 So this game isn't actually on my Steam backlog at all, because I own it on
 Uplay, not Steam. It is available on Steam though, so I'm including it here!

@@ -21,7 +21,7 @@ image:
   feature: feature-top-10-fan-translations-backlog.jpg
   thumb: feature-top-10-fan-translations-backlog-thumb.jpg
 layout: post
-modified: 2019-11-24
+modified: 2020-05-31
 tags:
 - Top 10
 - Translation
@@ -194,7 +194,11 @@ Thanks to dedicated fans, Grand Knights History is fully playable in English!
 [You can download the patch from this GBATemp
 thread](https://gbatemp.net/threads/grand-knights-history-english-patch-alpha-looking-for-help.365958/).
 
-## 1. {% include game.html game="Custom Robo 1" platform="" %}
+## 1. {% include game.html game="Custom Robo 1" platform="" checkmark="" %}
+
+**Edit**: Finished! It was an absolute joy to dive into the world of Custom Robo
+again. You can [read more of my thoughts on it here]({% post_url
+2020-06-01-what-im-playing-no-74 %}#CustomRobo)
 
 Custom Robo (2004) on the GameCube is one of my favorite GameCube games. I
 played it a ton back in the day. When I learned that it was actually the 4th
