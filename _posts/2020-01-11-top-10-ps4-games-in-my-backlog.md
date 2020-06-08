@@ -128,7 +128,12 @@ series was all about. I'll probably end up playing one game at a time, and
 taking breaks to play other games in between. I don't want the experience to get
 stale!
 
-## 3. {% include game.html game="Gravity Rush Remastered" %}
+## 3. {% include game.html game="Gravity Rush Remastered" checkmark="" %}
+
+**Edit**: Done! I really enjoyed Gravity Rush: Remastered. Charming characters
+and environments + fun gameplay = a great time! You can [read more about my
+thoughts on the game here]({% post_url 2020-06-01-what-im-playing-no-74
+%}#GravityRush:Remastered).
 
 Gravity Rush originally released for the PlayStation Vita, but eventually
 received a remastered port to PlayStation 4, simply titled Gravity Rush:
