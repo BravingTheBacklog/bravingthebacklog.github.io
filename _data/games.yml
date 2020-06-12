@@ -2389,3 +2389,63 @@ Beyond Good & Evil:
   thumb: "https://i.imgur.com/I9zyZ57m.png"
   imagesize: "third"
   platform: "PC"
+
+Little Devil Inside:
+  title: "Little Devil Inside"
+  developer: "Neostream"
+  release: "TBA"
+  video: "https://youtube.com/embed/_FqsyNSYSKc"
+
+Oddworld Soulstorm:
+  title: "Oddworld: Soulstorm"
+  developer: "Oddworld Inhabitants"
+  release: "TBA"
+  video: "https://youtube.com/embed/F9b-_jCCBhg"
+
+Stray:
+  title: "Stray"
+  developer: "BlueTwelve Studio"
+  release: "2021"
+  video: "https://youtube.com/embed/u84hRUQlaio"
+
+Bugsnax:
+  title: "Bugsnax"
+  developer: "Young Horses"
+  release: "Holiday 2020"
+  video: "https://youtube.com/embed/6-v1BxSETvI"
+
+Horizon Forbidden West:
+  title: "Horizon Forbidden West"
+  developer: "Guerrilla Games"
+  release: "TBA"
+  video: "https://youtube.com/embed/Lq594XmpPBg"
+
+Spider-Man Miles Morales:
+  title: "Spider-Man: Miles Morales"
+  developer: "Insomniac Games"
+  release: "Holiday 2020"
+  video: "https://youtube.com/embed/gHzuHo80U2M"
+
+Kena Bridge of Spirits:
+  title: "Kena: Bridge of Spirits"
+  developer: "Ember Lab"
+  release: "TBA"
+  video: "https://youtube.com/embed/OxzWlIbnp3U"
+
+Hitman III:
+  title: "Hitman III"
+  developer: "IO Interactive"
+  release: "January 2021"
+  video: "https://youtube.com/embed/NsJyTTsp-PE"
+
+Deathloop:
+  title: "Deathloop"
+  developer: "Arkane Studios"
+  release: "TBA"
+  video: "https://youtube.com/embed/mc2hz3LJhTY"
+
+GhostWire Tokyo:
+  title: "GhostWire: Tokyo"
+  developer: "Tango Gameworks"
+  release: "2021"
+  video: "https://youtube.com/embed/l4tkNjJsOvY"
