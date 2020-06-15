@@ -123,7 +123,12 @@ only mutant animals and humanoid creatures remain. Besides the turn-based,
 tactical combat, I'm also looking forward to the exploration and stealth
 elements here. It should be pretty cool!
 
-## 1. {% include game.html game="Fell Seal Arbiter's Mark" %}
+## 1. {% include game.html game="Fell Seal Arbiter's Mark" checkmark="" %}
+
+**Edit**: Finished my first playthrough! It was a solid SRPG, as I said in my
+Now Playing posts about it, I'd definitely recommend it to SRPG fans. [Read more
+about my thoughts on it here]({% post_url 2020-06-08-what-im-playing-no-75
+%}#FellSeal:ArbitersMark)!
 
 I've said it before and I'll said it again: I love Final Fantasy Tactics
 Advance. As of this writing, I still haven't played Final Fantasy Tactics, but
