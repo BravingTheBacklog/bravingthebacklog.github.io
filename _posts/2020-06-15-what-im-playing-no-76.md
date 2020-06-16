@@ -11,7 +11,7 @@ image:
     feature: feature-steam-pc.jpg
     credit: John Petalcurin
     creditlink: https://www.pexels.com/photo/close-up-photo-of-gaming-keyboard-2115257/
-    thumb: feature-steam-pc-thumb.png
+    thumb: feature-steam-pc-thumb.jpg
 games:
 - Fell Seal Arbiter's Mark
 - Persona 4 Golden
