@@ -267,6 +267,14 @@ Tales of Symphonia:
   image: "https://i.imgur.com/vZgOXU1.jpg"
   platform: "Nintendo GameCube"
 
+Tales of Symphonia PC:
+  title: "Tales of Symphonia"
+  developer: "Bandai Namco"
+  release: "February 1, 2016"
+  platform: "PC"
+  image: "https://i.imgur.com/oWm4qlu.jpg"
+  thumb: "https://i.imgur.com/oWm4qlum.jpg"
+
 Paper Mario The Thousand Year Door:
   title: "Paper Mario: The Thousand-Year Door"
   thumb: "https://i.imgur.com/w8G9cRHm.jpg"
@@ -894,6 +902,15 @@ The Legend of Zelda Link's Awakening:
   release: "September 20, 2019"
   video: "https://www.youtube.com/embed/PtC6U8hOZTk"
 
+Dragon Quest XI Echoes of an Elusive Age:
+  title: "Dragon Quest XI: Echoes of an Elusive Age"
+  developer: "Square Enix"
+  release: "September 4, 2018"
+  platform: "PC"
+  image: "https://i.imgur.com/1dkty0A.jpg"
+  thumb: "https://i.imgur.com/1dkty0Am.jpg"
+  imagesize: "third"
+
 Dragon Quest XI S Echoes of an Elusive Age Definitive Edition:
   title: "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition"
   developer: "Square Enix"
@@ -1335,6 +1352,15 @@ Octopath Traveler:
   release: "July 13, 2018"
   platform: "Nintendo Switch"
 
+Octopath Traveler PC:
+  title: "Octopath Traveler"
+  developer: "Square Enix & Acquire"
+  release: "June 7, 2019"
+  platform: "PC"
+  image: "https://i.imgur.com/RS0NiqU.jpg"
+  thumb: "https://i.imgur.com/RS0NiqUm.jpg"
+  imagesize: "third"
+
 Valkyria Chronicles 3 Unrecorded Chronicles:
   title: "Valkyria Chronicles 3: Unrecorded Chronicles"
   image: "https://i.imgur.com/uczVfqQ.jpg"
@@ -1416,6 +1442,15 @@ Halo 4:
   developer: "343 Industries"
   release: "November 6, 2012"
   platform: "Xbox 360"
+
+Halo The Master Chief Collection:
+  title: "Halo: The Master Chief Collection"
+  developer: "343 Industries & Bungie & Splash Damage & Ruffian Games & Saber Interactive"
+  release: "December 3, 2019"
+  platform: "PC"
+  image: "https://i.imgur.com/KguR3Or.jpg"
+  thumb: "https://i.imgur.com/KguR3Orm.jpg"
+  imagesize: "third"
 
 Infamous:
   title: "Infamous"
@@ -1529,6 +1564,15 @@ Pokémon Let's Go, Eevee:
 Persona 4 Dancing All Night:
   title: "Persona 4 Dancing All Night"
   platform: "PlayStation 4"
+
+Persona 4 Golden PC:
+  title: "Persona 4 Golden"
+  developer: "Atlus"
+  release: "June 13, 2020"
+  platform: "PC"
+  image: "https://i.imgur.com/8fgFmj7.jpg"
+  thumb: "https://i.imgur.com/8fgFmj7m.jpg"
+  imagesize: "third"
 
 Cadence of Hyrule:
   title: "Cadence of Hyrule - Crypt of the NecroDancer Featuring The Legend of Zelda"
@@ -1849,6 +1893,15 @@ Horizon Zero Dawn:
   thumb: "https://i.imgur.com/YoO5IJ5.jpg"
   developer: "Guerrilla Games"
   release: "February 28, 2017"
+  imagesize: "third"
+
+Horizon Zero Dawn PC:
+  title: "Horizon Zero Dawn"
+  developer: "Guerrilla"
+  release: "Summer 2020"
+  platform: "PC"
+  image: "https://i.imgur.com/uoNThjB.jpg"
+  thumb: "https://i.imgur.com/uoNThjBm.jpg"
   imagesize: "third"
 
 Aidyn Chronicles The First Mage:
@@ -2449,3 +2502,30 @@ GhostWire Tokyo:
   developer: "Tango Gameworks"
   release: "2021"
   video: "https://youtube.com/embed/l4tkNjJsOvY"
+
+Sonic CD PC:
+  title: "Sonic CD"
+  developer: "Sega"
+  release: "September 26, 1996"
+  platform: "PC"
+  image: "https://i.imgur.com/yaNNgV2.jpg"
+  thumb: "https://i.imgur.com/yaNNgV2m.jpg"
+  imagesize: "third"
+
+Doom 64:
+  title: "Doom 64"
+  developer: "id Software & Nightdive Studios"
+  release: "March 19, 2020"
+  platform: "PC"
+  image: "https://i.imgur.com/Lvk1j9u.jpg"
+  thumb: "https://i.imgur.com/Lvk1j9um.jpg"
+  imagesize: "third"
+
+Sunset Overdrive:
+  title: "Sunset Overdrive"
+  developer: "Insomniac Games & Blind Squirrel Games"
+  release: "November 16, 2018"
+  platform: "PC"
+  image: "https://i.imgur.com/6b4EcsM.jpg"
+  thumb: "https://i.imgur.com/6b4EcsMm.jpg"
+  imagesize: "third"
