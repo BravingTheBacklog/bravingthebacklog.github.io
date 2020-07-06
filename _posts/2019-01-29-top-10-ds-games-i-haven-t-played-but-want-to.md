@@ -18,7 +18,7 @@ games:
 image:
   feature: feature-ds.jpg
 layout: post
-modified: 2019-09-13
+modified: 2020-07-05
 redirect_from: /top%2010/top-10-ds-games-i-haven-t-played-but-want-to/
 tags:
 - Top 10
@@ -84,7 +84,12 @@ mechanics threw me for a loop the first time, but I think if I approach this
 game as a standalone title, and don't expect it to be like the previous Advance
 Wars game, I'll be able to enjoy it more.
 
-## 6. {% include game.html game="Professor Layton and the Curious Village" %}
+## 6. {% include game.html game="Professor Layton and the Curious Village" checkmark="" %}
+
+**Edit:** Finished! I struggled with a number of the puzzles, but I really
+enjoyed the experience overall! You can [read more about my thoughts on it
+here]({% post_url 2020-07-06-what-im-playing-no-79
+%}#ProfessorLaytonandtheCuriousVillage)
 
 I recently got this game as a gift for a friend, and they loved it! So, now I'm
 pretty curious about the series as well.

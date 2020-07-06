@@ -4,7 +4,7 @@ title: Top 10 Sega Genesis Games in my Backlog
 author: bsinky
 description: "A list of the top 10 Sega Genesis games in my backlog"
 date: 2020-02-26
-modified: 2020-02-26
+modified: 2020-07-05
 categories: [List]
 tags: [Top 10,Sega Genesis,Backlog]
 image:
@@ -109,7 +109,12 @@ With its combination of SRPG gameplay and town exploration elements, Shining
 Force II sounds like it will be a pretty fun game, and it will be my
 introduction into the Shining series!
 
-## 2. {% include game.html game="Beyond Oasis" %}
+## 2. {% include game.html game="Beyond Oasis" x="" %}
+
+**Edit:** I gave Beyond Oasis a try, but it wasn't for me. It started out okay,
+but I became frustrated with the difficulty spike around the halfway point and
+decided to retire my playthrough. You can [read more about my thoughts here]({%
+post_url 2020-07-06-what-im-playing-no-79 %}#BeyondOasis).
 
 An action-adventure game said to feature gameplay similar to The Legend of
 Zelda's 2D entries, Beyond Oasis puts the player in control of Prince Ali. Ali
