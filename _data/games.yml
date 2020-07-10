@@ -1301,8 +1301,8 @@ Fire Emblem Shadow Dragon:
 
 Super Smash Bros. Ultimate:
   title: "Super Smash Bros. Ultimate"
-  image: "https://i.imgur.com/d2bkAgr.png"
-  thumb: "https://i.imgur.com/d2bkAgrm.png"
+  image: "https://i.imgur.com/A9rJgsk.jpg"
+  thumb: "https://i.imgur.com/A9rJgskm.jpg"
   developer: "Bandai Namco Studios / Sora Ltd."
   release: "December 7, 2018"
   platform: "Nintendo Switch"
@@ -1433,6 +1433,15 @@ The Elder Scrolls V Skyrim Xbox 360:
   developer: "Bethesda"
   release: "November 11, 2011"
   platform: "Xbox 360"
+
+Halo Reach:
+  title: "Halo: Reach"
+  developer: "Bungie"
+  release: "September 14, 2010"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/MZXn0v3.jpg"
+  thumb: "https://i.imgur.com/MZXn0v3m.jpg"
+  imagesize: "third"
 
 Halo 4:
   title: "Halo 4"
@@ -2528,4 +2537,58 @@ Sunset Overdrive:
   platform: "PC"
   image: "https://i.imgur.com/6b4EcsM.jpg"
   thumb: "https://i.imgur.com/6b4EcsMm.jpg"
+  imagesize: "third"
+
+Overcooked:
+  title: "Overcooked"
+  developer: "Ghost Town Games"
+  release: "August 3, 2016"
+  platform: "PC"
+  image: "https://i.imgur.com/iIHzV8U.jpg"
+  thumb: "https://i.imgur.com/iIHzV8Um.jpg"
+  imagesize: "third"
+
+Deep Rock Galactic:
+  title: "Deep Rock Galactic"
+  developer: "Ghost Ship Games"
+  release: "May 13, 2020"
+  platform: "PC"
+  image: "https://i.imgur.com/BEcOLER.jpg"
+  thumb: "https://i.imgur.com/BEcOLERm.jpg"
+  imagesize: "third"
+
+Age of Empires II Definitive Edition:
+  title: "Age of Empires II: Definitive Edition"
+  developer: "Forgotten Empires & Tantalus Media & Wicked Witch"
+  release: "November 14, 2019"
+  platform: "PC"
+  image: "https://i.imgur.com/KRuGvwU.jpg"
+  thumb: "https://i.imgur.com/KRuGvwUm.jpg"
+  imagesize: "third"
+
+Mario Party 5:
+  title: "Mario Party 5"
+  developer: "Hudson Soft"
+  release: "November 10, 2003"
+  platform: "GameCube"
+  image: "https://i.imgur.com/pAb3FMN.jpg"
+  thumb: "https://i.imgur.com/pAb3FMNm.jpg"
+  imagesize: "third"
+
+Stikbold A Dodgeball Adventure:
+  title: "Stikbold! A Dodgeball Adventure"
+  developer: "Game Swing"
+  release: "April 1, 2016"
+  platform: "PC"
+  image: "https://i.imgur.com/Wn4ybUF.jpg"
+  thumb: "https://i.imgur.com/Wn4ybUFm.jpg"
+  imagesize: "third"
+
+Crawl:
+  title: "Crawl"
+  developer: "Powerhoof"
+  release: "April 11, 2017"
+  platform: "PC"
+  image: "https://i.imgur.com/UDLqpLC.jpg"
+  thumb: "https://i.imgur.com/UDLqpLCm.jpg"
   imagesize: "third"
