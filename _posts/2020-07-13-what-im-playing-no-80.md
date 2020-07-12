@@ -3,8 +3,8 @@ layout: post
 title: What I'm Playing - No. 80
 author: bsinky
 description: "I finished Resident Evil 4, Streets of Rage 2, and Aragami this week."
-date: 2020-07-12
-modified: 2020-07-12
+date: 2020-07-13
+modified: 2020-07-13
 categories: [Weekly]
 tags: [What I'm Playing,Weekly,Casual]
 image:
