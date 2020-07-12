@@ -88,7 +88,14 @@ your rocket jetpack.
 Rocket Knight Adventures sounds like a pretty cool platformer, the jetpack seems
 like it'll mix up the regular platformer formula a bit.
 
-## 4. {% include game.html game="Streets of Rage 2" %}
+## 4. {% include game.html game="Streets of Rage 2" checkmark="" %}
+
+**Edit:** I played through to the end with the help of an infinite lives cheat.
+I'm not nearly skilled enough to make it through the entire game otherwise, but
+I really enjoyed it! It's a tough but tight beat 'em up with a great soundtrack,
+and I can definitely see myself playing through it again someday! [You can find
+more of my thoughts on it here]({% post_url 2020-07-13-what-im-playing-no-80
+%}#StreetsofRage2).
 
 Part of the acclaimed 16-bit era beat 'em up series, Streets of Rage 2 is a side
 scrolling beat 'em up. The player fights against many enemies in each stage,

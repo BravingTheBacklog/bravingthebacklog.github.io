@@ -133,7 +133,13 @@ Square Enix. Forgotton Anne is described as a cinematic adventure with puzzles
 and platforming. What drew me to this game more than anything is the graphics.
 They're wonderfully animated, and look like something out of an animated film.
 
-## 3. {% include game.html game="Resident Evil 4" %}
+## 3. {% include game.html game="Resident Evil 4" checkmark="" %}
+
+**Edit**: I've finally experienced this survival horror/action classic, and I
+thoroughly enjoyed it! It made me dread having to navigate through certain
+areas. At the same time, parts of it were full of delicious B movie cheesiness.
+[You can read more about my thoughts on it here]({% post_url
+2020-07-06-what-im-playing-no-79 %}#ResidentEvil4)!
 
 I'm not sure why, but I wasn't interested in the Resident Evil series for a long
 time. I was probably too young for them when they first released. My first
