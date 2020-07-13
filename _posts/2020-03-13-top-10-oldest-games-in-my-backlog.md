@@ -4,7 +4,7 @@ title: Top 10 Oldest Games in my Backlog
 author: bsinky
 description: "A top 10 list of the oldest games in my backlog by release date."
 date: 2020-03-13
-modified: 2020-03-13
+modified: 2020-07-13
 categories: [List]
 tags: [Top 10,Backlog,Retro]
 image:
@@ -12,6 +12,17 @@ image:
     thumb: feature-retro-thumb.jpg
     credit: Steve Johnson
     creditlink: https://www.pexels.com/photo/blue-red-and-black-abstract-painting-2130475/
+games:
+- Streets of Rage 2
+- Arcana
+- Shin Megami Tensei
+- Super Castlevania IV
+- ActRaiser
+- Shining in the Darkness
+- Warson
+- Phantasy Star II
+- Digital Devil Story Megami Tensei
+- Castlevania
 ---
 
 Games on earlier video game systems are sometimes seen as outdated, or even
@@ -33,7 +44,14 @@ spotty online. There's a section of the list focused on 1991 that could
 potentially be in the wrong order simply because I could only locate the release
 year for a game's North American release.
 
-## 10. {% include game.html game="Streets of Rage 2" platform="" %}
+## 10. {% include game.html game="Streets of Rage 2" platform="" checkmark="" %}
+
+**Edit:** I played through to the end with the help of an infinite lives cheat.
+I'm not nearly skilled enough to make it through the entire game otherwise, but
+I really enjoyed it! It's a tough but tight beat 'em up with a great soundtrack,
+and I can definitely see myself playing through it again someday! [You can find
+more of my thoughts on it here]({% post_url 2020-07-13-what-im-playing-no-80
+%}#StreetsofRage2).
 
 As I said in my [Top 10 Sega Genesis Games in my Backlog]({% post_url
 2020-02-26-top-10-sega-genesis-games-in-my-backlog %}) post, Streets of Rage 2
