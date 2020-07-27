@@ -21,7 +21,7 @@ image:
   feature: feature-3ds.jpg
   thumb: feature-3ds-thumb.jpg
 layout: post
-modified: 2019-12-30
+modified: 2020-07-27
 tags:
 - Top 10
 - 3DS
@@ -141,7 +141,9 @@ Dragon Quest Monsters spin-off titles though, Dragon Warrior Monsters 2: Tara's
 Adventure on the Game Boy Color. There's a good chance VIII will be my entry
 point in the main series!
 
-## 5. {% include game.html game="Radiant Historia Perfect Chronology" %}
+## 5. {% include game.html game="Radiant Historia Perfect Chronology" checkmark="" %}
+
+**Edit**: I've since finished this one, and it was quite a journey! It's a fantastic RPG on the 3DS, despite some occasional frustrations and tedious moments. You can read more of my thoughts on it in [What I'm Playing No. 81]({% post_url 2020-07-20-what-im-playing-no-81 %}#RadiantHistoria:PerfectChronology) and [What I'm Playing No. 82]({% post_url 2020-07-27-what-im-playing-no-82 %}#RadiantHistoria:PerfectChronology).
 
 Radiant Historia: Perfect Chronology is an enhanced port of the DS original,
 Radiant Historia. In both, you follow the adventures of Stocke. The continent
