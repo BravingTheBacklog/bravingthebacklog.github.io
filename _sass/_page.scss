@@ -670,7 +670,7 @@ $header-height: 300px;
   padding: 5px;
 }
 
-.button-twitter, .button-patreon {
+.button-twitter, .button-patreon, .button-kofi {
 	color: $white;
 	position: fixed;
 	margin-top: $menu-height / 2 - 20;
@@ -685,8 +685,46 @@ $header-height: 300px;
 
 	span {
 		display: none;
-		@media #{$medium}{
+		@media #{$large}{
 			display: inline;
 		}
 	}
+}
+
+.button-kofi {
+    background-color: $white;
+    &:hover {
+        background-color: darken($white, 12%);
+    }
+    color: $black;
+
+    right: 64px;
+    height: 37px;
+
+    @media #{$large}{
+        bottom: 44px;
+        right: 0;
+        height: auto;
+    }
+
+    span {
+        color: $black;
+    }
+
+    img {
+        height: 20px;
+    }
+
+    .button-kofi-small {
+        display: inline;
+        @media #{$large}{
+            display: none;
+        }
+    }
+    .button-kofi-medium {
+        display: none;
+        @media #{$large}{
+            display: inline;
+        }
+    }
 }
