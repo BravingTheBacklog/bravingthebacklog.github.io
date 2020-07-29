@@ -2592,3 +2592,93 @@ Crawl:
   image: "https://i.imgur.com/UDLqpLC.jpg"
   thumb: "https://i.imgur.com/UDLqpLCm.jpg"
   imagesize: "third"
+
+Contrast:
+  title: "Contrast"
+  developer: "Compulsion Games"
+  release: "November 15, 2013"
+  platform: "PC"
+  image: "https://i.imgur.com/HeNRy04.jpg"
+  thumb: "https://i.imgur.com/HeNRy04m.jpg"
+  imagesize: "third"
+
+Lara Croft GO:
+  title: "Lara Croft GO"
+  developer: "Square Enix Montréal"
+  release: "December 4, 2016"
+  platform: "PC"
+  image: "https://i.imgur.com/kAiLAXm.jpg"
+  thumb: "https://i.imgur.com/kAiLAXmm.jpg"
+  imagesize: "third"
+
+Never Alone:
+  title: "Never Alone (Kisima Inŋitchuŋa)"
+  developer: "Upper One Games"
+  release: "November 18, 2014"
+  platform: "PC"
+  image: "https://i.imgur.com/BreOQnE.jpg"
+  thumb: "https://i.imgur.com/BreOQnEm.jpg"
+  imagesize: "third"
+
+Aragami:
+  title: "Aragami"
+  developer: "Lince Works"
+  release: "October 4, 2016"
+  platform: "PC"
+  image: "https://i.imgur.com/NCtFwWb.jpg"
+  thumb: "https://i.imgur.com/NCtFwWbm.jpg"
+  imagesize: "third"
+
+The Turing Test:
+  title: "The Turing Test"
+  developer: "Bulkhead Interactive"
+  release: "August 30, 2016"
+  platform: "PC"
+  image: "https://i.imgur.com/dvKpTy1.jpg"
+  thumb: "https://i.imgur.com/dvKpTy1m.jpg"
+  imagesize: "third"
+
+It came from space and ate our brains:
+  title: "It came from space and ate our brains"
+  developer: "Triangle Studios"
+  release: "March 19, 2015"
+  platform: "PC"
+  image: "https://i.imgur.com/OI2iiKZ.jpg"
+  thumb: "https://i.imgur.com/OI2iiKZm.jpg"
+  imagesize: "third"
+
+Party Hard:
+  title: "Party Hard"
+  developer: "Pinokl Games & Kverta"
+  release: "August 25, 2015"
+  platform: "PC"
+  image: "https://i.imgur.com/g7rvYee.jpg"
+  thumb: "https://i.imgur.com/g7rvYeem.jpg"
+  imagesize: "third"
+
+Kathy Rain:
+  title: "Kathy Rain"
+  developer: "Clifftop Games"
+  release: "May 5, 2016"
+  platform: "PC"
+  image: "https://i.imgur.com/9r8ceeo.jpg"
+  thumb: "https://i.imgur.com/9r8ceeom.jpg"
+  imagesize: "third"
+
+Oxenfree:
+  title: "Oxenfree"
+  developer: "Night School Studio"
+  release: "January 15, 2016"
+  platform: "PC"
+  image: "https://i.imgur.com/ZdWGpDc.jpg"
+  thumb: "https://i.imgur.com/ZdWGpDcm.jpg"
+  imagesize: "third"
+
+SteamWorld Heist:
+  title: "SteamWorld Heist"
+  developer: "Image & Form Games"
+  release: "June 7, 2016"
+  platform: "PC"
+  image: "https://i.imgur.com/FNAhoJJ.jpg"
+  thumb: "https://i.imgur.com/FNAhoJJm.jpg"
+  imagesize: "third"
