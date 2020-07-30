@@ -574,24 +574,27 @@ Super Mario RPG The Legend of the Seven Stars:
 
 Dishonored Death of the Outsider:
   title: "Dishonored: Death of the Outsider"
-  image: "https://i.imgur.com/ALkmusL.jpg"
-  thumb: "https://i.imgur.com/ALkmusLm.jpg"
+  image: "https://i.imgur.com/hYkGiHD.jpg"
+  thumb: "https://i.imgur.com/hYkGiHDm.jpg"
   developer: "Arkane Studios"
   release: "September 14, 2017"
+  imagesize: "third"
 
 Final Fantasy IX:
   title: "Final Fantasy IX"
-  image: "https://i.imgur.com/2BqRLsW.jpg"
-  thumb: "https://i.imgur.com/2BqRLsWm.jpg"
+  image: "https://i.imgur.com/XTllt79.jpg"
+  thumb: "https://i.imgur.com/XTllt79m.jpg"
   developer: "Square Enix"
   release: "April 14, 2016"
+  imagesize: "third"
 
 Undertale:
   title: "Undertale"
-  image: "https://i.imgur.com/9yRM9Le.jpg"
-  thumb: "https://i.imgur.com/9yRM9Lem.jpg"
+  image: "https://i.imgur.com/6qJkIfR.jpg"
+  thumb: "https://i.imgur.com/6qJkIfRm.jpg"
   developer: "tobyfox"
   release: "September 15, 2015"
+  imagesize: "third"
 
 The Legend of Heroes Trails in the Sky:
   title: "The Legend of Heroes: Trails in the Sky"
@@ -613,25 +616,28 @@ The Legend of Heroes Zero no Kiseki:
 
 The Legend of Heroes Trails of Cold Steel II:
   title: "The Legend of Heroes: Trails of Cold Steel II"
-  image: "https://i.imgur.com/DXzmvRS.jpg"
-  thumb: "https://i.imgur.com/DXzmvRSm.jpg"
+  image: "https://i.imgur.com/8VHi1YH.jpg"
+  thumb: "https://i.imgur.com/8VHi1YHm.jpg"
   developer: "Nihon Falcom"
   release: "February 14, 2018"
+  imagesize: "third"
 
 Tokyo Dark:
   title: "Tokyo Dark"
-  image: "https://i.imgur.com/k7OHNwm.jpg"
-  thumb: "https://i.imgur.com/k7OHNwmm.jpg"
+  image: "https://i.imgur.com/8Xg0BbU.jpg"
+  thumb: "https://i.imgur.com/8Xg0BbUm.jpg"
   developer: "Cherrymochi"
   release: "September 7, 2017"
+  imagesize: "third"
 
 Danganronpa Trigger Happy Havoc:
   title: "Danganronpa: Trigger Happy Havoc"
-  image: "https://i.imgur.com/l1xY2HF.jpg"
-  thumb: "https://i.imgur.com/l1xY2HFm.jpg"
+  image: "https://i.imgur.com/lXigGqo.jpg"
+  thumb: "https://i.imgur.com/lXigGqom.jpg"
   developer: "Spike Chunsoft / Abstraction Games"
   release: "February 18, 2016"
   platform: "PC"
+  imagesize: "third"
 
 Danganronpa 2 Goodbye Despair:
   title: "Danganronpa 2: Goodbye Despair"
@@ -644,33 +650,37 @@ Danganronpa 2 Goodbye Despair:
 
 Bayonetta:
   title: "Bayonetta"
-  image: "https://i.imgur.com/wY0BgEK.jpg"
-  thumb: "https://i.imgur.com/wY0BgEKm.jpg"
+  image: "https://i.imgur.com/hPP9XLa.jpg"
+  thumb: "https://i.imgur.com/hPP9XLam.jpg"
   developer: "PlatinumGames"
   release: "April 11, 2017"
   platform: "PC"
+  imagesize: "third"
 
 The Banner Saga 3:
   title: "The Banner Saga 3"
-  image: "https://i.imgur.com/17Xb81F.jpg"
-  thumb: "https://i.imgur.com/17Xb81Fm.jpg"
+  image: "https://i.imgur.com/35xEYXi.jpg"
+  thumb: "https://i.imgur.com/35xEYXim.jpg"
   developer: "Stoic"
   release: "July 26, 2018"
+  imagesize: "third"
 
 Hollow Knight:
   title: "Hollow Knight"
-  image: "https://i.imgur.com/FuPBoWB.jpg"
-  thumb: "https://i.imgur.com/FuPBoWBm.jpg"
+  image: "https://i.imgur.com/Ih3NrUv.jpg"
+  thumb: "https://i.imgur.com/Ih3NrUvm.jpg"
   developer: "Team Cherry"
   release: "February 24, 2017"
+  imagesize: "third"
 
 Valkyria Chronicles:
   title: "Valkyria Chronicles"
-  image: "https://i.imgur.com/FcOj5j3.jpg"
-  thumb: "https://i.imgur.com/FcOj5j3m.jpg"
+  image: "https://i.imgur.com/ll7IF08.jpg"
+  thumb: "https://i.imgur.com/ll7IF08m.jpg"
   developer: "Sega"
   release: "November 11, 2014"
   platform: "PC"
+  imagesize: "third"
 
 Harry Potter and the Sorcerer's Stone:
   title: "Harry Potter and the Sorcerer's Stone"
@@ -1516,8 +1526,9 @@ Jurassic World Evolution:
   platform: "PC"
   developer: "Frontier Developments"
   release: "June 12, 2018"
-  image: "https://i.imgur.com/dHal93T.jpg"
-  thumb: "https://i.imgur.com/dHal93Tm.jpg"
+  image: "https://i.imgur.com/0KHToxB.jpg"
+  thumb: "https://i.imgur.com/0KHToxBm.jpg"
+  imagesize: "third"
 
 Persona 3 Portable:
   title: "Persona 3 Portable"
@@ -1761,58 +1772,65 @@ Minecraft:
 Stardew Valley:
   title: "Stardew Valley"
   platform: "PC"
-  image: "https://i.imgur.com/7lXq7Qq.jpg"
-  thumb: "https://i.imgur.com/7lXq7Qqm.jpg"
+  image: "https://i.imgur.com/biaaiv1.jpg"
+  thumb: "https://i.imgur.com/biaaiv1m.jpg"
   developer: "ConcernedApe"
   release: "February 26, 2016"
+  imagesize: "third"
 
 Prison Architect:
   title: "Prison Architect"
   platform: "PC"
-  image: "https://i.imgur.com/Np9L9j4.jpg"
-  thumb: "https://i.imgur.com/Np9L9j4m.jpg"
+  image: "https://i.imgur.com/Tk9S3V9.jpg"
+  thumb: "https://i.imgur.com/Tk9S3V9m.jpg"
   developer: "Introversion Software"
   release: "October 6, 2015"
+  imagesize: "third"
 
 Euro Truck Simulator 2:
   title: "Euro Truck Simulator 2"
   platform: "PC"
-  image: "https://i.imgur.com/bQTLIUD.jpg"
-  thumb: "https://i.imgur.com/bQTLIUDm.jpg"
+  image: "https://i.imgur.com/5wKjKWs.jpg"
+  thumb: "https://i.imgur.com/5wKjKWsm.jpg"
   developer: "SCS Software"
   release: "October 12, 2012"
+  imagesize: "third"
 
 Oxygen Not Included:
   title: "Oxygen Not Included"
   platform: "PC"
-  image: "https://i.imgur.com/IoYBTIq.png"
-  thumb: "https://i.imgur.com/IoYBTIqm.png"
+  image: "https://i.imgur.com/4otoOW4.jpg"
+  thumb: "https://i.imgur.com/4otoOW4m.jpg"
   developer: "Klei Entertainment"
   release: "July 30, 2019"
+  imagesize: "third"
 
 Project Highrise:
   title: "Project Highrise"
   platform: "PC"
-  image: "https://i.imgur.com/sqhth5l.jpg"
-  thumb: "https://i.imgur.com/sqhth5lm.jpg"
+  image: "https://i.imgur.com/w9TJXZC.jpg"
+  thumb: "https://i.imgur.com/w9TJXZCm.jpg"
   developer: "SomaSim"
   release: "September 8, 2016"
+  imagesize: "third"
 
 Cities Skylines:
   title: "Cities: Skylines"
   platform: "PC"
-  image: "https://i.imgur.com/ZTvQ87P.jpg"
-  thumb: "https://i.imgur.com/ZTvQ87Pm.jpg"
+  image: "https://i.imgur.com/iS204RW.jpg"
+  thumb: "https://i.imgur.com/iS204RWm.jpg"
   developer: "Colossal Order"
   release: "March 10, 2015"
+  imagesize: "third"
 
 Kingdoms and Castles:
   title: "Kingdoms and Castles"
   platform: "PC"
-  image: "https://i.imgur.com/Vij7kfh.png"
-  thumb: "https://i.imgur.com/Vij7kfhm.png"
+  image: "https://i.imgur.com/dsjQcoq.jpg"
+  thumb: "https://i.imgur.com/dsjQcoqm.jpg"
   developer: "Lion Shield"
   release: "July 20, 2017"
+  imagesize: "third"
 
 Uncharted The Nathan Drake Collection:
   title: "Uncharted: The Nathan Drake Collection"

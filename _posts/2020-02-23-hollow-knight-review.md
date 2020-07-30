@@ -4,7 +4,7 @@ title: Hollow Knight Review (Spoiler-Free)
 author: bsinky
 description: "A spoiler-free review of the acclaimed indie metroidvania, Hollow Knight"
 date: 2020-02-23
-modified: 2020-02-23
+modified: 2020-07-30
 categories: [Review]
 tags: [Spoiler-Free,Review,Metroidvania]
 image:
@@ -192,7 +192,7 @@ a little skeptical going in. It couldn't really be as good as I'd heard, could
 it? But somewhere in the middle of my playthrough, that skepticism went away
 *completely*. Hollow Knight was incredibly fun to play, and definitely lived up
 to the hype for me! The game is an outstanding achievement for developer Team
-Cherry, and I highly recommend it to anything looking for a new metroidvania to
+Cherry, and I highly recommend it to anyone looking for a new metroidvania to
 play, or anyone looking for a game with rewarding combat and exploration!
 
 <figure class="half center">

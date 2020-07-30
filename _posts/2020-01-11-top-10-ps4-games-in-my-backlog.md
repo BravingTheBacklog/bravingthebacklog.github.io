@@ -4,7 +4,7 @@ title: Top 10 PS4 Games in my Backlog
 author: bsinky
 description: "A list of the top 10 PS4 games in my backlog"
 date: 2020-01-11
-modified: 2020-04-25
+modified: 2020-07-30
 categories: [List]
 tags: [Top 10,PS4,Backlog]
 games:
@@ -118,8 +118,8 @@ is why I picked it up digitally during a PSN sale a while back!
 The Uncharted series follows protagonist Nathan Drake as he travels the world in
 search of treasure. With gameplay firmly in the action-adventure genre, each
 entry has garnered great reviews for its epic single-player campaign and
-storytelling. I'm heard the gameplay of the 2013 Tomb Raider reboot game is
-similar to Uncharted, so if that's true I'll probably really enjoy these games!
+storytelling. I've heard the gameplay of the 2013 Tomb Raider reboot is similar
+to Uncharted, so if that's true I'll probably really enjoy these games!
 
 Since it's a compilation of the first 3 Uncharted games, Uncharted: The Nathan
 Drake Collection will probably take a bit to finish once I finally start it.
