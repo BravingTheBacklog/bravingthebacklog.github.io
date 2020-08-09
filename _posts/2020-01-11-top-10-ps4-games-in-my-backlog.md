@@ -4,7 +4,7 @@ title: Top 10 PS4 Games in my Backlog
 author: bsinky
 description: "A list of the top 10 PS4 games in my backlog"
 date: 2020-01-11
-modified: 2020-07-30
+modified: 2020-08-10
 categories: [List]
 tags: [Top 10,PS4,Backlog]
 games:
@@ -113,7 +113,15 @@ against the machines, you can employ traps, arrows, stealth, and all sorts of
 other weapons in order to take down your foes. It all sounds great to me, which
 is why I picked it up digitally during a PSN sale a while back!
 
-## 4. {% include game.html game="Uncharted The Nathan Drake Collection" %}
+## 4. {% include game.html game="Uncharted The Nathan Drake Collection" checkmark="" %}
+
+**Edit**: The Nathan Drake Collection has been Charted! These were really solid
+action-adventure 3rd-person shooters. The emphasis is more on shooting than in
+the Tomb Raider reboots, but I still enjoyed these. You can read more about my
+thoughts in [What I'm Playing No. 83]({% post_url
+2020-08-03-what-im-playing-no-83 %}#Uncharted:TheNathanDrakeCollection) and
+[What I'm Playing No. 84]({% post_url 2020-08-10-what-im-playing-no-84
+%}#Uncharted:TheNathanDrakeCollection).
 
 The Uncharted series follows protagonist Nathan Drake as he travels the world in
 search of treasure. With gameplay firmly in the action-adventure genre, each

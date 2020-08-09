@@ -4,7 +4,7 @@ title: Top 10 Games in my Steam Backlog (2020)
 author: bsinky
 description: "A list of the top 10 games in my Steam backlog as of May 2020!"
 date: 2020-05-14
-modified: 2020-07-12
+modified: 2020-08-10
 categories: [List]
 tags: [Top 10,Steam,Backlog]
 image:
@@ -119,7 +119,13 @@ Banjo-Kazooie. There's lots of collectibles to find, power ups to unlock, and
 worlds to explore, all wrapped up in a playful, charming package where the main
 character is called "Hat Kid." It should be fun adventure!
 
-## 4. {% include game.html game="Forgotton Anne" %}
+## 4. {% include game.html game="Forgotton Anne" checkmark="" %}
+
+**Edit**: Finished! Forgotton Anne was visually breathtaking, and I enjoyed the
+puzzles and story as well. The platforming elements aren't the most interesting,
+but the experience as a whole was great! You can read more of my thoughts in
+[What I'm Playing No. 84]({% post_url 2020-08-10-what-im-playing-no-84
+%}#ForgottonAnne).
 
 Forgotton Anne takes place in the Forgotten Lands, the place where all lost
 things end up. The Forgotlings spring to life from these lost items as a result
