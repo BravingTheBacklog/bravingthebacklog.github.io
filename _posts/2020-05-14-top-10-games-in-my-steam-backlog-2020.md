@@ -112,7 +112,12 @@ from a locked rooms. If you are unable to escape, you will die. I'm sure the
 puzzles will be wonderfully complex, and the writing no doubt involves some
 brilliant twists and turns!
 
-## 5. {% include game.html game="A Hat in Time" %}
+## 5. {% include game.html game="A Hat in Time" checkmark="" %}
+
+**Edit:** Another game finished! This one was awesome, it really scratched that
+3D platformer collect-the-things itch, and hit me in my Super Mario Sunshine
+nostalgia in the best possible way. You can [read more of my thoughts on it
+here]({% post_url 2020-08-17-what-im-playing-no-85 %}#AHatinTime), spoiler-free!
 
 A Hat in Time is a 3D platformer in the same vein as Super Mario 64 and
 Banjo-Kazooie. There's lots of collectibles to find, power ups to unlock, and
