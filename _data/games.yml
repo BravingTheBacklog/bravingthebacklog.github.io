@@ -572,6 +572,15 @@ Super Mario RPG The Legend of the Seven Stars:
   release: "May 13, 1996"
   platform: "Super Nintendo"
 
+Dishonored:
+  title: "Dishonored"
+  developer: "Arkane Studios"
+  release: "October 9, 2012"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/3eUCYca.png"
+  thumb: "https://i.imgur.com/3eUCYcam.png"
+  imagesize: "third"
+
 Dishonored Death of the Outsider:
   title: "Dishonored: Death of the Outsider"
   image: "https://i.imgur.com/hYkGiHD.jpg"
@@ -2699,4 +2708,66 @@ SteamWorld Heist:
   platform: "PC"
   image: "https://i.imgur.com/FNAhoJJ.jpg"
   thumb: "https://i.imgur.com/FNAhoJJm.jpg"
+  imagesize: "third"
+
+Tom Clancy's Rainbow Six Vegas 2:
+  title: "Tom Clancy's Rainbow Six: Vegas 2"
+  developer: "Ubisoft Montreal"
+  release: "March 18, 2008"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/nvsiR3U.jpg"
+  thumb: "https://i.imgur.com/nvsiR3Um.jpg"
+  imagesize: "third"
+
+Dead Space:
+  title: "Dead Space"
+  developer: "EA Redwood Shores"
+  release: "October 13, 2008"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/JkJpXbu.jpg"
+  thumb: "https://i.imgur.com/JkJpXbum.jpg"
+  imagesize: "third"
+
+Gears of War:
+  title: "Gears of War"
+  developer: "Epic Games"
+  release: "November 7, 2006"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/NBSP0BR.jpg"
+  thumb: "https://i.imgur.com/NBSP0BRm.jpg"
+  imagesize: "third"
+
+Scott Pilgrim vs. the World The Game:
+  title: "Scott Pilgrim vs. the World: The Game"
+  developer: "Ubisoft Montreal"
+  release: "August 25, 2010"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/dGDqCUs.jpg"
+  thumb: "https://i.imgur.com/dGDqCUsm.jpg"
+
+Tales of Vesperia:
+  title: "Tales of Vesperia"
+  developer: "Namco Tales Studio"
+  release: "August 26, 2008"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/5lRTuZp.jpg"
+  thumb: "https://i.imgur.com/5lRTuZpm.jpg"
+  imagesize: "third"
+
+Tom Clancy's Splinter Cell Conviction:
+  title: "Tom Clancy's Splinter Cell: Conviction"
+  developer: "Ubisoft Montreal"
+  release: "April 13, 2010"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/BFuHZxT.jpg"
+  thumb: "https://i.imgur.com/BFuHZxTm.jpg"
+  imagesize: "third"
+
+Assassin's Creed II:
+  title: "Assassin's Creed II"
+  developer: "Ubisoft Montreal"
+  release: "November 17, 2009"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/zRc4HYX.jpg"
+  thumb: "https://i.imgur.com/zRc4HYXm.jpg"
   imagesize: "third"
