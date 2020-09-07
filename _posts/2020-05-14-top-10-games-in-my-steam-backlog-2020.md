@@ -4,7 +4,7 @@ title: Top 10 Games in my Steam Backlog (2020)
 author: bsinky
 description: "A list of the top 10 games in my Steam backlog as of May 2020!"
 date: 2020-05-14
-modified: 2020-08-10
+modified: 2020-09-07
 categories: [List]
 tags: [Top 10,Steam,Backlog]
 image:
@@ -99,7 +99,15 @@ gorey combat from the screenshots on the Steam page look pretty intense, and I'm
 not entirely sure I'll be a fan of that part of the game, but I'm definitely
 looking forward to the non-linear exploration!
 
-## 6. {% include game.html game="Zero Escape The Nonary Games" %}
+## 6. {% include game.html game="Zero Escape The Nonary Games" checkmark="" %}
+
+**Edit:** Finished both games in this collection! They were both really good,
+but the star here is the first game: Nine Hours, Nine Persons, Nine Doors (999).
+While Virtue's Last Reward is quite good, 999 is *exceptional*. You can [read
+more about my thoughts on 999 here]({% post_url 2020-08-31-what-im-playing-no-87
+%}#ZeroEscape:TheNonaryGames), and [more about my thoughts on Virtue's Last
+Reward here]({% post_url 2020-09-07-what-im-playing-no-88
+%}#ZeroEscape:TheNonaryGames). Both are spoiler-free!
 
 This is a collection of two visual novels developed by Spike Chunsoft: "Nine
 Hours, Nine Persons, Nine Doors (999)," originally for the DS, and its sequel,
