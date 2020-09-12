@@ -550,8 +550,9 @@ Donkey Kong Country 2 Diddy Kong's Quest:
 
 Dragon's Dogma Dark Arisen:
   title: "Dragon's Dogma: Dark Arisen"
-  image: "https://i.imgur.com/Lpyweet.jpg"
-  thumb: "https://i.imgur.com/Lpyweetm.jpg"
+  image: "https://i.imgur.com/bFJlA8N.jpg"
+  thumb: "https://i.imgur.com/bFJlA8Nm.jpg"
+  imagesize: "third"
   developer: "Capcom"
   release: "January 15, 2016"
   platform: "PC"
@@ -2763,6 +2764,15 @@ Tom Clancy's Splinter Cell Conviction:
   thumb: "https://i.imgur.com/BFuHZxTm.jpg"
   imagesize: "third"
 
+Tom Clancy's Splinter Cell Blacklist:
+  title: "Tom Clancy's Splinter Cell: Blacklist"
+  developer: "Ubisoft Toronto"
+  release: "August 20, 2013"
+  platform: "Xbox 360"
+  image: "https://i.imgur.com/SBIEAaa.jpg"
+  thumb: "https://i.imgur.com/SBIEAaam.jpg"
+  imagesize: "third"
+
 Assassin's Creed II:
   title: "Assassin's Creed II"
   developer: "Ubisoft Montreal"
@@ -2770,4 +2780,22 @@ Assassin's Creed II:
   platform: "Xbox 360"
   image: "https://i.imgur.com/zRc4HYX.jpg"
   thumb: "https://i.imgur.com/zRc4HYXm.jpg"
+  imagesize: "third"
+
+Amazing Island:
+  title: "Amazing Island"
+  developer: "Hitmaker & Ancient"
+  release: "August 25, 2004"
+  platform: "Nintendo GameCube"
+  image: "https://i.imgur.com/ESRFn0C.jpg"
+  thumb: "https://i.imgur.com/ESRFn0Cm.jpg"
+  imagesize: "third"
+
+Billy Hatcher and the Giant Egg:
+  title: "Billy Hatcher and the Giant Egg"
+  developer: "Sonic Team"
+  release: "September 23, 2003"
+  platform: "Nintendo GameCube"
+  image: "https://i.imgur.com/fBItCOk.jpg"
+  thumb: "https://i.imgur.com/fBItCOkm.jpg"
   imagesize: "third"
