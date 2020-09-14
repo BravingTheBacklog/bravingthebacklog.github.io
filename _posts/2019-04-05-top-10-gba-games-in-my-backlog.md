@@ -19,7 +19,7 @@ games:
 image:
   feature: feature-gameboyadvance.jpg
 layout: post
-modified: 2020-02-15
+modified: 2020-09-14
 tags:
 - Top 10
 - GBA
@@ -147,7 +147,11 @@ usage of the 2 screens. Having just one screen on the GBA was just too jarring
 for the young bsinky, so I never really gave the original games a chance. Well,
 I'd like to rectify that someday!
 
-## 4. {% include game.html game="Mega Man Battle Network" %}
+## 4. {% include game.html game="Mega Man Battle Network" x="" %}
+
+**Edit**: I gave this game a shot, but ultimately the random encounters and
+dungeon design made me lose interest in it. You can [read more of my thoughts on
+it here]({% post_url 2020-09-14-what-im-playing-no-89 %}#MegaManBattleNetwork).
 
 Mega Man Battle Network takes place in modern times, in an interconnected world
 driven by the Internet. In that regard, it's a lot like the modern world.

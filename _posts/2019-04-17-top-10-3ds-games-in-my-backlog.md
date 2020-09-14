@@ -21,7 +21,7 @@ image:
   feature: feature-3ds.jpg
   thumb: feature-3ds-thumb.jpg
 layout: post
-modified: 2020-07-27
+modified: 2020-09-14
 tags:
 - Top 10
 - 3DS
@@ -124,7 +124,12 @@ All of this reminds me of Final Fantasy III when I played a bit of that on the
 DS. The job system is like Final Fantasy Tactics Advance in some ways, which
 sounds great. I'm looking forward to giving Bravely Default a try someday!
 
-## 6. {% include game.html game="Dragon Quest VIII" %}
+## 6. {% include game.html game="Dragon Quest VIII" checkmark="" %}
+
+**Edit**: Dragon Quest VIII marked my first foray into the mainline Dragon Quest
+series, and I really enjoyed it! You can [read more of my thoughts on this
+classic JRPG here]({% post_url 2020-08-17-what-im-playing-no-85
+%}#DragonQuestVIII:JourneyoftheCursedKing).
 
 I never played the PS2 original, and though there are some drawbacks to the 3DS
 port mostly due to the reduced resolution, the selling point for me is this: the
