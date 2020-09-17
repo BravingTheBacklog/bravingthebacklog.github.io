@@ -2514,7 +2514,9 @@ Spider-Man Miles Morales:
   title: "Spider-Man: Miles Morales"
   developer: "Insomniac Games"
   release: "Holiday 2020"
+  platform: "PlayStation 5"
   video: "https://youtube.com/embed/gHzuHo80U2M"
+  video2: "https://youtube.com/embed/T03PxxuCfDA"
 
 Kena Bridge of Spirits:
   title: "Kena: Bridge of Spirits"
@@ -2531,8 +2533,10 @@ Hitman III:
 Deathloop:
   title: "Deathloop"
   developer: "Arkane Studios"
-  release: "TBA"
+  release: "Q2 2021"
+  platform: "PlayStation 5"
   video: "https://youtube.com/embed/mc2hz3LJhTY"
+  video2: "https://youtube.com/embed/dT1BlnDt1R4"
 
 GhostWire Tokyo:
   title: "GhostWire: Tokyo"
@@ -2799,3 +2803,17 @@ Billy Hatcher and the Giant Egg:
   image: "https://i.imgur.com/fBItCOk.jpg"
   thumb: "https://i.imgur.com/fBItCOkm.jpg"
   imagesize: "third"
+
+Final Fantasy XVI:
+  title: "Final Fantasy XVI"
+  developer: "Square Enix"
+  release: "TBA"
+  platform: "PlayStation 5"
+  video: "https://youtube.com/embed/2tBnBAkHv9M"
+
+Hogwarts Legacy:
+  title: "Hogwarts Legacy"
+  developer: "Avalanche Software"
+  release: "2021"
+  platform: "PlayStation 5"
+  video: "https://youtube.com/embed/1O6Qstncpnc"
