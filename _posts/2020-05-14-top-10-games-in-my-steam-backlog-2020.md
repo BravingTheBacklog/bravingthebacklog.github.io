@@ -96,12 +96,12 @@ playthrough. You can [read more of my thoughts on it here]({% post_url
 2020-09-21-what-im-playing-no-90 %}#Blasphemous), spoiler-free!
 
 Blasphemous is a 2D Metroidvania, and that's all I really needed to hear to be
-sold on this game. With the hack 'n' slash combat, it probably has more in common
-with Castlevania than Metroid. From the title, to boss design, and even the
-equipable Rosary Bead power-ups, there's definitely a lot of inspiration pulled
-from real world religion, particularly Christian iconography. The bosses and
-gorey combat from the screenshots on the Steam page look pretty intense, and I'm
-not entirely sure I'll be a fan of that part of the game, but I'm definitely
+sold on this game. With the hack 'n' slash combat, it probably has more in
+common with Castlevania than Metroid. From the title, to boss design, and even
+the equipable Rosary Bead power-ups, there's definitely a lot of inspiration
+pulled from real world religion, particularly Christian iconography. The bosses
+and gorey combat from the screenshots on the Steam page look pretty intense, and
+I'm not entirely sure I'll be a fan of that part of the game, but I'm definitely
 looking forward to the non-linear exploration!
 
 ## 6. {% include game.html game="Zero Escape The Nonary Games" checkmark="" %}
