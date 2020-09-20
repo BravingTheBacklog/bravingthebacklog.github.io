@@ -4,7 +4,7 @@ title: Top 10 Games in my Steam Backlog (2020)
 author: bsinky
 description: "A list of the top 10 games in my Steam backlog as of May 2020!"
 date: 2020-05-14
-modified: 2020-09-07
+modified: 2020-09-21
 categories: [List]
 tags: [Top 10,Steam,Backlog]
 image:
@@ -88,10 +88,15 @@ since it doesn't build upon any prior events in the narrative. I don't know much
 about the plot of the Yakuza series, but the action-oriented gameplay in an open
 world Tokyo intrigues me. I'm looking forward to giving the series a try!
 
-## 7. {% include game.html game="Blasphemous" %}
+## 7. {% include game.html game="Blasphemous" checkmark="" %}
+
+**Edit:** I played through Blasphemous and thoroughly enjoyed the experience.
+It's challenging, dark, and a wonderful Metroidvania definitely worth a
+playthrough. You can [read more of my thoughts on it here]({% post_url
+2020-09-21-what-im-playing-no-90 %}#Blasphemous), spoiler-free!
 
 Blasphemous is a 2D Metroidvania, and that's all I really needed to hear to be
-sold on this game. The the hack 'n' slash combat, it probably has more in common
+sold on this game. With the hack 'n' slash combat, it probably has more in common
 with Castlevania than Metroid. From the title, to boss design, and even the
 equipable Rosary Bead power-ups, there's definitely a lot of inspiration pulled
 from real world religion, particularly Christian iconography. The bosses and
