@@ -4,7 +4,7 @@ title: Top 10 Strategy Games in my Steam Backlog (2020)
 author: bsinky
 description: "A list of the strategy games at the top of my Steam backlog as of 2020."
 date: 2020-03-19
-modified: 2020-03-19
+modified: 2020-10-19
 categories: [List]
 tags: [Top 10,Backlog,Strategy]
 image:
@@ -113,7 +113,13 @@ regard. It's set during the Edo period in Japan, and I'm really looking forward
 to seeing the architecture of the period, and stealthily making my way through
 some beautiful Japanese landscapes.
 
-## 2. {% include game.html game="Mutant Year Zero Road to Eden" %}
+## 2. {% include game.html game="Mutant Year Zero Road to Eden" checkmark="" %}
+
+**Edit**: I've played through Mutant Year Zero: Road to Eden on Normal
+difficulty (the easiest option), and I enjoyed it! It's a fun, tactical RPG, and
+fairly short too. Besides the battles, the stealth and exploration elements were
+pretty interesting too. You can [read more about my playthrough here]({%
+post_url 2020-10-19-what-im-playing-no-94 %}#MutantYearZero:RoadtoEden)!
 
 Assuming I follow the priorities set in this list, this will be the second
 XCOM-style game I play. Mario+Rabbids Kingdom Battle was the first. Evidently,
