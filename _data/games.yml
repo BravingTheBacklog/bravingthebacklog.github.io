@@ -2498,6 +2498,15 @@ Stray:
   release: "2021"
   video: "https://youtube.com/embed/u84hRUQlaio"
 
+Octodad Dadliest Catch:
+  title: "Octodad: Dadliest Catch"
+  developer: "Young Horses"
+  release: "January 30, 2014"
+  platform: "PC"
+  image: "https://i.imgur.com/iWhvUsF.jpg"
+  thumb: "https://i.imgur.com/iWhvUsFm.jpg"
+  imagesize: "third"
+
 Bugsnax:
   title: "Bugsnax"
   developer: "Young Horses"
@@ -2706,6 +2715,15 @@ Oxenfree:
   thumb: "https://i.imgur.com/ZdWGpDcm.jpg"
   imagesize: "third"
 
+SteamWorld Dig:
+  title: "SteamWorld Dig"
+  developer: "Image & Form Games"
+  release: "December 5, 2013"
+  platform: "PC"
+  image: "https://i.imgur.com/SOUdt5z.jpg"
+  thumb: "https://i.imgur.com/SOUdt5zm.jpg"
+  imagesize: "third"
+
 SteamWorld Heist:
   title: "SteamWorld Heist"
   developer: "Image & Form Games"
@@ -2817,3 +2835,66 @@ Hogwarts Legacy:
   release: "2021"
   platform: "PlayStation 5"
   video: "https://youtube.com/embed/1O6Qstncpnc"
+
+Costume Quest:
+  title: "Costume Quest"
+  developer: "Double Fine Productions"
+  release: "October 15, 2011"
+  platform: "PC"
+  image: "https://i.imgur.com/bFoxeje.jpg"
+  thumb: "https://i.imgur.com/bFoxejem.jpg"
+  imagesize: "third"
+
+Momodora Reverie Under the Moonlight:
+  title: "Momodora: Reverie Under the Moonlight"
+  developer: "Bombservice"
+  release: "March 4, 2016"
+  platform: "PC"
+  image: "https://i.imgur.com/zZ6zgiD.jpg"
+  thumb: "https://i.imgur.com/zZ6zgiDm.jpg"
+  imagesize: "third"
+
+The Mummy Demastered:
+  title: "The Mummy Demastered"
+  developer: "WayForward"
+  release: "October 24, 2017"
+  platform: "PC"
+  image: "https://i.imgur.com/BXm6VvR.jpg"
+  thumb: "https://i.imgur.com/BXm6VvRm.jpg"
+  imagesize: "third"
+
+Limbo:
+  title: "LIMBO"
+  developer: "Playdead"
+  release: "Auguest 2, 2011"
+  platform: "PC"
+  image: "https://i.imgur.com/ElECt6W.jpg"
+  thumb: "https://i.imgur.com/ElECt6Wm.jpg"
+  imagesize: "third"
+
+Cave Story:
+  title: "Cave Story+"
+  developer: "Nicalis, Inc."
+  release: "November 21, 2011"
+  platform: "PC"
+  image: "https://i.imgur.com/1VwLruh.jpg"
+  thumb: "https://i.imgur.com/1VwLruhm.jpg"
+  imagesize: "third"
+
+Bastion:
+  title: "Bastion"
+  developer: "Supergiant Games"
+  release: "August 16, 2011"
+  platform: "PC"
+  image: "https://i.imgur.com/7S0XfeN.jpg"
+  thumb: "https://i.imgur.com/7S0XfeNm.jpg"
+  imagesize: "third"
+
+Gris:
+  title: "GRIS"
+  developer: "Nomada Studio"
+  release: "December 13, 2018"
+  platform: "PC"
+  image: "https://i.imgur.com/T9AZQXH.jpg"
+  thumb: "https://i.imgur.com/T9AZQXHm.jpg"
+  imagesize: "third"
