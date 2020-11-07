@@ -6,10 +6,21 @@ description: "A list of the strategy games at the top of my Steam backlog as of 
 date: 2020-03-19
 modified: 2020-10-19
 categories: [List]
-tags: [Top 10,Backlog,Strategy]
+tags: [Top 10,Backlog,Strategy,Steam]
 image:
     feature: feature-strategy-games-backlog-2020.jpg
     thumb: feature-strategy-games-backlog-2020-thumb.jpg
+games:
+- Shadowrun Returns
+- Phantom Doctrine
+- Children of Zodiarcs
+- Tooth and Tail
+- Sword Legacy Omen
+- XCOM 2
+- Invisible Inc.
+- Shadow Tactics Blades of the Shogun
+- Mutant Year Zero Road to Eden
+- Fell Seal Arbiter's Mark
 ---
 
 Looking at the immensity of my Steam backlog recently, I had an interesting
