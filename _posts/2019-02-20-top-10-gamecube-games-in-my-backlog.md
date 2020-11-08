@@ -18,7 +18,7 @@ games:
 image:
   feature: feature-gamecube.jpg
 layout: post
-modified: 2019-09-09
+modified: 2020-11-08
 redirect_from: /top%2010/top-10-gamecube-games-in-my-backlog/
 tags:
 - Top 10
@@ -137,14 +137,18 @@ Hopefully I'll remedy that someday and get my fix of psychic-power-infused
 stealth action! I mean, who doesn't want psychic powers, right? ...It's not just
 me, right?
 
-## 3. {% include game.html game="Viewtiful Joe" %}
+## 3. {% include game.html game="Viewtiful Joe" checkmark="" %}
+
+**Edit**: Viewtiful Joe was a challenge, but an enjoyable one! I'm really glad I
+finally gave the full game a shot. You can [read more about my thoughts on it
+here]({% post_url 2020-11-09-what-im-playing-no-97 %}#ViewtifulJoe).
 
 This side-scrolling beat 'em up released in 2003 to critical acclaim, and was
 commercially successful enough to spawn a few sequels and even manga and anime
 adaptations. The Demo/Preview disc that came with my GameCube had a Viewtiful
 Joe demo on it, and as a kid it always struck me as a strange game. I mean,
 you're this ordinary dude, but then you collect some things and strike a weird
-pose, call out a catchphrase, and transform in to a superhero. Now that I'm a
+pose, call out a catchphrase, and transform into a superhero. Now that I'm a
 bit older I think I can appreciate the intent and the humor there, but as a kid
 I just thought it was weird. Fun though!
 
