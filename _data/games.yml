@@ -2898,3 +2898,86 @@ Gris:
   image: "https://i.imgur.com/T9AZQXH.jpg"
   thumb: "https://i.imgur.com/T9AZQXHm.jpg"
   imagesize: "third"
+
+The Legend of Zelda Book of Mudora:
+  title: "The Legend of Zelda: Book of Mudora"
+  developer: "ZeldaHistorian"
+  release: "September 5, 2016"
+  platform: "PC"
+  image: "https://i.imgur.com/RPT5FsO.png"
+  thumb: "https://i.imgur.com/RPT5FsOm.png"
+
+Silver Nights Crusaders:
+  title: "Silver Night's Crusaders"
+  developer: "True Role Dreams"
+  release: "October 31, 2020"
+  platform: "PC"
+  image: "https://i.imgur.com/83EUA8L.png"
+  thumb: "https://i.imgur.com/83EUA8Lm.png"
+
+Streets of Rage Remake:
+  title: "Streets of Rage Remake"
+  developer: "Bomber Games"
+  release: "April 2011"
+  platform: "PC"
+  image: "https://i.imgur.com/0igXmmi.png"
+  thumb: "https://i.imgur.com/0igXmmim.png"
+  imagesize: "third"
+
+Pokemon Uranium:
+  title: "Pokémon Uranium"
+  developer: "~JV~, Twitch"
+  release: "August 6, 2016"
+  platform: "PC"
+  image: "https://i.imgur.com/obcX2KZ.jpg"
+  thumb: "https://i.imgur.com/obcX2KZm.jpg"
+
+Undertale Red:
+  title: "Undertale Red"
+  developer: "Taxiderby"
+  release: "December 16, 2015"
+  platform: "PC"
+  image: "https://i.imgur.com/k4wrPuA.png"
+  thumb: "https://i.imgur.com/k4wrPuAm.png"
+
+MotherSquared:
+  title: "Mother²"
+  developer: "MultiVolt"
+  release: "TBA"
+  platform: "PC"
+  image: "https://i.imgur.com/gFjs6qP.jpg"
+  thumb: "https://i.imgur.com/gFjs6qPm.jpg"
+
+Danganronpa Dead End:
+  title: "Danganronpa: Dead End"
+  developer: "DjcatProductions"
+  release: "TBA"
+  platform: "PC"
+  image: "https://i.imgur.com/wGPTfEo.png"
+  thumb: "https://i.imgur.com/wGPTfEom.png"
+
+Castlevania The Lecarde Chronicles 2:
+  title: "Castlevania: The Lecarde Chronicles 2"
+  developer: "Migami Games"
+  release: "May 2017"
+  platform: "PC"
+  image: "https://i.imgur.com/fqPz5yH.jpg"
+  thumb: "https://i.imgur.com/fqPz5yHm.jpg"
+  imagesize: "third"
+
+AM2R:
+  title: "AM2R (Another Metroid 2 Remake)"
+  developer: "DoctorM64"
+  release: "August 6, 2016"
+  platform: "PC"
+  image: "https://i.imgur.com/rRm6APi.png"
+  thumb: "https://i.imgur.com/rRm6APim.png"
+  imagesize: "third"
+
+Oddity:
+  title: "Oddity"
+  developer: "Oddity Team"
+  release: "TBA"
+  platform: "PC"
+  image: "https://i.imgur.com/U08ZAgj.png"
+  thumb: "https://i.imgur.com/U08ZAgjm.png"
