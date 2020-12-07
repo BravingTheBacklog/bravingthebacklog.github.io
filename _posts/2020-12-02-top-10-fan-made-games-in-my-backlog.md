@@ -4,21 +4,21 @@ title: Top 10 Fan-made Games in my Backlog
 author: bsinky
 description: "The top 10 fan-made games in my backlog."
 date: 2020-12-02
-modified: 2020-12-02
+modified: 2020-12-07
 categories: [List]
 tags: [Top 10,Backlog]
 image:
     feature: feature-fangames.jpg
     thumb: feature-fangames-thumb.jpg
 games:
-- The Legend of Zelda: Book of Mudora
+- The Legend of Zelda Book of Mudora
 - Silver Nights Crusaders
 - Streets of Rage Remake
 - Pokemon Uranium
 - Undertale Red
 - Mother²
 - Danganronpa Dead End
-- Castlevania: The Lecarde Chronicles 2
+- Castlevania The Lecarde Chronicles 2
 - AM2R (Another Metroid 2 Remake)
 - Oddity
 ---
