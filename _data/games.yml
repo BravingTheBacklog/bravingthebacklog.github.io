@@ -473,6 +473,14 @@ The World Ends with You:
   developer: "Square Enix & Jupiter"
   release: "April 22, 2008"
 
+NEO The World Ends with You:
+  title: "NEO: The World Ends with You"
+  image: "https://i.imgur.com/Ylh4dvY.jpg"
+  thumb: "https://i.imgur.com/Ylh4dvYm.jpg"
+  developer: "Square Enix"
+  release: "Summer 2021"
+  platform: "PlayStation 4"
+
 Alan Wake:
   title: "Alan Wake"
   image: "https://i.imgur.com/wyF2jDe.jpg"
@@ -796,6 +804,14 @@ Shin Megami Tensei IV:
   release: "July 16, 2013"
   platform: "Nintendo 3DS"
 
+Shin Megami Tensei V:
+  title: "Shin Megami Tensei V"
+  developer: "Atlus"
+  release: "2021"
+  platform: "Nintendo Switch"
+  image: "https://i.imgur.com/aHOHimq.png"
+  thumb: "https://i.imgur.com/aHOHimqm.png"
+
 Bravely Default:
   title: "Bravely Default"
   image: "https://i.imgur.com/xnfrFg8.jpg"
@@ -915,6 +931,15 @@ Rune Factory 4 Special:
   developer: "Marvelous Entertainment"
   release: "2019"
   video: "https://www.youtube.com/embed/PwI0mzf2flY"
+
+Rune Factory 5:
+  title: "Rune Factory 5"
+  developer: "Marvelous"
+  release: "2021"
+  image: "https://i.imgur.com/TLCnvhh.jpg"
+  thumb: "https://i.imgur.com/TLCnvhhm.jpg"
+  platform: "Nintendo Switch"
+  imagesize: "third"
 
 The Legend of Zelda Link's Awakening:
   title: "The Legend of Zelda: Link's Awakening"
@@ -1247,6 +1272,15 @@ Shin Megami Tensei III Nocturne:
   platform: "PlayStation 2"
   developer: "Atlus"
   release: "October 12, 2004"
+
+Shin Megami Tensei Nocturne HD Remaster:
+  title: "Shin Megami Tensei III: Nocturne HD Remaster"
+  developer: "Atlus"
+  platform: "PlayStation 4"
+  release: "Spring 2021"
+  image: "https://i.imgur.com/LJODYoz.jpg"
+  thumb: "https://i.imgur.com/LJODYozm.jpg"
+  imagesize: "third"
 
 Shin Megami Tensei Digital Devil Saga:
   title: "Shin Megami Tensei: Digital Devil Saga"
@@ -1861,12 +1895,12 @@ Persona 5 Royal:
   imagesize: "third"
 
 Persona 5 Scramble The Phantom Strikers:
-  title: "Persona 5 Scramble: The Phantom Strikers"
+  title: "Persona 5 Strikers"
   platform: "PlayStation 4"
-  image: "https://i.imgur.com/rTVWp0P.jpg"
-  thumb: "https://i.imgur.com/rTVWp0Pm.jpg"
+  image: "https://i.imgur.com/W8xo1Ws.jpg"
+  thumb: "https://i.imgur.com/W8xo1Wsm.jpg"
   developer: "Omega Force & P-Studio"
-  release: "TBA"
+  release: "February 23, 2021"
   imagesize: "third"
 
 Gravity Rush Remastered:
@@ -2544,6 +2578,9 @@ Deathloop:
   developer: "Arkane Studios"
   release: "Q2 2021"
   platform: "PlayStation 5"
+  image: "https://i.imgur.com/hzauBbL.jpg"
+  thumb: "https://i.imgur.com/hzauBbLm.jpg"
+  imagesize: "third"
   video: "https://youtube.com/embed/mc2hz3LJhTY"
   video2: "https://youtube.com/embed/dT1BlnDt1R4"
 
@@ -2552,6 +2589,9 @@ GhostWire Tokyo:
   developer: "Tango Gameworks"
   release: "2021"
   video: "https://youtube.com/embed/l4tkNjJsOvY"
+  image: "https://i.imgur.com/WXJjFfA.jpg"
+  thumb: "https://i.imgur.com/WXJjFfAm.jpg"
+  platform: "PlayStation 5"
 
 Sonic CD PC:
   title: "Sonic CD"
@@ -2762,11 +2802,20 @@ Gears of War:
 
 Scott Pilgrim vs. the World The Game:
   title: "Scott Pilgrim vs. the World: The Game"
-  developer: "Ubisoft Montreal"
+  developer: "Ubisoft Montreal & Ubisoft Chengdu"
   release: "August 25, 2010"
   platform: "Xbox 360"
   image: "https://i.imgur.com/dGDqCUs.jpg"
   thumb: "https://i.imgur.com/dGDqCUsm.jpg"
+
+Scott Pilgrim vs the World The Game Complete Edition:
+  title: "Scott Pilgrim vs. the World: The Game Complete Edition"
+  developer: "Engine Software, Ubisoft Montreal, Ubisoft Chengdu, Ubisoft Pune"
+  release: "January 14, 2021"
+  image: "https://i.imgur.com/KDj2HPP.jpg"
+  thumb: "https://i.imgur.com/KDj2HPPm.jpg"
+  imagesize: "third"
+  platform: "PC"
 
 Tales of Vesperia:
   title: "Tales of Vesperia"
@@ -2834,6 +2883,9 @@ Hogwarts Legacy:
   developer: "Avalanche Software"
   release: "2021"
   platform: "PlayStation 5"
+  image: "https://i.imgur.com/kWkCPD4.jpg"
+  thumb: "https://i.imgur.com/kWkCPD4m.jpg"
+  imagesize: "third"
   video: "https://youtube.com/embed/1O6Qstncpnc"
 
 Costume Quest:
@@ -2981,3 +3033,12 @@ Oddity:
   platform: "PC"
   image: "https://i.imgur.com/U08ZAgj.png"
   thumb: "https://i.imgur.com/U08ZAgjm.png"
+
+Story of Seasons Pioneers of Olive Town:
+  title: "Story of Seasons: Pioneers of Olive Town"
+  developer: "Marvelous"
+  release: "March 23, 2021"
+  image: "https://i.imgur.com/jjdJOIQ.png"
+  thumb: "https://i.imgur.com/jjdJOIQm.png"
+  imagesize: "third"
+  platform: "Nintendo Switch"
