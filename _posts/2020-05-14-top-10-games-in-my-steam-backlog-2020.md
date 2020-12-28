@@ -4,7 +4,7 @@ title: Top 10 Games in my Steam Backlog (2020)
 author: bsinky
 description: "A list of the top 10 games in my Steam backlog as of May 2020!"
 date: 2020-05-14
-modified: 2020-09-21
+modified: 2020-12-28
 categories: [List]
 tags: [Top 10,Steam,Backlog]
 image:
@@ -78,7 +78,13 @@ crawling. The dungeons are randomly generated, and contain treasures, puzzles,
 and traps. I'm most curious about the battle system. Turn-based battles always
 sound interesting to me!
 
-## 8. {% include game.html game="Yakuza 0" %}
+## 8. {% include game.html game="Yakuza 0" checkmark="" %}
+
+**Edit:** Yakuza 0 is finished, and what a game it was! Its open world was on a
+smaller scale than I expected, but it was absolutely packed with content and
+mini-games. I'll definitely be playing more Yakuza games in the future! You can
+[read more of my thoughts on it here]({% post_url
+2020-12-07-what-im-playing-no-101 %}#Yakuza0).
 
 The Yakuza series is known for open world action-adventure/beat 'em up gameplay.
 Yakuza 0 is the sixth game developed in the series, and as the number in its
