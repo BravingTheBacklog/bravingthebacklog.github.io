@@ -605,6 +605,7 @@ Final Fantasy IX:
   developer: "Square Enix"
   release: "April 14, 2016"
   imagesize: "third"
+  platform: "PC"
 
 Undertale:
   title: "Undertale"
@@ -663,6 +664,15 @@ Danganronpa 2 Goodbye Despair:
   release: "April 18, 2016"
   image: "https://i.imgur.com/sDrmp4O.jpg"
   thumb: "https://i.imgur.com/sDrmp4Om.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Danganronpa V3 Killing Harmony:
+  title: "Danganronpa V3: Killing Harmony"
+  developer: "Spike Chunsoft"
+  release: "September 26, 2017"
+  image: "https://i.imgur.com/RhpQfaG.jpg"
+  thumb: "https://i.imgur.com/RhpQfaGm.jpg"
   imagesize: "third"
   platform: "PC"
 
@@ -3042,3 +3052,21 @@ Story of Seasons Pioneers of Olive Town:
   thumb: "https://i.imgur.com/jjdJOIQm.png"
   imagesize: "third"
   platform: "Nintendo Switch"
+
+Ori and the Blind Forest:
+  title: "Ori and the Blind Forest: Definitive Edition"
+  developer: "Moon Studios"
+  release: "April 27, 2016"
+  image: "https://i.imgur.com/Y5kLupE.jpg"
+  thumb: "https://i.imgur.com/Y5kLupEm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+13 Sentinels Aegis Rim:
+  title: "13 Sentinels: Aegis Rim"
+  developer: "Vanillaware"
+  release: "September 22, 2020"
+  image: "https://i.imgur.com/nXSsEdZ.jpg"
+  thumb: "https://i.imgur.com/nXSsEdZm.jpg"
+  imagesize: "third"
+  platform: "PlayStation 4"
