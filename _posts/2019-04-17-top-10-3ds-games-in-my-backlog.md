@@ -21,7 +21,7 @@ image:
   feature: feature-3ds.jpg
   thumb: feature-3ds-thumb.jpg
 layout: post
-modified: 2020-09-14
+modified: 2021-01-04
 tags:
 - Top 10
 - 3DS
@@ -80,7 +80,13 @@ long time coming, and though I didn't have a 3DS when it released in 2013, I do
 now, and it's only a matter of time before I partake in more ghost-hunting as
 the most green Mario brother!
 
-## 8. {% include game.html game="Shin Megami Tensei IV" %}
+## 8. {% include game.html game="Shin Megami Tensei IV" checkmark="" %}
+
+**Edit:** I can now say I've played a mainline Shin Megami Tensei game, and I really
+enjoyed it overall! It wasn't perfect, and I have a number of complaints about
+the late game, but Shin Megami Tensei IV was great. You can [read more of my
+thoughts on it here]({% post_url 2020-12-21-what-im-playing-no-103
+%}#ShinMegamiTenseiIV).
 
 Shin Megami Tensei (SMT) is known for its turn-based combat, and later games
 have added some spice to this by introducing the Press Turn combat system.

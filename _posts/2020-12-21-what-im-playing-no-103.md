@@ -4,7 +4,7 @@ title: What I'm Playing - No. 103
 author: bsinky
 description: "This week I finished Luigi's Mansion 3, nearly finished Yakuza 0, and started Shin Megami Tensei IV!"
 date: 2020-12-21
-modified: 2020-12-21
+modified: 2021-01-04
 categories: [Weekly]
 tags: [What I'm Playing,Weekly,Casual]
 image:
@@ -138,12 +138,12 @@ I've finally started a game in the mainline Shin Megami Tensei series: Shin
 Megami Tensei IV. This is something I've wanted to do for a long time, since the
 Persona games began as a spin-off series to Shin Megami Tensei. So far, I'm
 really enjoying it! As is tradition, I named my character Worm in an opening
-sequence that don't yet understand. In it, the player character is inexplicably
-flying through the air while being addressed by a deep voice. I've written it
-off as a dream for now, but I imagine it might be explained in some way later
-on.
+sequence that I don't yet understand. In it, the player character is
+inexplicably flying through the air while being addressed by a deep voice. I've
+written it off as a dream for now, but I imagine it might be explained in some
+way later on.
 
-<figure class="third">
+<figure class="third center">
     <a href="https://i.imgur.com/IcnOFsm.png"><img src="https://i.imgur.com/IcnOFsmm.png" alt="Shin Megami Tensei IV"/></a>
     <a href="https://i.imgur.com/aAc6hVS.png"><img src="https://i.imgur.com/aAc6hVSm.png" alt="I named my character Worm"/></a>
 </figure>
@@ -164,7 +164,7 @@ from demons.
 </figure>
 
 In no time at all, your own demon-fighting training begins, and you enter the
-demon-infested caverns beneath the city, Naraku. This serves as the game's first
+demon-infested caverns beneath the city: Naraku. This serves as the game's first
 dungeon. Dungeon exploration uses a 3rd-person camera, where you can see enemies
 and attempt to slice them with your sword to perform a preemptive strike when
 battle begins. Once you come in contact with an enemy, battle begins, and oh
@@ -185,7 +185,7 @@ to the point outside of battle just before you died. His fees are pretty steep
 though. I keep frequent saves, so I find I'm more inclined to reload my last
 save than pay Charon Macca.
 
-<figure class="third">
+<figure class="third center">
     <a href="https://i.imgur.com/btB9VMB.png"><img src="https://i.imgur.com/btB9VMBm.png" alt="Dungeon exploration"/></a>
     <a href="https://i.imgur.com/qA7KX5c.png"><img src="https://i.imgur.com/qA7KX5cm.png" alt="battle system"/></a>
 </figure>
