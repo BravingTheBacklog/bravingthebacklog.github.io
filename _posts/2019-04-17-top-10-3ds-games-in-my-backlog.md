@@ -21,7 +21,7 @@ image:
   feature: feature-3ds.jpg
   thumb: feature-3ds-thumb.jpg
 layout: post
-modified: 2021-01-04
+modified: 2021-01-18
 tags:
 - Top 10
 - 3DS
@@ -108,7 +108,15 @@ very enticing because it's on a handheld! Of course, if I wait long enough Shin
 Megami Tensei V will come out on the Switch, which is both portable and playable
 on the big screen...that sounds enticing as well!
 
-## 7. {% include game.html game="Bravely Default" %}
+## 7. {% include game.html game="Bravely Default" checkmark="" %}
+
+**Edit:** I finished Bravely Default. The first half of the game was fantastic,
+an awesome blend of traditional JRPG gameplay and some new mechanics.
+Unfortunately, the 2nd half of the game fell completely flat for me. I finished
+it, but it was a chore to do so, and I really considered dropping the game
+during the latter half. I'm still curious about this series, because Bravely
+Default was *really* good for a while. Hopefully future games like Bravely
+Default II don't make the same mistakes!
 
 Bravely Default seems like a nice JRPG very reminiscent of early Final Fantasy
 titles, but with modern graphics and niceties. 
