@@ -284,6 +284,14 @@ Paper Mario The Thousand Year Door:
   developer: "Intelligent Systems"
   release: "October 11, 2004"
 
+Mario and Luigi Superstar Saga plus Bowsers Minions:
+  title: "Mario & Luigi Superstar Saga + Bowser's Minions"
+  developer: "Alphadream"
+  release: "October 6, 2017"
+  image: "https://i.imgur.com/rykVr4R.jpg"
+  thumb: "https://i.imgur.com/rykVr4Rm.jpg"
+  platform: "Nintendo 3DS"
+
 Fire Emblem Path of Radiance:
   title: "Fire Emblem: Path of Radiance"
   thumb: "https://i.imgur.com/hOrrgmMm.jpg"
@@ -456,6 +464,14 @@ Luminous Arc:
   developer: "Imageepoch"
   release: "August 14, 2007"
   platform: "Nintendo DS"
+
+Stella Glow:
+  title: "Stella Glow"
+  developer: "Imageepoch"
+  release: "November 17, 2015"
+  image: "https://i.imgur.com/Go39iAG.jpg"
+  thumb: "https://i.imgur.com/Go39iAGm.jpg"
+  platform: "Nintendo 3DS"
 
 Chrono Trigger:
   title: "Chrono Trigger"
@@ -814,6 +830,14 @@ Shin Megami Tensei IV:
   release: "July 16, 2013"
   platform: "Nintendo 3DS"
 
+Shin Megami Tensei IV Apocalypse:
+  title: "Shin Megami Tensei IV Apocalypse"
+  developer: "Atlus"
+  release: "September 20, 2016"
+  image: "https://i.imgur.com/nPpGrKi.jpg"
+  thumb: "https://i.imgur.com/nPpGrKim.jpg"
+  platform: "Nintendo 3DS"
+
 Shin Megami Tensei V:
   title: "Shin Megami Tensei V"
   developer: "Atlus"
@@ -828,6 +852,14 @@ Bravely Default:
   thumb: "https://i.imgur.com/xnfrFg8m.jpg"
   developer: "Silicon Studio"
   release: "February 7, 2014"
+  platform: "Nintendo 3DS"
+
+Bravely Second End Layer:
+  title: "Bravely Second: End Layer"
+  developer: "Silicon Studio"
+  release: "April 15, 2016"
+  image: "https://i.imgur.com/oHXk84Y.jpg"
+  thumb: "https://i.imgur.com/oHXk84Ym.jpg"
   platform: "Nintendo 3DS"
 
 Dragon Quest VIII:
@@ -1300,6 +1332,14 @@ Shin Megami Tensei Digital Devil Saga:
   platform: "PlayStation 2"
   developer: "Atlus"
   release: "April 5, 2005"
+
+Shin Megami Tensei Devil Survivor Overclocked:
+  title: "Shin Megami Tensei: Devil Survivor Overclocked"
+  developer: "Atlus"
+  release: "August 23, 2011"
+  image: "https://i.imgur.com/gMb1MuR.jpg"
+  thumb: "https://i.imgur.com/gMb1MuRm.jpg"
+  platform: "Nintendo 3DS"
 
 Steambot Chronicles:
   title: "Steambot Chronicles"
@@ -3070,3 +3110,43 @@ Ori and the Blind Forest:
   thumb: "https://i.imgur.com/nXSsEdZm.jpg"
   imagesize: "third"
   platform: "PlayStation 4"
+
+LBX Little Battlers Experience:
+  title: "LBX: Little Battlers Experience"
+  developer: "Level-5"
+  release: "August 21, 2015"
+  image: "https://i.imgur.com/kPCmDWK.jpg"
+  thumb: "https://i.imgur.com/kPCmDWKm.jpg"
+  platform: "Nintendo 3DS"
+
+Yokai Watch 2 Psychic Spectres:
+  title: "Yo-kai Watch 2: Psychic Spectres"
+  developer: "Level-5"
+  release: "September 29, 2017"
+  image: "https://i.imgur.com/oTt499R.jpg"
+  thumb: "https://i.imgur.com/oTt499Rm.jpg"
+  platform: "Nintendo 3DS"
+
+Ever Oasis:
+  title: "Ever Oasis"
+  developer: "GREZZO"
+  release: "June 23, 2017"
+  image: "https://i.imgur.com/wwIcKQ0.jpg"
+  thumb: "https://i.imgur.com/wwIcKQ0m.jpg"
+  platform: "Nintendo 3DS"
+
+Kid Icarus Uprising:
+  title: "Kid Icarus: Uprising"
+  developer: "Project Sora"
+  release: "March 23, 2012"
+  image: "https://i.imgur.com/JWqDODV.jpg"
+  thumb: "https://i.imgur.com/JWqDODVm.jpg"
+  platform: "Nintendo 3DS"
+
+Code Name STEAM:
+  title: "Code Name: S.T.E.A.M."
+  developer: "Intelligent Systems"
+  release: "March 13, 2015"
+  image: "https://i.imgur.com/Mq7LdKH.jpg"
+  thumb: "https://i.imgur.com/Mq7LdKHm.jpg"
+  platform: "Nintendo 3DS"
