@@ -4,7 +4,7 @@ title: Top 10 3DS Games in my Backlog (2021)
 author: bsinky
 description: "Another list of the top 10 games in my 3DS backlog!"
 date: 2021-01-28
-modified: 2021-01-28
+modified: 2021-02-01
 categories: [List]
 tags: [Top 10,Backlog]
 image:
@@ -138,9 +138,9 @@ brand new physical copy of it for only US$3.59. For that price, I'm definitely
 willing to give it a try! That's a lot cheaper than most *digital* games go on
 sale for!
 
-Reviews for this one are pretty mediocre, so I'm not expecting as stellar as
-Valkyria Chronicles, but if the two share somewhat similar gameplay it should
-still be a fun time.
+Reviews for this one are pretty mediocre, so I'm not expecting anything as
+stellar as Valkyria Chronicles, but if the two share somewhat similar gameplay
+it should still be a fun time.
 
 ## 2. {% include game.html game="Shin Megami Tensei Devil Survivor Overclocked" %}
 
