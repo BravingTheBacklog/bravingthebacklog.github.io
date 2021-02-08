@@ -21,12 +21,12 @@ image:
   feature: feature-3ds.jpg
   thumb: feature-3ds-thumb.jpg
 layout: post
-modified: 2021-01-18
+modified: 2021-02-08
 tags:
 - Top 10
 - 3DS
 - Backlog
-title: Top 10 3DS Games in my Backlog
+title: Top 10 3DS Games in my Backlog (DONE)
 ---
 
 I haven't had my New Nintendo 2DS XL for very long. The Nintendo 3DS launched 7
@@ -47,7 +47,18 @@ Picking just 10 games for this list was *tough*. Honorable mentions include the
 Yo-Kai Watch games, Ever Oasis, Kid Icarus: Uprising, the Mario & Luigi games,
 and many, many more!
 
-## 10. {% include game.html game="The Legend of Zelda A Link Between Worlds" %}
+**Edit**: Since making this list, I've played through (or decided I would no
+longer be playing) each game here, and there were a lot of great experiences
+among these!
+
+## 10. {% include game.html game="The Legend of Zelda A Link Between Worlds" checkmark="" %}
+
+**Edit:** Completed my playthrough and enjoyed the experience the whole way
+through. This game introduces a few new aspects and twists to the usual Zelda
+formula, but this is 2D Zelda gameplay at its finest. There are spoilers in this
+write up, but if you don't mind that, then you can [read more about my thoughts
+on it here]({% post_url 2021-02-08-what-im-playing-no-110
+%}#TheLegendofZelda:ALinkBetweenWorlds).
 
 The Legend of Zelda is a franchise I always enjoy, and I've yet to play one of
 the 3DS's only original entries in the series - The Legend of Zelda: A Link

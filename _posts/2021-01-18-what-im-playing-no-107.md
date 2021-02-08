@@ -4,7 +4,7 @@ title: What I'm Playing - No. 107
 author: bsinky
 description: "I finished Bravely Default and started Shin Megami Tensei IV Apocalypse."
 date: 2021-01-18
-modified: 2021-01-18
+modified: 2021-02-08
 categories: [Weekly]
 tags: [What I'm Playing,Weekly,Casual]
 image:
@@ -131,7 +131,7 @@ Dagda and Nanashi strike a deal: Nanashi will be brought back to life to be
 Dadga's own personal puppet. Once again among the living, Nanashi is just in
 time to fight off the demons, protecting Asahi. Wanting to avenge the Hunters
 who died protecting them, the two speak to Asahi's father, and finally get him
-to make them official Hunters. As Hunters, their aventure is just beginning, and
+to make them official Hunters. As Hunters, their adventure is just beginning, and
 Dagda's reasons for making a deal with Nanashi remain mysterious as ever...
 
 <figure class="third">

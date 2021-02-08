@@ -4,7 +4,7 @@ title: Top 10 3DS Games in my Backlog (2021)
 author: bsinky
 description: "Another list of the top 10 games in my 3DS backlog!"
 date: 2021-01-28
-modified: 2021-02-01
+modified: 2021-02-08
 categories: [List]
 tags: [Top 10,Backlog]
 image:
@@ -156,7 +156,13 @@ than the original DS release, though I don't remember exactly why that is.
 Regardless, it definitely seems like the 3DS remake is the one I should try,
 both for the difficulty changes and the additional features!
 
-## 1. {% include game.html game="Shin Megami Tensei IV Apocalypse" %}
+## 1. {% include game.html game="Shin Megami Tensei IV Apocalypse" checkmark="" %}
+
+*Edit*: Finished! This game included everything I enjoyed about the first game
+while polishing the experience more and removing the parts I didn't like about
+its predecessor. It was awesome! You can [read more of my first impressions on
+it in this post]({% post_url 2021-01-18-what-im-playing-no-107
+%}#ShinMegamiTenseiIVApocalypse).
 
 As of this writing, I've actually already started playing this game, so it kind
 of has to be at the top of the list!
