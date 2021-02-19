@@ -162,6 +162,13 @@ Secret of Mana:
   release: "October 3, 1993"
   platform: "Super Nintendo"
 
+Legend of Mana Remaster:
+  title: "Legend of Mana"
+  developer: "Square Enix"
+  release: "June 24, 2021"
+  platform: "PC"
+  video: "https://youtu.be/NWmzLz605e0"
+
 Shin Megami Tensei:
   title: "Shin Megami Tensei"
   image: "https://i.imgur.com/iu41Zcz.jpg"
@@ -691,6 +698,13 @@ Danganronpa V3 Killing Harmony:
   thumb: "https://i.imgur.com/RhpQfaGm.jpg"
   imagesize: "third"
   platform: "PC"
+
+Worlds End Club:
+  title: "World's End Club"
+  developer: "Too Kyo Games"
+  release: "May 28, 2021"
+  platform: "Nintendo Switch"
+  video: https://youtu.be/PXHw7dwjbmI
 
 Bayonetta:
   title: "Bayonetta"
@@ -1455,6 +1469,13 @@ Octopath Traveler:
   developer: "Square Enix & Acquire"
   release: "July 13, 2018"
   platform: "Nintendo Switch"
+
+Project Triangle Strategy:
+  title: "Project Triangle Strategy"
+  developer: "Square Enix"
+  release: "2022"
+  platform: "Nintendo Switch"
+  video: "https://youtu.be/fAUCRImUpis"
 
 Octopath Traveler PC:
   title: "Octopath Traveler"
@@ -2358,6 +2379,13 @@ The Legend of Zelda Twilight Princess:
   developer: "Nintendo EAD"
   release: "November 19, 2006"
 
+The Legend of Zelda Skyward Sword HD:
+  title: "The Legend of Zelda: Skyward Sword HD"
+  developer: "Nintendo"
+  release: "July 16, 2021"
+  platform: "Nintendo Switch"
+  video: "https://youtu.be/X27t1VEU4d"
+
 Super Mario Galaxy:
   title: "Super Mario Galaxy"
   platform: "Nintendo Wii"
@@ -3150,3 +3178,31 @@ Code Name STEAM:
   image: "https://i.imgur.com/Mq7LdKH.jpg"
   thumb: "https://i.imgur.com/Mq7LdKHm.jpg"
   platform: "Nintendo 3DS"
+
+Famicom Detective Club The Missing Heir and The Girl Who Stands Behind:
+  title: "Famicom Detective Club: The Missing Heir & Famicom Detective Club: The Girl Who Stands Behind"
+  developer: "Mages"
+  release: "May 14, 2021"
+  platform: "Nintendo Switch"
+  video: "https://youtu.be/0Qw_6v9xN7s"
+
+Neon White:
+  title: "Neon White"
+  developer: "BEN ESPOSITO"
+  release: "Winter 2021"
+  platform: "PC" 
+  video: "https://youtu.be/fDD17TfIn7Y"
+
+Splatoon 3:
+  title: "Splatoon 3"
+  release: "2022"
+  developer: "Nintendo"
+  platform: "Nintendo Switch"
+  video: "https://youtu.be/GUYDXVDLmns"
+
+Mario Golf Super Rush:
+  title: "Mario Golf: Super Rush"
+  developer: "Camelot Software Planning"
+  release: "June 25, 2021"
+  platform: "Nintendo Switch"
+  video: "https://youtu.be/aucAzFWpvMc"
