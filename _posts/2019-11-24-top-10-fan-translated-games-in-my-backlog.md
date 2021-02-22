@@ -21,7 +21,7 @@ image:
   feature: feature-top-10-fan-translations-backlog.jpg
   thumb: feature-top-10-fan-translations-backlog-thumb.jpg
 layout: post
-modified: 2020-05-31
+modified: 2021-02-22
 tags:
 - Top 10
 - Translation
@@ -169,7 +169,16 @@ Tomato, Gideon Zhi, demi, and Reidman, a complete English translation exists,
 and [can be found here](http://mother3.fobby.net/) along with many other Mother
 and Mother 3 resources!
 
-## 3. {% include game.html game="Fire Emblem The Binding Blade" platform="" %}
+## 3. {% include game.html game="Fire Emblem The Binding Blade" platform="" checkmark="" %}
+
+**Edit:** Fire Emblem: The Binding Blade was difficult, but definitely worth
+playing if you've enjoyed other games in the series, particularly the other GBA
+titles. I definitely don't recommend you start the series with this game though,
+unless you're already *really* good at SRPGs and don't mind the challenge. If
+you don't mind me spoiling the number of chapters in the game, the way to get
+different endings, or 1 epilogue spoiler about the story's conclusion, [you can
+read more of my thoughts on this game here]({% post_url
+2021-02-22-what-im-playing-no-112 %}#FireEmblem:TheBindingBlade).
 
 The first Fire Emblem to be released for a handheld, and the game released prior
 to the series being introduced to the west, Fire Emblem: The Binding Blade

@@ -48,8 +48,8 @@ Emblem series nonetheless. This game uses the system where you need special
 items to promote units. Those promotion items are *very* scarce through much of
 the game, so you'll likely have a lot of units you can't promote for a long
 time. The best way to get them is probably through one of the Secret Shops, but
-that doesn't appear until late in the game, and you probably won't know about it
-without a guide anyway.
+those don't appear until late in the game, and you probably won't know about
+them without a guide anyway.
 
 <figure class="half">
     <a href="https://i.imgur.com/C1uMfcz.png"><img src="https://i.imgur.com/C1uMfczm.png" alt="promote units"/></a>

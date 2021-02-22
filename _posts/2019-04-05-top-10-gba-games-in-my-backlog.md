@@ -19,7 +19,7 @@ games:
 image:
   feature: feature-gameboyadvance.jpg
 layout: post
-modified: 2020-09-14
+modified: 2021-02-22
 tags:
 - Top 10
 - GBA
@@ -114,7 +114,16 @@ demon fusion, and conversing with demons to get them to join your party. I've
 enjoyed these aspects in Persona quite a bit, so if DemiKids is at all similar
 to that I should be a happy camper.
 
-## 6. {% include game.html game="Fire Emblem The Binding Blade" %}
+## 6. {% include game.html game="Fire Emblem The Binding Blade" checkmark="" %}
+
+**Edit:** Fire Emblem: The Binding Blade was difficult, but definitely worth
+playing if you've enjoyed other games in the series, particularly the other GBA
+titles. I definitely don't recommend you start the series with this game though,
+unless you're already *really* good at SRPGs and don't mind the challenge. If
+you don't mind me spoiling the number of chapters in the game, the way to get
+different endings, or 1 epilogue spoiler about the story's conclusion, [you can
+read more of my thoughts on this game here]({% post_url
+2021-02-22-what-im-playing-no-112 %}#FireEmblem:TheBindingBlade).
 
 Fire Emblem: Fūin no Tsurugi, translated as either Fire Emblem: The Sword of
 Seals or Fire Emblem: The Binding Blade, was the first Fire Emblem game released
