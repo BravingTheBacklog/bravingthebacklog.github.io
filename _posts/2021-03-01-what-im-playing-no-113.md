@@ -191,7 +191,7 @@ really cool, and always got me pumped for boss battles.
 
 I could gush and ramble on about Persona 5 Strikers for longer, but I think I'll
 wrap it up here. If the amount of time I spent playing it this week didn't make
-it obvious, I really enjoyed this game. My final playtime was 46:38, and a bit
+it obvious, I really enjoyed this game. My final playtime was 46:38, and I'm a bit
 sad it's over to be honest. I'm planning to get 100% trophy completion for this
 game though, so I don't have to say good-bye just yet!
 
