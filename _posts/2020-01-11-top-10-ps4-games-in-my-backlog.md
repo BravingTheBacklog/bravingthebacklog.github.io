@@ -4,7 +4,7 @@ title: Top 10 PS4 Games in my Backlog
 author: bsinky
 description: "A list of the top 10 PS4 games in my backlog"
 date: 2020-01-11
-modified: 2020-08-10
+modified: 2021-03-01
 categories: [List]
 tags: [Top 10,PS4,Backlog]
 games:
@@ -156,7 +156,12 @@ like an incredibly fun experience, and I'm really looking forward to giving it a
 shot! This is another game I own digitally, having picked it up during a PSN
 sale.
 
-## 2. {% include game.html game="Persona 5 Scramble The Phantom Strikers" %}
+## 2. {% include game.html game="Persona 5 Scramble The Phantom Strikers" checkmark="" %}
+
+**Edit:** Finished! I really enjoyed this game, the combat was a lot of fun, the
+music was great, and the story and characters were too! Just an all-around great
+experience. You can [read more of my thoughts here]({% post_url
+2021-03-01-what-im-playing-no-113 %}#Persona5Strikers).
 
 Much like Hyrule Warriors and Fire Emblem Warriors are for their respective
 series, Persona 5 Scramble is basically a Dynasty Warriors game set in the
