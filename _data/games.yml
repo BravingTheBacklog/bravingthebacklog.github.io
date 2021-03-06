@@ -1252,6 +1252,22 @@ Castlevania Aria of Sorrow:
   release: "May 6, 2003"
   platform: "Game Boy Advance"
 
+Castlevania Order of Ecclesia:
+  title: "Castlevania: Order of Ecclesia"
+  developer: "Konami"
+  release: "October 21, 2008"
+  platform: "Nintendo DS"
+  image: "https://i.imgur.com/XJ1QjcQ.jpg"
+  thumb: "https://i.imgur.com/XJ1QjcQm.jpg"
+
+Castlevania Lords of Shadow - Mirror of Fate HD:
+  title: "Castlevania: Lords of Shadow - Mirror of Fate HD"
+  developer: "MercurySteam"
+  release: "March 27, 2014"
+  platform: "PC"
+  image: "https://i.imgur.com/AnCKjlY.jpg"
+  thumb: "https://i.imgur.com/AnCKjlYm.jpg"
+
 Castlevania:
   title: "Castlevania"
   platform: "Nintendo Entertainment System"
@@ -2984,6 +3000,24 @@ Momodora Reverie Under the Moonlight:
   thumb: "https://i.imgur.com/zZ6zgiDm.jpg"
   imagesize: "third"
 
+Minoria:
+  title: "Minoria"
+  developer: "Bombservice"
+  release: "August 27, 2019"
+  platform: "PC"
+  image: "https://i.imgur.com/tgf0AO6.jpg"
+  thumb: "https://i.imgur.com/tgf0AO6m.jpg"
+  imagesize: "third"
+
+Catmaze:
+  title: "Catmaze"
+  developer: "Redblack Spade"
+  release: "May 24, 2018"
+  platform: "PC"
+  image: "https://i.imgur.com/vqmsLTv.jpg"
+  thumb: "https://i.imgur.com/vqmsLTvm.jpg"
+  imagesize: "third"
+
 The Mummy Demastered:
   title: "The Mummy Demastered"
   developer: "WayForward"
@@ -3206,3 +3240,56 @@ Mario Golf Super Rush:
   release: "June 25, 2021"
   platform: "Nintendo Switch"
   video: "https://youtu.be/aucAzFWpvMc"
+
+Strider:
+  title: "Strider"
+  developer: "Double Helix Games"
+  release: "February 19, 2014"
+  platform: "PC"
+  image: "https://i.imgur.com/ja5fONm.jpg"
+  thumb: "https://i.imgur.com/ja5fONmm.jpg"
+  imagesize: "third"
+
+Guacamelee Super Turbo Championship Edition:
+  title: "Guacamelee! Super Turbo Championship Edition"
+  developer: "DrinkBox Studios"
+  release: "August 21, 2014"
+  platform: "PC"
+  image: "https://i.imgur.com/A5NiXFa.jpg"
+  thumb: "https://i.imgur.com/A5NiXFam.jpg"
+  imagesize: "third"
+
+Control:
+  title: "Control"
+  developer: "Remedy Entertainment"
+  release: "August 27, 2020"
+  platform: "PC"
+  image: "https://i.imgur.com/8dpa1Eb.jpg"
+  thumb: "https://i.imgur.com/8dpa1Ebm.jpg"
+  imagesize: "third"
+
+The Messenger:
+  title: "The Messenger"
+  developer: "Sabotage"
+  release: "August 30, 2018"
+  platform: "PC"
+  image: "https://i.imgur.com/53DHakE.jpg"
+  thumb: "https://i.imgur.com/53DHakEm.jpg"
+  imagesize: "third"
+
+Axiom Verge:
+  title: "Axiom Verge"
+  developer: "Thomas Happ Games LLC"
+  release: "May 14, 2015"
+  platform: "PC"
+  image: "https://i.imgur.com/QaZrRpv.jpg"
+  thumb: "https://i.imgur.com/QaZrRpvm.jpg"
+
+Iconoclasts:
+  title: "Iconoclasts"
+  developer: "Joakim Sandberg"
+  release: "January 23, 2018"
+  platform: "PC"
+  image: "https://i.imgur.com/XbL27qJ.jpg"
+  thumb: "https://i.imgur.com/XbL27qJm.jpg"
+  imagesize: "third"
