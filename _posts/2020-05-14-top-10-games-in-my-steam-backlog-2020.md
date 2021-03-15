@@ -4,7 +4,7 @@ title: Top 10 Games in my Steam Backlog (2020)
 author: bsinky
 description: "A list of the top 10 games in my Steam backlog as of May 2020!"
 date: 2020-05-14
-modified: 2020-12-28
+modified: 2021-03-15
 categories: [List]
 tags: [Top 10,Steam,Backlog]
 image:
@@ -62,7 +62,13 @@ these. I'm looking forward to getting to know a new cast of characters here, and
 probably getting more insight into events that were referenced in Trails of Cold
 Steel 1 and 2!
 
-## 9. {% include game.html game="Battle Chasers Nightwar" %}
+## 9. {% include game.html game="Battle Chasers Nightwar" checkmark="" %}
+
+**Edit:** Another game checked off the backlog. I really enjoyed most of this
+game, but some difficulty spikes towards the end, especially with the final
+boss, left me feeling relieved more than anything when I finally finished it.
+You can [read more on what I liked about it here]({% post_url
+2021-03-08-what-im-playing-no-114 %}#BattleChasers:Nightwar), spoiler-free.
 
 I never knew about it before discovering this game, but Battle Chasers is a
 comic book series from the 90s. As of this writing, the most recent issue was
