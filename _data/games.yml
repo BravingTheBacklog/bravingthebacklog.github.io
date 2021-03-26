@@ -731,6 +731,15 @@ Hollow Knight:
   release: "February 24, 2017"
   imagesize: "third"
 
+Hollow Knight Silksong:
+  title: "Hollow Knight: Silksong"
+  developer: "Team Cherry"
+  release: "TBA"
+  platform: "PC"
+  image: "https://i.imgur.com/uOGDiew.jpg"
+  thumb: "https://i.imgur.com/uOGDiewm.jpg"
+  imagesize: "third"
+
 Valkyria Chronicles:
   title: "Valkyria Chronicles"
   image: "https://i.imgur.com/ll7IF08.jpg"
@@ -3292,4 +3301,110 @@ Iconoclasts:
   platform: "PC"
   image: "https://i.imgur.com/XbL27qJ.jpg"
   thumb: "https://i.imgur.com/XbL27qJm.jpg"
+  imagesize: "third"
+
+Kingdom Shell:
+  title: "Kingdom Shell"
+  developer: "Cup of Pixels"
+  release: "2021"
+  platform: "PC"
+  image: "https://i.imgur.com/G8CtHrH.jpg"
+  thumb: "https://i.imgur.com/G8CtHrHm.jpg"
+
+SteamDolls Order of Chaos:
+  title: "SteamDolls: Order of Chaos"
+  developer: "The Shady Gentlemen"
+  release: "2021"
+  platform: "PC"
+  image: "https://i.imgur.com/qFyK7WZ.jpg"
+  thumb: "https://i.imgur.com/qFyK7WZm.jpg"
+  imagesize: "third"
+
+Rune Fencer Illyia:
+  title: "Rune Fencer Illyia"
+  developer: "Nootbox Games"
+  release: "2021"
+  platform: "PC"
+  image: "https://i.imgur.com/l4eBNN8.jpg"
+  thumb: "https://i.imgur.com/l4eBNN8m.jpg"
+  imagesize: "third"
+
+Yeomna:
+  title: "Yeomna: The Adventures of Demon Hunter"
+  developer: "catnipstudio"
+  release: "TBA"
+  platform: "PC"
+  image: "https://i.imgur.com/F0Hgf6c.jpg"
+  thumb: "https://i.imgur.com/F0Hgf6cm.jpg"
+  imagesize: "third"
+
+Akatori:
+  title: "Akatori"
+  developer: "TeamNora Games"
+  release: "TBA"
+  platform: "PC"
+  image: "https://i.imgur.com/q77pPCY.jpg"
+  thumb: "https://i.imgur.com/q77pPCYm.jpg"
+  imagesize: "third"
+
+Frontier Hunter Erzas Wheel of Fortune:
+  title: "Frontier Hunter: Erza’s Wheel of Fortune"
+  developer: "IceSitruuna"
+  release: "2021"
+  platform: "PC"
+  image: "https://i.imgur.com/u35TBcc.jpg"
+  thumb: "https://i.imgur.com/u35TBccm.jpg"
+  imagesize: "third"
+
+Rubi The Wayward Mira:
+  title: "Rubi: The Wayward Mira"
+  developer: "Wayward Games"
+  release: "2021"
+  platform: "PC"
+  image: "https://i.imgur.com/m5Jk0ug.jpg"
+  thumb: "https://i.imgur.com/m5Jk0ugm.jpg"
+  imagesize: "third"
+
+Plague Huntress:
+  title: "Plague Huntress"
+  developer: "Bare Feet Games"
+  release: "TBA"
+  platform: "TBA"
+  image: "https://i.imgur.com/rOgzVvp.jpg"
+  thumb: "https://i.imgur.com/rOgzVvpm.jpg"
+
+Aeterna Noctis:
+  title: "Aeterna Noctis"
+  developer: "Aeternum Game Studios"
+  release: "December 15, 2021"
+  platform: "PC"
+  image: "https://i.imgur.com/ILjMBBR.jpg"
+  thumb: "https://i.imgur.com/ILjMBBRm.jpg"
+  imagesize: "third"
+
+Ender Lillies:
+  title: "Ender Lillies: Quietus of the Knights"
+  developer: "Live Wire"
+  release: "January 21, 2021"
+  platform: "PC"
+  image: "https://i.imgur.com/47XxsfC.jpg"
+  thumb: "https://i.imgur.com/47XxsfCm.jpg"
+  imagesize: "third"
+
+The Last Faith:
+  title: "The Last Faith"
+  developer: "Kumi Souls Games"
+  release: "2021"
+  platform: "PC"
+  image: "https://i.imgur.com/huKTJFV.jpg"
+  thumb: "https://i.imgur.com/huKTJFVm.jpg"
+  imagesize: "third"
+
+Gestalt Steam and Cinder:
+  title: "Gestalt: Steam & Cinder"
+  developer: "Metamorphosis Games"
+  release: "2021"
+  platform: "PC"
+  image: "https://i.imgur.com/84bf91Y.jpg"
+  thumb: "https://i.imgur.com/84bf91Ym.jpg"
   imagesize: "third"
