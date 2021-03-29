@@ -18,7 +18,7 @@ games:
 image:
   feature: feature-ps2.jpg
 layout: post
-modified: 2019-09-21
+modified: 2021-03-29
 redirect_from: /top%2010/top-10-ps2-games-in-my-backlog/
 tags:
 - Top 10
@@ -200,7 +200,13 @@ space pirate and sailing through space is too good to pass up! Plus, it's
 available on PlayStation Network for the PS4, and that version includes trophy
 support!
 
-## 1. {% include game.html game="Radiata Stories" %}
+## 1. {% include game.html game="Radiata Stories" checkmark="" %}
+
+**Edit:** Finished! I enjoyed the first half of Radiata Stories most, but the
+whole experience was good overall. It dragged a little at times, I recommend
+following a guide to make the best use of your free time in-game. You can [read
+more of my thoughts on it here]({% post_url 2021-03-22-what-im-playing-no-116
+%}#RadiataStories), spoiler-free!
 
 The art style of this game seems cool, I'm not really sure how to describe it.
 Even the cover art makes me want to play this game, I just love the look.
