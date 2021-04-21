@@ -3408,3 +3408,92 @@ Gestalt Steam and Cinder:
   image: "https://i.imgur.com/84bf91Y.jpg"
   thumb: "https://i.imgur.com/84bf91Ym.jpg"
   imagesize: "third"
+
+Lost Dimension:
+  title: "Lost Dimension"
+  developer: "Lancarse / FURYU Corporation"
+  release: "October 30, 2017"
+  image: "https://i.imgur.com/9iG8O09.jpg"
+  thumb: "https://i.imgur.com/9iG8O09m.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Okami HD:
+  title: "Ōkami HD"
+  developer: "Capcom"
+  release: "December 12, 2017"
+  image: "https://i.imgur.com/HsL6hoi.jpg"
+  thumb: "https://i.imgur.com/HsL6hoim.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Tokyo Xanadu eX Plus:
+  title: "Tokyo Xanadu eX+"
+  developer: "Falcom"
+  release: "December 8, 2017"
+  image: "https://i.imgur.com/dKZf7e6.jpg"
+  thumb: "https://i.imgur.com/dKZf7e6m.jpg"
+  platform: "PC"
+
+Indivisible:
+  title: "Indivisible"
+  developer: "Lab Zero Games"
+  release: "October 8, 2019"
+  image: "https://i.imgur.com/3f99j24.jpg"
+  thumb: "https://i.imgur.com/3f99j24m.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Prey 2017:
+  title: "Prey"
+  developer: "Arkane Studios"
+  release: "May 4, 2017"
+  image: "https://i.imgur.com/AmBoHCE.jpg"
+  thumb: "https://i.imgur.com/AmBoHCEm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Valkyria Chronicles 4:
+  title: "Valkyria Chronicles 4"
+  developer: "Sega"
+  release: "September 25, 2018"
+  image: "https://i.imgur.com/Tiz0rsn.jpg"
+  thumb: "https://i.imgur.com/Tiz0rsnm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Vampyr:
+  title: "Vampyr"
+  developer: "DONTNOD Entertainment"
+  release: "June 4, 2018"
+  image: "https://i.imgur.com/mMMdRAN.jpg"
+  thumb: "https://i.imgur.com/mMMdRANm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Digimon Story Cyber Sleuth Complete Edition:
+  title: "Digimon Story Cyber Sleuth: Complete Edition"
+  developer: "h.a.n.d., Inc."
+  release: "October 17, 2019"
+  image: "https://i.imgur.com/FEzIpJO.jpg"
+  thumb: "https://i.imgur.com/FEzIpJOm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Resident Evil HD:
+  title: "Resident Evil"
+  developer: "Capcom"
+  release: "January 20, 2015"
+  image: "https://i.imgur.com/lxrjRbr.jpg"
+  thumb: "https://i.imgur.com/lxrjRbrm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Ni No Kuni Wrath of the White Witch Remastered:
+  title: "Ni No Kuni Wrath of the White Witch Remastered"
+  developer: "Level-5"
+  release: "September 19, 2019"
+  image: "https://i.imgur.com/x3vwarv.jpg"
+  thumb: "https://i.imgur.com/x3vwarvm.jpg"
+  imagesize: "third"
+  platform: "PC"
