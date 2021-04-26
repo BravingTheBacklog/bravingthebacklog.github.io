@@ -4,7 +4,7 @@ title: Top 10 3DS Games in my Backlog (2021)
 author: bsinky
 description: "Another list of the top 10 games in my 3DS backlog!"
 date: 2021-01-28
-modified: 2021-02-08
+modified: 2021-04-25
 categories: [List]
 tags: [Top 10,Backlog]
 image:
@@ -142,7 +142,14 @@ Reviews for this one are pretty mediocre, so I'm not expecting anything as
 stellar as Valkyria Chronicles, but if the two share somewhat similar gameplay
 it should still be a fun time.
 
-## 2. {% include game.html game="Shin Megami Tensei Devil Survivor Overclocked" %}
+## 2. {% include game.html game="Shin Megami Tensei Devil Survivor Overclocked" checkmark="" %}
+
+**Edit:** Devil Survivor Overclocked was a lot of fun! There were a few
+difficulty spikes, but the gameplay is *very* rewarding when you figure it out.
+You can [read more of my thoughts on it here]({% post_url
+2021-04-05-what-im-playing-no-118
+%}#ShinMegamiTensei:DevilSurvivor:Overclocked), spoiler-free. Definitely glad I
+played this one!
 
 Put simply, Shin Megami Tensei: Devil Survivor takes Shin Megami Tensei gameplay
 and reshapes it into a strategy RPG. As a fan of SRPGs and a Persona fan only
