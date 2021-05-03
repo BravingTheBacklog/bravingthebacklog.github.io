@@ -18,7 +18,7 @@ games:
 image:
   feature: feature-ds.jpg
 layout: post
-modified: 2020-07-05
+modified: 2021-05-03
 redirect_from: /top%2010/top-10-ds-games-i-haven-t-played-but-want-to/
 tags:
 - Top 10
@@ -133,7 +133,12 @@ because it seemed like it might be similar to Final Fantasy Tactics Advance in
 some ways, a game I loved. But, I never got a chance to try it. Hoping to remedy
 that in the near-ish future!
 
-## 2. {% include game.html game="Chrono Trigger" %}
+## 2. {% include game.html game="Chrono Trigger" checkmark="" %}
+
+**Edit:** I've finally played Chrono Trigger, and it was excellent! The balance
+and pacing are great, and make it a joy to play from beginning to end. You can
+[read more of my thoughts on it here]({% post_url
+2021-04-26-what-im-playing-no-121 %}#ChronoTrigger).
 
 Chrono Trigger, originally released in 1995 on the SNES, is a classic JRPG in
 the eyes of so many. I've heard it praised so many times online. Despite all
