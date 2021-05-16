@@ -4,7 +4,7 @@ title: What I'm Playing - No. 123
 author: bsinky
 description: "I started The Legend of Heroes Trails in the Sky this week!"
 date: 2021-05-10
-modified: 2021-05-10
+modified: 2021-05-16
 categories: [Weekly]
 tags: [What I'm Playing,Weekly,Casual]
 image:
@@ -17,7 +17,7 @@ games:
 Welcome back to another weekly wrap-up of the games I've been playing over the
 past week!
 
-I only played The Legend of Hereos: Trails in the Sky last week, and my write up
+I only played The Legend of Heroes: Trails in the Sky last week, and my write up
 on it is spoiler-free.
 
 Click a title to skip to that section. Games contained within this post:
