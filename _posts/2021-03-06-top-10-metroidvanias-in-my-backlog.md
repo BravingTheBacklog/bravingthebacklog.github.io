@@ -198,7 +198,12 @@ person: Thomas Happ. Development began in 2010, and the initial release was May
 14, 2015. Making any kind of game is hard, but seeing a solo dev make a
 critically acclaimed game like this one is extra impressive!
 
-## 1. {% include game.html game="Iconoclasts" %}
+## 1. {% include game.html game="Iconoclasts" checkmark="" %}
+
+**Edit:** Finished! It wasn't as much a metroidvania as I'd hoped, but it was
+still quite fun. The characters, story, and pixel art are fantastic! You can
+[read more of my thoughts on it here]({% post_url and story
+2021-05-17-what-im-playing-no-124 %}#Iconoclasts), spoiler-free.
  
 I don't know if Iconoclasts plays anything like it, but I'm strongly reminded of
 Cave Story from what's shown in the trailers. The UI, entering buildings, and
