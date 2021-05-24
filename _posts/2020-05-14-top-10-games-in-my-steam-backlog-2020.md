@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Top 10 Games in my Steam Backlog (2020)
+title: Top 10 Games in my Steam Backlog (2020) (DONE)
 author: bsinky
 description: "A list of the top 10 games in my Steam backlog as of May 2020!"
 date: 2020-05-14
-modified: 2021-03-15
+modified: 2021-05-23
 categories: [List]
 tags: [Top 10,Steam,Backlog]
 image:
@@ -35,6 +35,11 @@ games I'm most excited to try in my Steam library!
 
 <!--more-->
 
+**Edit:** It took me a little over a year and 1 week to do it, but I've now
+played all the games in this list. Several of them ended up being in my [Top 10
+Games I Played in 2020]({% post_url 2020-12-30-top-10-games-i-played-in-2020 %})
+list as well, so it goes without saying that I really enjoyed these games!
+
 Like with the previous Steam backlog list, you'll see a few ports of older games
 here. I still love when games get PC ports, because it's just such a flexible
 platform thanks to Steam's streaming features. I can stream games to my phone
@@ -45,7 +50,15 @@ super convenient otherwise!
 One last note, listed release dates are for the Steam versions of these games,
 not their original release. Now, on with the list!
 
-## 10. {% include game.html game="The Legend of Heroes Trails in the Sky" %}
+## 10. {% include game.html game="The Legend of Heroes Trails in the Sky" checkmark="" %}
+
+**Edit:** Finished! Trails in the Sky provides a promising foundation to the
+trilogy with some endearing characters, good music, and interesting if unevenly
+paced story. It has a lot of the same elements that made Trails of Cold Steel
+fun, and it's cool to see how they built upon the systems in Trails in the Sky
+to create the Cold Steel games. It's an enjoyable game in its own right too. You
+can [read more of my thoughts on it here]({% post_url
+2021-05-10-what-im-playing-no-123 %}#TheLegendofHeroes:TrailsintheSky).
 
 The Legend of Heroes: Trails in the Sky is part of the long-running Falcom RPG
 series, The Legend of Heroes. It's the beginning of the "Trails" sub-series,
