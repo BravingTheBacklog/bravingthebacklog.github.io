@@ -18,7 +18,7 @@ games:
 image:
   feature: feature-ps2.jpg
 layout: post
-modified: 2021-03-29
+modified: 2021-06-14
 redirect_from: /top%2010/top-10-ps2-games-in-my-backlog/
 tags:
 - Top 10
@@ -76,7 +76,13 @@ aesthetic.
 As a Fire Emblem fan, I'm hoping Stella Deus: The Gate of Eternity proves to be
 an enjoyable experience!
 
-## 8. {% include game.html game="Shin Megami Tensei III Nocturne" %}
+## 8. {% include game.html game="Shin Megami Tensei III Nocturne" checkmark="" %}
+
+**Edit:** Finished! ...Well, I didn't play the original PS2 version, but instead
+played the HD Remaster on PS4. I really enjoyed it! It's a fantastic RPG where
+gameplay is the focus. You can [read more of my thoughts on it here]({% post_url
+2021-05-31-what-im-playing-no-126 %}#ShinMegamiTenseiIII:NocturneHDRemaster),
+spoiler-free!
 
 Shin Megami Tensei III: Nocturne puts you into the shoes of a Japanese high
 school student who is turned into a half-demon when the apocalypse begins and
