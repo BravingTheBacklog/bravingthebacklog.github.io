@@ -699,6 +699,15 @@ Danganronpa V3 Killing Harmony:
   imagesize: "third"
   platform: "PC"
 
+Danganronpa Decadence:
+  title: "Danganronpa: Decadence"
+  developer: "Spike Chunsoft"
+  release: "2021"
+  image: ""
+  thumb: ""
+  imagesize: "third"
+  platform: "Nintendo Switch"
+
 Worlds End Club:
   title: "World's End Club"
   developer: "Too Kyo Games"
@@ -813,6 +822,15 @@ Metroid Fusion:
   developer: "Nintendo R&D1"
   release: "November 18, 2002"
 
+Metroid Dread:
+  title: "Metroid Dread"
+  developer: "MercurySteam & Nintendo"
+  release: "October 8, 2021"
+  image: ""
+  thumb: ""
+  imagesize: "third"
+  platform: "Nintendo Switch"
+
 Fire Emblem The Sacred Stones:
   title: "Fire Emblem: The Sacred Stones"
   thumb: "https://i.imgur.com/MjhtYjUm.jpg"
@@ -864,7 +882,7 @@ Shin Megami Tensei IV Apocalypse:
 Shin Megami Tensei V:
   title: "Shin Megami Tensei V"
   developer: "Atlus"
-  release: "2021"
+  release: "November 12, 2021"
   platform: "Nintendo Switch"
   image: "https://i.imgur.com/aHOHimq.png"
   thumb: "https://i.imgur.com/aHOHimqm.png"
@@ -2687,6 +2705,15 @@ Deathloop:
   video: "https://youtube.com/embed/mc2hz3LJhTY"
   video2: "https://youtube.com/embed/dT1BlnDt1R4"
 
+Redfall:
+  title: "Redfall"
+  developer: "Arkane Studios"
+  release: "2021"
+  image: ""
+  thumb: ""
+  imagesize: "third"
+  platform: "PC"
+
 GhostWire Tokyo:
   title: "GhostWire: Tokyo"
   developer: "Tango Gameworks"
@@ -2884,6 +2911,15 @@ Tom Clancy's Rainbow Six Vegas 2:
   image: "https://i.imgur.com/nvsiR3U.jpg"
   thumb: "https://i.imgur.com/nvsiR3Um.jpg"
   imagesize: "third"
+
+Rainbow Six Extraction:
+  title: "Tom Clancy's Rainbow Six: Extraction"
+  developer: "Ubisoft Montreal"
+  release: "September 16, 2021"
+  image: ""
+  thumb: ""
+  imagesize: "third"
+  platform: "PC"
 
 Dead Space:
   title: "Dead Space"
@@ -3495,5 +3531,50 @@ Ni No Kuni Wrath of the White Witch Remastered:
   release: "September 19, 2019"
   image: "https://i.imgur.com/x3vwarv.jpg"
   thumb: "https://i.imgur.com/x3vwarvm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Starfield: 
+  title: "Starfield"
+  developer: "Bethesda"
+  release: "November 11, 2022"
+  image: ""
+  thumb: ""
+  imagesize: "third"
+  platform: "PC"
+
+The Legend of Zelda Breath of the Wild 2:
+  title: "The Legend of Zelda: Breath of the Wild 2"
+  developer: "Nintendo"
+  release: "2022"
+  image: ""
+  thumb: ""
+  imagesize: "third"
+  platform: "Nintendo Switch"
+
+Advance Wars 1 plus 2 ReBoot Camp:
+  title: "Advance Wars 1+2 Re-Boot Camp"
+  developer: "WayForward"
+  release: "December 3, 2021"
+  image: ""
+  thumb: ""
+  imagesize: "third"
+  platform: "PC"
+
+Metal Slug Tactics:
+  title: "Metal Slug Tactics"
+  developer: "Leikir Studio"
+  release: "TBA"
+  image: "https://i.imgur.com/MLujBIw.jpg"
+  thumb: "https://i.imgur.com/MLujBIwm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Dark Deity:
+  title: "Dark Deity"
+  developer: "Sword & Axe"
+  release: "June 15, 2021"
+  image: "https://i.imgur.com/sGTrgLp.jpg"
+  thumb: "https://i.imgur.com/sGTrgLpm.jpg"
   imagesize: "third"
   platform: "PC"
