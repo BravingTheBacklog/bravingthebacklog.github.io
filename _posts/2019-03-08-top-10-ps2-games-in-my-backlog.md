@@ -18,7 +18,7 @@ games:
 image:
   feature: feature-ps2.jpg
 layout: post
-modified: 2021-06-14
+modified: 2021-06-28
 redirect_from: /top%2010/top-10-ps2-games-in-my-backlog/
 tags:
 - Top 10
@@ -101,7 +101,15 @@ Nocturne is even rougher...yikes! Nocturne is also not as character-focused as
 Persona I believe, it's more skewed toward dungeon exploration than character
 development or plot I believe.
 
-## 7. {% include game.html game="Shin Megami Tensei Digital Devil Saga" %}
+## 7. {% include game.html game="Shin Megami Tensei Digital Devil Saga" checkmark="" %}
+
+**Edit:** I ended up playing Nocturne before Digital Devil Saga, but I've now
+played both games! Digital Devil Saga is definitely more approachable than
+Nocturne in many ways, but that's not to say it doesn't have its share of
+challenging moments! I really enjoyed it, and you can bet I'll be playing the
+2nd game as well! You can [read more of my thoughts on the game here]({%
+post_url 2021-06-21-what-im-playing-no-129
+%}#ShinMegamiTensei:DigitalDevilSaga), spoiler-free.
 
 Like Persona, Shin Megami Tensei: Digital Devil Saga is another spin-off of the
 main Shin Megami Tensei series. My understanding of Digital Devil Saga is that
