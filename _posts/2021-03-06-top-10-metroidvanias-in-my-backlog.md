@@ -4,7 +4,7 @@ title: Top 10 Metroidvanias in my Backlog
 author: bsinky
 description: A new blog post
 date: 2021-03-06
-modified: 2021-03-06
+modified: 2021-07-11
 categories: [List]
 tags: [Top 10,Backlog,Metroidvania]
 image:
@@ -178,7 +178,13 @@ hook that launches you through the air.
 I've seen nothing but praise for The Messenger online, and that's why I have it
 so high on this list. I want to see what all the hype is about!
 
-## 2. {% include game.html game="Axiom Verge" %}
+## 2. {% include game.html game="Axiom Verge" checkmark="" %}
+
+**Edit:** Another one finished! Axiom Verge was a fantastic metroidvania, with
+plenty of items to collect, secrets to find, and intense boss fights. I
+definitely recommend this one if you're a fan of the genre! You can [read more
+of my thoughts on it here]({% post_url 2021-07-12-what-im-playing-no-132
+%}#AxiomVerge), spoiler-free.
 
 Axiom Verge is one of the essential metroidvanias. One of the ones every fan of
 the genre has played, and uses to frame their experiences with metroidvanias
@@ -202,7 +208,7 @@ critically acclaimed game like this one is extra impressive!
 
 **Edit:** Finished! It wasn't as much a metroidvania as I'd hoped, but it was
 still quite fun. The characters, story, and pixel art are fantastic! You can
-[read more of my thoughts on it here]({% post_url and story
+[read more of my thoughts on it here]({% post_url
 2021-05-17-what-im-playing-no-124 %}#Iconoclasts), spoiler-free.
  
 I don't know if Iconoclasts plays anything like it, but I'm strongly reminded of
