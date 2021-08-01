@@ -4,7 +4,7 @@ title: Top 10 Oldest Games in my Backlog
 author: bsinky
 description: "A top 10 list of the oldest games in my backlog by release date."
 date: 2020-03-13
-modified: 2020-07-13
+modified: 2021-08-01
 categories: [List]
 tags: [Top 10,Backlog,Retro]
 image:
@@ -69,7 +69,14 @@ difficult game for a number of reasons. In game, the characters and enemies are
 presented as cards, as if they're part of a tabletop RPG. This sounds pretty
 charming, and I am curious to see some of HAL's non-Kirby work.
 
-## 8. {% include game.html game="Shin Megami Tensei" platform="" %}
+## 8. {% include game.html game="Shin Megami Tensei" platform="" checkmark="" %}
+
+**Edit:** I've since played this one, and it's a very fun, retro dungeon
+crawler! Some parts are a bit trying, like a high encounter rate and some
+non-obvious things you need to do to advance from time to time. But on the
+whole, it's a very enjoyable game, and definitely one worth playing if you're
+interested! You can read [more of my thoughts on it here]({% post_url
+2021-07-19-what-im-playing-no-133 %}#ShinMegamiTensei), spoiler-free.
 
 Shin Megami Tensei made my [Top 10 SNES Games in my Backlog]({% post_url
 2019-08-11-top-10-snes-games-in-my-backlog %}) list a while back. This is the

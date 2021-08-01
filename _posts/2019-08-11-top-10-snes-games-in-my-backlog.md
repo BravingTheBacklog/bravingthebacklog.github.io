@@ -21,7 +21,7 @@ image:
   feature: feature-super-nintendo.jpg
   thumb: feature-super-nintendo-thumb.jpg
 layout: post
-modified: 2019-10-31
+modified: 2021-08-01
 tags:
 - Top 10
 - SNES
@@ -130,7 +130,14 @@ the Switch. It's a compilation that includes the aforementioned "Final Fantasy
 Adventure," Secret of Mana, and the third game in the series (which had never
 before been released in English!), Trials of Mana.
 
-## 4. {% include game.html game="Shin Megami Tensei" %}
+## 4. {% include game.html game="Shin Megami Tensei" checkmark="" %}
+
+**Edit:** I've since played this one, and it's a very fun, retro dungeon
+crawler! Some parts are a bit trying, like a high encounter rate and some
+non-obvious things you need to do to advance from time to time. But on the
+whole, it's a very enjoyable game, and definitely one worth playing if you're
+interested! You can read [more of my thoughts on it here]({% post_url
+2021-07-19-what-im-playing-no-133 %}#ShinMegamiTensei), spoiler-free.
 
 This game sort of put Atlus on the map. It featured gameplay elements that would
 become staples of the Shin Megami Tensei series, such as demon conversation,

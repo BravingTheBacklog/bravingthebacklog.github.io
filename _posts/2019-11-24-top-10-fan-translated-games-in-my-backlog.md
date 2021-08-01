@@ -21,7 +21,7 @@ image:
   feature: feature-top-10-fan-translations-backlog.jpg
   thumb: feature-top-10-fan-translations-backlog-thumb.jpg
 layout: post
-modified: 2021-02-22
+modified: 2021-08-01
 tags:
 - Top 10
 - Translation
@@ -97,7 +97,14 @@ entry in the series can be enjoyed by English-speaking people like myself! The
 translation patch [can be found on the project website
 here](https://vc3translationproject.wordpress.com/).
 
-## 7. {% include game.html game="Shin Megami Tensei" platform="" %}
+## 7. {% include game.html game="Shin Megami Tensei" platform="" checkmark="" %}
+
+**Edit:** I've since played this one, and it's a very fun, retro dungeon
+crawler! Some parts are a bit trying, like a high encounter rate and some
+non-obvious things you need to do to advance from time to time. But on the
+whole, it's a very enjoyable game, and definitely one worth playing if you're
+interested! You can read [more of my thoughts on it here]({% post_url
+2021-07-19-what-im-playing-no-133 %}#ShinMegamiTensei), spoiler-free.
 
 I really want to get into the mainline Shin Megami Tensei series, as I've
 currently only ever played games from one of its spin-off series, Persona. I
