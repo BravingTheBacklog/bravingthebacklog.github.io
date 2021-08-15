@@ -4,7 +4,7 @@ title: Top 10 Games in my Steam Backlog (2021)
 author: bsinky
 description: "The next top 10 games in my Steam backlog, 2021 edition!"
 date: 2021-04-21
-modified: 2021-04-21
+modified: 2021-08-15
 categories: [List]
 tags: [Top 10,Steam,Backlog]
 image:
@@ -12,6 +12,17 @@ image:
     thumb: feature-steam-2021-thumb.jpg
     credit: Free Creative Stuff
     creditlink: https://www.pexels.com/photo/blue-and-red-abstract-painting-5514994/
+games:
+- Lost Dimension
+- Okami HD
+- Tokyo Xanadu eX+
+- Indivisible
+- Prey
+- Valkyria Chronicles 4
+- Vampyr
+- Digimon Story Cyber Sleuth Complete Edition
+- Resident Evil HD
+- Ni no Kuni Wrath of the White Witch Remastered
 ---
 
 With my Steam backlog of 796 games at the time of writing, clearing 10 of them
@@ -157,7 +168,15 @@ started it all has in store for me.
 I think I'm equally parts nervous and excited to play Resident Evil HD. I
 consider it a gap in my video game experience that's been a long time coming.
 
-## 1. {% include game.html game="Ni No Kuni Wrath of the White Witch Remastered" %}
+## 1. {% include game.html game="Ni No Kuni Wrath of the White Witch Remastered" checkmark="" %}
+
+**Edit:** Another RPG finished! Ni no Kuni was a super charming JRPG that
+inspires an enormous sense of child-like wonder. The monster catching mechanic
+is pretty simple, so I wouldn't recommend going into this expecting anything
+like Pokémon, but if you're a fan of JRPGs, I'd definitely recommend this one!
+You can [read more of my thoughts on it here]({% post_url
+2021-08-09-what-im-playing-no-136 %}#NinoKuni:WrathoftheWhiteWitchRemastered),
+spoiler-free!
 
 This JRPG originally released for PS3, with a remaster releasing several years
 later for PS4 and Windows. With animated cutscenes produced by the legendary
