@@ -221,7 +221,7 @@ areas. Each of these has some metroidvania elements, like branching paths to
 explore and sometimes new abilities, but on a very small scale.
 
 <figure class="third">
-    <a href="https://i.imgur.com/fakYwi2.png"><img src="https://i.imgur.com/fakYwi2m.png" alt="a world map"/></a>
+    <a href="https://i.imgur.com/Avi6ite.png"><img src="https://i.imgur.com/Avi6item.png" alt="a world map"/></a>
     <a href="https://i.imgur.com/3l1go5j.png"><img src="https://i.imgur.com/3l1go5jm.png" alt="branching paths"/></a>
     <a href="https://i.imgur.com/5YB5Ogn.png"><img src="https://i.imgur.com/5YB5Ognm.png" alt="new abilities"/></a>
 </figure>
