@@ -144,7 +144,13 @@ priority because I've heard Portrait has several areas that are quite linear.
 That's not something I particularly mind, but if Order of Ecclesia is a bit more
 non-linear, then that's the one I want to play first.
 
-## 4. {% include game.html game="Catmaze" %}
+## 4. {% include game.html game="Catmaze" x="" %}
+
+**Edit:** I gave Catmaze a try, and it's an okay game, but I couldn't bring
+myself to finish it. With the high bar set by its competition in the
+metroidvania genre, I just don't think it does anything interesting enough to
+make it worth playing. You can [read more of my thoughts on it here]({% post_url
+2021-08-22-what-im-playing-no-138 %}#Catmaze), spoiler-free.
 
 I'm *pretty* sure the developer, Redblack Spade, is just one person. I'm not
 100% sure if they created everything in Catmaze alone, or if they had help with
@@ -161,7 +167,12 @@ want is a game that stays true to the metroidvania formula; a comfort food game.
 Mac and cheese in video game form. I think that's what Catmaze will be, and I'm
 looking forward to it!
 
-## 3. {% include game.html game="The Messenger" %}
+## 3. {% include game.html game="The Messenger" checkmark="" %}
+
+**Edit:** Oh man, The Messenger was *so* much fun to play through! If it
+interests you at all, I encourage you to play it! You can [read more of my
+thoughts on it here]({% post_url 2021-08-22-what-im-playing-no-138
+%}#TheMessenger), spoiler-free.
   
 Mechanically, The Messenger seems to play a bit like the NES Ninja Gaiden games
 with some extra metroidvania flair. I haven't played the Ninja Gaiden games
