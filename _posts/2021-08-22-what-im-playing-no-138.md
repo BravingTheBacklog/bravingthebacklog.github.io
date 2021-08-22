@@ -50,15 +50,16 @@ delivering a scroll, making you the titular Messenger.
 
 As an 8-bit styled 2D action platformer, gameplay consists of you running to the
 right, navigating obstacles, and fighting enemies and bosses. The platforming in
-this game is really unique though. You don't have a double jump, but instead you
-can only jump in mid-air aftering hitting something with your sword while in
-mid-air. This is called the cloudstep technique, and it's pretty awesome.
+this game is really unique. You don't have a typical double jump, but instead
+you can only jump in mid-air after hitting something with your sword while
+airborne. This is called the cloudstep technique, and it's pretty awesome!
 There's no limit to how many times you can cloudstep either, so you can remain
 in the air forever as long as you have enemies or other objects to attack in to
 replenish your cloudstep. You can also buy upgrades that give you helpful
 abilities as you go, and there are also mandatory upgrades you'll be given as
 you progress, like the ability to climb walls and the rope dart (which is
-basically a horizontal grappling hook).
+basically a horizontal grappling hook). It all comes together to create
+platforming that flows really, *really* well.
 
 <figure class="third">
     <a href="https://i.imgur.com/XNxkKNc.jpg"><img src="https://i.imgur.com/XNxkKNcm.jpg" alt="action platformer"/></a>
