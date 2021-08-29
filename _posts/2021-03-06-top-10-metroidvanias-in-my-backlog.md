@@ -4,7 +4,7 @@ title: Top 10 Metroidvanias in my Backlog
 author: bsinky
 description: A new blog post
 date: 2021-03-06
-modified: 2021-07-11
+modified: 2021-08-29
 categories: [List]
 tags: [Top 10,Backlog,Metroidvania]
 image:
@@ -126,7 +126,12 @@ metroidvania elements and influence here, and I'm excited to see what those
 elements end up being, as well as experience a game that was nominated for
 several Game of the Year awards in 2019 and 2020.
 
-## 5. {% include game.html game="Castlevania Order of Ecclesia" platform="" %}
+## 5. {% include game.html game="Castlevania Order of Ecclesia" platform="" checkmark="" %}
+
+**Edit:** Another Castlevania under my belt, and it was another great game!
+Pretty linear, but really fun. You can [read more of my thoughts on it here]({%
+post_url 2021-08-22-what-im-playing-no-138 %}#Castlevania:OrderofEcclesia),
+spoiler-free.
 
 Introducing the first non-PC game on the list: Castlevania: Order of Ecclesia
 for the Nintendo DS.
