@@ -2,9 +2,9 @@
 layout: post
 title: Top 10 Metroidvanias in my Backlog
 author: bsinky
-description: A new blog post
+description: "The top 10 Metroidvania games in my backlog."
 date: 2021-03-06
-modified: 2021-08-29
+modified: 2021-10-13
 categories: [List]
 tags: [Top 10,Backlog,Metroidvania]
 image:
@@ -69,7 +69,14 @@ concerned about them. This title might be a bit lighter on metroidvania
 elements, but the fast-paced, intense combat system sounds exciting, and makes
 this game one I definitely want to check out.
 
-## 8. {% include game.html game="Castlevania Lords of Shadow - Mirror of Fate HD" %}
+## 8. {% include game.html game="Castlevania Lords of Shadow - Mirror of Fate HD" checkmark="" %}
+
+**Edit:** Mirror of Fate was a pretty fun Castlevania game, as long as you go in
+expecting something a bit different from the rest of the series. The
+metroidvania elements here are pretty light, but it's definitely a fun 2D action
+adventure game! [Read more of my thoughts on it here]({% post_url
+2021-09-26-what-im-playing-no-142 %}#Castlevania:LordsofShadowMirrorofFateHD),
+spoiler-free.
 
 Castlevania: Lords of Shadow - Mirror of Fate was originally a 3DS game, but a
 later HD port was released for Xbox 360, PlayStation 3, and finally released on
