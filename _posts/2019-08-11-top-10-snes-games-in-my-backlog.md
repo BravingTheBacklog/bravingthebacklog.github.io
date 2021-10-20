@@ -21,7 +21,7 @@ image:
   feature: feature-super-nintendo.jpg
   thumb: feature-super-nintendo-thumb.jpg
 layout: post
-modified: 2021-08-01
+modified: 2021-10-19
 tags:
 - Top 10
 - SNES
@@ -180,7 +180,15 @@ series. As of this writing, I've only played Final Fantasy I & II: Dawn of
 Souls, so I don't have much of an opinion on the series myself. Given its
 reputation though, I'm certainly looking to experience this one myself!
 
-## 2. {% include game.html game="Lufia II Rise of the Sinistrals" %}
+## 2. {% include game.html game="Lufia II Rise of the Sinistrals" checkmark="" %}
+
+**Edit:** Another SNES game finished! This was a fun one, with some tough
+puzzles in its dungeons. If you're a fan of turn-based RPGs *and* 2D Zelda-style
+puzzles, you have to check this game out. The worst thing about it is that the
+North American version is a little buggy, but not in a game-breaking way. Other
+than that, it's pure 16-bit RPG fun! You can [read more of my thoughts on it
+here]({% post_url 2021-10-10-what-im-playing-no-143
+%}#LufiaII:RiseoftheSinistrals), spoiler-free.
 
 Lufia II: Rise of the Sinistrals features classic JRPG staples like turn-based
 battles and exploration, but also mixes things up by having dungeons with
