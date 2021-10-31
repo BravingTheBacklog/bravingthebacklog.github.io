@@ -4,7 +4,7 @@ title: Top 10 Metroidvanias in my Backlog
 author: bsinky
 description: "The top 10 Metroidvania games in my backlog."
 date: 2021-03-06
-modified: 2021-10-13
+modified: 2021-10-31
 categories: [List]
 tags: [Top 10,Backlog,Metroidvania]
 image:
@@ -42,7 +42,12 @@ these games are from Steam. ...*Most*.
 
 Unless noted, the platform for each of these games is PC. On with the list!
 
-## 10. {% include game.html game="Minoria" %}
+## 10. {% include game.html game="Minoria" checkmark="" %}
+
+**Edit:** Like Momodora: Reverie Under the Moonlight, Minoria is a great
+metroidvania if you're looking for a short, satisfying game to play. It was a
+lot of fun! You can [read more of my thoughts on it here]({% post_url
+2021-10-31-what-im-playing-no-146 %}#Minoria), spoiler-free.
 
 Minoria is from the developer of the Momodora series, Bombservice. After I
 played Momodora: Reverie Under the Moonlight, I was naturally curious about
@@ -92,7 +97,13 @@ co-developed Metroid: Samus Returns alongside Nintendo. Knowing that, I'm
 definitely more interested in this game, since MercurySteam did great work with
 the Metroid series!
 
-## 7. {% include game.html game="Guacamelee Super Turbo Championship Edition" %}
+## 7. {% include game.html game="Guacamelee Super Turbo Championship Edition" checkmark="" %}
+
+**Edit:** Guacamelee was mostly fun, but a few frustrating sequences near the
+end hold it back a bit. Aside from those parts, it's an excellent game, and
+definitely worth giving a try! You can [read more of my thoughts on it here]({%
+post_url 2021-10-31-what-im-playing-no-146
+%}#GuacameleeSuperTurboChampionshipEdition), spoiler-free.
 
 Guacamelee! is a metroidvania that draws heavily from Mexican culture and
 folklore, putting players in the shoes of an agave farmer-turned-luchador as
