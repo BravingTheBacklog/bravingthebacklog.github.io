@@ -826,8 +826,8 @@ Metroid Dread:
   title: "Metroid Dread"
   developer: "MercurySteam & Nintendo"
   release: "October 8, 2021"
-  image: ""
-  thumb: ""
+  image: "https://i.imgur.com/jKRN1d8.jpg"
+  thumb: "https://i.imgur.com/jKRN1d8m.jpg"
   imagesize: "third"
   platform: "Nintendo Switch"
 
@@ -863,6 +863,14 @@ Luigi's Mansion Dark Moon:
   developer: "Next Level Games & Nintendo SPD"
   release: "March 24, 2013"
 
+Shin Megami Tensei Strange Journey Redux:
+  title: "Shin Megami Tensei: Strange Journey Redux"
+  image: "https://i.imgur.com/ktTA0H4.jpg"
+  thumb: "https://i.imgur.com/ktTA0H4m.jpg"
+  developer: "Atlus"
+  release: "May 15, 2018"
+  platform: "Nintendo 3DS"
+
 Shin Megami Tensei IV:
   title: "Shin Megami Tensei IV"
   image: "https://i.imgur.com/Zsf3Jjo.jpg"
@@ -884,8 +892,9 @@ Shin Megami Tensei V:
   developer: "Atlus"
   release: "November 12, 2021"
   platform: "Nintendo Switch"
-  image: "https://i.imgur.com/aHOHimq.png"
-  thumb: "https://i.imgur.com/aHOHimqm.png"
+  image: "https://i.imgur.com/oidYYAl.jpg"
+  thumb: "https://i.imgur.com/oidYYAlm.jpg"
+  imagesize: "third"
 
 Bravely Default:
   title: "Bravely Default"
@@ -1312,6 +1321,15 @@ Super Castlevania IV:
   developer: "Konami"
   release: "December 4, 1991"
 
+Bloodstained Ritual of the Night:
+  title: "Bloodstained: Ritual of the Night"
+  platform: "PC"
+  image: "https://i.imgur.com/0K9K2Dn.jpg"
+  thumb: "https://i.imgur.com/0K9K2Dnm.jpg"
+  imagesize: "third"
+  developer: "ArtPlay"
+  release: "June 18, 2019"
+
 Kirby & the Amazing Mirror:
   title: "Kirby & the Amazing Mirror"
   image: "https://i.imgur.com/1Ds7SRI.jpg"
@@ -1376,7 +1394,7 @@ Shin Megami Tensei Nocturne HD Remaster:
   title: "Shin Megami Tensei III: Nocturne HD Remaster"
   developer: "Atlus"
   platform: "PlayStation 4"
-  release: "Spring 2021"
+  release: "May 25, 2021"
   image: "https://i.imgur.com/LJODYoz.jpg"
   thumb: "https://i.imgur.com/LJODYozm.jpg"
   imagesize: "third"
@@ -1389,6 +1407,15 @@ Shin Megami Tensei Digital Devil Saga:
   platform: "PlayStation 2"
   developer: "Atlus"
   release: "April 5, 2005"
+
+Shin Megami Tensei Digital Devil Saga 2:
+  title: "Shin Megami Tensei: Digital Devil Saga 2"
+  thumb: "https://i.imgur.com/Lo3vTSTm.jpg"
+  image: "https://i.imgur.com/Lo3vTST.jpg"
+  imagesize: "third"
+  platform: "PlayStation 2"
+  developer: "Atlus"
+  release: "October 3, 2005"
 
 Shin Megami Tensei Devil Survivor Overclocked:
   title: "Shin Megami Tensei: Devil Survivor Overclocked"
@@ -2024,6 +2051,15 @@ Gravity Rush Remastered:
   thumb: "https://i.imgur.com/jcn64ZSm.jpg"
   developer: "Team Gravity & Bluepoint Games"
   release: "February 2, 2016"
+  imagesize: "third"
+
+Gravity Rush 2:
+  title: "Gravity Rush 2"
+  platform: "PlayStation 4"
+  image: "https://i.imgur.com/auIU5JY.jpg"
+  thumb: "https://i.imgur.com/auIU5JYm.jpg"
+  developer: "Japan Studio (Team Gravity)"
+  release: "January 20, 2017"
   imagesize: "third"
 
 Destiny Connect Tick-Tock Travelers:
