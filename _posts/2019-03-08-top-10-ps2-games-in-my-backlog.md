@@ -18,7 +18,7 @@ games:
 image:
   feature: feature-ps2.jpg
 layout: post
-modified: 2021-06-28
+modified: 2022-01-02
 redirect_from: /top%2010/top-10-ps2-games-in-my-backlog/
 tags:
 - Top 10
@@ -140,7 +140,12 @@ a band eventually and gain more fame, I think.
 
 The whole package sounds super unique to me, I have to try it someday!
 
-## 5. {% include game.html game="Shadow Hearts" %}
+## 5. {% include game.html game="Shadow Hearts" checkmark="" %}
+
+**Edit:** Shadow Hearts was a fun RPG with some unique elements that make it
+stand out. The Judgement Ring, setting, and story were definitely the highlights
+for me. You can [read more of my thoughts on it here]({% post_url
+2022-01-02-what-im-playing-no-150 %}#ShadowHearts), spoiler-free.
 
 The setting of Shadow Hearts sounds very interesting. Set in an alternate
 reality in 1913, it brings monsters and shapeshifters into the mix in a
