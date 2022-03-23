@@ -137,7 +137,14 @@ It's sort of interesting that *this* is the game DONTNOD made after the original
 Life is Strange; I guess they *really* wanted to go in a new direction
 thematically! In any case, Vampyr sounds like it will be right up my alley.
 
-## 3. {% include game.html game="Digimon Story Cyber Sleuth Complete Edition" %}
+## 3. {% include game.html game="Digimon Story Cyber Sleuth Complete Edition" checkmark="" %}
+
+**Edit:** Both games in this collection finished! There's *a lot* of RPG
+goodness here between the two games. The original Cyber Sleuth is definitely the
+stronger effort, but I was satisfied with Hacker's Memory as well. You can read
+[more of my thoughts on Cyber Sleuth here]({% post_url
+2022-02-06-what-im-playing-no-153 %}), and [more of my thoughts on Hacker's
+Memory here]({% post_url 2022-03-22-what-im-playing-no-157 %}).
 
 I was never into Digimon as a kid, it was Pokémon all the way for me. As an
 adult, I don't have anything against the franchise, it just isn't something I've
