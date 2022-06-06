@@ -4,7 +4,7 @@ title: Top 10 Games in my Steam Backlog (2021)
 author: bsinky
 description: "The next top 10 games in my Steam backlog, 2021 edition!"
 date: 2021-04-21
-modified: 2021-08-15
+modified: 2022-06-06
 categories: [List]
 tags: [Top 10,Steam,Backlog]
 image:
@@ -93,7 +93,15 @@ The characters are all hand drawn and animated, and they look fantastic. Reviews
 on Steam are hit or miss about the story, but Indivisible seems worth playing
 for its gameplay and visuals alone.
 
-## 6. {% include game.html game="Prey 2017" %}
+## 6. {% include game.html game="Prey 2017" checkmark="" %}
+
+**Edit**: Prey blew my expectations out of the water. I really enjoyed it! It
+definitely has its horror moments, but its far less scary than I expected, at
+least once you get used to the alien-infested environment it presents. Prey
+brings everything I've enjoyed about Arkane games in the past to the table in a
+spectacular way, and I whole-heartedly recommend to any fans of their other
+games. You can [read more of my thoughts on it here]({% post_url
+2022-05-27-what-im-playing-no-163 %}).
 
 Metroidvania-elements, a tense atmosphere, stealth mechanics, and all of this
 set in a Sci-fi space station? Yeah, I'm interested in that!
