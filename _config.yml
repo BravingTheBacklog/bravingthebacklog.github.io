@@ -44,7 +44,7 @@ owner:
   bio:            ""
   email:          
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: bravingbacklog 
+  twitter: 
   # GitHub nick for use in follow button in author block.
   github: 
   # patreon: bravingthebacklog
@@ -75,7 +75,7 @@ authors:
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
-twitter: bravingbacklog
+twitter:
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:

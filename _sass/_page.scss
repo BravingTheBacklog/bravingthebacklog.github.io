@@ -698,11 +698,9 @@ $header-height: 300px;
     }
     color: $black;
 
-    right: 64px;
     height: 37px;
 
     @media #{$large}{
-        bottom: 44px;
         right: 0;
         height: auto;
     }
