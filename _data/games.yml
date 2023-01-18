@@ -2733,10 +2733,10 @@ Hitman III:
 Deathloop:
   title: "Deathloop"
   developer: "Arkane Studios"
-  release: "Q2 2021"
+  release: "September 14, 2021"
   platform: "PlayStation 5"
-  image: "https://i.imgur.com/hzauBbL.jpg"
-  thumb: "https://i.imgur.com/hzauBbLm.jpg"
+  image: "https://i.imgur.com/1mZhYFk.jpg"
+  thumb: "https://i.imgur.com/1mZhYFkm.jpg"
   imagesize: "third"
   video: "https://youtube.com/embed/mc2hz3LJhTY"
   video2: "https://youtube.com/embed/dT1BlnDt1R4"
@@ -3612,5 +3612,68 @@ Dark Deity:
   release: "June 15, 2021"
   image: "https://i.imgur.com/sGTrgLp.jpg"
   thumb: "https://i.imgur.com/sGTrgLpm.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Soul Hackers 2:
+  title: "Soul Hackers 2"
+  developer: "Atlus"
+  release: "August 26, 2022"
+  image: "https://i.imgur.com/HEXwbSO.jpg"
+  thumb: "https://i.imgur.com/HEXwbSOm.jpg"
+  imagesize: "third"
+  platform: "PlayStation 5"
+
+The Quarry:
+  title: "The Quarry"
+  developer: "Supermassive Games"
+  release: "June 10, 2022"
+  image: "https://i.imgur.com/BoVcYL1.jpg"
+  thumb: "https://i.imgur.com/BoVcYL1m.jpg"
+  imagesize: "third"
+  platform: "PlayStation 5"
+
+Days Gone:
+  title: "Days Gone"
+  developer: "Bend Studio"
+  release: "April 26, 2019"
+  image: "https://i.imgur.com/MhKiWgM.jpg"
+  thumb: "https://i.imgur.com/MhKiWgMm.jpg"
+  imagesize: "third"
+  platform: "PlayStation 5"
+
+AI The Somnium Files:
+  title: "AI: The Somnium Files"
+  developer: "Spike Chunsoft"
+  release: "September 17, 2019"
+  image: "https://i.imgur.com/Rk1pQ0E.jpg"
+  thumb: "https://i.imgur.com/Rk1pQ0Em.jpg"
+  imagesize: "third"
+  platform: "PC"
+
+Tales of Arise:
+  title: "Tales of Arise"
+  developer: "Bandai Namco"
+  release: "September 10, 2021"
+  image: "https://i.imgur.com/NGxfxSL.jpg"
+  thumb: "https://i.imgur.com/NGxfxSLm.jpg"
+  imagesize: "third"
+  platform: "PlayStation 5"
+
+Scarlet Nexus:
+  title: "Scarlet Nexus"
+  developer: "Bandai Namco"
+  release: "June 25, 2021"
+  image: "https://i.imgur.com/Lk0pAlU.jpg"
+  thumb: "https://i.imgur.com/Lk0pAlUm.jpg"
+  imagesize: "third"
+  platform: "PlayStation 5"
+
+Hades:
+  title: "Hades"
+  developer: "Supergiant Games"
+  release: ""
+  image: "https://i.imgur.com/ocEd6wP.jpg"
+  thumb: "https://i.imgur.com/ocEd6wPm.jpg"
   imagesize: "third"
   platform: "PC"
