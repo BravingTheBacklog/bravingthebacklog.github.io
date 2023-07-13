@@ -192,9 +192,9 @@ animations, but I've watched them most of the time because the characters will
 say a few different lines during the attack.
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/indelibleeacharacari' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/chgCAvm.jpg">
+        <source src="https://i.imgur.com/chgCAvm.mp4">
+    </video>
 </figure>
 
 The only weird thing I've encountered is that the "Normal" difficulty felt a lot

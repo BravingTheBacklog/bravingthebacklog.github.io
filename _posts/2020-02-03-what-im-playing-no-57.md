@@ -90,9 +90,9 @@ letting her lead the charge has given me a good impression of her.
 </figure>
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/obesedeficientbluebird' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/IHsCKcN.jpg">
+        <source src="https://i.imgur.com/IHsCKcN.mp4">
+    </video>
 </figure>
 
 [![repel certain elements](https://i.imgur.com/wRz2Pstm.jpg)](https://i.imgur.com/wRz2Pst.jpg)

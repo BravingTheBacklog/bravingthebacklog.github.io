@@ -180,9 +180,9 @@ good at. The exception to that is Felix, who is such a killer swordsman that I
 need to use him basically all the time!
 
 <figure class="half center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/narrowbewitchedbantamrooster' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/qQbMgOr.jpg">
+        <source src="https://i.imgur.com/qQbMgOr.mp4">
+    </video>
 </figure>
 
 Let's close off this post by showing off Claude, leader of the Golden Deer, as
@@ -192,7 +192,7 @@ a strategist. He's always got a trick up his sleeve. And also, his Lord outfit
 looks pretty sweet!
 
 <figure class="half center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/electricmintybandicoot' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/BYsQS7U.jpg">
+        <source src="https://i.imgur.com/BYsQS7U.mp4">
+    </video>
 </figure>

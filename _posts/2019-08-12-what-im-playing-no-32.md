@@ -44,9 +44,9 @@ that! We decided to play a bit of LEGO Harry Potter for what I think is only the
 second or third time since buying our Switch.
 
 <figure class="half center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/fearfulliquidcomet' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/u7s5oKk.jpg">
+        <source src="https://i.imgur.com/u7s5oKk.mp4">
+    </video>
 </figure>
 
 The LEGO games are always a relaxing co-op experience. Just run around a LEGO
@@ -56,9 +56,9 @@ voice lines from the source material during cutscenes, and the characters all
 act things out without speaking. The end result is adorably silly.
 
 <figure class="half center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/evilcaringbagworm' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/tuIt8Fh.jpg">
+        <source src="https://i.imgur.com/tuIt8Fh.mp4">
+    </video>
 </figure>
 
 ### Fire Emblem: Three Houses *(Switch)*

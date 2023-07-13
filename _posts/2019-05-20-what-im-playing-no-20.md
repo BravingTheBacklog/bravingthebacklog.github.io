@@ -174,9 +174,9 @@ Pokémon of Kanto. After wiping out my entire Ultra Ball and Great Ball stock, I
 finally caught it after it broke dozens of Poké Balls!
 
 <figure>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/CrazyFluidAsianporcupine' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/wliEE34.jpg">
+        <source src="https://i.imgur.com/wliEE34.mp4">
+    </video>
 </figure>
 
 <figure class="half">

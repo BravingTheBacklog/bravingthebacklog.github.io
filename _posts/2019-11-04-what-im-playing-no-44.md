@@ -254,9 +254,9 @@ brain, I was able to make it past that level, and that was a pretty awesome
 feeling!
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/unfitexcellentbee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/Ul4trVP.jpg">
+        <source src="https://i.imgur.com/Ul4trVP.mp4">
+    </video>
 </figure>
 
 One thing that's a little odd is that the SNES version of Aladdin isn't present
@@ -370,9 +370,9 @@ across the world, creating monsters like a typical RPG baddie.
 </figure>
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/shygargantuanherculesbeetle' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/R7hKaDM.jpg">
+        <source src="https://i.imgur.com/R7hKaDM.mp4">
+    </video>
 </figure>
 
 [![Ring](https://i.imgur.com/UIFzThwm.jpg)](https://i.imgur.com/UIFzThw.jpg)
@@ -385,9 +385,9 @@ with the two of you working together you gain access to great Fit Power, which
 makes your hair fiery. With that, you're ready to play/exercise!
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/fluffymellowchinchilla' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/FRcWBOV.jpg">
+        <source src="https://i.imgur.com/FRcWBOV.mp4">
+    </video>
 </figure>
 
 You're then dropped into the first world map. Each world is split up into a few

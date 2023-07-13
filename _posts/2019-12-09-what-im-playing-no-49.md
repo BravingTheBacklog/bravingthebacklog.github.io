@@ -170,9 +170,9 @@ plopping himself atop Mario's head, the strange duo set off on their adventure.
 </figure>
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/quickbigheartedcockatoo' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/cLEkwEb.jpg">
+        <source src="https://i.imgur.com/cLEkwEb.mp4">
+    </video>
 </figure>
 
 Mario can throw Cappy to damage enemies and crates, but more importantly,
@@ -184,9 +184,9 @@ Every time after that though you take control of the enemy instantly, without
 the cutscene.
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/capitalblackhedgehog' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/U1Py5fc.jpg">
+        <source src="https://i.imgur.com/U1Py5fc.mp4">
+    </video>
 </figure>
 
 Capturing enemies is vital to proceeding and collecting many of the game's
@@ -198,9 +198,9 @@ changed to accommodate this gameplay change, but it's been really fun and flowed
 really well so far, so I like it!
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/amusingsecondhandechidna' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/xjWDZEO.jpg">
+        <source src="https://i.imgur.com/xjWDZEO.mp4">
+    </video>
 </figure>
 
 By collecting enough Power Moons, the ship Mario and Cappy find in the first

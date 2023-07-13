@@ -115,9 +115,9 @@ all the way through way more often than I expected simply because of how
 charming they were!
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/indelibleeacharacari' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/chgCAvm.jpg">
+        <source src="https://i.imgur.com/chgCAvm.mp4">
+    </video>
 </figure>
 
 Of course, Personas are a large part of a Persona game, and Royal adds even more
@@ -318,9 +318,9 @@ roles in it are simply wonderful. Also, the new dungeon was so much fun! It's
 full of new enemies, and great new songs.
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/handyhelplessdrake' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/K5kIedh.jpg">
+        <source src="https://i.imgur.com/K5kIedh.mp4">
+    </video>
 </figure>
 
 ### Closing Thoughts

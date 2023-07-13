@@ -148,9 +148,9 @@ there's any more room for characters on the menu screen!
 </figure>
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/glassunnaturalbeardedcollie' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/ftqg51f.jpg">
+        <source src="https://i.imgur.com/ftqg51f.mp4">
+    </video>
 </figure>
 
 Now that I've completed 4 chapters, I believe I'm a little over halfway through
@@ -159,9 +159,9 @@ characters, and the incredibly fun battle mechanics continue to hold my
 interest.
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/measlygiddycaracal' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/8nlVEl0.jpg">
+        <source src="https://i.imgur.com/8nlVEl0.mp4">
+    </video>
 </figure>
 
 ### Advance Wars *(GBA)*    {#AdvanceWars}

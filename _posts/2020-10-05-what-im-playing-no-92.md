@@ -95,9 +95,9 @@ them. I'm enjoying Normal though, so I've stuck with it. Instead of trying to
 explain more of the battle system, I'm just going to leave a gameplay clip here.
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/identicalwiltedewe' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/MP2mceI.jpg">
+        <source src="https://i.imgur.com/MP2mceI.mp4">
+    </video>
 </figure>
 
 ### Super Mario Galaxy *(Switch)*    {#SuperMarioGalaxy}

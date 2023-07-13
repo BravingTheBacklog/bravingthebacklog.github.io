@@ -135,9 +135,9 @@ of how much damage that enemy will do. This is such a nice improvement, I've
 really enjoyed this so far!
 
 <figure class="half center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/shypreciousarmyant' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/uMga06L.jpg">
+        <source src="https://i.imgur.com/uMga06L.mp4">
+    </video>
 </figure>
 
 [![Weapon durability](https://i.imgur.com/fcezzI5m.jpg)](https://i.imgur.com/fcezzI5.jpg)
@@ -165,9 +165,9 @@ the battle animations from Path or Radiance or Radiant Dawn, but in HD and
 probably better.
 
 <figure class="half center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/celebratedeagerinsect' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/OOPIaTI.jpg">
+        <source src="https://i.imgur.com/OOPIaTI.mp4">
+    </video>
 </figure>
 
 The last big difference I want to cover is Monastery exploration. During these,

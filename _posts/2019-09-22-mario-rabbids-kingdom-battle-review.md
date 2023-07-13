@@ -96,7 +96,9 @@ Team Jump is one of the earliest things you learn in battle, but despite that it
 really adds a lot of strategical options. You can use it to launch a character
 to higher ground that they perhaps otherwise couldn't reach.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/CourageousSimpleGelada' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/tSdME5P.jpg">
+    <source src="https://i.imgur.com/tSdME5P.mp4">
+</video>
 
 ### Dash
 
@@ -200,7 +202,9 @@ overshadowed by Mario are referenced. I loved seeing this one, basically when
 Beep-O meets Luigi he recognizes him as Mario's brother, but doesn't remember
 his name.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/DemandingEmptyGoosefish' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/kMEyP5o.jpg">
+    <source src="https://i.imgur.com/kMEyP5o.mp4">
+</video>
 
 There's also just a lot attention to detail put into characters' behaviors and
 reactions in the background. For instance, there's a time the party meets
@@ -215,7 +219,9 @@ step in between the two, but the look she gives Peach is this kind of "are you
 serious right now" side eye that I found both hilarious and awesome that the
 developers put that much detail into the cutscenes.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/PastMetallicFoxterrier' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/ozTDmMN.jpg">
+    <source src="https://i.imgur.com/ozTDmMN.mp4">
+</video>
 
 Even though he's in the party at all times, Mario isn't the real leader of the
 group this time around. That would be Beep-O, a robotic assistance who I found

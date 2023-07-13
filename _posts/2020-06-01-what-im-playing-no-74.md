@@ -276,9 +276,9 @@ games. Once you alter gravity, you can fall in that direction. There's something
 really cool about falling upwards and seeing the city shrink away from you.
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/anotherjealousgull' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/rMkVidN.jpg">
+        <source src="https://i.imgur.com/rMkVidN.mp4">
+    </video>
 </figure>
 
 The gravity-shifting mechanics make combat extra fun too. You fight against
@@ -288,9 +288,9 @@ the air and use Gravity Kicks to fly toward the enemy and deliver a powerful
 kick which is usually enough to defeat weaker Nevi in a single blow.
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/ablewarlikedwarfmongoose' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/IaDsaP1.jpg">
+        <source src="https://i.imgur.com/IaDsaP1.mp4">
+    </video>
 </figure>
 
 Shifting gravity was pretty disorienting at first, and sometimes it still is,

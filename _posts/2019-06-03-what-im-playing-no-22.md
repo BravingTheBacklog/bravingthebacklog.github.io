@@ -161,9 +161,9 @@ cutscene when Moltres is encountered.
 </figure>
 
 <figure>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/tendercreepykouprey' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/R1tHyFW.jpg">
+        <source src="https://i.imgur.com/R1tHyFW.mp4">
+    </video>
 </figure>
 
 In a rare stroke of luck, Moltres was captured by the first Ultra Ball I threw
@@ -251,18 +251,18 @@ his next dialogue box. The game plays an awesome comedic audio cue there, it was
 pretty funny. Game Freak definitely has a sense of humor.
 
 <figure>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/handyheartyaxisdeer' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/UvtFC7g.jpg">
+        <source src="https://i.imgur.com/UvtFC7g.mp4">
+    </video>
 </figure>
 
 The real final battle is the friendly rival. He's beaten the Elite Four just
 ahead of me, so I needed to take him down to claim the Champion spot.
 
 <figure>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/selfassuredbossyduiker' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/k6Olhv4.jpg">
+        <source src="https://i.imgur.com/k6Olhv4.mp4">
+    </video>
 </figure>
 
 The championship battle against him was actually a lot of fun. His team has a
@@ -277,9 +277,9 @@ else in the game switching Pokémon during battle.
 </figure>
 
 <figure>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/inbornorderlydassie' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/TptvLEX.jpg">
+        <source src="https://i.imgur.com/TptvLEX.mp4">
+    </video>
 </figure>
 
 After taking down my rival's team, I was truly Champion of the Pokémon League!
@@ -300,9 +300,9 @@ unique team for me, which is what I generally try to do when playing a Pokémon
 remake.
 
 <figure>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/flatrequiredcaudata' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/bmhDE3l.jpg">
+        <source src="https://i.imgur.com/bmhDE3l.mp4">
+    </video>
 </figure>
 
 The credits for this game were absolutely *adorable*. I loved them.
@@ -342,9 +342,9 @@ Mr. Mime...which prompts Mewtwo to use Recover to completely heal itself,
 negating whatever damage I managed to do up to that point.
 
 <figure class="half center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/forkedscrawnyaardvark' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/Oo2YUAn.jpg">
+        <source src="https://i.imgur.com/Oo2YUAn.mp4">
+    </video>
 </figure>
 
 I wasn't able to catch Mewtwo this week, since you only get 5 minutes in battle

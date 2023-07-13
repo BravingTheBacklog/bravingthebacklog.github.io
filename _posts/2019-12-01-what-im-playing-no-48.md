@@ -168,9 +168,9 @@ Time, where time slows down and you can attack the enemies with vicious combos
 while they're wide open.
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/offbeatpeskyisopod' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/ngGDMB0.jpg">
+        <source src="https://i.imgur.com/ngGDMB0.mp4">
+    </video>
 </figure>
 
 The depth of this comes from a few things I'm not the best at: extending your
@@ -227,8 +227,8 @@ the rest of them on Normal as well!
 </figure>
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/smartvictoriousaddax' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/eoHmd42.jpg">
+        <source src="https://i.imgur.com/eoHmd42.mp4">
+    </video>
 </figure>
 

@@ -168,9 +168,9 @@ boomerang, bombs, and so on. You can also respawn at any Sheikah Stone you've
 previously unlocked, so it doesn't feel like starting over after each death.
 
 <figure>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/smoothassuredbrahmanbull' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/IHvdNvC.jpg">
+        <source src="https://i.imgur.com/IHvdNvC.mp4">
+    </video>
 </figure>
 <figure class="half">
     <a href="https://i.imgur.com/NTpkigy.jpg"><img src="https://i.imgur.com/NTpkigym.jpg" alt="Game Overs"/></a>
@@ -222,9 +222,9 @@ the magical Maracas were mine!
 </figure>
 
 <figure>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/wilddependentemeraldtreeskink' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/48Bf6lU.jpg">
+        <source src="https://i.imgur.com/48Bf6lU.mp4">
+    </video>
 </figure>
 
 After that, I explored the overworld a lot more. Found Kakariko Village, where I
@@ -236,9 +236,9 @@ Deku Leaf and a Bottle on the way.
 </figure>
 
 <figure>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/formalfavorableamericansaddlebred' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/uXtVyjS.jpg">
+        <source src="https://i.imgur.com/uXtVyjS.mp4">
+    </video>
 </figure>
 
 [![](https://i.imgur.com/6qmxvXtm.jpg)](https://i.imgur.com/6qmxvXt.jpg)
@@ -253,15 +253,15 @@ heart containers and a strong enough weapon here that they were no threat. After
 defeating them, the Bass Guitar was mine!
 
 <figure>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/vacantwanchicken' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/Zgu06Zo.jpg">
+        <source src="https://i.imgur.com/Zgu06Zo.mp4">
+    </video>
 </figure>
 
 <figure>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/positivepitifulfairyfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/uwubm1d.jpg">
+        <source src="https://i.imgur.com/uwubm1d.mp4">
+    </video>
 </figure>
 
 By then, I'd explored most of the map, so I pretty much knew where to find the
@@ -295,9 +295,9 @@ cool part where all three playable characters are controllable at once, as the
 other two show up to help you during the final showdown!
 
 <figure>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/infamouswhimsicalgrub' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/cNXlHSH.jpg">
+        <source src="https://i.imgur.com/cNXlHSH.mp4">
+    </video>
 </figure>
 
 In the end, Link and Zelda use their pieces of the Triforce to send Cadence back

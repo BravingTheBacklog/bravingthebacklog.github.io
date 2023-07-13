@@ -81,7 +81,9 @@ doing so she had enough power points to get the Supernatural Speed and Perfect
 Sun Resistance Vampire Powers, which means she can run super fast now!
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'><iframe src='https://gfycat.com/ifr/adolescentcriminalbunting' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/CbSmwvh.jpg">
+        <source src="https://i.imgur.com/CbSmwvh.mp4">
+    </video>
 </figure>
 
 She's also completely immune to the sun! A true Daywalker. Also, it might

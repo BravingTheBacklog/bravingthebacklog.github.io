@@ -195,9 +195,9 @@ way, I also learned that you can get struck by lightning, and realized (too
 late) what the electricity crackling on my weapon meant.
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/liquidwelltodoarthropods' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/Xlqxwa7.jpg">
+        <source src="https://i.imgur.com/Xlqxwa7.mp4">
+    </video>
 </figure>
 
 Eventually, I reached Zora's Domain, and I really love the design of the Zoras

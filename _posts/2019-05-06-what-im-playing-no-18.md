@@ -167,9 +167,9 @@ through tall grass or caves. This is really cool honestly, especially when you
 see an uncommon Pokémon pop up!
 
 <figure class="half center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/AdoredDarkFoxhound' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/8eOsk9q.jpg">
+        <source src="https://i.imgur.com/8eOsk9q.mp4">
+    </video>
     <figcaption>You see wild Pokémon appear on the field</figcaption>
 </figure>
 
@@ -209,9 +209,9 @@ where Eevee high-fives you with its tail. It was adorable! They do this after
 each Badge is awarded and it's amazing every time.
 
 <figure class="half center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/ImmediateAstonishingBirdofparadise' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/bRD7CbJ.jpg">
+        <source src="https://i.imgur.com/bRD7CbJ.mp4">
+    </video>
         <figcaption>the cutest high five</figcaption>
 </figure>
 
@@ -248,9 +248,9 @@ and it never gets old.
     <a href="https://i.imgur.com/Cq6Xzbi.jpg"><img src="https://i.imgur.com/Cq6Xzbim.jpg" alt="I was finally able to capture one"/></a>
 </figure>
 <figure>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/HeavyObviousGelada' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/Ib4fTGw.jpg">
+        <source src="https://i.imgur.com/Ib4fTGw.mp4">
+    </video>
 </figure>
 
 I'm currently near the end of Team Rocket's hideout in Celadon City, so that

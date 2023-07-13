@@ -115,9 +115,9 @@ eventually get upgrades that allow them to Team Jump twice in a row, giving you
 even *more* flexibility!
 
 <figure class="center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/courageoussimplegelada' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/tSdME5P.jpg">
+        <source src="https://i.imgur.com/tSdME5P.mp4">
+    </video>
 </figure>
 
 [![a few Game Overs](https://i.imgur.com/U9RltMym.jpg)](https://i.imgur.com/U9RltMy.jpg)

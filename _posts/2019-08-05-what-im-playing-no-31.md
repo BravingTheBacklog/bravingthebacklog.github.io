@@ -123,9 +123,9 @@ resemble the health bars of older Fire Emblem games, which is a really cute
 touch!
 
 <figure class="half center">
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/fairskeletalflies' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-    </div>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/IVlHvv6.jpg">
+        <source src="https://i.imgur.com/IVlHvv6.mp4">
+    </video>
 </figure>
 
 Like previous Fire Emblems, there are some optional Paralogue missions that
@@ -144,9 +144,10 @@ Gambit to draw their attention works pretty well.
 <figure class="third">
     <a href="https://i.imgur.com/Hw8W93A.jpg"><img src="https://i.imgur.com/Hw8W93Am.jpg" alt="Giant Beasts"/></a>
     <a href="https://i.imgur.com/aLPZEd1.jpg"><img src="https://i.imgur.com/aLPZEd1m.jpg" alt="take up 4 tiles on the map"/></a>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/confusedjealousbillygoat' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-</div></figure>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/S2rlcvJ.jpg">
+        <source src="https://i.imgur.com/S2rlcvJ.mp4">
+    </video>
+/figure>
 
 I also got to the point where my units are eligible to become Advanced tier
 classes. For example, I've made Petra into an Assassin, Ferdinand a Paladin, and
@@ -161,9 +162,10 @@ There's also a ton of flexibility, and a lot of classes. It's so much fun!
 </figure>
 
 <figure>
-    <div style='position:relative; padding-bottom:calc(70.80% + 44px)'>
-        <iframe src='https://gfycat.com/ifr/amplethoughtfuliceblueredtopzebra' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
-</div></figure>
+    <video class="video-embed" controls loop="true" autoplay="true" muted="true" poster="https://i.imgur.com/meA3fbs.jpg">
+        <source src="https://i.imgur.com/meA3fbs.mp4">
+    </video>
+/figure>
 
 I made a lot of progress over the weekend. So, prior to release it was revealed
 that there's a time jump in the game, where you jump 5 years into the future.
